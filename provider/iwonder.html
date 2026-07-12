@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>iWonder -- uj megjelenesek | StreamHub</title>
+<meta name="description" content="Streaming Hub -- napi friss megjelenesek a top streaming szolgaltatokon, pasztell cyber.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='88'>&#128250;</text></svg>">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="top"><div class="wrap"><div class="nav">
+  <a class="brand" href="../index.html"><span class="glyph">&#9678;</span> Stream<b>Hub</b></a>
+  <div class="topright">
+    <span class="region">REGIO // HU</span>
+    <button type="button" class="cbtn" onclick="cxOpen()">&#9993; Irj nekem</button>
+  </div>
+</div></div></header>
+  <div class="wrap">
+    <a class="back" href="../index.html">&#8592; vissza a szolgaltatokhoz</a>
+    <div class="phead">
+      <div class="big" style="--acc:#ffd6a3">i</div>
+      <div>
+        <h1><span style="color:#ffd6a3">iWonder</span></h1>
+        <div class="weekline">uj megjelenesek &middot; het: 2026-07-06 - 2026-07-12</div>
+      </div>
+    </div>
+    <div class="empty">
+        <div class="ic">&#128268;</div>
+        <h3>Meg nincs elo adat ehhez a szolgaltatohoz</h3>
+        <p>A demo minta-adatot mutat nehany platformon. Amint bekerul a TMDB API-kulcs, a napi fetch feltolti a valos heti megjeleneseket ide is. Forras: <code>discover + watch_provider (iWonder, HU)</code>.</p>
+      </div>
+  </div>
+  <footer><div class="wrap"><div class="fx">
+  <span>Adatok: TMDB / JustWatch &mdash; nem hivatalos, non-commercial</span>
+  <span>StreamHub &middot; pasztell cyber &middot; naponta frissul</span>
+</div></div></footer>
+
+<div class="cxback" id="cxback" onclick="if(event.target===this)cxClose()">
+  <div class="cxmodal" role="dialog" aria-modal="true" aria-label="Uzenet Csabanak">
+    <h3>&#9993; &Iacute;rj Csab&aacute;nak</h3>
+    <p>Az &uuml;zeneted k&ouml;zvetlen&uuml;l, v&aacute;ltoztat&aacute;s n&eacute;lk&uuml;l jut el hozz&aacute;.</p>
+    <label for="cxfrom">Neved / el&eacute;rhet&odblac;s&eacute;g (opcion&aacute;lis)</label>
+    <input id="cxfrom" maxlength="120" placeholder="pl. Kov&aacute;cs Anna / anna@email.hu">
+    <label for="cxtext">&Uuml;zenet</label>
+    <textarea id="cxtext" rows="5" maxlength="2000" placeholder="&Iacute;rd ide az &uuml;zeneted..."></textarea>
+    <div class="cxmsg" id="cxmsg"></div>
+    <div class="cxrow">
+      <button type="button" class="cxcancel" onclick="cxClose()">M&eacute;gse</button>
+      <button type="button" class="cxsend" onclick="cxSend()">K&uuml;ld&eacute;s</button>
+    </div>
+  </div>
+</div>
+<script>
+function cxOpen(){document.getElementById('cxback').classList.add('on');document.getElementById('cxtext').focus()}
+function cxClose(){document.getElementById('cxback').classList.remove('on')}
+document.addEventListener('keydown',function(e){if(e.key==='Escape')cxClose()});
+async function cxSend(){
+  var t=document.getElementById('cxtext').value.trim();
+  var f=document.getElementById('cxfrom').value.trim();
+  var m=document.getElementById('cxmsg');
+  if(t.length<2){m.className='cxmsg err';m.textContent='Irj egy uzenetet.';return}
+  m.className='cxmsg';m.textContent='Kuldes...';
+  try{
+    var r=await fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({from:f,message:t})});
+    var j=await r.json();
+    if(r.ok&&j.ok){m.className='cxmsg ok';m.textContent='Elkuldve, koszonom!';
+      document.getElementById('cxtext').value='';document.getElementById('cxfrom').value='';setTimeout(cxClose,1400);}
+    else{m.className='cxmsg err';m.textContent=(j&&j.error)||'Hiba, probald ujra.';}
+  }catch(e){m.className='cxmsg err';m.textContent='Halozati hiba, probald ujra.';}
+}
+</script>
+
+</body>
+</html>
