@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T07:39",
+  "generated_at": "2026-07-13T12:17",
   "week": "2026-07-13",
   "by_provider": {
     "netflix": [],
@@ -31,7 +31,20 @@
     ],
     "apple-tv": [],
     "disney-plus": [],
-    "apple-tv-store": [],
+    "apple-tv-store": [
+      {
+        "title": "The Exhibitor",
+        "media": "film",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ],
+        "overview": "As murders begin to surface around hotels and expos, suspicion around Vi begins to close in. With her past resurfacing and her behavior growing harder to read, one question lingers: What is she really hiding?",
+        "date": "2026-06-17",
+        "poster": "https://images.justwatch.com/poster/346419226/s332/the-exhibitor.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Exhibitor%20trailer"
+      }
+    ],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
