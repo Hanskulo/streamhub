@@ -1,0 +1,161 @@
+{
+  "region": "HU",
+  "providers": [
+    {
+      "slug": "netflix",
+      "name": "Netflix",
+      "tmdb_id": 8,
+      "accent": "#ff6b9d"
+    },
+    {
+      "slug": "amazon-prime-video",
+      "name": "Amazon Prime Video",
+      "tmdb_id": 119,
+      "accent": "#c9b3ff"
+    },
+    {
+      "slug": "apple-tv",
+      "name": "Apple TV",
+      "tmdb_id": 350,
+      "accent": "#a3d5ff"
+    },
+    {
+      "slug": "disney-plus",
+      "name": "Disney Plus",
+      "tmdb_id": 337,
+      "accent": "#a8f0e0"
+    },
+    {
+      "slug": "apple-tv-store",
+      "name": "Apple TV Store",
+      "tmdb_id": 2,
+      "accent": "#ffd6a3"
+    },
+    {
+      "slug": "youtube-premium",
+      "name": "YouTube Premium",
+      "tmdb_id": 188,
+      "accent": "#b3ffd9"
+    },
+    {
+      "slug": "curiosity-stream",
+      "name": "Curiosity Stream",
+      "tmdb_id": 190,
+      "accent": "#d9b3ff"
+    },
+    {
+      "slug": "docsville",
+      "name": "DOCSVILLE",
+      "tmdb_id": 475,
+      "accent": "#ffb3b3"
+    },
+    {
+      "slug": "wow-presents-plus",
+      "name": "WOW Presents Plus",
+      "tmdb_id": 546,
+      "accent": "#a8e0ff"
+    },
+    {
+      "slug": "magellan-tv",
+      "name": "Magellan TV",
+      "tmdb_id": 551,
+      "accent": "#c0f0d0"
+    },
+    {
+      "slug": "broadwayhd",
+      "name": "BroadwayHD",
+      "tmdb_id": 554,
+      "accent": "#ffc9e0"
+    },
+    {
+      "slug": "dekkoo",
+      "name": "Dekkoo",
+      "tmdb_id": 444,
+      "accent": "#b3d9ff"
+    },
+    {
+      "slug": "true-story",
+      "name": "True Story",
+      "tmdb_id": 567,
+      "accent": "#e0b3ff"
+    },
+    {
+      "slug": "hoichoi",
+      "name": "Hoichoi",
+      "tmdb_id": 315,
+      "accent": "#ffe0a3"
+    },
+    {
+      "slug": "cultpix",
+      "name": "Cultpix",
+      "tmdb_id": 692,
+      "accent": "#b3fff0"
+    },
+    {
+      "slug": "filmbox",
+      "name": "FilmBox+",
+      "tmdb_id": 701,
+      "accent": "#ff9db3"
+    },
+    {
+      "slug": "sun-nxt",
+      "name": "Sun Nxt",
+      "tmdb_id": 309,
+      "accent": "#a8f0c0"
+    },
+    {
+      "slug": "skyshowtime",
+      "name": "SkyShowtime",
+      "tmdb_id": 1773,
+      "accent": "#cfd0d8"
+    },
+    {
+      "slug": "crunchyroll",
+      "name": "Crunchyroll",
+      "tmdb_id": 283,
+      "accent": "#ffd0a8"
+    },
+    {
+      "slug": "hayu",
+      "name": "Hayu",
+      "tmdb_id": 223,
+      "accent": "#b3e0ff"
+    },
+    {
+      "slug": "hbo-max",
+      "name": "HBO Max",
+      "tmdb_id": 1899,
+      "accent": "#ff6b9d"
+    },
+    {
+      "slug": "mubi",
+      "name": "MUBI",
+      "tmdb_id": 11,
+      "accent": "#c9b3ff"
+    },
+    {
+      "slug": "bloodstream",
+      "name": "Bloodstream",
+      "tmdb_id": 2555,
+      "accent": "#a3d5ff"
+    },
+    {
+      "slug": "kableone",
+      "name": "KableOne",
+      "tmdb_id": 2603,
+      "accent": "#a8f0e0"
+    },
+    {
+      "slug": "artiflix",
+      "name": "Artiflix",
+      "tmdb_id": 2623,
+      "accent": "#ffd6a3"
+    },
+    {
+      "slug": "artify",
+      "name": "Artify",
+      "tmdb_id": 2685,
+      "accent": "#b3ffd9"
+    }
+  ]
+}

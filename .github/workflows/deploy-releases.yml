@@ -1,0 +1,42 @@
+name: deploy-releases
+on:
+  schedule:
+    - cron: '12 9 */2 * *'      # every 2 days at 09:12 UTC (11:12 CEST) - streaming releases
+  workflow_dispatch: {}
+  push:
+    paths:
+      - '.github/workflows/**'
+      - '.github/pipeline/**'
+permissions:
+  contents: write
+concurrency:
+  group: streamhub-deploy
+  cancel-in-progress: false
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch releases + build
+        env:
+          FETCH_MODE: releases
+          RELEASE_MAX_AGE_DAYS: '30'
+          SITE_URL: https://Hanskulo.github.io/streamhub
+          API_BASE: https://sean-enlarge-houses-fathers.trycloudflare.com
+        run: |
+          cd .github/pipeline
+          python fetch_justwatch.py || echo "::warning::JustWatch fetch had errors, building with existing data"
+          python build.py
+      - name: Publish site to repo root
+        run: |
+          rsync -a --delete --exclude='.git/' --exclude='.github/' .github/pipeline/site/ ./
+          touch .nojekyll
+          git config user.name "streamhub-bot"
+          git config user.email "streamhub-bot@users.noreply.github.com"
+          git add -A
+          git commit -m "auto: releases refresh $(date -u +%F)" || { echo "no changes"; exit 0; }
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          git push
