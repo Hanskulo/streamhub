@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T09:44",
-  "week": "2026-07-12",
+  "generated_at": "2026-07-13T07:39",
+  "week": "2026-07-13",
   "by_provider": {
     "netflix": [],
     "amazon-prime-video": [
@@ -30,19 +30,7 @@
       }
     ],
     "apple-tv": [],
-    "disney-plus": [
-      {
-        "title": "Toy Story 30 Years and Beyond -- A Special Edition of 20/20",
-        "media": "film",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "Ein Blick auf die 40-jährige Erfolgsgeschichte von Pixar, erzählt am Beispiel des innovativen und erfolgreichen Franchise \"Toy Story\". Mit Einblicken in die Pixar Animation Studios in Emeryville, Kalifornien, und Interviews mit den Originalsprechern.",
-        "date": "2026-06-12",
-        "poster": "https://images.justwatch.com/poster/346569878/s332/toy-story-30-years-and-beyond-a-special-edition-of-20-20.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Toy%20Story%2030%20Years%20and%20Beyond%20--%20A%20Special%20Edition%20of%2020/20%20Trailer"
-      }
-    ],
+    "disney-plus": [],
     "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
@@ -64,12 +52,23 @@
         "title": "The Welcome Table",
         "media": "film",
         "genres": [
-          "Documentary"
+          "Dokumentation"
         ],
-        "overview": "Tells the story of climate refugees across six continents, celebrating the voices and experiences of people living at the forefront of the climate crisis, displaced from their homes by climate disasters.",
+        "overview": "Seit sechs Jahren porträtiert Josh Fox für seinen Dokumentarfilm „The Welcome Table\" zahlreiche Klimaflüchtlinge mit dem Ziel USA, die aus der Karibik und Südamerika kommen, sowie jene mit dem Ziel Europa aus Asien und Afrika.",
         "date": "2026-06-23",
         "poster": "https://images.justwatch.com/poster/346623216/s332/the-welcome-table.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Welcome%20Table%20trailer"
+        "trailer": "https://www.youtube.com/results?search_query=The%20Welcome%20Table%20Trailer"
+      },
+      {
+        "title": "Ultras: Passion and Death",
+        "media": "sorozat",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Ultras: Passion and Death is an HBO docuseries that explores the violent and deeply rooted Spanish \"ultras\" football fan movement by examining three specific tragedies that forever altered the nation's sporting and cultural landscape. The series uncovers how the passion of fandom can escalate into extreme aggression and tribalism.",
+        "date": "2026-06-19",
+        "poster": "https://images.justwatch.com/poster/346679025/s332/spanyol-ultrak-halalos-szenvedely.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Ultras%3A%20Passion%20and%20Death%20Trailer"
       }
     ],
     "mubi": [
@@ -77,12 +76,12 @@
         "title": "7 Piano Sketches",
         "media": "film",
         "genres": [
-          "Music"
+          "Musik"
         ],
         "overview": "A piano tuner wanders through the streets of New York after dark, seeking artistic inspiration. Sketchbook in hand, he observes the city’s lovers, mourners, and giant ants from afar. But when a twist of fate brings him face-to-face with a kindred spirit, he finds what he was looking for all along.",
         "date": "2026-06-19",
         "poster": "https://images.justwatch.com/poster/346869178/s332/7-piano-sketches.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=7%20Piano%20Sketches%20trailer"
+        "trailer": "https://www.youtube.com/results?search_query=7%20Piano%20Sketches%20Trailer"
       }
     ],
     "bloodstream": [],

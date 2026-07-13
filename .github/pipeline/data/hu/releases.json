@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T09:12",
-  "week": "2026-07-12",
+  "generated_at": "2026-07-13T07:39",
+  "week": "2026-07-13",
   "by_provider": {
     "netflix": [],
     "amazon-prime-video": [
@@ -30,19 +30,7 @@
       }
     ],
     "apple-tv": [],
-    "disney-plus": [
-      {
-        "title": "Toy Story: 30 év és tovább",
-        "media": "film",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "A film a Pixar 40 éves örökségét mutatja be az innovatív és elképesztően sikeres „Toy Story”-franchise tükrében. Ellátogatunk a kaliforniai Emeryville-ben lévő Pixar-stúdióba, ahol az eredeti szinkronszínészek is megszólalnak.",
-        "date": "2026-06-12",
-        "poster": "https://images.justwatch.com/poster/346569878/s332/toy-story-30-years-and-beyond-a-special-edition-of-20-20.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Toy%20Story%3A%2030%20%C3%A9v%20%C3%A9s%20tov%C3%A1bb%20el%C5%91zetes"
-      }
-    ],
+    "disney-plus": [],
     "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
@@ -70,6 +58,17 @@
         "date": "2026-06-23",
         "poster": "https://images.justwatch.com/poster/346623216/s332/the-welcome-table.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Welcome%20Table%20el%C5%91zetes"
+      },
+      {
+        "title": "Spanyol ultrák: Halálos szenvedély",
+        "media": "sorozat",
+        "genres": [
+          "Dokumentum"
+        ],
+        "overview": "Háromrészes dokumentumfilm a spanyol ultrákról három bűncselekmény történetén keresztül, amely örökre megváltoztatott egy népet és a focirajongókat.",
+        "date": "2026-06-19",
+        "poster": "https://images.justwatch.com/poster/346679025/s332/spanyol-ultrak-halalos-szenvedely.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Spanyol%20ultr%C3%A1k%3A%20Hal%C3%A1los%20szenved%C3%A9ly%20el%C5%91zetes"
       }
     ],
     "mubi": [

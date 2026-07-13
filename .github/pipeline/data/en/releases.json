@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T09:12",
-  "week": "2026-07-12",
+  "generated_at": "2026-07-13T07:39",
+  "week": "2026-07-13",
   "by_provider": {
     "netflix": [],
     "amazon-prime-video": [
@@ -30,19 +30,7 @@
       }
     ],
     "apple-tv": [],
-    "disney-plus": [
-      {
-        "title": "Toy Story: 30 Years and Beyond - A Special Edition of 20/20",
-        "media": "film",
-        "genres": [
-          "Documentary"
-        ],
-        "overview": "Exploring the 40-year legacy of Pixar through the lens of its innovative and wildly successful franchise \"Toy Story\"; Pixar Animation Studios in Emeryville, Calif.; interviews with original cast members.",
-        "date": "2026-06-12",
-        "poster": "https://images.justwatch.com/poster/346569878/s332/toy-story-30-years-and-beyond-a-special-edition-of-20-20.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Toy%20Story%3A%2030%20Years%20and%20Beyond%20-%20A%20Special%20Edition%20of%2020/20%20trailer"
-      }
-    ],
+    "disney-plus": [],
     "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
@@ -70,6 +58,17 @@
         "date": "2026-06-23",
         "poster": "https://images.justwatch.com/poster/346623216/s332/the-welcome-table.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Welcome%20Table%20trailer"
+      },
+      {
+        "title": "Ultras: Passion and Death",
+        "media": "sorozat",
+        "genres": [
+          "Documentary"
+        ],
+        "overview": "Ultras: Passion and Death is an HBO docuseries that explores the violent and deeply rooted Spanish \"ultras\" football fan movement by examining three specific tragedies that forever altered the nation's sporting and cultural landscape. The series uncovers how the passion of fandom can escalate into extreme aggression and tribalism.",
+        "date": "2026-06-19",
+        "poster": "https://images.justwatch.com/poster/346679025/s332/spanyol-ultrak-halalos-szenvedely.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Ultras%3A%20Passion%20and%20Death%20trailer"
       }
     ],
     "mubi": [
