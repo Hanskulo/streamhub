@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T09:12",
-  "window": "2026-07-12 .. 2026-07-27",
+  "generated_at": "2026-07-13T12:16",
+  "window": "2026-07-13 .. 2026-07-28",
   "days": 15,
   "regions": {
     "europe": {
@@ -43,18 +43,6 @@
           "trailer": "https://www.youtube.com/results?search_query=Was%20haben%20wir%20gelacht%20el%C5%91zetes"
         },
         {
-          "title": "Me Before Me",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Dráma"
-          ],
-          "overview": "A young student battling pressure, panic and a demanding father uses a class project to discover that truth — not trophies — might finally set him free.",
-          "date": "2026-07-16",
-          "poster": "https://images.justwatch.com/poster/346814801/s332/me-before-me.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Me%20Before%20Me%20el%C5%91zetes"
-        },
-        {
           "title": "Die Töchter Europas",
           "media": "film",
           "genres": [
@@ -62,7 +50,7 @@
           ],
           "overview": "A road movie set in long-distance coaches, on motorways and in bus terminals across a supposedly borderless Europe. A cinema documentary in kaleidoscopic snapshots tracing the fates of three very different women, their experiences and encounters.",
           "date": "2026-07-16",
-          "poster": null,
+          "poster": "https://images.justwatch.com/poster/347237540/s332/die-toechter-europas.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Die%20T%C3%B6chter%20Europas%20el%C5%91zetes"
         },
         {
@@ -78,18 +66,6 @@
           "trailer": "https://www.youtube.com/results?search_query=F%C3%BClig%20bel%C3%A9d%20z%C3%BAgtam%3A%20Mind%C3%B6r%C3%B6kk%C3%A9%20el%C5%91zetes"
         },
         {
-          "title": "Dastaar",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Dráma"
-          ],
-          "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
-          "date": "2026-07-17",
-          "poster": "https://images.justwatch.com/poster/335932984/s332/dastaar.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Dastaar%20el%C5%91zetes"
-        },
-        {
           "title": "Töchter Europas",
           "media": "film",
           "genres": [
@@ -99,6 +75,32 @@
           "date": "2026-07-17",
           "poster": "https://images.justwatch.com/poster/346691666/s332/toechter-europas.jpg",
           "trailer": "https://www.youtube.com/results?search_query=T%C3%B6chter%20Europas%20el%C5%91zetes"
+        },
+        {
+          "title": "Dastaar",
+          "media": "film",
+          "genres": [
+            "Akció",
+            "Dráma",
+            "Történelmi"
+          ],
+          "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
+          "date": "2026-07-17",
+          "poster": "https://images.justwatch.com/poster/335932984/s332/dastaar.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Dastaar%20el%C5%91zetes"
+        },
+        {
+          "title": "Pinocchio: Unstrung",
+          "media": "film",
+          "genres": [
+            "Fantasy",
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+          "date": "2026-07-22",
+          "poster": "https://images.justwatch.com/poster/345582412/s332/pinocchio-unstrung.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Pinocchio%3A%20Unstrung%20el%C5%91zetes"
         }
       ]
     },
@@ -208,17 +210,6 @@
           "trailer": "https://www.youtube.com/results?search_query=Capps%20Crossing%3A%20Wrong%20Side%20of%20Dead%20el%C5%91zetes"
         },
         {
-          "title": "Poultrygeist II: Dawn of the Chicken Dead",
-          "media": "film",
-          "genres": [
-            "Horror"
-          ],
-          "overview": "A global poultry pandemic sets the stage for a wealthy tech tycoon to attempt to relaunch a failed fast-food empire using lab-grown synthetic chicken. Things go horribly wrong when these artificial food supplies unleash a wave of mutant chicken zombies.",
-          "date": "2026-07-18",
-          "poster": "https://images.justwatch.com/poster/346761868/s332/poultrygeist-ii-dawn-of-the-chicken-dead.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Poultrygeist%20II%3A%20Dawn%20of%20the%20Chicken%20Dead%20el%C5%91zetes"
-        },
-        {
           "title": "Crowning at the Prom",
           "media": "film",
           "genres": [],
@@ -226,6 +217,19 @@
           "date": "2026-07-18",
           "poster": null,
           "trailer": "https://www.youtube.com/results?search_query=Crowning%20at%20the%20Prom%20el%C5%91zetes"
+        },
+        {
+          "title": "Pinocchio: Unstrung",
+          "media": "film",
+          "genres": [
+            "Fantasy",
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+          "date": "2026-07-22",
+          "poster": "https://images.justwatch.com/poster/345582412/s332/pinocchio-unstrung.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Pinocchio%3A%20Unstrung%20el%C5%91zetes"
         }
       ]
     }
