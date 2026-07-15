@@ -21,7 +21,7 @@ jobs:
           FETCH_MODE: premieres
           RELEASE_MAX_AGE_DAYS: '30'
           SITE_URL: https://Hanskulo.github.io/streamhub
-          API_BASE: https://sean-enlarge-houses-fathers.trycloudflare.com
+          API_BASE: https://streamhub-api.eltewedtem.workers.dev
         run: |
           cd .github/pipeline
           python fetch_justwatch.py || echo "::warning::JustWatch fetch had errors, building with existing data"
