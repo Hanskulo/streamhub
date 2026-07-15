@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-07-13T12:17",
-  "week": "2026-07-13",
+  "generated_at": "2026-07-15T10:13",
+  "week": "2026-07-15",
   "by_provider": {
-    "netflix": [],
+    "netflix": [
+      {
+        "title": "Miguel Ángel Blanco: The 48 Hours That Changed Spain",
+        "media": "film",
+        "genres": [
+          "Documentary"
+        ],
+        "overview": "This documentary explores how Miguel Ángel Blanco's 1997 abduction turned fear into collective resistance and shaped Spain's fright Against ETA terrorism.",
+        "date": "2026-07-10",
+        "poster": "https://images.justwatch.com/poster/347132282/s332/miguel-angel-blanco-48-ora-amely-megvaltoztatta-spanyolorszagot.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Miguel%20%C3%81ngel%20Blanco%3A%20The%2048%20Hours%20That%20Changed%20Spain%20trailer"
+      }
+    ],
     "amazon-prime-video": [
       {
         "title": "Eli Manning Presents: The Undercovers - Sabrina Ionescu",
@@ -29,22 +41,36 @@
         "trailer": "https://www.youtube.com/results?search_query=Your%20Fault%3A%20London%20trailer"
       }
     ],
-    "apple-tv": [],
-    "disney-plus": [],
-    "apple-tv-store": [
+    "apple-tv": [
       {
-        "title": "The Exhibitor",
-        "media": "film",
+        "title": "Lucky",
+        "media": "sorozat",
         "genres": [
           "Crime",
-          "Thriller"
+          "Drama"
         ],
-        "overview": "As murders begin to surface around hotels and expos, suspicion around Vi begins to close in. With her past resurfacing and her behavior growing harder to read, one question lingers: What is she really hiding?",
-        "date": "2026-06-17",
-        "poster": "https://images.justwatch.com/poster/346419226/s332/the-exhibitor.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Exhibitor%20trailer"
+        "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+        "date": "2026-07-14",
+        "poster": "https://images.justwatch.com/poster/341768379/s332/lucky.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Lucky%20trailer"
       }
     ],
+    "disney-plus": [
+      {
+        "title": "Extreme Makeover: Homer Edition",
+        "media": "film",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ],
+        "overview": "Homer and Marge's fun couples' date night goes off the rails when Marge learns Homer left the kids unsupervised with only the doorbell camera as a babysitter. Frustrated with her imperfect husband, a tipsy Marge stirs up a trilogy of fantasies of a different Homer.",
+        "date": "2026-06-17",
+        "poster": "https://images.justwatch.com/poster/346522883/s332/a-nagy-hazalakitas-homer-edition.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Extreme%20Makeover%3A%20Homer%20Edition%20trailer"
+      }
+    ],
+    "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],

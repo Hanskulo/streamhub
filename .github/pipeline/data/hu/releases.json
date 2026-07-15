@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-07-13T12:17",
-  "week": "2026-07-13",
+  "generated_at": "2026-07-15T10:12",
+  "week": "2026-07-15",
   "by_provider": {
-    "netflix": [],
+    "netflix": [
+      {
+        "title": "Miguel Ángel Blanco: 48 óra, amely megváltoztatta Spanyolországot",
+        "media": "film",
+        "genres": [
+          "Dokumentum"
+        ],
+        "overview": "A film Miguel Ángel Blanco 48 órájának történetét mutatja be, amikor 1997-ben az ETA elrabolta a politikust, és egész Spanyolország lélegzetvisszafojtva figyelte az eseményeket. Kiderül, hogyan mozdult meg milliók tömege a merénylet megakadályozásáért, és miként vált ez a megrázó ügy a társadalmi összefogás és a terrorral szembeni kiállás egyik meghatározó pillanatává.",
+        "date": "2026-07-10",
+        "poster": "https://images.justwatch.com/poster/347132282/s332/miguel-angel-blanco-48-ora-amely-megvaltoztatta-spanyolorszagot.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Miguel%20%C3%81ngel%20Blanco%3A%2048%20%C3%B3ra%2C%20amely%20megv%C3%A1ltoztatta%20Spanyolorsz%C3%A1got%20el%C5%91zetes"
+      }
+    ],
     "amazon-prime-video": [
       {
         "title": "Eli Manning Presents: The Undercovers - Sabrina Ionescu",
@@ -29,22 +41,36 @@
         "trailer": "https://www.youtube.com/results?search_query=A%20te%20hib%C3%A1d%3A%20London%20el%C5%91zetes"
       }
     ],
-    "apple-tv": [],
-    "disney-plus": [],
-    "apple-tv-store": [
+    "apple-tv": [
       {
-        "title": "The Exhibitor",
-        "media": "film",
+        "title": "Lucky",
+        "media": "sorozat",
         "genres": [
           "Krimi",
-          "Thriller"
+          "Dráma"
         ],
-        "overview": "As murders begin to surface around hotels and expos, suspicion around Vi begins to close in. With her past resurfacing and her behavior growing harder to read, one question lingers: What is she really hiding?",
-        "date": "2026-06-17",
-        "poster": "https://images.justwatch.com/poster/346419226/s332/the-exhibitor.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Exhibitor%20el%C5%91zetes"
+        "overview": "Miután egy több millió dolláros rablás balul sül el, a szélhámos Lucky kénytelen menekülőre fogni. Ketten is üldözik, az FBI és egy kíméletlen maffiafőnök, így Luckynak az életéért kell küzdenie – és a kiútért.",
+        "date": "2026-07-14",
+        "poster": "https://images.justwatch.com/poster/341768379/s332/lucky.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Lucky%20el%C5%91zetes"
       }
     ],
+    "disney-plus": [
+      {
+        "title": "A nagy házalakítás: Homer Edition",
+        "media": "film",
+        "genres": [
+          "Animáció",
+          "Vígjáték",
+          "Családi"
+        ],
+        "overview": "Ebben a Disney+ exkluzív dupla epizódban Homer és Marge vidám randija kisiklik, amikor Marge rájön, hogy Homer felügyelet nélkül hagyta a gyerekeket, és bébiszitter helyett csak a kapucsengő kamerájára bízta őket. A férje tökéletlenségein felhúzott, enyhén spicces Marge ezután három különböző fantáziában képzeli el, milyen lenne egy másik Homer. Különleges vendégszereplő: Betty Gilpin, zenei közreműködők: Laufey, valamint Tegan and Sara.",
+        "date": "2026-06-17",
+        "poster": "https://images.justwatch.com/poster/346669667/s332/a-nagy-hazalakitas-homer-edition.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=A%20nagy%20h%C3%A1zalak%C3%ADt%C3%A1s%3A%20Homer%20Edition%20el%C5%91zetes"
+      }
+    ],
+    "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
