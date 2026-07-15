@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T10:15",
+  "generated_at": "2026-07-15T11:02",
   "week": "2026-07-15",
   "by_provider": {
     "netflix": [
@@ -70,7 +70,20 @@
         "trailer": "https://www.youtube.com/results?search_query=Extreme%20Makeover%3A%20Homer%20Edition%20Trailer"
       }
     ],
-    "apple-tv-store": [],
+    "apple-tv-store": [
+      {
+        "title": "The Exhibitor",
+        "media": "film",
+        "genres": [
+          "Krimi",
+          "Thriller"
+        ],
+        "overview": "As murders begin to surface around hotels and expos, suspicion around Vi begins to close in. With her past resurfacing and her behavior growing harder to read, one question lingers: What is she really hiding?",
+        "date": "2026-06-17",
+        "poster": "https://images.justwatch.com/poster/346419226/s332/the-exhibitor.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Exhibitor%20Trailer"
+      }
+    ],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
