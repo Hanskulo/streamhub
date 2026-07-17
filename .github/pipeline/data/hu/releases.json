@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T11:01",
-  "week": "2026-07-15",
+  "generated_at": "2026-07-17T10:58",
+  "week": "2026-07-17",
   "by_provider": {
     "netflix": [
       {
@@ -57,33 +57,20 @@
     ],
     "disney-plus": [
       {
-        "title": "A nagy házalakítás: Homer Edition",
+        "title": "Utódok: Gonoszok Csodaországa",
         "media": "film",
         "genres": [
-          "Animáció",
+          "Akció",
           "Vígjáték",
-          "Családi"
+          "Fantasy"
         ],
-        "overview": "Ebben a Disney+ exkluzív dupla epizódban Homer és Marge vidám randija kisiklik, amikor Marge rájön, hogy Homer felügyelet nélkül hagyta a gyerekeket, és bébiszitter helyett csak a kapucsengő kamerájára bízta őket. A férje tökéletlenségein felhúzott, enyhén spicces Marge ezután három különböző fantáziában képzeli el, milyen lenne egy másik Homer. Különleges vendégszereplő: Betty Gilpin, zenei közreműködők: Laufey, valamint Tegan and Sara.",
-        "date": "2026-06-17",
-        "poster": "https://images.justwatch.com/poster/346669667/s332/a-nagy-hazalakitas-homer-edition.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=A%20nagy%20h%C3%A1zalak%C3%ADt%C3%A1s%3A%20Homer%20Edition%20el%C5%91zetes"
+        "overview": "Most, hogy a Szívek Királynője kedves, és Hamupipőke biztonságban van, minden tökéletesnek tűnik Red és Chloe számára... nem is sejtik, hogy a múlt megváltoztatása egy új gonosztevőt hozott létre: Maddox Kalapost. Amikor Maddox elfogja a Szívek Királynőjét, Rednek és Chloe-nak Red új húgával, Pinkkel, Luisa Madrigal fiával, Luisszal és Maddox fiával, Maxszal kell együttműködniük, hogy megmentsék őt és Csodaországot.",
+        "date": "2026-07-16",
+        "poster": "https://images.justwatch.com/poster/346225050/s332/utodok-gonoszok-csodaorszaga.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Ut%C3%B3dok%3A%20Gonoszok%20Csodaorsz%C3%A1ga%20el%C5%91zetes"
       }
     ],
-    "apple-tv-store": [
-      {
-        "title": "The Exhibitor",
-        "media": "film",
-        "genres": [
-          "Krimi",
-          "Thriller"
-        ],
-        "overview": "As murders begin to surface around hotels and expos, suspicion around Vi begins to close in. With her past resurfacing and her behavior growing harder to read, one question lingers: What is she really hiding?",
-        "date": "2026-06-17",
-        "poster": "https://images.justwatch.com/poster/346419226/s332/the-exhibitor.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Exhibitor%20el%C5%91zetes"
-      }
-    ],
+    "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
@@ -96,7 +83,19 @@
     "cultpix": [],
     "filmbox": [],
     "sun-nxt": [],
-    "skyshowtime": [],
+    "skyshowtime": [
+      {
+        "title": "The Odyssey: The Making of an Epic",
+        "media": "film",
+        "genres": [
+          "Dokumentum"
+        ],
+        "overview": "A stáb bemutatja a mitikus világot, Homérosz történetét és a forgatási munkálatokat.",
+        "date": "2026-07-14",
+        "poster": "https://images.justwatch.com/poster/347326145/s332/the-odyssey-the-making-of-an-epic.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Odyssey%3A%20The%20Making%20of%20an%20Epic%20el%C5%91zetes"
+      }
+    ],
     "crunchyroll": [],
     "hayu": [],
     "hbo-max": [
@@ -110,17 +109,6 @@
         "date": "2026-06-23",
         "poster": "https://images.justwatch.com/poster/346623216/s332/the-welcome-table.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Welcome%20Table%20el%C5%91zetes"
-      },
-      {
-        "title": "Spanyol ultrák: Halálos szenvedély",
-        "media": "sorozat",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "Háromrészes dokumentumfilm a spanyol ultrákról három bűncselekmény történetén keresztül, amely örökre megváltoztatott egy népet és a focirajongókat.",
-        "date": "2026-06-19",
-        "poster": "https://images.justwatch.com/poster/346679025/s332/spanyol-ultrak-halalos-szenvedely.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Spanyol%20ultr%C3%A1k%3A%20Hal%C3%A1los%20szenved%C3%A9ly%20el%C5%91zetes"
       }
     ],
     "mubi": [

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T11:02",
-  "week": "2026-07-15",
+  "generated_at": "2026-07-17T10:58",
+  "week": "2026-07-17",
   "by_provider": {
     "netflix": [
       {
@@ -57,33 +57,20 @@
     ],
     "disney-plus": [
       {
-        "title": "Extreme Makeover: Homer Edition",
+        "title": "Descendants 5",
         "media": "film",
         "genres": [
-          "Animation",
+          "Action",
           "Komödie",
-          "Familie"
+          "Fantasy"
         ],
-        "overview": "In dieser exklusiv auf Disney+ erhältlichen Doppelfolge gerät Homers und Marges lustiger Abend zu zweit aus den Fugen, als Marge erfährt, dass Homer die Kinder unbeaufsichtigt gelassen hat – mit der Türspionkamera als einzigem „Babysitter“. Frustriert von ihrem unvollkommenen Ehemann lässt sich die leicht angeheiterte Marge auf eine Trilogie von Fantasien über einen anderen Homer ein. Als Stargast tritt Betty Gilpin auf, musikalische Gäste sind Laufey sowie Tegan und Sara.",
-        "date": "2026-06-17",
-        "poster": "https://images.justwatch.com/poster/346522883/s332/a-nagy-hazalakitas-homer-edition.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Extreme%20Makeover%3A%20Homer%20Edition%20Trailer"
+        "overview": "Nachdem die Herzkönigin nun freundlich und Aschenputtel in Sicherheit ist, scheint für Red und Chloe alles perfekt zu laufen – doch sie ahnen nicht, dass die Veränderung der Vergangenheit einen neuen Bösewicht hervorgebracht hat: Maddox Hatter. Als Maddox die Herzkönigin gefangen nimmt, müssen Red und Chloe sich mit Reds neuer Schwester Pink, Luisas Sohn Luis und Maddox’ Sohn Max zusammentun, um sie und das Wunderland zu retten.",
+        "date": "2026-07-16",
+        "poster": "https://images.justwatch.com/poster/346225050/s332/utodok-gonoszok-csodaorszaga.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Descendants%205%20Trailer"
       }
     ],
-    "apple-tv-store": [
-      {
-        "title": "The Exhibitor",
-        "media": "film",
-        "genres": [
-          "Krimi",
-          "Thriller"
-        ],
-        "overview": "As murders begin to surface around hotels and expos, suspicion around Vi begins to close in. With her past resurfacing and her behavior growing harder to read, one question lingers: What is she really hiding?",
-        "date": "2026-06-17",
-        "poster": "https://images.justwatch.com/poster/346419226/s332/the-exhibitor.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Exhibitor%20Trailer"
-      }
-    ],
+    "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
@@ -96,7 +83,19 @@
     "cultpix": [],
     "filmbox": [],
     "sun-nxt": [],
-    "skyshowtime": [],
+    "skyshowtime": [
+      {
+        "title": "The Odyssey: The Making of an Epic",
+        "media": "film",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Go behind the scenes of Christopher Nolan's mythic action epic, The Odyssey. This special documentary explores the monumental undertaking of adapting Homer’s foundational saga for the big screen, charting a grueling 91-day principal photography schedule across six countries. From the revolutionary use of brand-new IMAX film technology to the massive coordination of over 5,300 custom-designed costumes, discover how a star-studded cast led by Matt Damon, Tom Holland, and Anne Hathaway brought the dangerous, timeless world of ancient Greek gods and monsters to life.",
+        "date": "2026-07-14",
+        "poster": "https://images.justwatch.com/poster/347326145/s332/the-odyssey-the-making-of-an-epic.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Odyssey%3A%20The%20Making%20of%20an%20Epic%20Trailer"
+      }
+    ],
     "crunchyroll": [],
     "hayu": [],
     "hbo-max": [
@@ -110,17 +109,6 @@
         "date": "2026-06-23",
         "poster": "https://images.justwatch.com/poster/346623216/s332/the-welcome-table.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Welcome%20Table%20Trailer"
-      },
-      {
-        "title": "Ultras: Passion and Death",
-        "media": "sorozat",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "Ultras: Passion and Death is an HBO docuseries that explores the violent and deeply rooted Spanish \"ultras\" football fan movement by examining three specific tragedies that forever altered the nation's sporting and cultural landscape. The series uncovers how the passion of fandom can escalate into extreme aggression and tribalism.",
-        "date": "2026-06-19",
-        "poster": "https://images.justwatch.com/poster/346679025/s332/spanyol-ultrak-halalos-szenvedely.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Ultras%3A%20Passion%20and%20Death%20Trailer"
       }
     ],
     "mubi": [
