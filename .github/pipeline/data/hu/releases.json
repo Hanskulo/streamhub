@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T10:58",
-  "week": "2026-07-17",
+  "generated_at": "2026-07-19T10:42",
+  "week": "2026-07-19",
   "by_provider": {
     "netflix": [
       {
@@ -27,18 +27,6 @@
         "date": "2026-06-29",
         "poster": "https://images.justwatch.com/poster/346745040/s332/eli-manning-presents-the-undercovers-sabrina-ionescu.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Eli%20Manning%20Presents%3A%20The%20Undercovers%20-%20Sabrina%20Ionescu%20el%C5%91zetes"
-      },
-      {
-        "title": "A te hibád: London",
-        "media": "film",
-        "genres": [
-          "Dráma",
-          "Romantikus"
-        ],
-        "overview": "Nick és Noah szerelme a legnagyobb kihívással néz szembe, amikor Noah megkezdi új életét az Oxfordi Egyetemen, míg Nick Londonban marad és az apja cégénél kezd dolgozni. Távolság húzódik köztük és egyre fokozódó nyomás nehezedik rájuk; féltékenység, ambíció és olyan erők, amik szét akarják őket szakítani. Mindent kockára kell tenniük, hogy bebizonyítsák, a köztük lévő kötelék mindent túlélhet.",
-        "date": "2026-06-17",
-        "poster": "https://images.justwatch.com/poster/346531489/s332/a-te-hibad-london.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=A%20te%20hib%C3%A1d%3A%20London%20el%C5%91zetes"
       }
     ],
     "apple-tv": [
@@ -64,13 +52,25 @@
           "Vígjáték",
           "Fantasy"
         ],
-        "overview": "Most, hogy a Szívek Királynője kedves, és Hamupipőke biztonságban van, minden tökéletesnek tűnik Red és Chloe számára... nem is sejtik, hogy a múlt megváltoztatása egy új gonosztevőt hozott létre: Maddox Kalapost. Amikor Maddox elfogja a Szívek Királynőjét, Rednek és Chloe-nak Red új húgával, Pinkkel, Luisa Madrigal fiával, Luisszal és Maddox fiával, Maxszal kell együttműködniük, hogy megmentsék őt és Csodaországot.",
+        "overview": "A fantasy tinisorozat legújabb része. Amikor Csodaországban megrendezik a Királyság Kupa játékokat, Rednek és Chloe Charmingnak meg kell küzdenie, hogy mindenkit megmentsenek egy váratlan gonosztevőtől.",
         "date": "2026-07-16",
-        "poster": "https://images.justwatch.com/poster/346225050/s332/utodok-gonoszok-csodaorszaga.jpg",
+        "poster": "https://images.justwatch.com/poster/347398889/s332/utodok-gonoszok-csodaorszaga.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Ut%C3%B3dok%3A%20Gonoszok%20Csodaorsz%C3%A1ga%20el%C5%91zetes"
       }
     ],
-    "apple-tv-store": [],
+    "apple-tv-store": [
+      {
+        "title": "Signed, Sealed & Delivered: Inside the Billion-Dollar World of Sports Collectibles",
+        "media": "film",
+        "genres": [
+          "Dokumentum"
+        ],
+        "overview": "What was once considered a childhood hobby has evolved into a billion-dollar global marketplace. Signed, Sealed & Delivered takes audiences inside the high-stakes world of sports collectibles, where rare trading cards, signed jerseys, and historic memorabilia have become status symbols, emotional investments, and financial assets. Through exclusive access, interviews, and behind-the-scenes footage, the documentary explores the personalities and businesses driving the hobby's modern explosion. Featuring appearances and commentary tied to sports and business icons including Lionel Messi, Kevin O'Leary, and Gary Vaynerchuk, the film uncovers the culture, psychology, risks, and financial opportunities behind the booming collectibles industry — while asking what people are truly chasing when they spend fortunes trying to own a piece of sports history.",
+        "date": "2026-06-22",
+        "poster": "https://images.justwatch.com/poster/346713235/s332/signed-sealed-delivered-inside-the-billion-dollar-world-of-sports-collectibles.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Signed%2C%20Sealed%20%26%20Delivered%3A%20Inside%20the%20Billion-Dollar%20World%20of%20Sports%20Collectibles%20el%C5%91zetes"
+      }
+    ],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],

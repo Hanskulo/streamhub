@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T10:58",
-  "week": "2026-07-17",
+  "generated_at": "2026-07-19T10:43",
+  "week": "2026-07-19",
   "by_provider": {
     "netflix": [
       {
@@ -27,18 +27,6 @@
         "date": "2026-06-29",
         "poster": "https://images.justwatch.com/poster/346745040/s332/eli-manning-presents-the-undercovers-sabrina-ionescu.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Eli%20Manning%20pr%C3%A4sentiert%3A%20Die%20Verdeckten%20-%20Sabrina%20Ionescu%20Trailer"
-      },
-      {
-        "title": "Culpa Tuya - Deine Schuld: London",
-        "media": "film",
-        "genres": [
-          "Drama",
-          "Romantik"
-        ],
-        "overview": "Nick und Noah begeben sich beide auf lebensverändernde Abenteuer, die sie auseinanderzureißen drohen – Nick im Geschäft seines Vaters und Noah, der an der Universität Oxford ein neues Kapitel aufschlägt. Nun, da sie getrennte Leben führen und neue Menschen kennenlernen, geraten sie in einen Strudel aus Versuchungen, Rivalitäten und Verrat, und ihre Verbindung wird auf eine noch nie dagewesene Weise auf die Probe gestellt. Während Geheimnisse ans Licht kommen und die Versuchung wächst, müssen sie darum kämpfen, zueinander zu halten – oder riskieren, alles zu verlieren.",
-        "date": "2026-06-17",
-        "poster": "https://images.justwatch.com/poster/346531507/s332/a-te-hibad-london.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Culpa%20Tuya%20-%20Deine%20Schuld%3A%20London%20Trailer"
       }
     ],
     "apple-tv": [
@@ -66,11 +54,23 @@
         ],
         "overview": "Nachdem die Herzkönigin nun freundlich und Aschenputtel in Sicherheit ist, scheint für Red und Chloe alles perfekt zu laufen – doch sie ahnen nicht, dass die Veränderung der Vergangenheit einen neuen Bösewicht hervorgebracht hat: Maddox Hatter. Als Maddox die Herzkönigin gefangen nimmt, müssen Red und Chloe sich mit Reds neuer Schwester Pink, Luisas Sohn Luis und Maddox’ Sohn Max zusammentun, um sie und das Wunderland zu retten.",
         "date": "2026-07-16",
-        "poster": "https://images.justwatch.com/poster/346225050/s332/utodok-gonoszok-csodaorszaga.jpg",
+        "poster": "https://images.justwatch.com/poster/347389776/s332/utodok-gonoszok-csodaorszaga.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Descendants%205%20Trailer"
       }
     ],
-    "apple-tv-store": [],
+    "apple-tv-store": [
+      {
+        "title": "Signed, Sealed & Delivered: Inside the Billion-Dollar World of Sports Collectibles",
+        "media": "film",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "What was once considered a childhood hobby has evolved into a billion-dollar global marketplace. Signed, Sealed & Delivered takes audiences inside the high-stakes world of sports collectibles, where rare trading cards, signed jerseys, and historic memorabilia have become status symbols, emotional investments, and financial assets. Through exclusive access, interviews, and behind-the-scenes footage, the documentary explores the personalities and businesses driving the hobby's modern explosion. Featuring appearances and commentary tied to sports and business icons including Lionel Messi, Kevin O'Leary, and Gary Vaynerchuk, the film uncovers the culture, psychology, risks, and financial opportunities behind the booming collectibles industry — while asking what people are truly chasing when they spend fortunes trying to own a piece of sports history.",
+        "date": "2026-06-22",
+        "poster": "https://images.justwatch.com/poster/346713235/s332/signed-sealed-delivered-inside-the-billion-dollar-world-of-sports-collectibles.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Signed%2C%20Sealed%20%26%20Delivered%3A%20Inside%20the%20Billion-Dollar%20World%20of%20Sports%20Collectibles%20Trailer"
+      }
+    ],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
