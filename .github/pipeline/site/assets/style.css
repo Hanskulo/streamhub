@@ -227,3 +227,20 @@ footer .visitors b{color:var(--mint)}
   .reveal{opacity:1;transform:none}
   body::before{animation:none}
 }
+
+/* ===== Közös látogató-számláló (Kata widgetje) — inline, nincs kulön counter.css ===== */
+.vc{--vc-gap:1.25rem;position:relative;display:inline-flex;align-items:center;gap:var(--vc-gap);font:inherit;line-height:1.2}
+.vc-item{display:flex;flex-direction:column;align-items:center;gap:.15rem}
+.vc-num{font-variant-numeric:tabular-nums}
+.vc-label{letter-spacing:.06em;text-transform:uppercase;opacity:.7}
+.vc-sep{width:1px;align-self:stretch;background:currentColor;opacity:.2}
+.vc-px{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none;left:-9999px}
+.vc[data-vc-ready="1"] .vc-num{animation:vc-pop .4s ease}
+@keyframes vc-pop{from{opacity:.3;transform:translateY(2px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.vc[data-vc-ready="1"] .vc-num{animation:none}}
+/* lábléc-illesztés: inline, kicsi, olvashato */
+footer .fx .vc{--vc-gap:.55rem;gap:.55rem;align-items:center}
+footer .fx .vc-item{flex-direction:row;align-items:baseline;gap:.3rem}
+footer .fx .vc-num{font-size:1em;font-weight:700}
+footer .fx .vc-label{font-size:.92em;text-transform:none;letter-spacing:0;opacity:.75}
+footer .fx .vc-sep{align-self:center;height:1em}

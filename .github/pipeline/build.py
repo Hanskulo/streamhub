@@ -30,7 +30,7 @@ T = {
    "prem_win":"premierek · {w} (következő {d} nap)","prem_empty_h3":"Nincs premier a következő {d} napban",
    "prem_empty_p":"Ebben a régióban most nincs bemutató a megadott időablakban.","movie":"film","series":"sorozat",
    "trailer":"Előzetes","footer_data":"Adatok: JustWatch — nem hivatalos, non-commercial","footer_tag":"naponta frissül",
-   "visitors":"látogató","search_ph":"Szűrj a szolgáltatók között...","no_match":"Nincs ilyen szolgáltató.",
+   "visitors":"látogató","vc_human":"Emberi látogató","vc_bot":"Bot AI","search_ph":"Szűrj a szolgáltatók között...","no_match":"Nincs ilyen szolgáltató.",
    "stat_prov":"szolgáltató","stat_new":"friss cím összesen","stat_days":"nap premier-ablak","live":"élő",
    "m_title":"Írj Csabának","m_sub":"Az üzeneted közvetlenül, változtatás nélkül jut el hozzá.",
    "m_name":"Neved / elérhetőség (opcionális)","m_name_ph":"pl. Kovács Anna / anna@email.hu","m_msg":"Üzenet","m_msg_ph":"Írd ide az üzeneted...",
@@ -46,7 +46,7 @@ T = {
    "prem_win":"premieres · {w} (next {d} days)","prem_empty_h3":"No premieres in the next {d} days",
    "prem_empty_p":"No releases in this region within the given window right now.","movie":"movie","series":"series",
    "trailer":"Trailer","footer_data":"Data: JustWatch — unofficial, non-commercial","footer_tag":"updated daily",
-   "visitors":"visitors","search_ph":"Filter providers...","no_match":"No such provider.",
+   "visitors":"visitors","vc_human":"Human visitors","vc_bot":"Bot AI","search_ph":"Filter providers...","no_match":"No such provider.",
    "stat_prov":"providers","stat_new":"fresh titles total","stat_days":"day premiere window","live":"live",
    "m_title":"Message Csaba","m_sub":"Your message reaches him directly, unchanged.",
    "m_name":"Your name / contact (optional)","m_name_ph":"e.g. Anna Smith / anna@email.com","m_msg":"Message","m_msg_ph":"Type your message...",
@@ -62,7 +62,7 @@ T = {
    "prem_win":"Premieren · {w} (nächste {d} Tage)","prem_empty_h3":"Keine Premieren in den nächsten {d} Tagen",
    "prem_empty_p":"In dieser Region gibt es derzeit keine Veröffentlichungen im angegebenen Zeitfenster.","movie":"Film","series":"Serie",
    "trailer":"Trailer","footer_data":"Daten: JustWatch — inoffiziell, non-commercial","footer_tag":"täglich aktualisiert",
-   "visitors":"Besucher","search_ph":"Anbieter filtern...","no_match":"Kein solcher Anbieter.",
+   "visitors":"Besucher","vc_human":"Menschliche Besucher","vc_bot":"Bot KI","search_ph":"Anbieter filtern...","no_match":"Kein solcher Anbieter.",
    "stat_prov":"Anbieter","stat_new":"neue Titel gesamt","stat_days":"Tage Premieren-Fenster","live":"live",
    "m_title":"Schreib an Csaba","m_sub":"Deine Nachricht erreicht ihn direkt, unverändert.",
    "m_name":"Dein Name / Kontakt (optional)","m_name_ph":"z.B. Anna Muster / anna@email.de","m_msg":"Nachricht","m_msg_ph":"Schreib deine Nachricht...",
@@ -190,6 +190,43 @@ APP_JS = r"""// StreamHub interactions — reveal, count-up, provider filter, sp
     }).catch(function(){ if(hc.parentNode) hc.parentNode.style.display='none'; });
   }
 })();
+
+// ---- Közös látogató-számláló (Kata) — a .vc[data-vc-site] widgetre dolgozik, önálló ----
+(function () {
+  "use strict";
+  var el = document.querySelector(".vc[data-vc-site]");
+  if (!el) return;
+  var site = el.getAttribute("data-vc-site");
+  var api = (el.getAttribute("data-vc-api") || "").replace(/\/+$/, "");
+  if (!site || !api) return;
+  var sid = "";
+  try {
+    sid = sessionStorage.getItem("vc_sid");
+    if (!sid) { sid = Date.now().toString(36) + Math.random().toString(36).slice(2, 10); sessionStorage.setItem("vc_sid", sid); }
+  } catch (e) {}
+  function render(d) {
+    if (!d || typeof d !== "object") return;
+    var h = el.querySelector('[data-vc="human"]'); var b = el.querySelector('[data-vc="bot"]');
+    if (h && typeof d.human === "number") h.textContent = d.human.toLocaleString();
+    if (b && typeof d.bot === "number") b.textContent = d.bot.toLocaleString();
+    el.setAttribute("data-vc-ready", "1");
+  }
+  function fetchCount() {
+    fetch(api + "/count?site=" + encodeURIComponent(site), { cache: "no-store" })
+      .then(function (r) { return r.ok ? r.json() : null; }).then(render).catch(function () {});
+  }
+  var hitKey = "vc_hit_" + site, already = false;
+  try { already = sessionStorage.getItem(hitKey) === "1"; } catch (e) {}
+  if (already) { fetchCount(); }
+  else {
+    fetch(api + "/hit?site=" + encodeURIComponent(site), {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ sid: sid }), keepalive: true
+    }).then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) { try { sessionStorage.setItem(hitKey, "1"); } catch (e) {} render(d); })
+      .catch(fetchCount);
+  }
+})();
 """
 
 def title_card(it, acc, t):
@@ -224,10 +261,20 @@ def topbar(cur_path, lang, kind, slug=None):
   </div>
 </div></div></header>"""
 
+# Közös látogató-számláló (Kata Workere) — human/bot bontás, no-JS px a nyers HTML-ben
+VC_API = "https://visitor-counter.eltewedtem.workers.dev"
+VC_SITE = "streamhub"
+
 def foot(t):
+    vc = (f'<span class="visitors vc" data-vc-site="{VC_SITE}" data-vc-api="{VC_API}" aria-label="{esc(t["visitors"])}">'
+          f'<span class="vc-item vc-human"><b class="vc-num" data-vc="human">…</b> <span class="vc-label">{esc(t["vc_human"])}</span></span>'
+          f'<span class="vc-sep" aria-hidden="true"></span>'
+          f'<span class="vc-item vc-bot"><b class="vc-num" data-vc="bot">…</b> <span class="vc-label">{esc(t["vc_bot"])}</span></span>'
+          f'<img class="vc-px" src="{VC_API}/px?site={VC_SITE}" alt="" width="1" height="1" aria-hidden="true" '
+          f'referrerpolicy="no-referrer" style="position:absolute;width:1px;height:1px;opacity:0;pointer-events:none;left:-9999px"></span>')
     return f"""<footer><div class="wrap"><div class="fx">
   <span>{esc(t['footer_data'])}</span>
-  <span class="visitors">&#128064; <b id="hitcount">…</b> {esc(t['visitors'])}</span>
+  {vc}
   <span>StreamHub &middot; {esc(t['footer_tag'])}</span>
 </div></div></footer>"""
 
