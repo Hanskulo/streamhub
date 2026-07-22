@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T11:18",
-  "week": "2026-07-21",
+  "generated_at": "2026-07-22T09:04",
+  "week": "2026-07-22",
   "by_provider": {
     "netflix": [
       {
@@ -16,6 +16,19 @@
       }
     ],
     "amazon-prime-video": [
+      {
+        "title": "Ride or Die",
+        "media": "sorozat",
+        "genres": [
+          "Action",
+          "Komödie",
+          "Drama"
+        ],
+        "overview": "Die Freundinnen Debbie und Judith müssen fliehen, als Debbie erfährt, dass Judith keine forensische Buchhalterin ist, sondern eine internationale Auftragskillerin! Gejagt von einer mysteriösen Gestalt und in die korrupten Machenschaften von Debbies Ehemann hineingezogen, bleiben ihnen nur ein Rennen gegen die Zeit und ein Roadtrip durch Europa, um die Wahrheit zu enthüllen und am Leben zu bleiben.",
+        "date": "2026-07-15",
+        "poster": "https://images.justwatch.com/poster/346372629/s332/ride-or-die.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Ride%20or%20Die%20Trailer"
+      },
       {
         "title": "Eli Manning präsentiert: Die Verdeckten - Sabrina Ionescu",
         "media": "film",

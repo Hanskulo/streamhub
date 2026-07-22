@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://sean-enlarge-houses-fathers.trycloudflare.com/sitemap.xml
+Sitemap: https://Hanskulo.github.io/streamhub/sitemap.xml

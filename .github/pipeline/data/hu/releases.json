@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T11:17",
-  "week": "2026-07-21",
+  "generated_at": "2026-07-22T09:03",
+  "week": "2026-07-22",
   "by_provider": {
     "netflix": [
       {
@@ -16,6 +16,19 @@
       }
     ],
     "amazon-prime-video": [
+      {
+        "title": "Tűzön-vízen át",
+        "media": "sorozat",
+        "genres": [
+          "Akció",
+          "Vígjáték",
+          "Dráma"
+        ],
+        "overview": "Debbie és Judith, legjobb barátnők, akik kénytelenek menekülni, amikor Debbie rájön, hogy Judith nem igazságügyi könyvvizsgáló, hanem nemzetközi bérgyilkos. Versenyt futnak az idővel, hogy kiderítsék az igazságot és életben maradjanak, miközben egy rejtélyes alak üldözi őket, és Debbie férje is belekeveredik egy súlyos korrupciós ügybe.",
+        "date": "2026-07-15",
+        "poster": "https://images.justwatch.com/poster/346372629/s332/ride-or-die.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=T%C5%B1z%C3%B6n-v%C3%ADzen%20%C3%A1t%20el%C5%91zetes"
+      },
       {
         "title": "Eli Manning Presents: The Undercovers - Sabrina Ionescu",
         "media": "film",

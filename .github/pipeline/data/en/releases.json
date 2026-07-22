@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T11:18",
-  "week": "2026-07-21",
+  "generated_at": "2026-07-22T09:03",
+  "week": "2026-07-22",
   "by_provider": {
     "netflix": [
       {
@@ -16,6 +16,19 @@
       }
     ],
     "amazon-prime-video": [
+      {
+        "title": "Ride or Die",
+        "media": "sorozat",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama"
+        ],
+        "overview": "Best friends, Judith and Debbie, know everything about each other … well, almost everything. Judith has been living a double life that Debbie knows nothing about: she is a highly trained assassin. When a hit goes horribly wrong, Judith and Debbie must go on the run together and work to repair their broken friendship—all while being targeted by a mysterious enemy who wants them dead. And only together, can they solve this layered mystery.",
+        "date": "2026-07-15",
+        "poster": "https://images.justwatch.com/poster/346372629/s332/ride-or-die.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Ride%20or%20Die%20trailer"
+      },
       {
         "title": "Eli Manning Presents: The Undercovers - Sabrina Ionescu",
         "media": "film",
