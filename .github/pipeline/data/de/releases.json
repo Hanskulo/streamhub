@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-22T09:04",
-  "week": "2026-07-22",
+  "generated_at": "2026-07-23T11:19",
+  "week": "2026-07-23",
   "by_provider": {
     "netflix": [
       {
-        "title": "Miguel Ángel Blanco: The 48 Hours That Changed Spain",
+        "title": "Miguel Ángel Blanco: 48 Stunden, die Spanien veränderten",
         "media": "film",
         "genres": [
           "Dokumentation"
@@ -12,23 +12,10 @@
         "overview": "This documentary explores how Miguel Ángel Blanco's 1997 abduction turned fear into collective resistance and shaped Spain's fright Against ETA terrorism.",
         "date": "2026-07-10",
         "poster": "https://images.justwatch.com/poster/347132282/s332/miguel-angel-blanco-48-ora-amely-megvaltoztatta-spanyolorszagot.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Miguel%20%C3%81ngel%20Blanco%3A%20The%2048%20Hours%20That%20Changed%20Spain%20Trailer"
+        "trailer": "https://www.youtube.com/results?search_query=Miguel%20%C3%81ngel%20Blanco%3A%2048%20Stunden%2C%20die%20Spanien%20ver%C3%A4nderten%20Trailer"
       }
     ],
     "amazon-prime-video": [
-      {
-        "title": "Ride or Die",
-        "media": "sorozat",
-        "genres": [
-          "Action",
-          "Komödie",
-          "Drama"
-        ],
-        "overview": "Die Freundinnen Debbie und Judith müssen fliehen, als Debbie erfährt, dass Judith keine forensische Buchhalterin ist, sondern eine internationale Auftragskillerin! Gejagt von einer mysteriösen Gestalt und in die korrupten Machenschaften von Debbies Ehemann hineingezogen, bleiben ihnen nur ein Rennen gegen die Zeit und ein Roadtrip durch Europa, um die Wahrheit zu enthüllen und am Leben zu bleiben.",
-        "date": "2026-07-15",
-        "poster": "https://images.justwatch.com/poster/346372629/s332/ride-or-die.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Ride%20or%20Die%20Trailer"
-      },
       {
         "title": "Eli Manning präsentiert: Die Verdeckten - Sabrina Ionescu",
         "media": "film",
@@ -58,7 +45,7 @@
     ],
     "disney-plus": [
       {
-        "title": "Descendants 5",
+        "title": "Descendants: Wicked Wonderland",
         "media": "film",
         "genres": [
           "Action",
@@ -68,7 +55,7 @@
         "overview": "Nachdem die Herzkönigin nun freundlich und Aschenputtel in Sicherheit ist, scheint für Red und Chloe alles perfekt zu laufen – doch sie ahnen nicht, dass die Veränderung der Vergangenheit einen neuen Bösewicht hervorgebracht hat: Maddox Hatter. Als Maddox die Herzkönigin gefangen nimmt, müssen Red und Chloe sich mit Reds neuer Schwester Pink, Luisas Sohn Luis und Maddox’ Sohn Max zusammentun, um sie und das Wunderland zu retten.",
         "date": "2026-07-16",
         "poster": "https://images.justwatch.com/poster/346708647/s332/utodok-gonoszok-csodaorszaga.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Descendants%205%20Trailer"
+        "trailer": "https://www.youtube.com/results?search_query=Descendants%3A%20Wicked%20Wonderland%20Trailer"
       }
     ],
     "apple-tv-store": [],
