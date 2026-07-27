@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T10:42",
-  "week": "2026-07-25",
+  "generated_at": "2026-07-27T12:36",
+  "week": "2026-07-27",
   "by_provider": {
     "netflix": [
       {
@@ -39,18 +39,6 @@
         "date": "2026-06-29",
         "poster": "https://images.justwatch.com/poster/346745040/s332/eli-manning-presents-the-undercovers-sabrina-ionescu.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Eli%20Manning%20Presents%3A%20The%20Undercovers%20-%20Sabrina%20Ionescu%20trailer"
-      },
-      {
-        "title": "Would You Rather: Decide to Survive",
-        "media": "sorozat",
-        "genres": [
-          "Comedy",
-          "Reality"
-        ],
-        "overview": "Would You Rather be invisible or be able to fly? Fight one giant duck or 1000 tiny ducks? Eat a man-sized bean or a bean-sized man? This comedy game show will see two teams of some of Britain's funniest digital personalities compete in hilarious real-life challenges based on classic hypothetical Would You Rather decisions. These three simple words decide everything from what they eat to who they send home.",
-        "date": "2026-06-25",
-        "poster": "https://images.justwatch.com/poster/346700349/s332/would-you-rather-decide-to-survive.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Would%20You%20Rather%3A%20Decide%20to%20Survive%20trailer"
       }
     ],
     "apple-tv": [
@@ -59,6 +47,7 @@
         "media": "film",
         "genres": [
           "Comedy",
+          "Romance",
           "Sport"
         ],
         "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
