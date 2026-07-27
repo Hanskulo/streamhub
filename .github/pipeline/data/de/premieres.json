@@ -1,90 +1,21 @@
 {
-  "generated_at": "2026-07-20T11:56",
-  "window": "2026-07-20 .. 2026-08-04",
+  "generated_at": "2026-07-27T12:35",
+  "window": "2026-07-27 .. 2026-08-11",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "Pinocchio Unstrung",
-          "media": "film",
-          "genres": [
-            "Fantasy",
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "Die Marionette erwacht zu grausigem Leben: Pinocchio, erschaffen von Geppetto (Richard Brake), möchte ein echter Junge werden, doch der Traum vom Menschsein führt die lebendige Holzpuppe auf finstere Abwege. Getrieben von verzweifelter Sehnsucht, glaubt die Kreatur, dass gestohlenes Fleisch und Blut ihr den ersehnten Wandel bringen könnten. Die sprechende Grille (im englischen Original mit der Stimme von Robert Englund), einst sein Gewissen, befeuert das Unheil mit boshaften Einflüsterungen, denn sie verfolgt ihre eigenen dunklen Ziele. So verwandelt sich der Wunsch nach Zugehörigkeit in einen blutigen Albtraum. - ...",
-          "date": "2026-07-22",
-          "poster": "https://images.justwatch.com/poster/345768088/s332/pinocchio-unstrung.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Pinocchio%20Unstrung%20Trailer"
-        },
-        {
-          "title": "Ip Man: Kung Fu Legend",
-          "media": "film",
-          "genres": [
-            "Action"
-          ],
-          "overview": "Ein neues Kapitel der ikonischsten Martial-Arts-Legende des 21. Jahrhunderts: Hongkong in den 50e Jahren. Kung-Fu-Meister 'Ip Man' (Dennis To) rettet eine Gruppe von Flüchtlingen und bietet ihnen in der Baumwollfabrik seines Freundes Chui eine Unterkunft. Doch schon bald muss er sich mit der Black-Tiger-Gang auseinandersetzen, die vom korrupten britischen Geschäftsmann Parker angeheuert wurde, um Chui zu enteignen. Die Situation eskaliert, als der Leiter der Hongkonger Martial-Arts-Vereinigung unter mysteriösen Umständen ermordet und die Tat schließlich Ip Man angehängt wird. Nun muss Ip Man seine Unschuld beweisen, die Angriffe der Gang überleben und das Leben der Flüchtlinge retten...    'Ip Man - Kung Fu Legend' (2026), ein neues Kapitel der ikonischsten Martial-Arts-Legende des 21. Jahrhunderts. Im brandneuen Biopic über das bewegte Leben des legendären Meisters von Bruce Lee übernahm Dennis To erneut die Rolle des titelgebenden Protagonisten. Mit sagenhaften Actionszenen, hervorragend umgesetzt von Stunt- und Kampfchoreograf Sun Fei ('Warriors of Heaven and Earth', 'The Banquet') unter der Regie von Li Liming. - ...",
-          "date": "2026-07-22",
-          "poster": "https://images.justwatch.com/poster/346719539/s332/ip-man-kung-fu-legend.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Ip%20Man%3A%20Kung%20Fu%20Legend%20Trailer"
-        },
-        {
-          "title": "Elize: Shadows of a Woman",
-          "media": "film",
-          "genres": [
-            "Krimi"
-          ],
-          "overview": "In this retelling of a real case, a former escort discovers her wealthy husband's infidelity and struggles to cope as betrayal poisons their marriage.",
-          "date": "2026-07-22",
-          "poster": "https://images.justwatch.com/poster/347189481/s332/elize-shadows-of-a-woman.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Elize%3A%20Shadows%20of%20a%20Woman%20Trailer"
-        },
-        {
-          "title": "The Dink",
+          "title": "Mary Beth Barone: Galaxy Brain",
           "media": "film",
           "genres": [
             "Komödie",
-            "Sport"
-          ],
-          "overview": "Dusty \"The Hammer\" Boyd war einst ein vielversprechender Tennisprofi, doch seine besten Tage liegen lange zurück. Um einen angeschlagenen Country Club zu retten und sich endlich den Respekt seines Vaters zu verdienen, bricht er ein heiliges Gelübde und wagt das Undenkbare: Er spielt Pickleball.",
-          "date": "2026-07-23",
-          "poster": "https://images.justwatch.com/poster/346606102/s332/the-dink.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Dink%20Trailer"
-        },
-        {
-          "title": "Euphoria: A Look Back",
-          "media": "film",
-          "genres": [
             "Dokumentation"
           ],
-          "overview": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
-          "date": "2026-07-24",
-          "poster": "https://images.justwatch.com/poster/347348732/s332/euphoria-a-look-back.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Euphoria%3A%20A%20Look%20Back%20Trailer"
-        },
-        {
-          "title": "The Truthers",
-          "media": "film",
-          "genres": [
-            "Drama",
-            "Thriller"
-          ],
-          "overview": "Ruth, a 30-year-old woman who has been estranged from her family for some time, returns home when her mother dies under strange circumstances. There, she is reunited with her father, Martín, who since retiring seems to have become a grumpy, aggressive man obsessed with a sinister conspiracy theory. The relationship between the two of them is so tense, and his behavior so erratic, that Ruth begins to suspect Martín might be responsible for her mother's death. Is it possible she's sharing a roof with a murderer?",
-          "date": "2026-07-24",
-          "poster": "https://images.justwatch.com/poster/346815069/s332/the-truthers.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Truthers%20Trailer"
-        },
-        {
-          "title": "Sudesha",
-          "media": "film",
-          "genres": [
-            "Dokumentation"
-          ],
-          "overview": "The story of a woman living in a village in the lower Himalayas. In this area, people depend entirely on the forest for their daily needs of firewood, food and water. But the forests have been destroyed by powerful timber traders. And along with the forest, the livelihood of the people has been greatly altered. The women of this region played an active role in the \"Chipkow Movement\". Sudesha was imprisoned for her protest.",
-          "date": "2026-07-25",
-          "poster": "https://images.justwatch.com/poster/308822776/s332/sudesha.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Sudesha%20Trailer"
+          "overview": "This marks Mary Beth Barone's first hour-long comedy special.",
+          "date": "2026-07-28",
+          "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20Trailer"
         },
         {
           "title": "Wham! 10 Days in China",
@@ -97,24 +28,83 @@
           "date": "2026-07-28",
           "poster": "https://images.justwatch.com/poster/347405309/s332/wham-10-days-in-china.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Wham%21%2010%20Days%20in%20China%20Trailer"
-        }
-      ]
-    },
-    "hungary": {
-      "items": [
+        },
         {
-          "title": "Jana Nayagan",
+          "title": "Spider-Man 4",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "overview": "Vier Jahre sind seit den Ereignissen von „No Way Home“ vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht – gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
+          "date": "2026-07-28",
+          "poster": "https://images.justwatch.com/poster/346462674/s332/spider-man-4.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Spider-Man%204%20Trailer"
+        },
+        {
+          "title": "Lady Gaga - My Songs. My Life.",
+          "media": "film",
+          "genres": [
+            "Dokumentation",
+            "Musik"
+          ],
+          "overview": "Seit zwei Jahrzehnten lebt Lady Gaga für die Kunst – provokant, laut und verletzlich. Sie verweigert sich der Rolle des klassischen Popstars und wurde doch zur Ikone. Die Doku zeichnet ihren Weg anhand prägender Songs nach. Interviews geben intime Einblicke in Einflüsse und Geschichten hinter ihrem Werk – ein Porträt über Freiheit, Identität und Mut.",
+          "date": "2026-07-29",
+          "poster": "https://images.justwatch.com/poster/347527011/s332/lady-gaga-my-songs-my-life.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Lady%20Gaga%20-%20My%20Songs.%20My%20Life.%20Trailer"
+        },
+        {
+          "title": "Addicted to Change",
           "media": "film",
           "genres": [
             "Action",
             "Drama",
             "Thriller"
           ],
-          "overview": "Ein wahrer Anführer strebt nicht nach Macht, sondern setzt sich für die Menschen ein.",
-          "date": "2026-07-23",
-          "poster": "https://images.justwatch.com/poster/340627670/s332/jana-nayagan.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Jana%20Nayagan%20Trailer"
+          "overview": "Im Großbritannien der nahen Zukunft erfinden drei Praktikanten in einem maroden Biotech-Labor ein hochwirksames Medikament zur Steigerung der kognitiven Fähigkeiten. Als sie die Produktion hochfahren, setzt die Regierung das Militär ein, um eine globale Katastrophe abzuwenden.",
+          "date": "2026-07-30",
+          "poster": "https://images.justwatch.com/poster/345829673/s332/addicted-to-change.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Addicted%20to%20Change%20Trailer"
         },
+        {
+          "title": "Ghost School",
+          "media": "film",
+          "genres": [
+            "Drama"
+          ],
+          "overview": "Rabia, a ten-year-old Pakistani girl sets out to find why her only school in the village is closed. This fable is a ghost story with a tinge of magical-realism that explores corruption from a child's perspective.",
+          "date": "2026-07-30",
+          "poster": "https://images.justwatch.com/poster/343809038/s332/ghost-school.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Ghost%20School%20Trailer"
+        },
+        {
+          "title": "OKTAGON 92: Szabová vs. Pudilová",
+          "media": "film",
+          "genres": [
+            "Action"
+          ],
+          "overview": "OKTAGON feiert zehnjähriges Jubiläum – und ein Turnier auf Štvanice darf dabei natürlich nicht fehlen. An diesem Ort fanden einige der legendärsten OKTAGON-Turniere statt. Am 1. August 2026 verwandelt sich die Prager Insel erneut in eine Open-Air-Arena, in der eines der größten Sportereignisse des Jahres stattfinden wird!",
+          "date": "2026-08-01",
+          "poster": "https://images.justwatch.com/poster/346624715/s332/oktagon-92-szabova-vs-pudilova.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=OKTAGON%2092%3A%20Szabov%C3%A1%20vs.%20Pudilov%C3%A1%20Trailer"
+        },
+        {
+          "title": "Inside the Trustor Scandal",
+          "media": "film",
+          "genres": [
+            "Krimi",
+            "Dokumentation"
+          ],
+          "overview": "For the first time since 1997, Joachim Posener finally emerges from hiding and allows himself to be interviewed about his life and the Trustor affair. Twenty-seven years ago, he disappeared without a trace, and ever since, he has been on the international most wanted list. Now, Karin af Klintberg searches for him to find out how he lives and where he's been hiding all these years. But perhaps above all, to uncover what everyone is wondering: Was he guilty? Through new and opposing testimonies from never-before-heard voices, Karin simultaneously continues the search for the truth about the coup. How could five people swindle 600 million kr and still go free? And where did the money actually go?",
+          "date": "2026-08-05",
+          "poster": "https://images.justwatch.com/poster/347357118/s332/inside-the-trustor-scandal.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Inside%20the%20Trustor%20Scandal%20Trailer"
+        }
+      ]
+    },
+    "hungary": {
+      "items": [
         {
           "title": "Spider-Man 4",
           "media": "film",
@@ -137,82 +127,36 @@
             "Sci-Fi"
           ],
           "overview": "Ein Mann erwirbt einen künstlich intelligenten Androiden, um mit dem Verlust seiner kürzlich verstorbenen Frau fertig zu werden. Bei dem Versuch, einen wirklich empfindungsfähigen Partner zu schaffen, verwandelt er jedoch versehentlich einen harmlosen Lovebot in einen tödlichen Seelenverwandten.",
-          "date": "2026-07-31",
+          "date": "2026-07-29",
           "poster": "https://images.justwatch.com/poster/347139407/s332/soulm8te.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Soulm8te%20Trailer"
+        },
+        {
+          "title": "Olmo",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Drama"
+          ],
+          "overview": "From the producers of MINARI and MOONLIGHT comes the next great coming-of-age journey. Fourteen-year-old Olmo and his family are struggling to make ends meet in 1979 New Mexico. Due to an illness that keeps his father Nestor confined to his bed, his mother Cecilia, his sister Ana, and even he himself must contribute to the daily caretaking responsibilities. Olmo, in the throes of selfish adolescence, would much rather hang out with his best friend Miguel and try to impress his beautiful next-door neighbor Nina than take care of his dad. And when Nina finally invites him to a party on the day that he’s been left alone with his dad, Olmo will do whatever he can to get out of his duties, embarking on a journey of mischief and chaos. In his desperate attempt to escape his home life, he will come to realize that the place of his deepest pain is also where he will find solace: with his family.",
+          "date": "2026-08-07",
+          "poster": "https://images.justwatch.com/poster/329756865/s332/olmo.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Olmo%20Trailer"
         }
       ]
     },
     "usa": {
       "items": [
         {
-          "title": "Thingy",
+          "title": "Stan Lee: The Final Chapter",
           "media": "film",
           "genres": [
-            "Horror"
+            "Dokumentation"
           ],
-          "overview": "A young woman will do anything to avoid her ex at a secluded house party. But a supernatural virus passing through the partygoers may take care of him for her.",
-          "date": "2026-07-21",
+          "overview": "An insider look at Stan Lee's tumultuous final years, revealing how mistreatment and conflict threatened his life and legacy.",
+          "date": "2026-07-28",
           "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Thingy%20Trailer"
-        },
-        {
-          "title": "Apollo Jump",
-          "media": "film",
-          "genres": [
-            "Krimi"
-          ],
-          "overview": "Plot kept under wraps.",
-          "date": "2026-07-22",
-          "poster": "https://images.justwatch.com/poster/347374653/s332/apollo-jump.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Apollo%20Jump%20Trailer"
-        },
-        {
-          "title": "Fruit Gathering",
-          "media": "film",
-          "genres": [
-            "Drama"
-          ],
-          "overview": "In industrial Yangon, young factory worker San Kyi dreams of returning to her native village. Her relationship with co-worker Theint Theint Oo evolves from closeness to growing distance, revealing tensions between their expectations and life prospects. Amid exhausting labour, social repression, and economic uncertainty, both women seek escape and intimacy.",
-          "date": "2026-07-23",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Fruit%20Gathering%20Trailer"
-        },
-        {
-          "title": "I, Object",
-          "media": "film",
-          "genres": [
-            "Animation",
-            "Drama",
-            "Fantasy"
-          ],
-          "overview": "Grieving the loss of his father and unable to relate to the people in his life, 10-year-old Tom takes refuge in the everyday objects around him; they reveal their true identities and speak to Tom, helping him in his healing process.",
-          "date": "2026-07-23",
-          "poster": "https://images.justwatch.com/poster/346032912/s332/i-object.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=I%2C%20Object%20Trailer"
-        },
-        {
-          "title": "The Dink",
-          "media": "film",
-          "genres": [
-            "Komödie",
-            "Sport"
-          ],
-          "overview": "Dusty \"The Hammer\" Boyd war einst ein vielversprechender Tennisprofi, doch seine besten Tage liegen lange zurück. Um einen angeschlagenen Country Club zu retten und sich endlich den Respekt seines Vaters zu verdienen, bricht er ein heiliges Gelübde und wagt das Undenkbare: Er spielt Pickleball.",
-          "date": "2026-07-23",
-          "poster": "https://images.justwatch.com/poster/346606102/s332/the-dink.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Dink%20Trailer"
-        },
-        {
-          "title": "Anthony Joshua vs. Kristian Prenga",
-          "media": "film",
-          "genres": [
-            "Action"
-          ],
-          "overview": "Anthony Joshua makes his highly anticipated return to the ring against knockout artist Kristian Prenga in Riyadh, Saudi Arabia.",
-          "date": "2026-07-25",
-          "poster": "https://images.justwatch.com/poster/344642385/s332/anthony-joshua-vs-kristian-prenga.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Anthony%20Joshua%20vs.%20Kristian%20Prenga%20Trailer"
+          "trailer": "https://www.youtube.com/results?search_query=Stan%20Lee%3A%20The%20Final%20Chapter%20Trailer"
         },
         {
           "title": "Mary Beth Barone: Galaxy Brain",
@@ -227,6 +171,18 @@
           "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20Trailer"
         },
         {
+          "title": "Wham! 10 Days in China",
+          "media": "film",
+          "genres": [
+            "Dokumentation",
+            "Musik"
+          ],
+          "overview": "1985 schrieb WHAM! Geschichte als erste westliche Popgruppe, die im kommunistischen China auftrat. Die Konzerte von George Michael und Andrew Ridgeley in Peking und Guangzhou waren ein kultureller Meilenstein – Ost trifft West, Musik trifft Politik. Nun enthüllt neu restauriertes Filmmaterial die bisher unbekannte Geschichte dieser legendären Tournee, die WHAM! zu Weltruhm verhalf.",
+          "date": "2026-07-28",
+          "poster": "https://images.justwatch.com/poster/347405309/s332/wham-10-days-in-china.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Wham%21%2010%20Days%20in%20China%20Trailer"
+        },
+        {
           "title": "The Devil's Mouth",
           "media": "film",
           "genres": [
@@ -237,6 +193,51 @@
           "date": "2026-07-29",
           "poster": "https://images.justwatch.com/poster/346740369/s332/the-devils-mouth-2026.jpg",
           "trailer": "https://www.youtube.com/results?search_query=The%20Devil%27s%20Mouth%20Trailer"
+        },
+        {
+          "title": "Above & Below",
+          "media": "film",
+          "genres": [
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "A group of friends set off for an unforgettable vacation. What begins as an adventure of partying and diving quickly turns into a nightmare when they are attacked by criminals in open waters.",
+          "date": "2026-07-29",
+          "poster": "https://images.justwatch.com/poster/347217020/s332/above-and-below-2026-1.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Above%20%26%20Below%20Trailer"
+        },
+        {
+          "title": "Adults: Marathon Day",
+          "media": "film",
+          "genres": [],
+          "overview": "A prequel special to FX's Adults that introduces the friend group and how they met Paul Baker.",
+          "date": "2026-07-31",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Adults%3A%20Marathon%20Day%20Trailer"
+        },
+        {
+          "title": "Devour",
+          "media": "film",
+          "genres": [
+            "Horror"
+          ],
+          "overview": "A struggling all female metal band called \"The Virginia Bitches\" have a taste for blood and while on tour their van breaks down in the middle of nowhere. Seeking help they come across a town full of cannibals led by an infamous Warlock.",
+          "date": "2026-08-01",
+          "poster": "https://images.justwatch.com/poster/346940317/s332/devour-2025.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Devour%20Trailer"
+        },
+        {
+          "title": "Robound",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "overview": "The Perfect Partner Does Exist... From Sneaky Good Production & Verloren Productions comes - ROBOUND.",
+          "date": "2026-08-05",
+          "poster": "https://images.justwatch.com/poster/345786333/s332/robound.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Robound%20Trailer"
         }
       ]
     }

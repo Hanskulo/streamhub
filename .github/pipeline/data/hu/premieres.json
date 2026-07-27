@@ -1,90 +1,21 @@
 {
-  "generated_at": "2026-07-20T11:56",
-  "window": "2026-07-20 .. 2026-08-04",
+  "generated_at": "2026-07-27T12:35",
+  "window": "2026-07-27 .. 2026-08-11",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "Pinocchio: Unstrung",
-          "media": "film",
-          "genres": [
-            "Fantasy",
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
-          "date": "2026-07-22",
-          "poster": "https://images.justwatch.com/poster/347335570/s332/pinocchio-unstrung.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Pinocchio%3A%20Unstrung%20el%C5%91zetes"
-        },
-        {
-          "title": "Ip Man: Kung Fu Legend",
-          "media": "film",
-          "genres": [
-            "Akció"
-          ],
-          "overview": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?",
-          "date": "2026-07-22",
-          "poster": "https://images.justwatch.com/poster/346719539/s332/ip-man-kung-fu-legend.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Ip%20Man%3A%20Kung%20Fu%20Legend%20el%C5%91zetes"
-        },
-        {
-          "title": "Elize: Shadows of a Woman",
-          "media": "film",
-          "genres": [
-            "Krimi"
-          ],
-          "overview": "In this retelling of a real case, a former escort discovers her wealthy husband's infidelity and struggles to cope as betrayal poisons their marriage.",
-          "date": "2026-07-22",
-          "poster": "https://images.justwatch.com/poster/347189481/s332/elize-shadows-of-a-woman.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Elize%3A%20Shadows%20of%20a%20Woman%20el%C5%91zetes"
-        },
-        {
-          "title": "The Dink",
+          "title": "Mary Beth Barone: Galaxy Brain",
           "media": "film",
           "genres": [
             "Vígjáték",
-            "Sport"
-          ],
-          "overview": "Dusty „a Pöröly” Boydra, a levitézlett profi teniszezőre ráférne egy győzelem. Azért, hogy megmentse a küszködő sportklubot és kivívja apja tiszteletét, Dusty megszegi a szent esküt, és megteszi az elképzelhetetlent: pickleballt játszik.",
-          "date": "2026-07-23",
-          "poster": "https://images.justwatch.com/poster/346606105/s332/the-dink.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Dink%20el%C5%91zetes"
-        },
-        {
-          "title": "Euphoria: A Look Back",
-          "media": "film",
-          "genres": [
             "Dokumentum"
           ],
-          "overview": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
-          "date": "2026-07-24",
-          "poster": "https://images.justwatch.com/poster/347348732/s332/euphoria-a-look-back.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Euphoria%3A%20A%20Look%20Back%20el%C5%91zetes"
-        },
-        {
-          "title": "The Truthers",
-          "media": "film",
-          "genres": [
-            "Dráma",
-            "Thriller"
-          ],
-          "overview": "Ruth, a 30-year-old woman who has been estranged from her family for some time, returns home when her mother dies under strange circumstances. There, she is reunited with her father, Martín, who since retiring seems to have become a grumpy, aggressive man obsessed with a sinister conspiracy theory. The relationship between the two of them is so tense, and his behavior so erratic, that Ruth begins to suspect Martín might be responsible for her mother's death. Is it possible she's sharing a roof with a murderer?",
-          "date": "2026-07-24",
-          "poster": "https://images.justwatch.com/poster/346815069/s332/the-truthers.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Truthers%20el%C5%91zetes"
-        },
-        {
-          "title": "Sudesha",
-          "media": "film",
-          "genres": [
-            "Dokumentum"
-          ],
-          "overview": "The story of a woman living in a village in the lower Himalayas. In this area, people depend entirely on the forest for their daily needs of firewood, food and water. But the forests have been destroyed by powerful timber traders. And along with the forest, the livelihood of the people has been greatly altered. The women of this region played an active role in the \"Chipkow Movement\". Sudesha was imprisoned for her protest.",
-          "date": "2026-07-25",
-          "poster": "https://images.justwatch.com/poster/308822776/s332/sudesha.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Sudesha%20el%C5%91zetes"
+          "overview": "This marks Mary Beth Barone's first hour-long comedy special.",
+          "date": "2026-07-28",
+          "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20el%C5%91zetes"
         },
         {
           "title": "Wham! 10 Days in China",
@@ -93,28 +24,87 @@
             "Dokumentum",
             "Zene"
           ],
-          "overview": "In 1985, Wham! were the first Western pop group to perform in communist China. George Michael and Andrew Ridgeley’s two concerts in Beijing and Guangzhou introduced live Western pop to Chinese audiences and marked a turning point for the band. For Wham!, the tour was more than music; it was a bold move to capture American attention and launch them into global superstardom, and it worked.",
+          "overview": "In 1985, WHAM! made history as the first Western pop act to perform in communist China. George Michael and Andrew Ridgeley’s concerts in Beijing and Guangzhou were a cultural milestone – East meets West, music meets politics. Now, newly restored footage reveals the untold story of the iconic tour that helped launch WHAM! to global superstardom.",
           "date": "2026-07-28",
-          "poster": "https://images.justwatch.com/poster/346691831/s332/wham-10-days-in-china.jpg",
+          "poster": "https://images.justwatch.com/poster/346475961/s332/wham-10-days-in-china.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Wham%21%2010%20Days%20in%20China%20el%C5%91zetes"
-        }
-      ]
-    },
-    "hungary": {
-      "items": [
+        },
         {
-          "title": "Jana Nayagan",
+          "title": "Pókember: Vadonatúj nap",
+          "media": "film",
+          "genres": [
+            "Akció",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "overview": "A Végítélet napja után Peter Parker megpróbál a főiskolára koncentrálni, és maga mögött hagyni Pókembert. De amikor egy új fenyegetés veszélyezteti barátait, meg kell szegnie ígéretét, és újra be kell öltöznie, hogy egy váratlan szövetségessel összefogva megvédje szeretteit.",
+          "date": "2026-07-28",
+          "poster": "https://images.justwatch.com/poster/345631134/s332/spider-man-4.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=P%C3%B3kember%3A%20Vadonat%C3%BAj%20nap%20el%C5%91zetes"
+        },
+        {
+          "title": "Lady Gaga - My Songs. My Life.",
+          "media": "film",
+          "genres": [
+            "Dokumentum",
+            "Zene"
+          ],
+          "overview": "Seit zwei Jahrzehnten lebt Lady Gaga für die Kunst – provokant, laut und verletzlich. Sie verweigert sich der Rolle des klassischen Popstars und wurde doch zur Ikone. Die Doku zeichnet ihren Weg anhand prägender Songs nach. Interviews geben intime Einblicke in Einflüsse und Geschichten hinter ihrem Werk – ein Porträt über Freiheit, Identität und Mut.",
+          "date": "2026-07-29",
+          "poster": "https://images.justwatch.com/poster/347527011/s332/lady-gaga-my-songs-my-life.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Lady%20Gaga%20-%20My%20Songs.%20My%20Life.%20el%C5%91zetes"
+        },
+        {
+          "title": "Addicted to Change",
           "media": "film",
           "genres": [
             "Akció",
             "Dráma",
             "Thriller"
           ],
-          "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-          "date": "2026-07-23",
-          "poster": "https://images.justwatch.com/poster/340627670/s332/jana-nayagan.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Jana%20Nayagan%20el%C5%91zetes"
+          "overview": "In a near future Britain, at a biotech lab on the brink of collapse, three interns invent a cognitive enhancing drug. They begin full scale manufacture, only to become targets of government forces who view their breakthrough as a threat.",
+          "date": "2026-07-30",
+          "poster": "https://images.justwatch.com/poster/345829673/s332/addicted-to-change.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Addicted%20to%20Change%20el%C5%91zetes"
         },
+        {
+          "title": "Ghost School",
+          "media": "film",
+          "genres": [
+            "Dráma"
+          ],
+          "overview": "Rabia, a ten-year-old Pakistani girl sets out to find why her only school in the village is closed. This fable is a ghost story with a tinge of magical-realism that explores corruption from a child's perspective.",
+          "date": "2026-07-30",
+          "poster": "https://images.justwatch.com/poster/343809038/s332/ghost-school.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Ghost%20School%20el%C5%91zetes"
+        },
+        {
+          "title": "OKTAGON 92: Szabová vs. Pudilová",
+          "media": "film",
+          "genres": [
+            "Akció"
+          ],
+          "overview": "OKTAGON feiert zehnjähriges Jubiläum – und ein Turnier auf Štvanice darf dabei natürlich nicht fehlen. An diesem Ort fanden einige der legendärsten OKTAGON-Turniere statt. Am 1. August 2026 verwandelt sich die Prager Insel erneut in eine Open-Air-Arena, in der eines der größten Sportereignisse des Jahres stattfinden wird!",
+          "date": "2026-08-01",
+          "poster": "https://images.justwatch.com/poster/346624715/s332/oktagon-92-szabova-vs-pudilova.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=OKTAGON%2092%3A%20Szabov%C3%A1%20vs.%20Pudilov%C3%A1%20el%C5%91zetes"
+        },
+        {
+          "title": "Inside the Trustor Scandal",
+          "media": "film",
+          "genres": [
+            "Krimi",
+            "Dokumentum"
+          ],
+          "overview": "For the first time since 1997, Joachim Posener finally emerges from hiding and allows himself to be interviewed about his life and the Trustor affair. Twenty-seven years ago, he disappeared without a trace, and ever since, he has been on the international most wanted list. Now, Karin af Klintberg searches for him to find out how he lives and where he's been hiding all these years. But perhaps above all, to uncover what everyone is wondering: Was he guilty? Through new and opposing testimonies from never-before-heard voices, Karin simultaneously continues the search for the truth about the coup. How could five people swindle 600 million kr and still go free? And where did the money actually go?",
+          "date": "2026-08-05",
+          "poster": "https://images.justwatch.com/poster/347357118/s332/inside-the-trustor-scandal.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Inside%20the%20Trustor%20Scandal%20el%C5%91zetes"
+        }
+      ]
+    },
+    "hungary": {
+      "items": [
         {
           "title": "Pókember: Vadonatúj nap",
           "media": "film",
@@ -137,82 +127,36 @@
             "Sci-Fi"
           ],
           "overview": "After a ruthless tech giant acquires his company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to program her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-          "date": "2026-07-31",
+          "date": "2026-07-29",
           "poster": "https://images.justwatch.com/poster/347139407/s332/soulm8te.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Soulm8te%20el%C5%91zetes"
+        },
+        {
+          "title": "Olmo",
+          "media": "film",
+          "genres": [
+            "Vígjáték",
+            "Dráma"
+          ],
+          "overview": "1979, Új-Mexikó, USA. Olmo csapdába került. Ma neki kell ápolnia beteg édesapját, pedig még csak 14 éves, és sokkal inkább töltené az idejét legjobb barátjával, Miguellel. Amikor azonban Olmo meghívást kap gyönyörű szomszédjától, Ninától egy buliba, mindent megtesz, hogy kibújjon a kötelességei alól, és elindul egy csínyekkel teli, kaotikus estére. Ahogy az éjszaka telik, rádöbben, hogy talán megszereti azt a helyet, ahonnan eddig mindenáron el akart menekülni: az otthonát.",
+          "date": "2026-08-07",
+          "poster": "https://images.justwatch.com/poster/329756865/s332/olmo.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Olmo%20el%C5%91zetes"
         }
       ]
     },
     "usa": {
       "items": [
         {
-          "title": "Thingy",
+          "title": "Stan Lee: The Final Chapter",
           "media": "film",
           "genres": [
-            "Horror"
+            "Dokumentum"
           ],
-          "overview": "A young woman will do anything to avoid her ex at a secluded house party. But a supernatural virus passing through the partygoers may take care of him for her.",
-          "date": "2026-07-21",
+          "overview": "An insider look at Stan Lee's tumultuous final years, revealing how mistreatment and conflict threatened his life and legacy.",
+          "date": "2026-07-28",
           "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Thingy%20el%C5%91zetes"
-        },
-        {
-          "title": "Apollo Jump",
-          "media": "film",
-          "genres": [
-            "Krimi"
-          ],
-          "overview": "Plot kept under wraps.",
-          "date": "2026-07-22",
-          "poster": "https://images.justwatch.com/poster/347374653/s332/apollo-jump.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Apollo%20Jump%20el%C5%91zetes"
-        },
-        {
-          "title": "Fruit Gathering",
-          "media": "film",
-          "genres": [
-            "Dráma"
-          ],
-          "overview": "In industrial Yangon, young factory worker San Kyi dreams of returning to her native village. Her relationship with co-worker Theint Theint Oo evolves from closeness to growing distance, revealing tensions between their expectations and life prospects. Amid exhausting labour, social repression, and economic uncertainty, both women seek escape and intimacy.",
-          "date": "2026-07-23",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Fruit%20Gathering%20el%C5%91zetes"
-        },
-        {
-          "title": "I, Object",
-          "media": "film",
-          "genres": [
-            "Animáció",
-            "Dráma",
-            "Fantasy"
-          ],
-          "overview": "Grieving the loss of his father and unable to relate to the people in his life, 10-year-old Tom takes refuge in the everyday objects around him; they reveal their true identities and speak to Tom, helping him in his healing process.",
-          "date": "2026-07-23",
-          "poster": "https://images.justwatch.com/poster/346032912/s332/i-object.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=I%2C%20Object%20el%C5%91zetes"
-        },
-        {
-          "title": "The Dink",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Sport"
-          ],
-          "overview": "Dusty „a Pöröly” Boydra, a levitézlett profi teniszezőre ráférne egy győzelem. Azért, hogy megmentse a küszködő sportklubot és kivívja apja tiszteletét, Dusty megszegi a szent esküt, és megteszi az elképzelhetetlent: pickleballt játszik.",
-          "date": "2026-07-23",
-          "poster": "https://images.justwatch.com/poster/346606105/s332/the-dink.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Dink%20el%C5%91zetes"
-        },
-        {
-          "title": "Anthony Joshua vs. Kristian Prenga",
-          "media": "film",
-          "genres": [
-            "Akció"
-          ],
-          "overview": "Anthony Joshua makes his highly anticipated return to the ring against knockout artist Kristian Prenga in Riyadh, Saudi Arabia.",
-          "date": "2026-07-25",
-          "poster": "https://images.justwatch.com/poster/344642385/s332/anthony-joshua-vs-kristian-prenga.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Anthony%20Joshua%20vs.%20Kristian%20Prenga%20el%C5%91zetes"
+          "trailer": "https://www.youtube.com/results?search_query=Stan%20Lee%3A%20The%20Final%20Chapter%20el%C5%91zetes"
         },
         {
           "title": "Mary Beth Barone: Galaxy Brain",
@@ -227,16 +171,73 @@
           "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20el%C5%91zetes"
         },
         {
-          "title": "The Devil's Mouth",
+          "title": "Wham! 10 Days in China",
+          "media": "film",
+          "genres": [
+            "Dokumentum",
+            "Zene"
+          ],
+          "overview": "In 1985, WHAM! made history as the first Western pop act to perform in communist China. George Michael and Andrew Ridgeley’s concerts in Beijing and Guangzhou were a cultural milestone – East meets West, music meets politics. Now, newly restored footage reveals the untold story of the iconic tour that helped launch WHAM! to global superstardom.",
+          "date": "2026-07-28",
+          "poster": "https://images.justwatch.com/poster/346475961/s332/wham-10-days-in-china.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Wham%21%2010%20Days%20in%20China%20el%C5%91zetes"
+        },
+        {
+          "title": "ÖRDÖGSZÁJ",
           "media": "film",
           "genres": [
             "Horror",
             "Thriller"
           ],
-          "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+          "overview": "Öt barát indul el felfedezni a thaiföldi Ördögszáj-barlangrendszert egy utolsó kaland során, mielőtt megkezdődik a nagybetűs élet. De hamarosan kiderül, hogy valami vadászik rájuk a víz alatt… és az a valami gyors, csendes és halálos. A fojtogató sötétségben a bizalom megrendül, a pánik eluralkodik, és minden rossz kanyar küzdelemmé válik a túlélésért.",
           "date": "2026-07-29",
           "poster": "https://images.justwatch.com/poster/346740375/s332/the-devils-mouth-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Devil%27s%20Mouth%20el%C5%91zetes"
+          "trailer": "https://www.youtube.com/results?search_query=%C3%96RD%C3%96GSZ%C3%81J%20el%C5%91zetes"
+        },
+        {
+          "title": "Above & Below",
+          "media": "film",
+          "genres": [
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "A group of friends set off for an unforgettable vacation. What begins as an adventure of partying and diving quickly turns into a nightmare when they are attacked by criminals in open waters.",
+          "date": "2026-07-29",
+          "poster": "https://images.justwatch.com/poster/347217020/s332/above-and-below-2026-1.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Above%20%26%20Below%20el%C5%91zetes"
+        },
+        {
+          "title": "Adults: Marathon Day",
+          "media": "film",
+          "genres": [],
+          "overview": "A prequel special to FX's Adults that introduces the friend group and how they met Paul Baker.",
+          "date": "2026-07-31",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Adults%3A%20Marathon%20Day%20el%C5%91zetes"
+        },
+        {
+          "title": "Devour",
+          "media": "film",
+          "genres": [
+            "Horror"
+          ],
+          "overview": "A struggling all female metal band called \"The Virginia Bitches\" have a taste for blood and while on tour their van breaks down in the middle of nowhere. Seeking help they come across a town full of cannibals led by an infamous Warlock.",
+          "date": "2026-08-01",
+          "poster": "https://images.justwatch.com/poster/346940317/s332/devour-2025.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Devour%20el%C5%91zetes"
+        },
+        {
+          "title": "Robound",
+          "media": "film",
+          "genres": [
+            "Vígjáték",
+            "Dráma",
+            "Sci-Fi"
+          ],
+          "overview": "The Perfect Partner Does Exist... From Sneaky Good Production & Verloren Productions comes - ROBOUND.",
+          "date": "2026-08-05",
+          "poster": "https://images.justwatch.com/poster/345786333/s332/robound.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Robound%20el%C5%91zetes"
         }
       ]
     }
