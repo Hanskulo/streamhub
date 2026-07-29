@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-07-27T12:37",
-  "week": "2026-07-27",
+  "generated_at": "2026-07-29T11:33",
+  "week": "2026-07-29",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Instadocs: The Prediction Games",
+        "media": "film",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Prediction markets let anyone bet on anything, from the World Cup to alien invasions. \"Instadocs\" investigates the explosive rise of global betting.",
+        "date": "2026-07-26",
+        "poster": "https://images.justwatch.com/poster/347562215/s332/instadocs-the-prediction-games.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Instadocs%3A%20The%20Prediction%20Games%20Trailer"
+      },
       {
         "title": "Miguel Ángel Blanco: 48 Stunden, die Spanien veränderten",
         "media": "film",
@@ -16,6 +27,18 @@
       }
     ],
     "amazon-prime-video": [
+      {
+        "title": "The Devil's Mouth",
+        "media": "film",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ],
+        "overview": "Das Thailand-Abenteuer einer Gruppe von College-Freunden nimmt eine tödliche Wendung, als sie in überfluteten Höhlen gefangen sind – gemeinsam mit einem gefährlichen Raubtier. Während der Sauerstoff knapp wird, brechen in ihrem verzweifelten Überlebenskampf alte Konflikte wieder auf.",
+        "date": "2026-07-29",
+        "poster": "https://images.justwatch.com/poster/346740369/s332/ordogszaj.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Devil%27s%20Mouth%20Trailer"
+      },
       {
         "title": "Adarsh Baal Vidyalaya",
         "media": "sorozat",
@@ -83,6 +106,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Descendants%3A%20Wicked%20Wonderland%20Trailer"
       }
     ],
+    "justwatch-tv": [],
     "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
