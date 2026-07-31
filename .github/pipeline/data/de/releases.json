@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T11:33",
-  "week": "2026-07-29",
+  "generated_at": "2026-07-31T11:35",
+  "week": "2026-07-31",
   "by_provider": {
     "netflix": [
       {
@@ -28,16 +28,16 @@
     ],
     "amazon-prime-video": [
       {
-        "title": "The Devil's Mouth",
+        "title": "The Devil's Mouth - Der Teufelsschlund",
         "media": "film",
         "genres": [
           "Horror",
           "Thriller"
         ],
-        "overview": "Das Thailand-Abenteuer einer Gruppe von College-Freunden nimmt eine tödliche Wendung, als sie in überfluteten Höhlen gefangen sind – gemeinsam mit einem gefährlichen Raubtier. Während der Sauerstoff knapp wird, brechen in ihrem verzweifelten Überlebenskampf alte Konflikte wieder auf.",
+        "overview": "Fünf Freunde suchen in Thailand ein letztes großes Abenteuer und beschließen, die Devil's-Mouth-Höhlen zu erkunden. Schon bald erkennen sie, dass etwas in den Tiefen der Höhlen Jagd auf sie macht... und es ist schnell, lautlos und tödlich. In der erdrückenden Finsternis schwindet das Vertrauen, Panik macht sich breit und jede falsche Bewegung führt zu einem Kampf ums Überleben.",
         "date": "2026-07-29",
         "poster": "https://images.justwatch.com/poster/346740369/s332/ordogszaj.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Devil%27s%20Mouth%20Trailer"
+        "trailer": "https://www.youtube.com/results?search_query=The%20Devil%27s%20Mouth%20-%20Der%20Teufelsschlund%20Trailer"
       },
       {
         "title": "Adarsh Baal Vidyalaya",
@@ -50,18 +50,6 @@
         "date": "2026-07-24",
         "poster": "https://images.justwatch.com/poster/347473839/s332/adarsh-baal-vidyalaya.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Adarsh%20Baal%20Vidyalaya%20Trailer"
-      },
-      {
-        "title": "Eli Manning präsentiert: Die Verdeckten - Sabrina Ionescu",
-        "media": "film",
-        "genres": [
-          "Komödie",
-          "Dokumentation"
-        ],
-        "overview": "Eli Manning schickt WNBA-Superstar Sabrina Ionescu undercover an ihre alte Heimatuniversität, die University of Oregon. Als begeisterte Ducks-Anhängerin „Jennifer Scone\" besucht sie angeblich ihr allererstes Basketballspiel. Dabei führt sie Trainer an der Nase herum, mischt sich unter die Fans und sorgt in der Halbzeitpause für eine absolute Sensation auf dem Spielfeld.",
-        "date": "2026-06-29",
-        "poster": "https://images.justwatch.com/poster/346745040/s332/eli-manning-presents-the-undercovers-sabrina-ionescu.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Eli%20Manning%20pr%C3%A4sentiert%3A%20Die%20Verdeckten%20-%20Sabrina%20Ionescu%20Trailer"
       }
     ],
     "apple-tv": [
