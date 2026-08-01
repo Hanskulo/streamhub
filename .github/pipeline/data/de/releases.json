@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-07-31T11:35",
-  "week": "2026-07-31",
+  "generated_at": "2026-08-01T10:47",
+  "week": "2026-08-01",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Mary Beth Barone: Galaxy Brain",
+        "media": "film",
+        "genres": [
+          "Komödie",
+          "Dokumentation"
+        ],
+        "overview": "This marks Mary Beth Barone's first hour-long comedy special.",
+        "date": "2026-07-28",
+        "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20Trailer"
+      },
       {
         "title": "Instadocs: The Prediction Games",
         "media": "film",
@@ -53,6 +65,18 @@
       }
     ],
     "apple-tv": [
+      {
+        "title": "Snoopy präsentiert: Zu Hause ist es am schönsten",
+        "media": "film",
+        "genres": [
+          "Animation",
+          "Familie"
+        ],
+        "overview": "Als Snoopys geliebte Hundehütte plötzlich verschwindet, setzt er alles daran, sie wiederzufinden und erkennt auf seiner Suche, was ein Haus wirklich zu einem Zuhause macht.",
+        "date": "2026-07-30",
+        "poster": "https://images.justwatch.com/poster/347178382/s332/snoopy-bemutatja-mindenhol-jo-de-legjobb-otthon.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Snoopy%20pr%C3%A4sentiert%3A%20Zu%20Hause%20ist%20es%20am%20sch%C3%B6nsten%20Trailer"
+      },
       {
         "title": "The Dink",
         "media": "film",

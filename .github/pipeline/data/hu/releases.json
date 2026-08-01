@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-07-31T11:35",
-  "week": "2026-07-31",
+  "generated_at": "2026-08-01T10:47",
+  "week": "2026-08-01",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Mary Beth Barone: Galaxy Brain",
+        "media": "film",
+        "genres": [
+          "Vígjáték",
+          "Dokumentum"
+        ],
+        "overview": "This marks Mary Beth Barone's first hour-long comedy special.",
+        "date": "2026-07-28",
+        "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20el%C5%91zetes"
+      },
       {
         "title": "Instadocs: The Prediction Games",
         "media": "film",
@@ -53,6 +65,18 @@
       }
     ],
     "apple-tv": [
+      {
+        "title": "Snoopy bemutatja: Mindenhol jó, de legjobb otthon",
+        "media": "film",
+        "genres": [
+          "Animáció",
+          "Családi"
+        ],
+        "overview": "Amikor Snoopy kedvenc kutyaháza eltűnik, megpróbálja felkutatni, és közben rájön, mi tesz egy házat igazi otthonná.",
+        "date": "2026-07-30",
+        "poster": "https://images.justwatch.com/poster/347178332/s332/snoopy-bemutatja-mindenhol-jo-de-legjobb-otthon.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Snoopy%20bemutatja%3A%20Mindenhol%20j%C3%B3%2C%20de%20legjobb%20otthon%20el%C5%91zetes"
+      },
       {
         "title": "The Dink",
         "media": "film",
