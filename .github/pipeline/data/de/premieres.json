@@ -1,94 +1,10 @@
 {
-  "generated_at": "2026-07-27T12:35",
-  "window": "2026-07-27 .. 2026-08-11",
+  "generated_at": "2026-08-03T12:35",
+  "window": "2026-08-03 .. 2026-08-18",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
-        {
-          "title": "Mary Beth Barone: Galaxy Brain",
-          "media": "film",
-          "genres": [
-            "Komödie",
-            "Dokumentation"
-          ],
-          "overview": "This marks Mary Beth Barone's first hour-long comedy special.",
-          "date": "2026-07-28",
-          "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20Trailer"
-        },
-        {
-          "title": "Wham! 10 Days in China",
-          "media": "film",
-          "genres": [
-            "Dokumentation",
-            "Musik"
-          ],
-          "overview": "1985 schrieb WHAM! Geschichte als erste westliche Popgruppe, die im kommunistischen China auftrat. Die Konzerte von George Michael und Andrew Ridgeley in Peking und Guangzhou waren ein kultureller Meilenstein – Ost trifft West, Musik trifft Politik. Nun enthüllt neu restauriertes Filmmaterial die bisher unbekannte Geschichte dieser legendären Tournee, die WHAM! zu Weltruhm verhalf.",
-          "date": "2026-07-28",
-          "poster": "https://images.justwatch.com/poster/347405309/s332/wham-10-days-in-china.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Wham%21%2010%20Days%20in%20China%20Trailer"
-        },
-        {
-          "title": "Spider-Man 4",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Fantasy",
-            "Sci-Fi"
-          ],
-          "overview": "Vier Jahre sind seit den Ereignissen von „No Way Home“ vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht – gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
-          "date": "2026-07-28",
-          "poster": "https://images.justwatch.com/poster/346462674/s332/spider-man-4.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Spider-Man%204%20Trailer"
-        },
-        {
-          "title": "Lady Gaga - My Songs. My Life.",
-          "media": "film",
-          "genres": [
-            "Dokumentation",
-            "Musik"
-          ],
-          "overview": "Seit zwei Jahrzehnten lebt Lady Gaga für die Kunst – provokant, laut und verletzlich. Sie verweigert sich der Rolle des klassischen Popstars und wurde doch zur Ikone. Die Doku zeichnet ihren Weg anhand prägender Songs nach. Interviews geben intime Einblicke in Einflüsse und Geschichten hinter ihrem Werk – ein Porträt über Freiheit, Identität und Mut.",
-          "date": "2026-07-29",
-          "poster": "https://images.justwatch.com/poster/347527011/s332/lady-gaga-my-songs-my-life.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Lady%20Gaga%20-%20My%20Songs.%20My%20Life.%20Trailer"
-        },
-        {
-          "title": "Addicted to Change",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Drama",
-            "Thriller"
-          ],
-          "overview": "Im Großbritannien der nahen Zukunft erfinden drei Praktikanten in einem maroden Biotech-Labor ein hochwirksames Medikament zur Steigerung der kognitiven Fähigkeiten. Als sie die Produktion hochfahren, setzt die Regierung das Militär ein, um eine globale Katastrophe abzuwenden.",
-          "date": "2026-07-30",
-          "poster": "https://images.justwatch.com/poster/345829673/s332/addicted-to-change.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Addicted%20to%20Change%20Trailer"
-        },
-        {
-          "title": "Ghost School",
-          "media": "film",
-          "genres": [
-            "Drama"
-          ],
-          "overview": "Rabia, a ten-year-old Pakistani girl sets out to find why her only school in the village is closed. This fable is a ghost story with a tinge of magical-realism that explores corruption from a child's perspective.",
-          "date": "2026-07-30",
-          "poster": "https://images.justwatch.com/poster/343809038/s332/ghost-school.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Ghost%20School%20Trailer"
-        },
-        {
-          "title": "OKTAGON 92: Szabová vs. Pudilová",
-          "media": "film",
-          "genres": [
-            "Action"
-          ],
-          "overview": "OKTAGON feiert zehnjähriges Jubiläum – und ein Turnier auf Štvanice darf dabei natürlich nicht fehlen. An diesem Ort fanden einige der legendärsten OKTAGON-Turniere statt. Am 1. August 2026 verwandelt sich die Prager Insel erneut in eine Open-Air-Arena, in der eines der größten Sportereignisse des Jahres stattfinden wird!",
-          "date": "2026-08-01",
-          "poster": "https://images.justwatch.com/poster/346624715/s332/oktagon-92-szabova-vs-pudilova.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=OKTAGON%2092%3A%20Szabov%C3%A1%20vs.%20Pudilov%C3%A1%20Trailer"
-        },
         {
           "title": "Inside the Trustor Scandal",
           "media": "film",
@@ -98,38 +14,108 @@
           ],
           "overview": "For the first time since 1997, Joachim Posener finally emerges from hiding and allows himself to be interviewed about his life and the Trustor affair. Twenty-seven years ago, he disappeared without a trace, and ever since, he has been on the international most wanted list. Now, Karin af Klintberg searches for him to find out how he lives and where he's been hiding all these years. But perhaps above all, to uncover what everyone is wondering: Was he guilty? Through new and opposing testimonies from never-before-heard voices, Karin simultaneously continues the search for the truth about the coup. How could five people swindle 600 million kr and still go free? And where did the money actually go?",
           "date": "2026-08-05",
-          "poster": "https://images.justwatch.com/poster/347357118/s332/inside-the-trustor-scandal.jpg",
+          "poster": "https://images.justwatch.com/poster/347633789/s332/inside-the-trustor-scandal.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Inside%20the%20Trustor%20Scandal%20Trailer"
+        },
+        {
+          "title": "Der Engelmacher",
+          "media": "film",
+          "genres": [
+            "Dokumentation"
+          ],
+          "overview": "Tells the story of the Swiss religious community of Methernitha, which still exists today, its founder Paul Baumann – the inventor of a mysterious energy machine – and the young women who brought him down on charges of child abuse.",
+          "date": "2026-08-06",
+          "poster": "https://images.justwatch.com/poster/347479717/s332/der-engelmacher.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Der%20Engelmacher%20Trailer"
+        },
+        {
+          "title": "ATEEZ: LIGHt the WAy in CINEMAS",
+          "media": "film",
+          "genres": [
+            "Dokumentation",
+            "Musik"
+          ],
+          "overview": "Eines Tages erhält ATEEZ, die bis dahin eine ruhige Zeit in ihrem Versteck verbracht hatten, eine geheimnisvolle Nachricht. In diesem Moment beginnt sich alles zu ändern. ATINY ist verschwunden … Wie unter einem Zauber wandert ATEEZ durch eine traumhafte Ödnis, in eine zerfallende, von Flammen verschlungene Welt und die in dichten Nebel gehüllte Dunkle Stadt. Von einer unbekannten Macht verfolgt, beginnt ATEEZ, zurückzuschlagen, um ATINY zu finden. Das cinematische VR-Konzert von Weltklasse, das Zuschauer auf der ganzen Welt in seinen Bann gezogen hat, wurde speziell für die Kinoleinwand überarbeitet und erweckt die mitreißenden Auftritte von ATEEZ auf der größten Bühne überhaupt zum Leben. Und zum ersten Mal überhaupt gibt es mehr als nur das Konzerterlebnis: exklusive, bisher unveröffentlichte Einblicke hinter die Kulissen, die nur in dieser Kinofassung zu sehen sind.",
+          "date": "2026-08-06",
+          "poster": "https://images.justwatch.com/poster/346955183/s332/ateez-light-the-way-in-cinemas.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=ATEEZ%3A%20LIGHt%20the%20WAy%20in%20CINEMAS%20Trailer"
+        },
+        {
+          "title": "One Night Only",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Drama",
+            "Romantik"
+          ],
+          "overview": "Allie ist hoffnungslos romantisch, Owen wurde frisch abserviert. Sie begegnen sich in New York, und dort gilt eine neue Regel: Sex für Singles nur noch an einem Tag im Jahr! Perfektes Timing, denn der große Tag ist heute… aber was, wenn da doch mehr ist als für One Night Only?",
+          "date": "2026-08-06",
+          "poster": "https://images.justwatch.com/poster/347561576/s332/one-night-only-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=One%20Night%20Only%20Trailer"
+        },
+        {
+          "title": "Super Troopers 3",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Krimi"
+          ],
+          "overview": "Als Farvas (Kevin Heffernan) völlig überdrehte Verlobung mit Thornys (Jay Chandrasekhar) Schwester im Chaos endet, müssen die Troopers Thornys Intrigen durchkreuzen und gleichzeitig einen gefährlichen neuen Drogenring zerschlagen - alles, um die Situation und vielleicht sogar die Hochzeit selbst zu retten...    Die beliebten 'Super Troopers' Cops sind zurück mit dem dritten Teil der Kultkomödie von Broken Lizard: im Kinofilm 'Super Troopers 3' (2026), von und mit Regisseur Jay Chandrasekhar, nach einem Drehbuch von Broken Lizard, produziert von Rich Perello und besetzt mit Chandrasekhar, Kevin Heffernan, Steve Lemme, Paul Soter, Erik Stolhanske, Brian Cox, Marisa Coughlan, Nat Faxon, Chace Crawford, Andrew Dismukes, Hannah Simone, Iqbal Theba, Sakina Jaffrey, Jon Rudnitsky sowie Lisa Gilroy, beim geplanten Kinostart in Deutschland am 6. August 2026. - ...",
+          "date": "2026-08-06",
+          "poster": "https://images.justwatch.com/poster/344515467/s332/super-troopers-3.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Super%20Troopers%203%20Trailer"
+        },
+        {
+          "title": "Nimrods: A Green Day Comedy",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Musik"
+          ],
+          "overview": "Als Tommy einen Anruf erhält, in dem seine Band eingeladen wird, an Silvester als Vorgruppe für Green Day aufzutreten, ahnt er nicht, dass es sich um einen ausgeklügelten Streich seines älteren Bruders Wayne handelt. In der verzweifelten Hoffnung, dass sich sein Leben bald ändern wird, stiehlt Tommy Waynes Auto und macht sich mit seiner Band von Kansas City nach Los Angeles auf den Weg – fest entschlossen, die Strecke in drei Tagen zurückzulegen. Was folgt, ist ein wilder und urkomischer Roadtrip quer durch Amerika, inspiriert von den Anfängen von Green Day, als sie noch in einem Van auf Tour waren – Jahre vor der Veröffentlichung ihres Erfolgsalbums „Dookie“.",
+          "date": "2026-08-06",
+          "poster": "https://images.justwatch.com/poster/347526623/s332/nimrods.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Nimrods%3A%20A%20Green%20Day%20Comedy%20Trailer"
+        },
+        {
+          "title": "The Last House",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "Eine Familie, die plötzlich in ihrem Haus eingeschlossen ist, muss zusammenarbeiten, um angesichts schwindender Vorräte und der unheilvollen Bedrohung, die sie gefangen hält, zu überleben.",
+          "date": "2026-08-07",
+          "poster": "https://images.justwatch.com/poster/347571635/s332/the-last-house-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Last%20House%20Trailer"
+        },
+        {
+          "title": "Ich ist ein Anderer",
+          "media": "film",
+          "genres": [
+            "Drama"
+          ],
+          "overview": "In 1952, a train journey to Oslo becomes a battleground when a journalist and her husband confront a man who claims to have saved thousands during WWII. As questions arise about his true motives, the line between hero and opportunist blurs.",
+          "date": "2026-08-07",
+          "poster": "https://images.justwatch.com/poster/347455522/s332/ich-ist-ein-anderer.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Ich%20ist%20ein%20Anderer%20Trailer"
         }
       ]
     },
     "hungary": {
       "items": [
         {
-          "title": "Spider-Man 4",
+          "title": "For Sale By Exorcist",
           "media": "film",
           "genres": [
-            "Action",
-            "Fantasy",
-            "Sci-Fi"
+            "Komödie",
+            "Horror"
           ],
-          "overview": "Vier Jahre sind seit den Ereignissen von „No Way Home“ vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht – gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
-          "date": "2026-07-28",
-          "poster": "https://images.justwatch.com/poster/346462674/s332/untitled-spider-man-sequel.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Spider-Man%204%20Trailer"
-        },
-        {
-          "title": "Soulm8te",
-          "media": "film",
-          "genres": [
-            "Horror",
-            "Thriller",
-            "Sci-Fi"
-          ],
-          "overview": "Ein Mann erwirbt einen künstlich intelligenten Androiden, um mit dem Verlust seiner kürzlich verstorbenen Frau fertig zu werden. Bei dem Versuch, einen wirklich empfindungsfähigen Partner zu schaffen, verwandelt er jedoch versehentlich einen harmlosen Lovebot in einen tödlichen Seelenverwandten.",
-          "date": "2026-07-29",
-          "poster": "https://images.justwatch.com/poster/347139407/s332/soulm8te.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Soulm8te%20Trailer"
+          "overview": "Susan Price is a savvy realtor and certified exorcist who’s spent years flipping haunted houses across the country. From bleeding walls to glowing eyes, every listing is to die for! But as Susan hunts for her own forever home, the ghosts she’s evicted return for revenge. Will Susan settle with these vengeful spirits…or could she lose her life along with her down payment?",
+          "date": "2026-08-07",
+          "poster": "https://images.justwatch.com/poster/325202793/s332/for-sale-by-exorcist.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=For%20Sale%20By%20Exorcist%20Trailer"
         },
         {
           "title": "Olmo",
@@ -142,90 +128,37 @@
           "date": "2026-08-07",
           "poster": "https://images.justwatch.com/poster/329756865/s332/olmo.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Olmo%20Trailer"
+        },
+        {
+          "title": "The End of Oak Street",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Thriller",
+            "Sci-Fi"
+          ],
+          "overview": "Ein unerklärliches kosmisches Ereignis reißt die Oak Street aus ihrem Vorstadtidyll heraus und befördert die gesamte Nachbarschaft an einen unbekannten Ort. Die Mitglieder der Familie Platt müssen in dieser für sie völlig fremden Umgebung schnell feststellen, dass sie nur dann überleben können, wenn sie eng zusammenstehen.",
+          "date": "2026-08-12",
+          "poster": "https://images.justwatch.com/poster/347475608/s332/flowervale-street.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20End%20of%20Oak%20Street%20Trailer"
+        },
+        {
+          "title": "Batwara 1947",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Drama",
+            "Historie"
+          ],
+          "overview": "Der Film basiert auf dem Kultstück „Jis Lahore Nai Dekhya O Jamyai Nai“.",
+          "date": "2026-08-13",
+          "poster": "https://images.justwatch.com/poster/347348774/s332/lahore1947.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Batwara%201947%20Trailer"
         }
       ]
     },
     "usa": {
       "items": [
-        {
-          "title": "Stan Lee: The Final Chapter",
-          "media": "film",
-          "genres": [
-            "Dokumentation"
-          ],
-          "overview": "An insider look at Stan Lee's tumultuous final years, revealing how mistreatment and conflict threatened his life and legacy.",
-          "date": "2026-07-28",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Stan%20Lee%3A%20The%20Final%20Chapter%20Trailer"
-        },
-        {
-          "title": "Mary Beth Barone: Galaxy Brain",
-          "media": "film",
-          "genres": [
-            "Komödie",
-            "Dokumentation"
-          ],
-          "overview": "This marks Mary Beth Barone's first hour-long comedy special.",
-          "date": "2026-07-28",
-          "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20Trailer"
-        },
-        {
-          "title": "Wham! 10 Days in China",
-          "media": "film",
-          "genres": [
-            "Dokumentation",
-            "Musik"
-          ],
-          "overview": "1985 schrieb WHAM! Geschichte als erste westliche Popgruppe, die im kommunistischen China auftrat. Die Konzerte von George Michael und Andrew Ridgeley in Peking und Guangzhou waren ein kultureller Meilenstein – Ost trifft West, Musik trifft Politik. Nun enthüllt neu restauriertes Filmmaterial die bisher unbekannte Geschichte dieser legendären Tournee, die WHAM! zu Weltruhm verhalf.",
-          "date": "2026-07-28",
-          "poster": "https://images.justwatch.com/poster/347405309/s332/wham-10-days-in-china.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Wham%21%2010%20Days%20in%20China%20Trailer"
-        },
-        {
-          "title": "The Devil's Mouth",
-          "media": "film",
-          "genres": [
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "Das Thailand-Abenteuer einer Gruppe von College-Freunden nimmt eine tödliche Wendung, als sie in überfluteten Höhlen gefangen sind – gemeinsam mit einem gefährlichen Raubtier. Während der Sauerstoff knapp wird, brechen in ihrem verzweifelten Überlebenskampf alte Konflikte wieder auf.",
-          "date": "2026-07-29",
-          "poster": "https://images.justwatch.com/poster/346740369/s332/the-devils-mouth-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Devil%27s%20Mouth%20Trailer"
-        },
-        {
-          "title": "Above & Below",
-          "media": "film",
-          "genres": [
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "A group of friends set off for an unforgettable vacation. What begins as an adventure of partying and diving quickly turns into a nightmare when they are attacked by criminals in open waters.",
-          "date": "2026-07-29",
-          "poster": "https://images.justwatch.com/poster/347217020/s332/above-and-below-2026-1.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Above%20%26%20Below%20Trailer"
-        },
-        {
-          "title": "Adults: Marathon Day",
-          "media": "film",
-          "genres": [],
-          "overview": "A prequel special to FX's Adults that introduces the friend group and how they met Paul Baker.",
-          "date": "2026-07-31",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Adults%3A%20Marathon%20Day%20Trailer"
-        },
-        {
-          "title": "Devour",
-          "media": "film",
-          "genres": [
-            "Horror"
-          ],
-          "overview": "A struggling all female metal band called \"The Virginia Bitches\" have a taste for blood and while on tour their van breaks down in the middle of nowhere. Seeking help they come across a town full of cannibals led by an infamous Warlock.",
-          "date": "2026-08-01",
-          "poster": "https://images.justwatch.com/poster/346940317/s332/devour-2025.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Devour%20Trailer"
-        },
         {
           "title": "Robound",
           "media": "film",
@@ -238,6 +171,90 @@
           "date": "2026-08-05",
           "poster": "https://images.justwatch.com/poster/345786333/s332/robound.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Robound%20Trailer"
+        },
+        {
+          "title": "4 Kids Walk Into a Bank",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Krimi"
+          ],
+          "overview": "After losing her mother, Paige's grandfather steps into to become a more responsible guardian. But when a group of criminals show up at their door demanding that Paige's grandpa join them for one last job, she's faced with a decision: let her newly reformed grandpa dip back into his criminal ways, or enlist her three best friends to do the job first.",
+          "date": "2026-08-07",
+          "poster": "https://images.justwatch.com/poster/334372214/s332/4-kids-walk-into-a-bank.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=4%20Kids%20Walk%20Into%20a%20Bank%20Trailer"
+        },
+        {
+          "title": "DC",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Krimi",
+            "Drama"
+          ],
+          "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+          "date": "2026-08-07",
+          "poster": "https://images.justwatch.com/poster/347348766/s332/dc.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=DC%20Trailer"
+        },
+        {
+          "title": "The Last House",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "Eine Familie, die plötzlich in ihrem Haus eingeschlossen ist, muss zusammenarbeiten, um angesichts schwindender Vorräte und der unheilvollen Bedrohung, die sie gefangen hält, zu überleben.",
+          "date": "2026-08-07",
+          "poster": "https://images.justwatch.com/poster/347571635/s332/the-last-house-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Last%20House%20Trailer"
+        },
+        {
+          "title": "Grateful Dead Meet-Up at the Movies 2026",
+          "media": "film",
+          "genres": [
+            "Dokumentation",
+            "Musik"
+          ],
+          "overview": "Follows the complete June 17, 1991 Grateful Dead concert from Giants Stadium, featuring multi-camera visuals and surround sound, celebrating the 35th anniversary of this iconic show.",
+          "date": "2026-08-08",
+          "poster": "https://images.justwatch.com/poster/347525275/s332/grateful-dead-meet-up-at-the-movies-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Grateful%20Dead%20Meet-Up%20at%20the%20Movies%202026%20Trailer"
+        },
+        {
+          "title": "Hearing",
+          "media": "film",
+          "genres": [
+            "Drama"
+          ],
+          "overview": "Ninh lives with his mother and misses his ex-wife Ngoc and their young children. In his work as a mechanic who installs decibel meters in public spaces and homes, Ninh observes the silence that haunts relationships.",
+          "date": "2026-08-10",
+          "poster": "https://images.justwatch.com/poster/347195054/s332/hearing.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Hearing%20Trailer"
+        },
+        {
+          "title": "Sacrifice",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Komödie"
+          ],
+          "overview": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
+          "date": "2026-08-12",
+          "poster": "https://images.justwatch.com/poster/347605797/s332/sacrifice-2025-1.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Sacrifice%20Trailer"
+        },
+        {
+          "title": "Union County",
+          "media": "film",
+          "genres": [
+            "Drama"
+          ],
+          "overview": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio.",
+          "date": "2026-08-14",
+          "poster": "https://images.justwatch.com/poster/341341305/s332/union-county.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Union%20County%20Trailer"
         }
       ]
     }
