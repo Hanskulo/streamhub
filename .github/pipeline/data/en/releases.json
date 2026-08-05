@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-08-03T12:36",
-  "week": "2026-08-03",
+  "generated_at": "2026-08-05T11:28",
+  "week": "2026-08-05",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Mary Beth Barone: Galaxy Brain",
+        "media": "film",
+        "genres": [
+          "Comedy",
+          "Documentary"
+        ],
+        "overview": "This marks Mary Beth Barone's first hour-long comedy special.",
+        "date": "2026-07-28",
+        "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20trailer"
+      },
       {
         "title": "Instadocs: The Prediction Games",
         "media": "film",
@@ -13,17 +25,6 @@
         "date": "2026-07-26",
         "poster": "https://images.justwatch.com/poster/347562215/s332/instadocs-the-prediction-games.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Instadocs%3A%20The%20Prediction%20Games%20trailer"
-      },
-      {
-        "title": "Miguel Ángel Blanco: The 48 Hours That Changed Spain",
-        "media": "film",
-        "genres": [
-          "Documentary"
-        ],
-        "overview": "This documentary explores how Miguel Ángel Blanco's 1997 abduction turned fear into collective resistance and shaped Spain's fright Against ETA terrorism.",
-        "date": "2026-07-10",
-        "poster": "https://images.justwatch.com/poster/347132282/s332/miguel-angel-blanco-48-ora-amely-megvaltoztatta-spanyolorszagot.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Miguel%20%C3%81ngel%20Blanco%3A%20The%2048%20Hours%20That%20Changed%20Spain%20trailer"
       }
     ],
     "amazon-prime-video": [
