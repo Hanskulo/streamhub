@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T11:28",
-  "week": "2026-08-05",
+  "generated_at": "2026-08-07T10:09",
+  "week": "2026-08-07",
   "by_provider": {
     "netflix": [
       {
@@ -25,6 +25,17 @@
         "date": "2026-07-26",
         "poster": "https://images.justwatch.com/poster/347562215/s332/instadocs-the-prediction-games.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Instadocs%3A%20The%20Prediction%20Games%20Trailer"
+      },
+      {
+        "title": "Miguel Ángel Blanco: 48 Stunden, die Spanien veränderten",
+        "media": "film",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "This documentary explores how Miguel Ángel Blanco's 1997 abduction turned fear into collective resistance and shaped Spain's fright Against ETA terrorism.",
+        "date": "2026-07-10",
+        "poster": "https://images.justwatch.com/poster/347132282/s332/miguel-angel-blanco-48-ora-amely-megvaltoztatta-spanyolorszagot.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Miguel%20%C3%81ngel%20Blanco%3A%2048%20Stunden%2C%20die%20Spanien%20ver%C3%A4nderten%20Trailer"
       }
     ],
     "amazon-prime-video": [
@@ -136,9 +147,37 @@
     ],
     "crunchyroll": [],
     "hayu": [],
-    "hbo-max": [],
+    "hbo-max": [
+      {
+        "title": "Der Zwischenfall",
+        "media": "film",
+        "genres": [
+          "Krimi",
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "Des Mordes an ihrem Geliebten beschuldigt, engagiert eine junge Geschäftsfrau einen brillanten Anwalt. Drei Stunden bleiben, die Wahrheit aufzudecken.",
+        "date": "2026-08-07",
+        "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Der%20Zwischenfall%20Trailer"
+      }
+    ],
     "mubi": [],
-    "bloodstream": [],
+    "bloodstream": [
+      {
+        "title": "Evil Follows",
+        "media": "film",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ],
+        "overview": "A husband's fight to save his wife from a demonic possession that began the moment the dybbuk box chose her as its next host.",
+        "date": "2026-08-04",
+        "poster": "https://images.justwatch.com/poster/347916008/s332/evil-follows.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Evil%20Follows%20Trailer"
+      }
+    ],
     "kableone": [],
     "artiflix": [],
     "artify": []
