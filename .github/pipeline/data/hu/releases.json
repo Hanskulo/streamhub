@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-08-07T10:09",
-  "week": "2026-08-07",
+  "generated_at": "2026-08-09T09:54",
+  "week": "2026-08-09",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Az utolsó ház",
+        "media": "film",
+        "genres": [
+          "Akció",
+          "Horror",
+          "Thriller"
+        ],
+        "overview": "Egy átlagos család. Egy tipikus reggel. Az addig ismert életük vége. A túlélés csak a kezdet, amikor egy láthatatlan erő foglyul ejti őket a saját otthonukban.",
+        "date": "2026-08-07",
+        "poster": "https://images.justwatch.com/poster/347571635/s332/az-utolso-haz.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Az%20utols%C3%B3%20h%C3%A1z%20el%C5%91zetes"
+      },
       {
         "title": "Mary Beth Barone: Galaxy Brain",
         "media": "film",
