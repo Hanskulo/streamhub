@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lionsgate+ Amazon Channels — StreamHub</title>
+<meta name="description" content="Lionsgate+ Amazon Channels: fresh releases">
+<meta name="theme-color" content="#0b0a14">
+<link rel="canonical" href="https://Hanskulo.github.io/streamhub/en/provider/lionsgate-amazon-channels.html">
+<link rel="alternate" hreflang="hu" href="https://Hanskulo.github.io/streamhub/provider/lionsgate-amazon-channels.html"><link rel="alternate" hreflang="en" href="https://Hanskulo.github.io/streamhub/en/provider/lionsgate-amazon-channels.html"><link rel="alternate" hreflang="de" href="https://Hanskulo.github.io/streamhub/de/provider/lionsgate-amazon-channels.html"><link rel="alternate" hreflang="x-default" href="https://Hanskulo.github.io/streamhub/provider/lionsgate-amazon-channels.html">
+<meta property="og:title" content="Lionsgate+ Amazon Channels — StreamHub"><meta property="og:description" content="Lionsgate+ Amazon Channels: fresh releases">
+<meta property="og:type" content="website"><meta property="og:url" content="https://Hanskulo.github.io/streamhub/en/provider/lionsgate-amazon-channels.html">
+<meta name="robots" content="index, follow">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='88'>&#128250;</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="../../assets/style.css">
+<script defer src="../../assets/app.js"></script>
+</head><body><header class="top"><div class="wrap"><div class="nav">
+  <a class="brand" href="../index.html"><span class="glyph">&#9678;</span> Stream<b>Hub</b></a>
+  <div class="topright">
+    <span class="region">REGION // HU</span>
+    <div class="langsw"><a class="lsw" href="../../provider/lionsgate-amazon-channels.html" hreflang="hu">HU</a><a class="lsw on" href="lionsgate-amazon-channels.html" hreflang="en">EN</a><a class="lsw" href="../../de/provider/lionsgate-amazon-channels.html" hreflang="de">DE</a></div>
+    <button type="button" class="cbtn" onclick="cxOpen()">&#9993; Message me</button>
+  </div>
+</div></div></header>
+  <div class="wrap"><a class="back" href="../index.html">&#8592; back to providers</a>
+    <div class="phead"><div class="big" style="--acc:#ffb3b3">L</div>
+      <div><h1><span style="color:#ffb3b3">Lionsgate+ Amazon Channels</span></h1><div class="weekline">fresh releases</div></div></div>
+    <div class="empty"><div class="ic">&#128268;</div><h3>No new titles this week</h3><p>Check back tomorrow — updated daily.</p></div></div><footer><div class="wrap"><div class="fx">
+  <span>Data: JustWatch — unofficial, non-commercial</span>
+  <span class="visitors vc" data-vc-site="streamhub" data-vc-api="https://visitor-counter.eltewedtem.workers.dev" aria-label="visitors"><span class="vc-item vc-human"><b class="vc-num" data-vc="human">…</b> <span class="vc-label">Human visitors</span></span><span class="vc-sep" aria-hidden="true"></span><span class="vc-item vc-bot"><b class="vc-num" data-vc="bot">…</b> <span class="vc-label">Bot AI</span></span><img class="vc-px" src="https://visitor-counter.eltewedtem.workers.dev/px?site=streamhub" alt="" width="1" height="1" aria-hidden="true" referrerpolicy="no-referrer" style="position:absolute;width:1px;height:1px;opacity:0;pointer-events:none;left:-9999px"></span>
+  <span>StreamHub &middot; updated daily</span>
+</div></div></footer>
+<div class="cxback" id="cxback" onclick="if(event.target===this)cxClose()">
+  <div class="cxmodal" role="dialog" aria-modal="true">
+    <h3>&#9993; Message Csaba</h3><p>Your message reaches him directly, unchanged.</p>
+    <label for="cxfrom">Your name / contact (optional)</label>
+    <input id="cxfrom" maxlength="120" placeholder="e.g. Anna Smith / anna@email.com">
+    <label for="cxtext">Message</label>
+    <textarea id="cxtext" rows="5" maxlength="2000" placeholder="Type your message..."></textarea>
+    <div class="cxmsg" id="cxmsg"></div>
+    <div class="cxrow"><button type="button" class="cxcancel" onclick="cxClose()">Cancel</button>
+    <button type="button" class="cxsend" onclick="cxSend()">Send</button></div>
+  </div>
+</div>
+<script>
+var API="https://streamhub-api.eltewedtem.workers.dev";
+function cxOpen(){document.getElementById('cxback').classList.add('on');document.getElementById('cxtext').focus()}
+function cxClose(){document.getElementById('cxback').classList.remove('on')}
+document.addEventListener('keydown',function(e){if(e.key==='Escape')cxClose()});
+async function cxSend(){
+  var t=document.getElementById('cxtext').value.trim(),f=document.getElementById('cxfrom').value.trim(),m=document.getElementById('cxmsg');
+  if(t.length<2){m.className='cxmsg err';m.textContent="Write a message.";return}
+  m.className='cxmsg';m.textContent="Sending...";
+  try{var r=await fetch(API+'/api/contact',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({from:f,message:t})});
+    var j=await r.json();
+    if(r.ok&&j.ok){m.className='cxmsg ok';m.textContent="Sent, thank you!";document.getElementById('cxtext').value='';document.getElementById('cxfrom').value='';setTimeout(cxClose,1400);}
+    else{m.className='cxmsg err';m.textContent=(j&&j.error)||"Error, try again.";}
+  }catch(e){m.className='cxmsg err';m.textContent="Error, try again.";}
+}
+window.__API_BASE=API;
+</script></body></html>

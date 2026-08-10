@@ -162,6 +162,12 @@
       "name": "Artify",
       "tmdb_id": 2685,
       "accent": "#d9b3ff"
+    },
+    {
+      "slug": "lionsgate-amazon-channels",
+      "name": "Lionsgate+ Amazon Channels",
+      "tmdb_id": 2358,
+      "accent": "#ffb3b3"
     }
   ]
 }
