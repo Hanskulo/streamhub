@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-08-09T09:54",
-  "week": "2026-08-09",
+  "generated_at": "2026-08-11T10:08",
+  "week": "2026-08-11",
   "by_provider": {
     "netflix": [
-      {
-        "title": "Az utolsó ház",
-        "media": "film",
-        "genres": [
-          "Akció",
-          "Horror",
-          "Thriller"
-        ],
-        "overview": "Egy átlagos család. Egy tipikus reggel. Az addig ismert életük vége. A túlélés csak a kezdet, amikor egy láthatatlan erő foglyul ejti őket a saját otthonukban.",
-        "date": "2026-08-07",
-        "poster": "https://images.justwatch.com/poster/347571635/s332/az-utolso-haz.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Az%20utols%C3%B3%20h%C3%A1z%20el%C5%91zetes"
-      },
       {
         "title": "Mary Beth Barone: Galaxy Brain",
         "media": "film",
@@ -38,17 +25,6 @@
         "date": "2026-07-26",
         "poster": "https://images.justwatch.com/poster/347562215/s332/instadocs-the-prediction-games.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Instadocs%3A%20The%20Prediction%20Games%20el%C5%91zetes"
-      },
-      {
-        "title": "Miguel Ángel Blanco: 48 óra, amely megváltoztatta Spanyolországot",
-        "media": "film",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "A film Miguel Ángel Blanco 48 órájának történetét mutatja be, amikor 1997-ben az ETA elrabolta a politikust, és egész Spanyolország lélegzetvisszafojtva figyelte az eseményeket. Kiderül, hogyan mozdult meg milliók tömege a merénylet megakadályozásáért, és miként vált ez a megrázó ügy a társadalmi összefogás és a terrorral szembeni kiállás egyik meghatározó pillanatává.",
-        "date": "2026-07-10",
-        "poster": "https://images.justwatch.com/poster/347132282/s332/miguel-angel-blanco-48-ora-amely-megvaltoztatta-spanyolorszagot.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Miguel%20%C3%81ngel%20Blanco%3A%2048%20%C3%B3ra%2C%20amely%20megv%C3%A1ltoztatta%20Spanyolorsz%C3%A1got%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -193,6 +169,7 @@
     ],
     "kableone": [],
     "artiflix": [],
-    "artify": []
+    "artify": [],
+    "lionsgate-amazon-channels": []
   }
 }
