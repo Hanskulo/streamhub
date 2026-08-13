@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-08-11T10:09",
-  "week": "2026-08-11",
+  "generated_at": "2026-08-13T10:20",
+  "week": "2026-08-13",
   "by_provider": {
     "netflix": [
+      {
+        "title": "The Last House",
+        "media": "film",
+        "genres": [
+          "Action",
+          "Horror",
+          "Thriller"
+        ],
+        "overview": "Eine Familie, die auf rätselhafte Weise in ihrem Zuhause gefangen ist, muss angesichts schwindender Vorräte und einer ominösen Macht ums nackte Überleben kämpfen.",
+        "date": "2026-08-06",
+        "poster": "https://images.justwatch.com/poster/347571635/s332/az-utolso-haz.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20House%20Trailer"
+      },
       {
         "title": "Mary Beth Barone: Galaxy Brain",
         "media": "film",
