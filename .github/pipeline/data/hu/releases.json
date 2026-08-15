@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T10:20",
-  "week": "2026-08-13",
+  "generated_at": "2026-08-15T09:37",
+  "week": "2026-08-15",
   "by_provider": {
     "netflix": [
       {
@@ -13,7 +13,7 @@
         ],
         "overview": "Egy négytagú család váratlanul a saját házába zárva találja magát kiút nélkül, és együtt kell működniük, hogy túléljék mind a fogyatkozó készleteiket, mind a rejtélyes, fenyegető erőt, amely csapdában tartja őket.",
         "date": "2026-08-06",
-        "poster": "https://images.justwatch.com/poster/347571635/s332/az-utolso-haz.jpg",
+        "poster": "https://images.justwatch.com/poster/348215829/s332/az-utolso-haz.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Az%20utols%C3%B3%20h%C3%A1z%20el%C5%91zetes"
       },
       {
@@ -91,18 +91,6 @@
         "date": "2026-07-23",
         "poster": "https://images.justwatch.com/poster/346606105/s332/the-dink.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Dink%20el%C5%91zetes"
-      },
-      {
-        "title": "Lucky",
-        "media": "sorozat",
-        "genres": [
-          "Krimi",
-          "Dráma"
-        ],
-        "overview": "Miután egy több millió dolláros rablás balul sül el, a szélhámos Lucky kénytelen menekülőre fogni. Ketten is üldözik, az FBI és egy kíméletlen maffiafőnök, így Luckynak az életéért kell küzdenie – és a kiútért.",
-        "date": "2026-07-14",
-        "poster": "https://images.justwatch.com/poster/341768379/s332/lucky.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Lucky%20el%C5%91zetes"
       }
     ],
     "disney-plus": [
@@ -134,34 +122,35 @@
     "cultpix": [],
     "filmbox": [],
     "sun-nxt": [],
-    "skyshowtime": [
-      {
-        "title": "The Odyssey: The Making of an Epic",
-        "media": "film",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "A stáb bemutatja a mitikus világot, Homérosz történetét és a forgatási munkálatokat.",
-        "date": "2026-07-14",
-        "poster": "https://images.justwatch.com/poster/347326145/s332/the-odyssey-the-making-of-an-epic.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Odyssey%3A%20The%20Making%20of%20an%20Epic%20el%C5%91zetes"
-      }
-    ],
+    "skyshowtime": [],
     "crunchyroll": [],
     "hayu": [],
     "hbo-max": [
       {
-        "title": "The Invisible Guest",
+        "title": "Whitmer Thomas: Terminal Crew of Dudes",
         "media": "film",
         "genres": [
-          "Krimi",
-          "Dráma",
-          "Thriller"
+          "Vígjáték",
+          "Dokumentum",
+          "Zene"
         ],
-        "overview": "Accused of murdering her lover, a young businesswoman hires a brilliant lawyer. With only three hours left, they must uncover what really happened.",
-        "date": "2026-08-07",
-        "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Invisible%20Guest%20el%C5%91zetes"
+        "overview": "Comedian, musician, and actor Whitmer Thomas digs into his small-town Alabama upbringing and his ongoing quest to be cool.",
+        "date": "2026-08-14",
+        "poster": "https://images.justwatch.com/poster/347522186/s332/whitmer-thomas-terminal-crew-of-dudes.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Whitmer%20Thomas%3A%20Terminal%20Crew%20of%20Dudes%20el%C5%91zetes"
+      },
+      {
+        "title": "Egy húron",
+        "media": "film",
+        "genres": [
+          "Vígjáték",
+          "Dráma",
+          "Zene"
+        ],
+        "overview": "Egy fiatal brácsás, aki a Juilliardon végzett, még mindig a szüleivel él New York központjában. Az életét úgy próbálja fenntartani, hogy barátaival idegenek otthonában lép fel.",
+        "date": "2026-08-13",
+        "poster": "https://images.justwatch.com/poster/343762912/s332/egy-huron.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Egy%20h%C3%BAron%20el%C5%91zetes"
       }
     ],
     "mubi": [],

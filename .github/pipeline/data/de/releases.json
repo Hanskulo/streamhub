@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T10:20",
-  "week": "2026-08-13",
+  "generated_at": "2026-08-15T09:38",
+  "week": "2026-08-15",
   "by_provider": {
     "netflix": [
       {
@@ -91,18 +91,6 @@
         "date": "2026-07-23",
         "poster": "https://images.justwatch.com/poster/346606102/s332/the-dink.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Dink%20Trailer"
-      },
-      {
-        "title": "Lucky",
-        "media": "sorozat",
-        "genres": [
-          "Krimi",
-          "Drama"
-        ],
-        "overview": "Die Betrügerin Lucky muss fliehen, als ein millionenschwerer Raubüberfall schiefgeht. Verfolgt vom FBI und einem skrupellosen Verbrecherboss, muss Lucky um ihr Leben und einen Ausweg kämpfen.",
-        "date": "2026-07-14",
-        "poster": "https://images.justwatch.com/poster/346889722/s332/lucky.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Lucky%20Trailer"
       }
     ],
     "disney-plus": [
@@ -134,34 +122,35 @@
     "cultpix": [],
     "filmbox": [],
     "sun-nxt": [],
-    "skyshowtime": [
-      {
-        "title": "The Odyssey: The Making of an Epic",
-        "media": "film",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "Go behind the scenes of Christopher Nolan's mythic action epic, The Odyssey. This special documentary explores the monumental undertaking of adapting Homer’s foundational saga for the big screen, charting a grueling 91-day principal photography schedule across six countries. From the revolutionary use of brand-new IMAX film technology to the massive coordination of over 5,300 custom-designed costumes, discover how a star-studded cast led by Matt Damon, Tom Holland, and Anne Hathaway brought the dangerous, timeless world of ancient Greek gods and monsters to life.",
-        "date": "2026-07-14",
-        "poster": "https://images.justwatch.com/poster/347326145/s332/the-odyssey-the-making-of-an-epic.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Odyssey%3A%20The%20Making%20of%20an%20Epic%20Trailer"
-      }
-    ],
+    "skyshowtime": [],
     "crunchyroll": [],
     "hayu": [],
     "hbo-max": [
       {
-        "title": "Der Zwischenfall",
+        "title": "Whitmer Thomas: Terminal Crew of Dudes",
         "media": "film",
         "genres": [
-          "Krimi",
-          "Drama",
-          "Thriller"
+          "Komödie",
+          "Dokumentation",
+          "Musik"
         ],
-        "overview": "Des Mordes an ihrem Geliebten beschuldigt, engagiert eine junge Geschäftsfrau einen brillanten Anwalt. Drei Stunden bleiben, die Wahrheit aufzudecken.",
-        "date": "2026-08-07",
-        "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Der%20Zwischenfall%20Trailer"
+        "overview": "In seinem zweiten HBO-Spezial blickt Whitmer Thomas auf seine Jugendjahre, langjährige Freundschaften und seinen steten Versuch zurück, cool zu sein.",
+        "date": "2026-08-14",
+        "poster": "https://images.justwatch.com/poster/347522186/s332/whitmer-thomas-terminal-crew-of-dudes.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Whitmer%20Thomas%3A%20Terminal%20Crew%20of%20Dudes%20Trailer"
+      },
+      {
+        "title": "On a String",
+        "media": "film",
+        "genres": [
+          "Komödie",
+          "Drama",
+          "Musik"
+        ],
+        "overview": "A young, Juilliard-trained violist is still living at home with her parents in the heart of NYC, while trying to make a living playing gigs with her friends in the homes of strangers.",
+        "date": "2026-08-13",
+        "poster": "https://images.justwatch.com/poster/343762912/s332/egy-huron.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=On%20a%20String%20Trailer"
       }
     ],
     "mubi": [],
