@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-08-15T09:38",
-  "week": "2026-08-15",
+  "generated_at": "2026-08-17T09:56",
+  "week": "2026-08-17",
   "by_provider": {
     "netflix": [
-      {
-        "title": "The Last House",
-        "media": "film",
-        "genres": [
-          "Action",
-          "Horror",
-          "Thriller"
-        ],
-        "overview": "Eine Familie, die auf rätselhafte Weise in ihrem Zuhause gefangen ist, muss angesichts schwindender Vorräte und einer ominösen Macht ums nackte Überleben kämpfen.",
-        "date": "2026-08-06",
-        "poster": "https://images.justwatch.com/poster/347571635/s332/az-utolso-haz.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20House%20Trailer"
-      },
-      {
-        "title": "Mary Beth Barone: Galaxy Brain",
-        "media": "film",
-        "genres": [
-          "Komödie",
-          "Dokumentation"
-        ],
-        "overview": "This marks Mary Beth Barone's first hour-long comedy special.",
-        "date": "2026-07-28",
-        "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20Trailer"
-      },
       {
         "title": "Instadocs: The Prediction Games",
         "media": "film",
@@ -93,21 +68,7 @@
         "trailer": "https://www.youtube.com/results?search_query=The%20Dink%20Trailer"
       }
     ],
-    "disney-plus": [
-      {
-        "title": "Descendants: Wicked Wonderland",
-        "media": "film",
-        "genres": [
-          "Action",
-          "Komödie",
-          "Fantasy"
-        ],
-        "overview": "Nachdem die Herzkönigin nun freundlich und Aschenputtel in Sicherheit ist, scheint für Red und Chloe alles perfekt zu laufen – doch sie ahnen nicht, dass die Veränderung der Vergangenheit einen neuen Bösewicht hervorgebracht hat: Maddox Hatter. Als Maddox die Herzkönigin gefangen nimmt, müssen Red und Chloe sich mit Reds neuer Schwester Pink, Luisas Sohn Luis und Maddox’ Sohn Max zusammentun, um sie und das Wunderland zu retten.",
-        "date": "2026-07-16",
-        "poster": "https://images.justwatch.com/poster/346708647/s332/utodok-gonoszok-csodaorszaga.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Descendants%3A%20Wicked%20Wonderland%20Trailer"
-      }
-    ],
+    "disney-plus": [],
     "justwatch-tv": [],
     "apple-tv-store": [],
     "youtube-premium": [],
@@ -131,12 +92,11 @@
         "media": "film",
         "genres": [
           "Komödie",
-          "Dokumentation",
-          "Musik"
+          "Dokumentation"
         ],
         "overview": "In seinem zweiten HBO-Spezial blickt Whitmer Thomas auf seine Jugendjahre, langjährige Freundschaften und seinen steten Versuch zurück, cool zu sein.",
         "date": "2026-08-14",
-        "poster": "https://images.justwatch.com/poster/347522186/s332/whitmer-thomas-terminal-crew-of-dudes.jpg",
+        "poster": "https://images.justwatch.com/poster/348300622/s332/whitmer-thomas-terminal-crew-of-dudes.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Whitmer%20Thomas%3A%20Terminal%20Crew%20of%20Dudes%20Trailer"
       },
       {
@@ -155,6 +115,18 @@
     ],
     "mubi": [],
     "bloodstream": [
+      {
+        "title": "Together Till the End",
+        "media": "film",
+        "genres": [
+          "Drama",
+          "Horror"
+        ],
+        "overview": "When a young couple is about to go out on a trip, something gets in their way: the zombie apocalypse.",
+        "date": "2026-08-05",
+        "poster": "https://images.justwatch.com/poster/348248426/s332/together-till-the-end.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Together%20Till%20the%20End%20Trailer"
+      },
       {
         "title": "Evil Follows",
         "media": "film",

@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-08-15T09:37",
-  "week": "2026-08-15",
+  "generated_at": "2026-08-17T09:56",
+  "week": "2026-08-17",
   "by_provider": {
     "netflix": [
-      {
-        "title": "Az utolsó ház",
-        "media": "film",
-        "genres": [
-          "Akció",
-          "Horror",
-          "Thriller"
-        ],
-        "overview": "Egy négytagú család váratlanul a saját házába zárva találja magát kiút nélkül, és együtt kell működniük, hogy túléljék mind a fogyatkozó készleteiket, mind a rejtélyes, fenyegető erőt, amely csapdában tartja őket.",
-        "date": "2026-08-06",
-        "poster": "https://images.justwatch.com/poster/348215829/s332/az-utolso-haz.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Az%20utols%C3%B3%20h%C3%A1z%20el%C5%91zetes"
-      },
-      {
-        "title": "Mary Beth Barone: Galaxy Brain",
-        "media": "film",
-        "genres": [
-          "Vígjáték",
-          "Dokumentum"
-        ],
-        "overview": "Mary Beth Barone első egyórás stand up-különkiadása.",
-        "date": "2026-07-28",
-        "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20el%C5%91zetes"
-      },
       {
         "title": "Instadocs: The Prediction Games",
         "media": "film",
@@ -93,21 +68,7 @@
         "trailer": "https://www.youtube.com/results?search_query=The%20Dink%20el%C5%91zetes"
       }
     ],
-    "disney-plus": [
-      {
-        "title": "Utódok: Gonoszok Csodaországa",
-        "media": "film",
-        "genres": [
-          "Akció",
-          "Vígjáték",
-          "Fantasy"
-        ],
-        "overview": "A fantasy tinisorozat legújabb része. Amikor Csodaországban megrendezik a Királyság Kupa játékokat, Rednek és Chloe Charmingnak meg kell küzdenie, hogy mindenkit megmentsenek egy váratlan gonosztevőtől.",
-        "date": "2026-07-16",
-        "poster": "https://images.justwatch.com/poster/347398889/s332/utodok-gonoszok-csodaorszaga.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Ut%C3%B3dok%3A%20Gonoszok%20Csodaorsz%C3%A1ga%20el%C5%91zetes"
-      }
-    ],
+    "disney-plus": [],
     "justwatch-tv": [],
     "apple-tv-store": [],
     "youtube-premium": [],
@@ -131,12 +92,11 @@
         "media": "film",
         "genres": [
           "Vígjáték",
-          "Dokumentum",
-          "Zene"
+          "Dokumentum"
         ],
         "overview": "Comedian, musician, and actor Whitmer Thomas digs into his small-town Alabama upbringing and his ongoing quest to be cool.",
         "date": "2026-08-14",
-        "poster": "https://images.justwatch.com/poster/347522186/s332/whitmer-thomas-terminal-crew-of-dudes.jpg",
+        "poster": "https://images.justwatch.com/poster/348300622/s332/whitmer-thomas-terminal-crew-of-dudes.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Whitmer%20Thomas%3A%20Terminal%20Crew%20of%20Dudes%20el%C5%91zetes"
       },
       {
@@ -155,6 +115,18 @@
     ],
     "mubi": [],
     "bloodstream": [
+      {
+        "title": "Together Till the End",
+        "media": "film",
+        "genres": [
+          "Dráma",
+          "Horror"
+        ],
+        "overview": "When a young couple is about to go out on a trip, something gets in their way: the zombie apocalypse.",
+        "date": "2026-08-05",
+        "poster": "https://images.justwatch.com/poster/348248426/s332/together-till-the-end.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Together%20Till%20the%20End%20el%C5%91zetes"
+      },
       {
         "title": "Evil Follows",
         "media": "film",
