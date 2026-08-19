@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-08-17T09:56",
-  "week": "2026-08-17",
+  "generated_at": "2026-08-19T09:47",
+  "week": "2026-08-19",
   "by_provider": {
     "netflix": [
       {
-        "title": "Instadocs: The Prediction Games",
+        "title": "Az utolsó ház",
         "media": "film",
         "genres": [
+          "Akció",
+          "Horror",
+          "Thriller"
+        ],
+        "overview": "Egy négytagú család váratlanul a saját házába zárva találja magát kiút nélkül, és együtt kell működniük, hogy túléljék mind a fogyatkozó készleteiket, mind a rejtélyes, fenyegető erőt, amely csapdában tartja őket.",
+        "date": "2026-08-06",
+        "poster": "https://images.justwatch.com/poster/348215829/s332/az-utolso-haz.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Az%20utols%C3%B3%20h%C3%A1z%20el%C5%91zetes"
+      },
+      {
+        "title": "Mary Beth Barone: Galaxy Brain",
+        "media": "film",
+        "genres": [
+          "Vígjáték",
           "Dokumentum"
         ],
-        "overview": "Prediction markets let anyone bet on anything, from the World Cup to alien invasions. \"Instadocs\" investigates the explosive rise of global betting.",
-        "date": "2026-07-26",
-        "poster": "https://images.justwatch.com/poster/347562215/s332/instadocs-the-prediction-games.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Instadocs%3A%20The%20Prediction%20Games%20el%C5%91zetes"
+        "overview": "Mary Beth Barone első egyórás stand up-különkiadása.",
+        "date": "2026-07-28",
+        "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -92,7 +106,8 @@
         "media": "film",
         "genres": [
           "Vígjáték",
-          "Dokumentum"
+          "Dokumentum",
+          "Zene"
         ],
         "overview": "Comedian, musician, and actor Whitmer Thomas digs into his small-town Alabama upbringing and his ongoing quest to be cool.",
         "date": "2026-08-14",
@@ -109,7 +124,7 @@
         ],
         "overview": "Egy fiatal brácsás, aki a Juilliardon végzett, még mindig a szüleivel él New York központjában. Az életét úgy próbálja fenntartani, hogy barátaival idegenek otthonában lép fel.",
         "date": "2026-08-13",
-        "poster": "https://images.justwatch.com/poster/343762912/s332/egy-huron.jpg",
+        "poster": "https://images.justwatch.com/poster/348283495/s332/egy-huron.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Egy%20h%C3%BAron%20el%C5%91zetes"
       }
     ],

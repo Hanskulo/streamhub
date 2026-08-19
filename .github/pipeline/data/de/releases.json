@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-08-17T09:56",
-  "week": "2026-08-17",
+  "generated_at": "2026-08-19T09:48",
+  "week": "2026-08-19",
   "by_provider": {
     "netflix": [
       {
-        "title": "Instadocs: The Prediction Games",
+        "title": "The Last House",
         "media": "film",
         "genres": [
+          "Action",
+          "Horror",
+          "Thriller"
+        ],
+        "overview": "Eine Familie, die auf rätselhafte Weise in ihrem Zuhause gefangen ist, muss angesichts schwindender Vorräte und einer ominösen Macht ums nackte Überleben kämpfen.",
+        "date": "2026-08-06",
+        "poster": "https://images.justwatch.com/poster/347571635/s332/az-utolso-haz.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20House%20Trailer"
+      },
+      {
+        "title": "Mary Beth Barone: Galaxy Brain",
+        "media": "film",
+        "genres": [
+          "Komödie",
           "Dokumentation"
         ],
-        "overview": "Prediction markets let anyone bet on anything, from the World Cup to alien invasions. \"Instadocs\" investigates the explosive rise of global betting.",
-        "date": "2026-07-26",
-        "poster": "https://images.justwatch.com/poster/347562215/s332/instadocs-the-prediction-games.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Instadocs%3A%20The%20Prediction%20Games%20Trailer"
+        "overview": "This marks Mary Beth Barone's first hour-long comedy special.",
+        "date": "2026-07-28",
+        "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20Trailer"
       }
     ],
     "amazon-prime-video": [
@@ -92,7 +106,8 @@
         "media": "film",
         "genres": [
           "Komödie",
-          "Dokumentation"
+          "Dokumentation",
+          "Musik"
         ],
         "overview": "In seinem zweiten HBO-Spezial blickt Whitmer Thomas auf seine Jugendjahre, langjährige Freundschaften und seinen steten Versuch zurück, cool zu sein.",
         "date": "2026-08-14",
@@ -109,7 +124,7 @@
         ],
         "overview": "A young, Juilliard-trained violist is still living at home with her parents in the heart of NYC, while trying to make a living playing gigs with her friends in the homes of strangers.",
         "date": "2026-08-13",
-        "poster": "https://images.justwatch.com/poster/343762912/s332/egy-huron.jpg",
+        "poster": "https://images.justwatch.com/poster/348283495/s332/egy-huron.jpg",
         "trailer": "https://www.youtube.com/results?search_query=On%20a%20String%20Trailer"
       }
     ],
