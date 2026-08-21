@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T09:47",
-  "week": "2026-08-19",
+  "generated_at": "2026-08-21T09:51",
+  "week": "2026-08-21",
   "by_provider": {
     "netflix": [
       {
@@ -27,6 +27,17 @@
         "date": "2026-07-28",
         "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20trailer"
+      },
+      {
+        "title": "Instadocs: The Prediction Games",
+        "media": "film",
+        "genres": [
+          "Documentary"
+        ],
+        "overview": "Prediction markets let anyone bet on anything, from the World Cup to alien invasions. \"Instadocs\" investigates the explosive rise of global betting.",
+        "date": "2026-07-26",
+        "poster": "https://images.justwatch.com/poster/347562215/s332/instadocs-the-prediction-games.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Instadocs%3A%20The%20Prediction%20Games%20trailer"
       }
     ],
     "amazon-prime-video": [
@@ -57,6 +68,18 @@
     ],
     "apple-tv": [
       {
+        "title": "The Dynasty: UConn Huskies",
+        "media": "sorozat",
+        "genres": [
+          "Documentary",
+          "Sport"
+        ],
+        "overview": "Explores the history and the recent win by UConn Huskies Women's Basketball team of the 2025 NCAA National Championship, through a mix of archival footage and interviews.",
+        "date": "2026-08-20",
+        "poster": "https://images.justwatch.com/poster/348509620/s332/the-dynasty-uconn-huskies.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Dynasty%3A%20UConn%20Huskies%20trailer"
+      },
+      {
         "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
         "media": "film",
         "genres": [
@@ -82,7 +105,17 @@
         "trailer": "https://www.youtube.com/results?search_query=The%20Dink%20trailer"
       }
     ],
-    "disney-plus": [],
+    "disney-plus": [
+      {
+        "title": "2026 Disney Legends Awards Ceremony Live!",
+        "media": "film",
+        "genres": [],
+        "overview": "Live from Anaheim, California, the Disney Legends Awards Ceremony at “D23: The Ultimate Disney Fan Event” celebrates an extraordinary class of Disney Legends receiving the company’s highest honor. Honorees include Chris Berman, Jerry Bruckheimer, Susan Egan, Eric Goldberg, Anne Hathaway, Bob Iger, Kim Irvine, Dwayne Johnson, the Jonas Brothers, Lin‑Manuel Miranda, and Alan Tudyk. Hosted by Emmy® Award-winning Ryan Seacrest, this unforgettable ceremony features heartfelt tributes, surprise moments, and inspiring stories honoring the icons whose creativity, talent, and vision have shaped Disney magic for generations.",
+        "date": "2026-08-16",
+        "poster": "https://images.justwatch.com/poster/348537803/s332/2026-disney-legends-awards-ceremony-live.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=2026%20Disney%20Legends%20Awards%20Ceremony%20Live%21%20trailer"
+      }
+    ],
     "justwatch-tv": [],
     "apple-tv-store": [],
     "youtube-premium": [],
@@ -113,6 +146,17 @@
         "date": "2026-08-14",
         "poster": "https://images.justwatch.com/poster/348300622/s332/whitmer-thomas-terminal-crew-of-dudes.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Whitmer%20Thomas%3A%20Terminal%20Crew%20of%20Dudes%20trailer"
+      },
+      {
+        "title": "The Sex Slave",
+        "media": "sorozat",
+        "genres": [
+          "Documentary"
+        ],
+        "overview": "A harrowing two-part documentary chronicling how a mother of five suddenly found herself being sold to unknown men... by her own partner.",
+        "date": "2026-08-14",
+        "poster": "https://images.justwatch.com/poster/348319749/s332/the-sex-slave.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Sex%20Slave%20trailer"
       },
       {
         "title": "On a String",
