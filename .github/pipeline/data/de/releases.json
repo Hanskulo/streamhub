@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T09:51",
-  "week": "2026-08-21",
+  "generated_at": "2026-08-23T09:41",
+  "week": "2026-08-23",
   "by_provider": {
     "netflix": [
       {
@@ -27,17 +27,6 @@
         "date": "2026-07-28",
         "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20Trailer"
-      },
-      {
-        "title": "Instadocs: The Prediction Games",
-        "media": "film",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "Prediction markets let anyone bet on anything, from the World Cup to alien invasions. \"Instadocs\" investigates the explosive rise of global betting.",
-        "date": "2026-07-26",
-        "poster": "https://images.justwatch.com/poster/347562215/s332/instadocs-the-prediction-games.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Instadocs%3A%20The%20Prediction%20Games%20Trailer"
       }
     ],
     "amazon-prime-video": [
@@ -50,7 +39,7 @@
         ],
         "overview": "Fünf Freunde suchen in Thailand ein letztes großes Abenteuer und beschließen, die Devil's-Mouth-Höhlen zu erkunden. Schon bald erkennen sie, dass etwas in den Tiefen der Höhlen Jagd auf sie macht... und es ist schnell, lautlos und tödlich. In der erdrückenden Finsternis schwindet das Vertrauen, Panik macht sich breit und jede falsche Bewegung führt zu einem Kampf ums Überleben.",
         "date": "2026-07-29",
-        "poster": "https://images.justwatch.com/poster/346740375/s332/ordogszaj.jpg",
+        "poster": "https://images.justwatch.com/poster/347473673/s332/ordogszaj.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Devil%27s%20Mouth%20-%20Der%20Teufelsschlund%20Trailer"
       },
       {
@@ -88,21 +77,8 @@
         ],
         "overview": "Als Snoopys geliebte Hundehütte plötzlich verschwindet, setzt er alles daran, sie wiederzufinden und erkennt auf seiner Suche, was ein Haus wirklich zu einem Zuhause macht.",
         "date": "2026-07-30",
-        "poster": "https://images.justwatch.com/poster/347178382/s332/snoopy-bemutatja-mindenhol-jo-de-legjobb-otthon.jpg",
+        "poster": "https://images.justwatch.com/poster/347178390/s332/snoopy-bemutatja-mindenhol-jo-de-legjobb-otthon.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Snoopy%20pr%C3%A4sentiert%3A%20Zu%20Hause%20ist%20es%20am%20sch%C3%B6nsten%20Trailer"
-      },
-      {
-        "title": "The Dink",
-        "media": "film",
-        "genres": [
-          "Komödie",
-          "Romantik",
-          "Sport"
-        ],
-        "overview": "Dusty \"The Hammer\" Boyd war einst ein vielversprechender Tennisprofi, doch seine besten Tage liegen lange zurück. Um einen angeschlagenen Country Club zu retten und sich endlich den Respekt seines Vaters zu verdienen, bricht er ein heiliges Gelübde und wagt das Undenkbare: Er spielt Pickleball.",
-        "date": "2026-07-23",
-        "poster": "https://images.justwatch.com/poster/346606102/s332/the-dink.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Dink%20Trailer"
       }
     ],
     "disney-plus": [
@@ -130,7 +106,21 @@
     "cultpix": [],
     "filmbox": [],
     "sun-nxt": [],
-    "skyshowtime": [],
+    "skyshowtime": [
+      {
+        "title": "Die Legende von Aang: Der Herr der Elemente",
+        "media": "film",
+        "genres": [
+          "Action",
+          "Animation",
+          "Fantasy"
+        ],
+        "overview": "Der Avatar Aang, der letzte Luftbändiger der Welt, erfährt von einer uralten Kraft, die seine Kultur vor dem Aussterben bewahren könnte. Gemeinsam mit seinen Freunden begibt er sich auf eine weltweite Suche, um diese Kraft zu finden, bevor sie in die falschen Hände gerät und den mühsam erkämpften Frieden gefährdet.",
+        "date": "2026-07-25",
+        "poster": "https://images.justwatch.com/poster/347109062/s332/aang-legendaja-az-utolso-leghajlito.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Die%20Legende%20von%20Aang%3A%20Der%20Herr%20der%20Elemente%20Trailer"
+      }
+    ],
     "crunchyroll": [],
     "hayu": [],
     "hbo-max": [
@@ -151,25 +141,26 @@
         "title": "The Sex Slave: Als Sexsklavin verkauft",
         "media": "sorozat",
         "genres": [
+          "Krimi",
           "Dokumentation"
         ],
         "overview": "A harrowing two-part documentary chronicling how a mother of five suddenly found herself being sold to unknown men... by her own partner.",
         "date": "2026-08-14",
-        "poster": "https://images.justwatch.com/poster/348319749/s332/the-sex-slave.jpg",
+        "poster": "https://images.justwatch.com/poster/348320001/s332/the-sex-slave.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Sex%20Slave%3A%20Als%20Sexsklavin%20verkauft%20Trailer"
       },
       {
-        "title": "On a String",
+        "title": "Der Zwischenfall",
         "media": "film",
         "genres": [
-          "Komödie",
+          "Krimi",
           "Drama",
-          "Musik"
+          "Thriller"
         ],
-        "overview": "A young, Juilliard-trained violist is still living at home with her parents in the heart of NYC, while trying to make a living playing gigs with her friends in the homes of strangers.",
-        "date": "2026-08-13",
-        "poster": "https://images.justwatch.com/poster/348283495/s332/egy-huron.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=On%20a%20String%20Trailer"
+        "overview": "Des Mordes an ihrem Geliebten beschuldigt, engagiert eine junge Geschäftsfrau einen brillanten Anwalt. Drei Stunden bleiben, die Wahrheit aufzudecken.",
+        "date": "2026-08-07",
+        "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Der%20Zwischenfall%20Trailer"
       }
     ],
     "mubi": [],
@@ -200,7 +191,21 @@
         "trailer": "https://www.youtube.com/results?search_query=Evil%20Follows%20Trailer"
       }
     ],
-    "kableone": [],
+    "kableone": [
+      {
+        "title": "The Great Punjab Robbery",
+        "media": "film",
+        "genres": [
+          "Action",
+          "Krimi",
+          "Thriller"
+        ],
+        "overview": "Three robbers with strange names seize an ordinary bank in Punjab. No demands. No ransom. Just cryptic riddles sent to the cops, each one leading deeper into the mystery.",
+        "date": "2026-08-07",
+        "poster": "https://images.justwatch.com/poster/347869450/s332/the-great-punjab-robbery.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Great%20Punjab%20Robbery%20Trailer"
+      }
+    ],
     "artiflix": [],
     "artify": [],
     "lionsgate-amazon-channels": []

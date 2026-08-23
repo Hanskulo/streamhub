@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T09:50",
-  "week": "2026-08-21",
+  "generated_at": "2026-08-23T09:40",
+  "week": "2026-08-23",
   "by_provider": {
     "netflix": [
       {
@@ -27,17 +27,6 @@
         "date": "2026-07-28",
         "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20el%C5%91zetes"
-      },
-      {
-        "title": "Instadocs: The Prediction Games",
-        "media": "film",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "Prediction markets let anyone bet on anything, from the World Cup to alien invasions. \"Instadocs\" investigates the explosive rise of global betting.",
-        "date": "2026-07-26",
-        "poster": "https://images.justwatch.com/poster/347562215/s332/instadocs-the-prediction-games.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Instadocs%3A%20The%20Prediction%20Games%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -50,7 +39,7 @@
         ],
         "overview": "Öt barát indul el felfedezni a thaiföldi Ördögszáj-barlangrendszert egy utolsó kaland során, mielőtt megkezdődik a nagybetűs élet. De hamarosan kiderül, hogy valami vadászik rájuk a víz alatt... és az a valami gyors, csendes és halálos. A fojtogató sötétségben a bizalom megrendül, a pánik eluralkodik, és minden rossz kanyar küzdelemmé válik a túlélésért.",
         "date": "2026-07-29",
-        "poster": "https://images.justwatch.com/poster/346740375/s332/ordogszaj.jpg",
+        "poster": "https://images.justwatch.com/poster/347473673/s332/ordogszaj.jpg",
         "trailer": "https://www.youtube.com/results?search_query=%C3%96rd%C3%B6gsz%C3%A1j%20el%C5%91zetes"
       },
       {
@@ -88,21 +77,8 @@
         ],
         "overview": "Amikor Snoopy kedvenc kutyaháza eltűnik, megpróbálja felkutatni, és közben rájön, mi tesz egy házat igazi otthonná.",
         "date": "2026-07-30",
-        "poster": "https://images.justwatch.com/poster/347178332/s332/snoopy-bemutatja-mindenhol-jo-de-legjobb-otthon.jpg",
+        "poster": "https://images.justwatch.com/poster/347178390/s332/snoopy-bemutatja-mindenhol-jo-de-legjobb-otthon.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Snoopy%20bemutatja%3A%20Mindenhol%20j%C3%B3%2C%20de%20legjobb%20otthon%20el%C5%91zetes"
-      },
-      {
-        "title": "The Dink",
-        "media": "film",
-        "genres": [
-          "Vígjáték",
-          "Romantikus",
-          "Sport"
-        ],
-        "overview": "Dusty „a Pöröly” Boydra, a levitézlett profi teniszezőre ráférne egy győzelem. Azért, hogy megmentse a küszködő sportklubot és kivívja apja tiszteletét, Dusty megszegi a szent esküt, és megteszi az elképzelhetetlent: pickleballt játszik.",
-        "date": "2026-07-23",
-        "poster": "https://images.justwatch.com/poster/346606105/s332/the-dink.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Dink%20el%C5%91zetes"
       }
     ],
     "disney-plus": [
@@ -130,7 +106,21 @@
     "cultpix": [],
     "filmbox": [],
     "sun-nxt": [],
-    "skyshowtime": [],
+    "skyshowtime": [
+      {
+        "title": "Aang legendája: Az utolsó léghajlító",
+        "media": "film",
+        "genres": [
+          "Akció",
+          "Animáció",
+          "Fantasy"
+        ],
+        "overview": "Aang, a világ utolsó léghajlítója felfedez egy ősi erőt, amely megmentheti kultúráját a kihalástól, és barátaival versenyt fut az idővel, hogy megtalálják, mielőtt rossz kezekbe kerülne.",
+        "date": "2026-07-25",
+        "poster": "https://images.justwatch.com/poster/347109062/s332/aang-legendaja-az-utolso-leghajlito.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Aang%20legend%C3%A1ja%3A%20Az%20utols%C3%B3%20l%C3%A9ghajl%C3%ADt%C3%B3%20el%C5%91zetes"
+      }
+    ],
     "crunchyroll": [],
     "hayu": [],
     "hbo-max": [
@@ -148,28 +138,29 @@
         "trailer": "https://www.youtube.com/results?search_query=Whitmer%20Thomas%3A%20Terminal%20Crew%20of%20Dudes%20el%C5%91zetes"
       },
       {
-        "title": "The Sex Slave",
+        "title": "A szexrabszolga",
         "media": "sorozat",
         "genres": [
+          "Krimi",
           "Dokumentum"
         ],
-        "overview": "A harrowing two-part documentary chronicling how a mother of five suddenly found herself being sold to unknown men... by her own partner.",
+        "overview": "Egy ötgyermekes anyuka valószínűtlen története, akit párja adott el szexrabszolgának a saját otthonában – miközben a gyerekek az emeleten aludtak.",
         "date": "2026-08-14",
-        "poster": "https://images.justwatch.com/poster/348319749/s332/the-sex-slave.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Sex%20Slave%20el%C5%91zetes"
+        "poster": "https://images.justwatch.com/poster/348320001/s332/the-sex-slave.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=A%20szexrabszolga%20el%C5%91zetes"
       },
       {
-        "title": "Egy húron",
+        "title": "The Invisible Guest",
         "media": "film",
         "genres": [
-          "Vígjáték",
+          "Krimi",
           "Dráma",
-          "Zene"
+          "Thriller"
         ],
-        "overview": "Egy fiatal brácsás, aki a Juilliardon végzett, még mindig a szüleivel él New York központjában. Az életét úgy próbálja fenntartani, hogy barátaival idegenek otthonában lép fel.",
-        "date": "2026-08-13",
-        "poster": "https://images.justwatch.com/poster/348283495/s332/egy-huron.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Egy%20h%C3%BAron%20el%C5%91zetes"
+        "overview": "Accused of murdering her lover, a young businesswoman hires a brilliant lawyer. With only three hours left, they must uncover what really happened.",
+        "date": "2026-08-07",
+        "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Invisible%20Guest%20el%C5%91zetes"
       }
     ],
     "mubi": [],
@@ -200,7 +191,21 @@
         "trailer": "https://www.youtube.com/results?search_query=Evil%20Follows%20el%C5%91zetes"
       }
     ],
-    "kableone": [],
+    "kableone": [
+      {
+        "title": "The Great Punjab Robbery",
+        "media": "film",
+        "genres": [
+          "Akció",
+          "Krimi",
+          "Thriller"
+        ],
+        "overview": "Three robbers with strange names seize an ordinary bank in Punjab. No demands. No ransom. Just cryptic riddles sent to the cops, each one leading deeper into the mystery.",
+        "date": "2026-08-07",
+        "poster": "https://images.justwatch.com/poster/347869450/s332/the-great-punjab-robbery.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Great%20Punjab%20Robbery%20el%C5%91zetes"
+      }
+    ],
     "artiflix": [],
     "artify": [],
     "lionsgate-amazon-channels": []
