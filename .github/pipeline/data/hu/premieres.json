@@ -1,65 +1,16 @@
 {
-  "generated_at": "2026-08-17T09:54",
-  "window": "2026-08-17 .. 2026-09-01",
+  "generated_at": "2026-08-24T10:01",
+  "window": "2026-08-24 .. 2026-09-08",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "We Are All Strangers",
-          "media": "film",
-          "genres": [
-            "Dráma"
-          ],
-          "overview": "A life-altering event forces 21-year-old Junyang and his girlfriend to face reality. At the same time, while Junyang’s father is struggling to hold their modest life together, a woman enters his life and both generations are forced to redefine their family.",
-          "date": "2026-08-20",
-          "poster": "https://images.justwatch.com/poster/341652861/s332/we-are-all-strangers.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=We%20Are%20All%20Strangers%20el%C5%91zetes"
-        },
-        {
-          "title": "Back to the 90s",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Dráma"
-          ],
-          "overview": "Since childhood, five best friends have dreamed of making it big as a boy band. When a once-in-a-lifetime opportunity arises to take a step closer to realizing their musical dream, one band member suddenly wants to give it all up, putting the future of the entire group in jeopardy. The five guys have to rise to the occasion - and in doing so, they suddenly find themselves in a completely different decade.",
-          "date": "2026-08-21",
-          "poster": "https://images.justwatch.com/poster/347869622/s332/back-to-the-90s-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Back%20to%20the%2090s%20el%C5%91zetes"
-        },
-        {
-          "title": "Ballonfieber",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Romantikus"
-          ],
-          "overview": "Christin, a successful district judge, had long since given up on love, until a hot-air-balloon pilot named Max enters her life. What begins as a fleeting encounter develops into a tender, surprising connection: Christin has chosen to live alone, in the reliable company of her chatbot Hermann, but now Max is turning her structured world upside down. Although the single father is the same age as Christin’s daughter Miriam, he doesn’t fall in love with her—he falls in love with Christin.",
-          "date": "2026-08-21",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Ballonfieber%20el%C5%91zetes"
-        },
-        {
-          "title": "LEGO Disney Princess: Magical Mayhem",
-          "media": "film",
-          "genres": [
-            "Animáció",
-            "Vígjáték",
-            "Fantasy"
-          ],
-          "overview": "During a heavy rainstorm, the Princess characters and their sidekick friends take in animals in need while enjoying a cozy day in their castle. But when the animals run amok, chaos erupts. Sleuthing reveals a mischievous villain behind it all, and with teamwork, quick thinking, and help from an unexpected friend, the Princess characters must restore order and save their home.",
-          "date": "2026-08-21",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=LEGO%20Disney%20Princess%3A%20Magical%20Mayhem%20el%C5%91zetes"
-        },
-        {
           "title": "Plan Bea",
           "media": "film",
           "genres": [
             "Vígjáték",
-            "Családi",
-            "Zene"
+            "Romantikus"
           ],
           "overview": "Bea has always known she was born to perform. But when a pandemic shuts down her school's music program and bans singing altogether, even her boundless ambition hits a wall. Undeterred, she convinces her friends to form an underground show choir — and what starts as an act of rebellion slowly becomes something much bigger: a reminder that music isn't a privilege, it's a lifeline. Funny, heartfelt, and packed with original songs, Plan Bea is an Australian musical feature film that proves you can't stop joy.",
           "date": "2026-08-25",
@@ -97,44 +48,66 @@
           "date": "2026-08-25",
           "poster": "https://images.justwatch.com/poster/347759996/s332/stamptown.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Stamptown%20el%C5%91zetes"
+        },
+        {
+          "title": "Tad és a csodalámpa",
+          "media": "film",
+          "genres": [
+            "Animáció",
+            "Vígjáték",
+            "Családi"
+          ],
+          "overview": "Tadeo és Sara immár szülőként próbálják egyensúlyban tartani a kalandot és a családi életet, miközben Momia féltékenységből egy veszélyes kívánsággal a múltba sodorja magát. Tadeónak és Sarának össze kell fogniuk, hogy megállítsák, mielőtt megváltoztatja a történelem menetét, és közben megmentsék a csapat többi tagját is, miközben a titokzatos csodalámpa nyomába erednek Londonból egészen a Közel-Kelet legmélyebb rejtelmeiig. (Hupka Adrián)",
+          "date": "2026-08-26",
+          "poster": "https://images.justwatch.com/poster/343763314/s332/tad-and-the-magic-lamp.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Tad%20%C3%A9s%20a%20csodal%C3%A1mpa%20el%C5%91zetes"
+        },
+        {
+          "title": "Yellow Mirror",
+          "media": "film",
+          "genres": [
+            "Animáció",
+            "Vígjáték"
+          ],
+          "overview": "A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre in this Disney+ exclusive.",
+          "date": "2026-08-26",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Yellow%20Mirror%20el%C5%91zetes"
+        },
+        {
+          "title": "Schwarzers Kosmos",
+          "media": "film",
+          "genres": [
+            "Dokumentum"
+          ],
+          "overview": "",
+          "date": "2026-08-27",
+          "poster": "https://images.justwatch.com/poster/347833882/s332/schwarzers-kosmos.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Schwarzers%20Kosmos%20el%C5%91zetes"
+        },
+        {
+          "title": "Barreda",
+          "media": "film",
+          "genres": [
+            "Krimi",
+            "Dráma",
+            "Történelmi"
+          ],
+          "overview": "In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
+          "date": "2026-08-28",
+          "poster": "https://images.justwatch.com/poster/347823313/s332/barreda.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Barreda%20el%C5%91zetes"
         }
       ]
     },
     "hungary": {
       "items": [
         {
-          "title": "Prérifarkas visszavág",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Animáció",
-            "Vígjáték"
-          ],
-          "overview": "A Coyote vs. Acme című filmben a Looney Tunes oszlopos tagja, Vili, a prérifarkas beperli az Acme Corporationt, amiért az általuk gyártott termékek cserben hagyták őt a Kengyelfutó gyalogkakukk üldözésében.",
-          "date": "2026-08-20",
-          "poster": "https://images.justwatch.com/poster/348099537/s332/coyote-vs-acme.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Pr%C3%A9rifarkas%20visszav%C3%A1g%20el%C5%91zetes"
-        },
-        {
-          "title": "Thread: An Insidious Tale",
-          "media": "film",
-          "genres": [
-            "Horror",
-            "Thriller",
-            "Sci-Fi"
-          ],
-          "overview": "A couple resorts to a spell to travel back in time, hoping to prevent their daughter's tragic death .",
-          "date": "2026-08-21",
-          "poster": "https://images.justwatch.com/poster/320417486/s332/thread-an-insidious-tale.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Thread%3A%20An%20Insidious%20Tale%20el%C5%91zetes"
-        },
-        {
           "title": "Plan Bea",
           "media": "film",
           "genres": [
             "Vígjáték",
-            "Családi",
-            "Zene"
+            "Romantikus"
           ],
           "overview": "Bea has always known she was born to perform. But when a pandemic shuts down her school's music program and bans singing altogether, even her boundless ambition hits a wall. Undeterred, she convinces her friends to form an underground show choir — and what starts as an act of rebellion slowly becomes something much bigger: a reminder that music isn't a privilege, it's a lifeline. Funny, heartfelt, and packed with original songs, Plan Bea is an Australian musical feature film that proves you can't stop joy.",
           "date": "2026-08-25",
@@ -151,7 +124,7 @@
           ],
           "overview": "A közeljövőben egy járvány megtizedelte az amerikai társadalmat. Egy pilóta magányosan él egy elhagyatott coloradói légibázison a kutyájával és egy kemény ex-tengerészgyalogossal. A két férfi nem is lehetne különbözőbb, de egymásra vannak utalva, hogy elhárítsák a kóborló betolakodókat. Amikor egy véletlenszerű adást fognak, a hang felcsillantja benne a reményt, hogy létezik egy jobb élet a szigorúan ellenőrzött határon kívül.  (Gergo Horvath)",
           "date": "2026-08-26",
-          "poster": "https://images.justwatch.com/poster/346657264/s332/the-dog-stars.jpg",
+          "poster": "https://images.justwatch.com/poster/346657270/s332/the-dog-stars.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Kutya%20csillagk%C3%A9p%20el%C5%91zetes"
         },
         {
@@ -166,59 +139,23 @@
           "date": "2026-08-28",
           "poster": "https://images.justwatch.com/poster/321291937/s332/once-more-2025.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Once%20More%20el%C5%91zetes"
+        },
+        {
+          "title": "Biff the Human Slayer",
+          "media": "film",
+          "genres": [
+            "Vígjáték",
+            "Horror"
+          ],
+          "overview": "A delusional vampire takes it upon himself to rid his town of violence. To do so, he teams up with a couple of freshly turned vampires, a stubborn christian struggling to adjust to his new truth, and a rook who is quick to adapt to hers.",
+          "date": "2026-09-08",
+          "poster": "https://images.justwatch.com/poster/347561958/s332/biff-the-human-slayer.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Biff%20the%20Human%20Slayer%20el%C5%91zetes"
         }
       ]
     },
     "usa": {
       "items": [
-        {
-          "title": "Learning to Fly",
-          "media": "film",
-          "genres": [
-            "Dokumentum"
-          ],
-          "overview": "Aisha McAdams, a former competitive runner turned photographer, embarks on a journey to document the triumphs and struggles of famed ultra trailrunners, including Jim Walmsley and Eszter Csillag. Traveling to mythical races—the Western States Endurance Run in the mountains of eastern California, the Ultra-Trail du Mont-Blanc in the French Alps—the film marvels at athletes who maintain their intensity as they run 100 miles of mountain trails while climbing thousands of vertical feet.",
-          "date": "2026-08-21",
-          "poster": "https://images.justwatch.com/poster/339046363/s332/learning-to-fly.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Learning%20to%20Fly%20el%C5%91zetes"
-        },
-        {
-          "title": "It Ends",
-          "media": "film",
-          "genres": [
-            "Dráma",
-            "Fantasy",
-            "Horror"
-          ],
-          "overview": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it.",
-          "date": "2026-08-21",
-          "poster": "https://images.justwatch.com/poster/347511140/s332/it-ends.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=It%20Ends%20el%C5%91zetes"
-        },
-        {
-          "title": "The King of Horror",
-          "media": "film",
-          "genres": [
-            "Horror"
-          ],
-          "overview": "A young director is obsessed with casting a long-lost coursemate in a horror film — the one who vanished after a disturbing incident they both swore to forget.",
-          "date": "2026-08-21",
-          "poster": "https://images.justwatch.com/poster/346952311/s332/the-king-of-horror.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20King%20of%20Horror%20el%C5%91zetes"
-        },
-        {
-          "title": "Hot Spot",
-          "media": "film",
-          "genres": [
-            "Krimi",
-            "Thriller",
-            "Sci-Fi"
-          ],
-          "overview": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
-          "date": "2026-08-21",
-          "poster": "https://images.justwatch.com/poster/346534563/s332/hot-spot-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Hot%20Spot%20el%C5%91zetes"
-        },
         {
           "title": "Desert Fiends 2",
           "media": "film",
@@ -233,15 +170,65 @@
           "trailer": "https://www.youtube.com/results?search_query=Desert%20Fiends%202%20el%C5%91zetes"
         },
         {
-          "title": "Yellow Mirror",
+          "title": "Traffic Jam Comedy Jam Vol 4",
           "media": "film",
           "genres": [
-            "Animáció"
+            "Vígjáték"
           ],
-          "overview": "A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre in this Disney+ exclusive.",
-          "date": "2026-08-26",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Yellow%20Mirror%20el%C5%91zetes"
+          "overview": "Traffic Jam Comedy Jam is a stand up comedy series produced by Marc Brissett. Brisset was inspired by Def Jam comedy from the 90's. Marc Brissett's hope is that the series helps to launch careers of several stand up comedians. The series was shot at Room52 in Mid town Manhattan, NY.",
+          "date": "2026-08-25",
+          "poster": "https://images.justwatch.com/poster/347484798/s332/traffic-jam-comedy-jam-vol-4.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Traffic%20Jam%20Comedy%20Jam%20Vol%204%20el%C5%91zetes"
+        },
+        {
+          "title": "Rise of the Footsoldier: Retribution",
+          "media": "film",
+          "genres": [
+            "Akció",
+            "Krimi",
+            "Thriller"
+          ],
+          "overview": "Tate (Craig Fairbrass) battles ruthless mercenaries throughout Ibiza as he avenges his friend's death.  Get ready for the biggest and most action packed film in the successful independent crime saga.",
+          "date": "2026-08-28",
+          "poster": "https://images.justwatch.com/poster/347822711/s332/rise-of-the-footsoldier-retribution.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Rise%20of%20the%20Footsoldier%3A%20Retribution%20el%C5%91zetes"
+        },
+        {
+          "title": "Good Boy Gone Best",
+          "media": "film",
+          "genres": [
+            "Vígjáték",
+            "Dráma"
+          ],
+          "overview": "To shape their son's upbringing, a couple orchestrates a reality where wealth and poverty. As the boy comes of age and uncovers the truth, the facade cracks, exposing a shocking reality.",
+          "date": "2026-08-28",
+          "poster": "https://images.justwatch.com/poster/346681548/s332/quy-tu-vuot-giau.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Good%20Boy%20Gone%20Best%20el%C5%91zetes"
+        },
+        {
+          "title": "ASI Babita Singh Reporting",
+          "media": "film",
+          "genres": [
+            "Krimi",
+            "Dráma",
+            "Thriller"
+          ],
+          "overview": "An under-estimated cop visiting her in-laws for the first time finds herself torn between uncovering the truth in a murder investigation and the hidden lies in her own marriage.",
+          "date": "2026-08-28",
+          "poster": "https://images.justwatch.com/poster/348432149/s332/asi-babita-singh-reporting.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=ASI%20Babita%20Singh%20Reporting%20el%C5%91zetes"
+        },
+        {
+          "title": "Buddy",
+          "media": "film",
+          "genres": [
+            "Vígjáték",
+            "Horror"
+          ],
+          "overview": "Remember BUDDY—the bright orange unicorn and star of that classic childrens' television show who brought joy and life lessons into your living room?  Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
+          "date": "2026-08-28",
+          "poster": "https://images.justwatch.com/poster/340383635/s332/buddy-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Buddy%20el%C5%91zetes"
         },
         {
           "title": "The Cycle of Love",
@@ -249,7 +236,7 @@
           "genres": [
             "Akció",
             "Dokumentum",
-            "Sci-Fi"
+            "Romantikus"
           ],
           "overview": "Explores the romantic journey of PK Mahanandia, a Delhi street artist who trekked 6,000 miles by bicycle in 1977, venturing across continents to reunite with the woman he loved.",
           "date": "2026-08-28",
@@ -257,15 +244,17 @@
           "trailer": "https://www.youtube.com/results?search_query=The%20Cycle%20of%20Love%20el%C5%91zetes"
         },
         {
-          "title": "Buddy",
+          "title": "Barreda",
           "media": "film",
           "genres": [
-            "Horror"
+            "Krimi",
+            "Dráma",
+            "Történelmi"
           ],
-          "overview": "Remember BUDDY—the bright orange unicorn and star of that classic childrens' television show who brought joy and life lessons into your living room?  Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
+          "overview": "In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
           "date": "2026-08-28",
-          "poster": "https://images.justwatch.com/poster/340383635/s332/buddy-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Buddy%20el%C5%91zetes"
+          "poster": "https://images.justwatch.com/poster/347823313/s332/barreda.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Barreda%20el%C5%91zetes"
         }
       ]
     }
