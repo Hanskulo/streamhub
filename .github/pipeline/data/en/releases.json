@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-23T09:41",
-  "week": "2026-08-23",
+  "generated_at": "2026-08-25T09:50",
+  "week": "2026-08-25",
   "by_provider": {
     "netflix": [
       {
-        "title": "The Last House",
+        "title": "Pyaar Prema Kalyanam",
         "media": "film",
         "genres": [
-          "Action",
-          "Horror",
-          "Thriller"
+          "Comedy",
+          "Drama",
+          "Romance"
         ],
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "date": "2026-08-06",
-        "poster": "https://images.justwatch.com/poster/347571635/s332/az-utolso-haz.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20House%20trailer"
+        "overview": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
+        "date": "2026-08-21",
+        "poster": "https://images.justwatch.com/poster/349224054/s332/pyaar-prema-kalyanam.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Pyaar%20Prema%20Kalyanam%20trailer"
       },
       {
         "title": "Mary Beth Barone: Galaxy Brain",
@@ -41,18 +41,6 @@
         "date": "2026-07-29",
         "poster": "https://images.justwatch.com/poster/347473673/s332/ordogszaj.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Devil%27s%20Mouth%20trailer"
-      },
-      {
-        "title": "Adarsh Baal Vidyalaya",
-        "media": "sorozat",
-        "genres": [
-          "Comedy",
-          "Drama"
-        ],
-        "overview": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
-        "date": "2026-07-24",
-        "poster": "https://images.justwatch.com/poster/347473839/s332/adarsh-baal-vidyalaya.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Adarsh%20Baal%20Vidyalaya%20trailer"
       }
     ],
     "apple-tv": [
@@ -65,7 +53,7 @@
         ],
         "overview": "Explores the history and the recent win by UConn Huskies Women's Basketball team of the 2025 NCAA National Championship, through a mix of archival footage and interviews.",
         "date": "2026-08-20",
-        "poster": "https://images.justwatch.com/poster/348509620/s332/the-dynasty-uconn-huskies.jpg",
+        "poster": "https://images.justwatch.com/poster/349203896/s332/the-dynasty-uconn-huskies.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Dynasty%3A%20UConn%20Huskies%20trailer"
       },
       {
@@ -83,6 +71,19 @@
     ],
     "disney-plus": [
       {
+        "title": "Disney Princess: The Ultimate Concert Celebration",
+        "media": "film",
+        "genres": [
+          "Documentary",
+          "History",
+          "Family"
+        ],
+        "overview": "Disney Princess: The Ultimate Concert Celebration at Disneyland Resort brings together the largest gathering of Disney Princess stars ever assembled, celebrating the iconic stories across animation, live-action, stage, and music. This one-of-a-kind concert will transform the night skies with dazzling lights, sweeping projections, and sky-high fountains creating a truly immersive world where the music, magic, and legacy of Disney Princesses shine like never before.",
+        "date": "2026-08-16",
+        "poster": "https://images.justwatch.com/poster/348434549/s332/disney-princess-the-ultimate-concert-celebration.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Disney%20Princess%3A%20The%20Ultimate%20Concert%20Celebration%20trailer"
+      },
+      {
         "title": "2026 Disney Legends Awards Ceremony Live!",
         "media": "film",
         "genres": [],
@@ -93,7 +94,19 @@
       }
     ],
     "justwatch-tv": [],
-    "apple-tv-store": [],
+    "apple-tv-store": [
+      {
+        "title": "Stolen by the Stars",
+        "media": "film",
+        "genres": [
+          "Documentary"
+        ],
+        "overview": "A visceral descent into the phenomenon of alien abduction. Through harrowing accounts from contactees and chilling military testimony, Stolen by the Stars explores the thin veil between our world and the unknown, and what happens when you reach for the stars, and they decide to reach back.",
+        "date": "2026-08-11",
+        "poster": "https://images.justwatch.com/poster/346688168/s332/stolen-by-the-stars.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Stolen%20by%20the%20Stars%20trailer"
+      }
+    ],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
@@ -106,21 +119,7 @@
     "cultpix": [],
     "filmbox": [],
     "sun-nxt": [],
-    "skyshowtime": [
-      {
-        "title": "Avatar Aang: The Last Airbender",
-        "media": "film",
-        "genres": [
-          "Action",
-          "Animation",
-          "Fantasy"
-        ],
-        "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands.",
-        "date": "2026-07-25",
-        "poster": "https://images.justwatch.com/poster/347109062/s332/aang-legendaja-az-utolso-leghajlito.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Avatar%20Aang%3A%20The%20Last%20Airbender%20trailer"
-      }
-    ],
+    "skyshowtime": [],
     "crunchyroll": [],
     "hayu": [],
     "hbo-max": [
@@ -146,21 +145,21 @@
         ],
         "overview": "A harrowing two-part documentary chronicling how a mother of five suddenly found herself being sold to unknown men... by her own partner.",
         "date": "2026-08-14",
-        "poster": "https://images.justwatch.com/poster/348320001/s332/the-sex-slave.jpg",
+        "poster": "https://images.justwatch.com/poster/348319749/s332/the-sex-slave.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Sex%20Slave%20trailer"
       },
       {
-        "title": "The Invisible Guest",
+        "title": "On a String",
         "media": "film",
         "genres": [
-          "Crime",
+          "Comedy",
           "Drama",
-          "Thriller"
+          "Music"
         ],
-        "overview": "Accused of murdering her lover, a young businesswoman hires a brilliant lawyer. With only three hours left, they must uncover what really happened.",
-        "date": "2026-08-07",
-        "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Invisible%20Guest%20trailer"
+        "overview": "A young, Juilliard-trained violist is still living at home with her parents in the heart of NYC, while trying to make a living playing gigs with her friends in the homes of strangers.",
+        "date": "2026-08-13",
+        "poster": "https://images.justwatch.com/poster/348283495/s332/egy-huron.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=On%20a%20String%20trailer"
       }
     ],
     "mubi": [],

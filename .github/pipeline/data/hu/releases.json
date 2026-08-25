@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-23T09:40",
-  "week": "2026-08-23",
+  "generated_at": "2026-08-25T09:49",
+  "week": "2026-08-25",
   "by_provider": {
     "netflix": [
       {
-        "title": "Az utolsó ház",
+        "title": "Friss házasok",
         "media": "film",
         "genres": [
-          "Akció",
-          "Horror",
-          "Thriller"
+          "Vígjáték",
+          "Dráma",
+          "Romantikus"
         ],
-        "overview": "Egy négytagú család váratlanul a saját házába zárva találja magát kiút nélkül, és együtt kell működniük, hogy túléljék mind a fogyatkozó készleteiket, mind a rejtélyes, fenyegető erőt, amely csapdában tartja őket.",
-        "date": "2026-08-06",
-        "poster": "https://images.justwatch.com/poster/347571635/s332/az-utolso-haz.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Az%20utols%C3%B3%20h%C3%A1z%20el%C5%91zetes"
+        "overview": "A menyasszony nem akarja elhagyni a családi fészket az esküvő után, így a férjnek ki kell találnia, alkalmazkodhat-e a közös élethez a nő szüleivel egy fedél alatt.",
+        "date": "2026-08-21",
+        "poster": "https://images.justwatch.com/poster/349224054/s332/pyaar-prema-kalyanam.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Friss%20h%C3%A1zasok%20el%C5%91zetes"
       },
       {
         "title": "Mary Beth Barone: Galaxy Brain",
@@ -41,18 +41,6 @@
         "date": "2026-07-29",
         "poster": "https://images.justwatch.com/poster/347473673/s332/ordogszaj.jpg",
         "trailer": "https://www.youtube.com/results?search_query=%C3%96rd%C3%B6gsz%C3%A1j%20el%C5%91zetes"
-      },
-      {
-        "title": "Adarsh Baal Vidyalaya",
-        "media": "sorozat",
-        "genres": [
-          "Vígjáték",
-          "Dráma"
-        ],
-        "overview": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
-        "date": "2026-07-24",
-        "poster": "https://images.justwatch.com/poster/347473839/s332/adarsh-baal-vidyalaya.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Adarsh%20Baal%20Vidyalaya%20el%C5%91zetes"
       }
     ],
     "apple-tv": [
@@ -65,7 +53,7 @@
         ],
         "overview": "Ismerd meg az egyetemi kosárlabda történelmének legdominánsabb csapatát, ahol Geno Auriemma a végsőkig hajtja játékosait, hogy 12 bajnoki címet szerezzenek. Rebecca Lobo, Diana Taurasi, Paige Bueckers és mások elárulják, mi kell ahhoz, hogy valaki túlélje a UConnt, és dinasztiát építsen.",
         "date": "2026-08-20",
-        "poster": "https://images.justwatch.com/poster/348509620/s332/the-dynasty-uconn-huskies.jpg",
+        "poster": "https://images.justwatch.com/poster/349203896/s332/the-dynasty-uconn-huskies.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Dynasty%3A%20UConn%20Huskies%20el%C5%91zetes"
       },
       {
@@ -83,6 +71,19 @@
     ],
     "disney-plus": [
       {
+        "title": "Disney Princess: The Ultimate Concert Celebration",
+        "media": "film",
+        "genres": [
+          "Dokumentum",
+          "Történelmi",
+          "Családi"
+        ],
+        "overview": "Disney Princess: The Ultimate Concert Celebration at Disneyland Resort brings together the largest gathering of Disney Princess stars ever assembled, celebrating the iconic stories across animation, live-action, stage, and music. This one-of-a-kind concert will transform the night skies with dazzling lights, sweeping projections, and sky-high fountains creating a truly immersive world where the music, magic, and legacy of Disney Princesses shine like never before.",
+        "date": "2026-08-16",
+        "poster": "https://images.justwatch.com/poster/348434549/s332/disney-princess-the-ultimate-concert-celebration.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Disney%20Princess%3A%20The%20Ultimate%20Concert%20Celebration%20el%C5%91zetes"
+      },
+      {
         "title": "2026 Disney Legends Awards Ceremony Live!",
         "media": "film",
         "genres": [],
@@ -93,7 +94,19 @@
       }
     ],
     "justwatch-tv": [],
-    "apple-tv-store": [],
+    "apple-tv-store": [
+      {
+        "title": "Stolen by the Stars",
+        "media": "film",
+        "genres": [
+          "Dokumentum"
+        ],
+        "overview": "A visceral descent into the phenomenon of alien abduction. Through harrowing accounts from contactees and chilling military testimony, Stolen by the Stars explores the thin veil between our world and the unknown, and what happens when you reach for the stars, and they decide to reach back.",
+        "date": "2026-08-11",
+        "poster": "https://images.justwatch.com/poster/346688168/s332/stolen-by-the-stars.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Stolen%20by%20the%20Stars%20el%C5%91zetes"
+      }
+    ],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
@@ -106,21 +119,7 @@
     "cultpix": [],
     "filmbox": [],
     "sun-nxt": [],
-    "skyshowtime": [
-      {
-        "title": "Aang legendája: Az utolsó léghajlító",
-        "media": "film",
-        "genres": [
-          "Akció",
-          "Animáció",
-          "Fantasy"
-        ],
-        "overview": "Aang, a világ utolsó léghajlítója felfedez egy ősi erőt, amely megmentheti kultúráját a kihalástól, és barátaival versenyt fut az idővel, hogy megtalálják, mielőtt rossz kezekbe kerülne.",
-        "date": "2026-07-25",
-        "poster": "https://images.justwatch.com/poster/347109062/s332/aang-legendaja-az-utolso-leghajlito.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Aang%20legend%C3%A1ja%3A%20Az%20utols%C3%B3%20l%C3%A9ghajl%C3%ADt%C3%B3%20el%C5%91zetes"
-      }
-    ],
+    "skyshowtime": [],
     "crunchyroll": [],
     "hayu": [],
     "hbo-max": [
@@ -146,21 +145,21 @@
         ],
         "overview": "Egy ötgyermekes anyuka valószínűtlen története, akit párja adott el szexrabszolgának a saját otthonában – miközben a gyerekek az emeleten aludtak.",
         "date": "2026-08-14",
-        "poster": "https://images.justwatch.com/poster/348320001/s332/the-sex-slave.jpg",
+        "poster": "https://images.justwatch.com/poster/348319749/s332/the-sex-slave.jpg",
         "trailer": "https://www.youtube.com/results?search_query=A%20szexrabszolga%20el%C5%91zetes"
       },
       {
-        "title": "The Invisible Guest",
+        "title": "Egy húron",
         "media": "film",
         "genres": [
-          "Krimi",
+          "Vígjáték",
           "Dráma",
-          "Thriller"
+          "Zene"
         ],
-        "overview": "Accused of murdering her lover, a young businesswoman hires a brilliant lawyer. With only three hours left, they must uncover what really happened.",
-        "date": "2026-08-07",
-        "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Invisible%20Guest%20el%C5%91zetes"
+        "overview": "Egy fiatal brácsás, aki a Juilliardon végzett, még mindig a szüleivel él New York központjában. Az életét úgy próbálja fenntartani, hogy barátaival idegenek otthonában lép fel.",
+        "date": "2026-08-13",
+        "poster": "https://images.justwatch.com/poster/348283495/s332/egy-huron.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Egy%20h%C3%BAron%20el%C5%91zetes"
       }
     ],
     "mubi": [],
