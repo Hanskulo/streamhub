@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T09:49",
-  "week": "2026-08-25",
+  "generated_at": "2026-08-27T19:49",
+  "week": "2026-08-27",
   "by_provider": {
     "netflix": [
       {
@@ -15,6 +15,19 @@
         "date": "2026-08-21",
         "poster": "https://images.justwatch.com/poster/349224054/s332/pyaar-prema-kalyanam.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Friss%20h%C3%A1zasok%20el%C5%91zetes"
+      },
+      {
+        "title": "Az utolsó ház",
+        "media": "film",
+        "genres": [
+          "Akció",
+          "Horror",
+          "Thriller"
+        ],
+        "overview": "Egy négytagú család váratlanul a saját házába zárva találja magát kiút nélkül, és együtt kell működniük, hogy túléljék mind a fogyatkozó készleteiket, mind a rejtélyes, fenyegető erőt, amely csapdában tartja őket.",
+        "date": "2026-08-06",
+        "poster": "https://images.justwatch.com/poster/347571635/s332/az-utolso-haz.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Az%20utols%C3%B3%20h%C3%A1z%20el%C5%91zetes"
       },
       {
         "title": "Mary Beth Barone: Galaxy Brain",
@@ -39,7 +52,7 @@
         ],
         "overview": "Öt barát indul el felfedezni a thaiföldi Ördögszáj-barlangrendszert egy utolsó kaland során, mielőtt megkezdődik a nagybetűs élet. De hamarosan kiderül, hogy valami vadászik rájuk a víz alatt... és az a valami gyors, csendes és halálos. A fojtogató sötétségben a bizalom megrendül, a pánik eluralkodik, és minden rossz kanyar küzdelemmé válik a túlélésért.",
         "date": "2026-07-29",
-        "poster": "https://images.justwatch.com/poster/347473673/s332/ordogszaj.jpg",
+        "poster": "https://images.justwatch.com/poster/346740375/s332/ordogszaj.jpg",
         "trailer": "https://www.youtube.com/results?search_query=%C3%96rd%C3%B6gsz%C3%A1j%20el%C5%91zetes"
       }
     ],
@@ -71,6 +84,15 @@
     ],
     "disney-plus": [
       {
+        "title": "2026 Disney Legends Awards Ceremony Live!",
+        "media": "film",
+        "genres": [],
+        "overview": "A kaliforniai Anaheimből élőben jelentkező Disney Legends díjátadó a „D23: The Ultimate Disney Fan Event” keretében köszönti a cég legmagasabb kitüntetését átvevő Disney-legendák rendkívüli csoportját. A díjazottak között szerepel Chris Berman, Jerry Bruckheimer, Susan Egan, Eric Goldberg, Anne Hathaway, Bob Iger, Kim Irvine, Dwayne Johnson, a Jonas Brothers, Lin-Manuel Miranda és Alan Tudyk. Az Emmy®-díjas Ryan Seacrest műsorvezetésével zajló felejthetetlen ünnepségen megható méltatások, meglepetések és inspiráló történetek idézik meg azokat az ikonokat, akiknek a kreativitása, tehetsége és látásmódja nemzedékek óta formálja a Disney varázsát.",
+        "date": "2026-08-16",
+        "poster": "https://images.justwatch.com/poster/348537803/s332/2026-disney-legends-awards-ceremony-live.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=2026%20Disney%20Legends%20Awards%20Ceremony%20Live%21%20el%C5%91zetes"
+      },
+      {
         "title": "Disney Princess: The Ultimate Concert Celebration",
         "media": "film",
         "genres": [
@@ -82,15 +104,6 @@
         "date": "2026-08-16",
         "poster": "https://images.justwatch.com/poster/348434549/s332/disney-princess-the-ultimate-concert-celebration.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Disney%20Princess%3A%20The%20Ultimate%20Concert%20Celebration%20el%C5%91zetes"
-      },
-      {
-        "title": "2026 Disney Legends Awards Ceremony Live!",
-        "media": "film",
-        "genres": [],
-        "overview": "A kaliforniai Anaheimből élőben jelentkező Disney Legends díjátadó a „D23: The Ultimate Disney Fan Event” keretében köszönti a cég legmagasabb kitüntetését átvevő Disney-legendák rendkívüli csoportját. A díjazottak között szerepel Chris Berman, Jerry Bruckheimer, Susan Egan, Eric Goldberg, Anne Hathaway, Bob Iger, Kim Irvine, Dwayne Johnson, a Jonas Brothers, Lin-Manuel Miranda és Alan Tudyk. Az Emmy®-díjas Ryan Seacrest műsorvezetésével zajló felejthetetlen ünnepségen megható méltatások, meglepetések és inspiráló történetek idézik meg azokat az ikonokat, akiknek a kreativitása, tehetsége és látásmódja nemzedékek óta formálja a Disney varázsát.",
-        "date": "2026-08-16",
-        "poster": "https://images.justwatch.com/poster/348537803/s332/2026-disney-legends-awards-ceremony-live.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=2026%20Disney%20Legends%20Awards%20Ceremony%20Live%21%20el%C5%91zetes"
       }
     ],
     "justwatch-tv": [],
@@ -110,7 +123,19 @@
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
-    "wow-presents-plus": [],
+    "wow-presents-plus": [
+      {
+        "title": "RuPaul's Drag Race UK: Rewind",
+        "media": "film",
+        "genres": [
+          "Dokumentum"
+        ],
+        "overview": "Hosted by international Drag Race aficionado Angeria Paris VanMicheals, RuPaul's Drag Race UK: Rewind takes a hilarious trip down memory lane to revisit some of the most unforgettable moments from seven seasons of RuPaul's Drag Race UK and three seasons of RuPaul's Drag Race UK vs The World. From iconic runway looks and legendary performances to outrageous comedy, unforgettable drama and the queens who snatched the crown, celebrate the very best of Drag Race UK - before a brand-new season begins.",
+        "date": "2026-08-20",
+        "poster": "https://images.justwatch.com/poster/349015451/s332/rupauls-drag-race-uk-rewind.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=RuPaul%27s%20Drag%20Race%20UK%3A%20Rewind%20el%C5%91zetes"
+      }
+    ],
     "magellan-tv": [],
     "broadwayhd": [],
     "dekkoo": [],
@@ -164,18 +189,6 @@
     ],
     "mubi": [],
     "bloodstream": [
-      {
-        "title": "Together Till the End",
-        "media": "film",
-        "genres": [
-          "Dráma",
-          "Horror"
-        ],
-        "overview": "When a young couple is about to go out on a trip, something gets in their way: the zombie apocalypse.",
-        "date": "2026-08-05",
-        "poster": "https://images.justwatch.com/poster/348248426/s332/together-till-the-end.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Together%20Till%20the%20End%20el%C5%91zetes"
-      },
       {
         "title": "Evil Follows",
         "media": "film",

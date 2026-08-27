@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T09:50",
-  "week": "2026-08-25",
+  "generated_at": "2026-08-27T19:50",
+  "week": "2026-08-27",
   "by_provider": {
     "netflix": [
       {
@@ -15,6 +15,19 @@
         "date": "2026-08-21",
         "poster": "https://images.justwatch.com/poster/349224054/s332/pyaar-prema-kalyanam.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Pyaar%20Prema%20Kalyanam%20trailer"
+      },
+      {
+        "title": "The Last House",
+        "media": "film",
+        "genres": [
+          "Action",
+          "Horror",
+          "Thriller"
+        ],
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "date": "2026-08-06",
+        "poster": "https://images.justwatch.com/poster/347571635/s332/az-utolso-haz.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20House%20trailer"
       },
       {
         "title": "Mary Beth Barone: Galaxy Brain",
@@ -39,7 +52,7 @@
         ],
         "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
         "date": "2026-07-29",
-        "poster": "https://images.justwatch.com/poster/347473673/s332/ordogszaj.jpg",
+        "poster": "https://images.justwatch.com/poster/346740375/s332/ordogszaj.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Devil%27s%20Mouth%20trailer"
       }
     ],
@@ -71,6 +84,15 @@
     ],
     "disney-plus": [
       {
+        "title": "2026 Disney Legends Awards Ceremony Live!",
+        "media": "film",
+        "genres": [],
+        "overview": "Live from Anaheim, California, the Disney Legends Awards Ceremony at “D23: The Ultimate Disney Fan Event” celebrates an extraordinary class of Disney Legends receiving the company’s highest honor. Honorees include Chris Berman, Jerry Bruckheimer, Susan Egan, Eric Goldberg, Anne Hathaway, Bob Iger, Kim Irvine, Dwayne Johnson, the Jonas Brothers, Lin‑Manuel Miranda, and Alan Tudyk. Hosted by Emmy® Award-winning Ryan Seacrest, this unforgettable ceremony features heartfelt tributes, surprise moments, and inspiring stories honoring the icons whose creativity, talent, and vision have shaped Disney magic for generations.",
+        "date": "2026-08-16",
+        "poster": "https://images.justwatch.com/poster/348537803/s332/2026-disney-legends-awards-ceremony-live.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=2026%20Disney%20Legends%20Awards%20Ceremony%20Live%21%20trailer"
+      },
+      {
         "title": "Disney Princess: The Ultimate Concert Celebration",
         "media": "film",
         "genres": [
@@ -82,15 +104,6 @@
         "date": "2026-08-16",
         "poster": "https://images.justwatch.com/poster/348434549/s332/disney-princess-the-ultimate-concert-celebration.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Disney%20Princess%3A%20The%20Ultimate%20Concert%20Celebration%20trailer"
-      },
-      {
-        "title": "2026 Disney Legends Awards Ceremony Live!",
-        "media": "film",
-        "genres": [],
-        "overview": "Live from Anaheim, California, the Disney Legends Awards Ceremony at “D23: The Ultimate Disney Fan Event” celebrates an extraordinary class of Disney Legends receiving the company’s highest honor. Honorees include Chris Berman, Jerry Bruckheimer, Susan Egan, Eric Goldberg, Anne Hathaway, Bob Iger, Kim Irvine, Dwayne Johnson, the Jonas Brothers, Lin‑Manuel Miranda, and Alan Tudyk. Hosted by Emmy® Award-winning Ryan Seacrest, this unforgettable ceremony features heartfelt tributes, surprise moments, and inspiring stories honoring the icons whose creativity, talent, and vision have shaped Disney magic for generations.",
-        "date": "2026-08-16",
-        "poster": "https://images.justwatch.com/poster/348537803/s332/2026-disney-legends-awards-ceremony-live.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=2026%20Disney%20Legends%20Awards%20Ceremony%20Live%21%20trailer"
       }
     ],
     "justwatch-tv": [],
@@ -110,7 +123,19 @@
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
-    "wow-presents-plus": [],
+    "wow-presents-plus": [
+      {
+        "title": "RuPaul's Drag Race UK: Rewind",
+        "media": "film",
+        "genres": [
+          "Documentary"
+        ],
+        "overview": "Hosted by international Drag Race aficionado Angeria Paris VanMicheals, RuPaul's Drag Race UK: Rewind takes a hilarious trip down memory lane to revisit some of the most unforgettable moments from seven seasons of RuPaul's Drag Race UK and three seasons of RuPaul's Drag Race UK vs The World. From iconic runway looks and legendary performances to outrageous comedy, unforgettable drama and the queens who snatched the crown, celebrate the very best of Drag Race UK - before a brand-new season begins.",
+        "date": "2026-08-20",
+        "poster": "https://images.justwatch.com/poster/349015451/s332/rupauls-drag-race-uk-rewind.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=RuPaul%27s%20Drag%20Race%20UK%3A%20Rewind%20trailer"
+      }
+    ],
     "magellan-tv": [],
     "broadwayhd": [],
     "dekkoo": [],
@@ -164,18 +189,6 @@
     ],
     "mubi": [],
     "bloodstream": [
-      {
-        "title": "Together Till the End",
-        "media": "film",
-        "genres": [
-          "Drama",
-          "Horror"
-        ],
-        "overview": "When a young couple is about to go out on a trip, something gets in their way: the zombie apocalypse.",
-        "date": "2026-08-05",
-        "poster": "https://images.justwatch.com/poster/348248426/s332/together-till-the-end.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Together%20Till%20the%20End%20trailer"
-      },
       {
         "title": "Evil Follows",
         "media": "film",
