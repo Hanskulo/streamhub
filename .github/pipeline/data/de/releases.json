@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-08-27T19:50",
-  "week": "2026-08-27",
+  "generated_at": "2026-08-29T14:27",
+  "week": "2026-08-29",
   "by_provider": {
     "netflix": [
+      {
+        "title": "The Last Salute",
+        "media": "film",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Chronicles the MiG-21's final chapter in the Indian Air Force, showcasing stories of generations of fighter pilots who flew it.",
+        "date": "2026-08-26",
+        "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20Trailer"
+      },
       {
         "title": "Pyaar Prema Kalyanam",
         "media": "film",
@@ -28,32 +39,34 @@
         "date": "2026-08-06",
         "poster": "https://images.justwatch.com/poster/347571635/s332/az-utolso-haz.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Last%20House%20Trailer"
-      },
-      {
-        "title": "Mary Beth Barone: Galaxy Brain",
-        "media": "film",
-        "genres": [
-          "Komödie",
-          "Dokumentation"
-        ],
-        "overview": "This marks Mary Beth Barone's first hour-long comedy special.",
-        "date": "2026-07-28",
-        "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20Trailer"
       }
     ],
     "amazon-prime-video": [
       {
-        "title": "The Devil's Mouth - Der Teufelsschlund",
+        "title": "Barreda",
         "media": "film",
         "genres": [
-          "Horror",
+          "Krimi",
+          "Drama",
+          "Historie"
+        ],
+        "overview": "In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
+        "date": "2026-08-28",
+        "poster": "https://images.justwatch.com/poster/347823313/s332/barreda.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Barreda%20Trailer"
+      },
+      {
+        "title": "ASI Babita Singh Reporting",
+        "media": "film",
+        "genres": [
+          "Krimi",
+          "Drama",
           "Thriller"
         ],
-        "overview": "Fünf Freunde suchen in Thailand ein letztes großes Abenteuer und beschließen, die Devil's-Mouth-Höhlen zu erkunden. Schon bald erkennen sie, dass etwas in den Tiefen der Höhlen Jagd auf sie macht... und es ist schnell, lautlos und tödlich. In der erdrückenden Finsternis schwindet das Vertrauen, Panik macht sich breit und jede falsche Bewegung führt zu einem Kampf ums Überleben.",
-        "date": "2026-07-29",
-        "poster": "https://images.justwatch.com/poster/346740375/s332/ordogszaj.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Devil%27s%20Mouth%20-%20Der%20Teufelsschlund%20Trailer"
+        "overview": "An under-estimated cop visiting her in-laws for the first time finds herself torn between uncovering the truth in a murder investigation and the hidden lies in her own marriage.",
+        "date": "2026-08-28",
+        "poster": "https://images.justwatch.com/poster/348432149/s332/asi-babita-singh-reporting.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=ASI%20Babita%20Singh%20Reporting%20Trailer"
       }
     ],
     "apple-tv": [
@@ -78,7 +91,7 @@
         ],
         "overview": "Als Snoopys geliebte Hundehütte plötzlich verschwindet, setzt er alles daran, sie wiederzufinden und erkennt auf seiner Suche, was ein Haus wirklich zu einem Zuhause macht.",
         "date": "2026-07-30",
-        "poster": "https://images.justwatch.com/poster/347178390/s332/snoopy-bemutatja-mindenhol-jo-de-legjobb-otthon.jpg",
+        "poster": "https://images.justwatch.com/poster/346686635/s332/snoopy-bemutatja-mindenhol-jo-de-legjobb-otthon.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Snoopy%20pr%C3%A4sentiert%3A%20Zu%20Hause%20ist%20es%20am%20sch%C3%B6nsten%20Trailer"
       }
     ],
@@ -168,7 +181,7 @@
           "Krimi",
           "Dokumentation"
         ],
-        "overview": "A harrowing two-part documentary chronicling how a mother of five suddenly found herself being sold to unknown men... by her own partner.",
+        "overview": "Die unglaubliche Geschichte einer fünffachen Mutter, die von ihrem Partner im eigenen Zuhause als Sexsklavin verkauft wurde.",
         "date": "2026-08-14",
         "poster": "https://images.justwatch.com/poster/348319749/s332/the-sex-slave.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Sex%20Slave%3A%20Als%20Sexsklavin%20verkauft%20Trailer"
@@ -185,6 +198,19 @@
         "date": "2026-08-13",
         "poster": "https://images.justwatch.com/poster/348283495/s332/egy-huron.jpg",
         "trailer": "https://www.youtube.com/results?search_query=On%20a%20String%20Trailer"
+      },
+      {
+        "title": "Der Zwischenfall",
+        "media": "film",
+        "genres": [
+          "Krimi",
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "Des Mordes an ihrem Geliebten beschuldigt, engagiert eine junge Geschäftsfrau einen brillanten Anwalt. Drei Stunden bleiben, die Wahrheit aufzudecken.",
+        "date": "2026-08-07",
+        "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Der%20Zwischenfall%20Trailer"
       }
     ],
     "mubi": [],

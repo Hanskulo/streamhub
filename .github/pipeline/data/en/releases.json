@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-08-27T19:50",
-  "week": "2026-08-27",
+  "generated_at": "2026-08-29T14:27",
+  "week": "2026-08-29",
   "by_provider": {
     "netflix": [
+      {
+        "title": "The Last Salute",
+        "media": "film",
+        "genres": [
+          "Documentary"
+        ],
+        "overview": "Chronicles the MiG-21's final chapter in the Indian Air Force, showcasing stories of generations of fighter pilots who flew it.",
+        "date": "2026-08-26",
+        "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20trailer"
+      },
       {
         "title": "Pyaar Prema Kalyanam",
         "media": "film",
@@ -28,32 +39,34 @@
         "date": "2026-08-06",
         "poster": "https://images.justwatch.com/poster/347571635/s332/az-utolso-haz.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Last%20House%20trailer"
-      },
-      {
-        "title": "Mary Beth Barone: Galaxy Brain",
-        "media": "film",
-        "genres": [
-          "Comedy",
-          "Documentary"
-        ],
-        "overview": "This marks Mary Beth Barone's first hour-long comedy special.",
-        "date": "2026-07-28",
-        "poster": "https://images.justwatch.com/poster/346787915/s332/mary-beth-barone-galaxy-brain.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Mary%20Beth%20Barone%3A%20Galaxy%20Brain%20trailer"
       }
     ],
     "amazon-prime-video": [
       {
-        "title": "The Devil's Mouth",
+        "title": "Barreda",
         "media": "film",
         "genres": [
-          "Horror",
+          "Crime",
+          "Drama",
+          "History"
+        ],
+        "overview": "In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
+        "date": "2026-08-28",
+        "poster": "https://images.justwatch.com/poster/347823313/s332/barreda.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Barreda%20trailer"
+      },
+      {
+        "title": "ASI Babita Singh Reporting",
+        "media": "film",
+        "genres": [
+          "Crime",
+          "Drama",
           "Thriller"
         ],
-        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-        "date": "2026-07-29",
-        "poster": "https://images.justwatch.com/poster/346740375/s332/ordogszaj.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Devil%27s%20Mouth%20trailer"
+        "overview": "An under-estimated cop visiting her in-laws for the first time finds herself torn between uncovering the truth in a murder investigation and the hidden lies in her own marriage.",
+        "date": "2026-08-28",
+        "poster": "https://images.justwatch.com/poster/348432149/s332/asi-babita-singh-reporting.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=ASI%20Babita%20Singh%20Reporting%20trailer"
       }
     ],
     "apple-tv": [
@@ -78,7 +91,7 @@
         ],
         "overview": "When Snoopy's beloved doghouse goes missing, he tries to track it down, and learns what makes a house feel like home.",
         "date": "2026-07-30",
-        "poster": "https://images.justwatch.com/poster/347178390/s332/snoopy-bemutatja-mindenhol-jo-de-legjobb-otthon.jpg",
+        "poster": "https://images.justwatch.com/poster/346686635/s332/snoopy-bemutatja-mindenhol-jo-de-legjobb-otthon.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Snoopy%20Presents%3A%20There%27s%20No%20Place%20Like%20Home%2C%20Snoopy%20trailer"
       }
     ],
@@ -185,6 +198,19 @@
         "date": "2026-08-13",
         "poster": "https://images.justwatch.com/poster/348283495/s332/egy-huron.jpg",
         "trailer": "https://www.youtube.com/results?search_query=On%20a%20String%20trailer"
+      },
+      {
+        "title": "The Invisible Guest",
+        "media": "film",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "Accused of murdering her lover, a young businesswoman hires a brilliant lawyer. With only three hours left, they must uncover what really happened.",
+        "date": "2026-08-07",
+        "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Invisible%20Guest%20trailer"
       }
     ],
     "mubi": [],
