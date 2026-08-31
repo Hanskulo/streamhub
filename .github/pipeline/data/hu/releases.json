@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T14:27",
-  "week": "2026-08-29",
+  "generated_at": "2026-08-31T17:03",
+  "week": "2026-08-31",
   "by_provider": {
     "netflix": [
       {
@@ -43,19 +43,6 @@
     ],
     "amazon-prime-video": [
       {
-        "title": "Barreda",
-        "media": "film",
-        "genres": [
-          "Krimi",
-          "Dráma",
-          "Történelmi"
-        ],
-        "overview": "In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
-        "date": "2026-08-28",
-        "poster": "https://images.justwatch.com/poster/347823313/s332/barreda.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Barreda%20el%C5%91zetes"
-      },
-      {
         "title": "ASI Babita Singh Reporting",
         "media": "film",
         "genres": [
@@ -67,6 +54,19 @@
         "date": "2026-08-28",
         "poster": "https://images.justwatch.com/poster/348432149/s332/asi-babita-singh-reporting.jpg",
         "trailer": "https://www.youtube.com/results?search_query=ASI%20Babita%20Singh%20Reporting%20el%C5%91zetes"
+      },
+      {
+        "title": "Barreda",
+        "media": "film",
+        "genres": [
+          "Krimi",
+          "Dráma",
+          "Történelmi"
+        ],
+        "overview": "In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
+        "date": "2026-08-28",
+        "poster": "https://images.justwatch.com/poster/350102971/s332/barreda.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Barreda%20el%C5%91zetes"
       }
     ],
     "apple-tv": [
@@ -81,30 +81,9 @@
         "date": "2026-08-20",
         "poster": "https://images.justwatch.com/poster/349203896/s332/the-dynasty-uconn-huskies.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Dynasty%3A%20UConn%20Huskies%20el%C5%91zetes"
-      },
-      {
-        "title": "Snoopy bemutatja: Mindenhol jó, de legjobb otthon",
-        "media": "film",
-        "genres": [
-          "Animáció",
-          "Családi"
-        ],
-        "overview": "Amikor Snoopy kedvenc kutyaháza eltűnik, megpróbálja felkutatni, és közben rájön, mi tesz egy házat igazi otthonná.",
-        "date": "2026-07-30",
-        "poster": "https://images.justwatch.com/poster/346686635/s332/snoopy-bemutatja-mindenhol-jo-de-legjobb-otthon.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Snoopy%20bemutatja%3A%20Mindenhol%20j%C3%B3%2C%20de%20legjobb%20otthon%20el%C5%91zetes"
       }
     ],
     "disney-plus": [
-      {
-        "title": "2026 Disney Legends Awards Ceremony Live!",
-        "media": "film",
-        "genres": [],
-        "overview": "A kaliforniai Anaheimből élőben jelentkező Disney Legends díjátadó a „D23: The Ultimate Disney Fan Event” keretében köszönti a cég legmagasabb kitüntetését átvevő Disney-legendák rendkívüli csoportját. A díjazottak között szerepel Chris Berman, Jerry Bruckheimer, Susan Egan, Eric Goldberg, Anne Hathaway, Bob Iger, Kim Irvine, Dwayne Johnson, a Jonas Brothers, Lin-Manuel Miranda és Alan Tudyk. Az Emmy®-díjas Ryan Seacrest műsorvezetésével zajló felejthetetlen ünnepségen megható méltatások, meglepetések és inspiráló történetek idézik meg azokat az ikonokat, akiknek a kreativitása, tehetsége és látásmódja nemzedékek óta formálja a Disney varázsát.",
-        "date": "2026-08-16",
-        "poster": "https://images.justwatch.com/poster/348537803/s332/2026-disney-legends-awards-ceremony-live.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=2026%20Disney%20Legends%20Awards%20Ceremony%20Live%21%20el%C5%91zetes"
-      },
       {
         "title": "Disney Princess: The Ultimate Concert Celebration",
         "media": "film",
@@ -117,6 +96,15 @@
         "date": "2026-08-16",
         "poster": "https://images.justwatch.com/poster/348434549/s332/disney-princess-the-ultimate-concert-celebration.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Disney%20Princess%3A%20The%20Ultimate%20Concert%20Celebration%20el%C5%91zetes"
+      },
+      {
+        "title": "2026 Disney Legends Awards Ceremony Live!",
+        "media": "film",
+        "genres": [],
+        "overview": "A kaliforniai Anaheimből élőben jelentkező Disney Legends díjátadó a „D23: The Ultimate Disney Fan Event” keretében köszönti a cég legmagasabb kitüntetését átvevő Disney-legendák rendkívüli csoportját. A díjazottak között szerepel Chris Berman, Jerry Bruckheimer, Susan Egan, Eric Goldberg, Anne Hathaway, Bob Iger, Kim Irvine, Dwayne Johnson, a Jonas Brothers, Lin-Manuel Miranda és Alan Tudyk. Az Emmy®-díjas Ryan Seacrest műsorvezetésével zajló felejthetetlen ünnepségen megható méltatások, meglepetések és inspiráló történetek idézik meg azokat az ikonokat, akiknek a kreativitása, tehetsége és látásmódja nemzedékek óta formálja a Disney varázsát.",
+        "date": "2026-08-16",
+        "poster": "https://images.justwatch.com/poster/348537803/s332/2026-disney-legends-awards-ceremony-live.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=2026%20Disney%20Legends%20Awards%20Ceremony%20Live%21%20el%C5%91zetes"
       }
     ],
     "justwatch-tv": [],
@@ -185,35 +173,23 @@
         "date": "2026-08-14",
         "poster": "https://images.justwatch.com/poster/348319749/s332/the-sex-slave.jpg",
         "trailer": "https://www.youtube.com/results?search_query=A%20szexrabszolga%20el%C5%91zetes"
-      },
-      {
-        "title": "Egy húron",
-        "media": "film",
-        "genres": [
-          "Vígjáték",
-          "Dráma",
-          "Zene"
-        ],
-        "overview": "Egy fiatal brácsás, aki a Juilliardon végzett, még mindig a szüleivel él New York központjában. Az életét úgy próbálja fenntartani, hogy barátaival idegenek otthonában lép fel.",
-        "date": "2026-08-13",
-        "poster": "https://images.justwatch.com/poster/348283495/s332/egy-huron.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Egy%20h%C3%BAron%20el%C5%91zetes"
-      },
-      {
-        "title": "The Invisible Guest",
-        "media": "film",
-        "genres": [
-          "Krimi",
-          "Dráma",
-          "Thriller"
-        ],
-        "overview": "Accused of murdering her lover, a young businesswoman hires a brilliant lawyer. With only three hours left, they must uncover what really happened.",
-        "date": "2026-08-07",
-        "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Invisible%20Guest%20el%C5%91zetes"
       }
     ],
-    "mubi": [],
+    "mubi": [
+      {
+        "title": "God Is Shy",
+        "media": "film",
+        "genres": [
+          "Animáció",
+          "Dráma",
+          "Fantasy"
+        ],
+        "overview": "During a train ride, Ariel and Paul pass the time sketching their deepest fears. Their game takes an unexpected turn when Gilda, a mysterious passenger, intrudes on their exchange. Yet, her relationship with fear seems far less innocent than their playful drawings.",
+        "date": "2026-08-27",
+        "poster": "https://images.justwatch.com/poster/330364325/s332/god-is-shy.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=God%20Is%20Shy%20el%C5%91zetes"
+      }
+    ],
     "bloodstream": [
       {
         "title": "Evil Follows",
