@@ -1,260 +1,218 @@
 {
-  "generated_at": "2026-08-24T10:01",
-  "window": "2026-08-24 .. 2026-09-08",
+  "generated_at": "2026-08-31T17:02",
+  "window": "2026-08-31 .. 2026-09-15",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "Plan Bea",
+          "title": "Jared Freid: The Family Plan",
           "media": "film",
           "genres": [
-            "Vígjáték",
-            "Romantikus"
+            "Vígjáték"
           ],
-          "overview": "Bea has always known she was born to perform. But when a pandemic shuts down her school's music program and bans singing altogether, even her boundless ambition hits a wall. Undeterred, she convinces her friends to form an underground show choir — and what starts as an act of rebellion slowly becomes something much bigger: a reminder that music isn't a privilege, it's a lifeline. Funny, heartfelt, and packed with original songs, Plan Bea is an Australian musical feature film that proves you can't stop joy.",
-          "date": "2026-08-25",
-          "poster": "https://images.justwatch.com/poster/347573697/s332/plan-bea.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Plan%20Bea%20el%C5%91zetes"
+          "overview": "The special finds Freid keeping his issues “in the family,” joking about everything from vacationing with his parents to a Karen video that hits close to home.",
+          "date": "2026-09-01",
+          "poster": "https://images.justwatch.com/poster/348311852/s332/jared-freid-the-family-plan.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Jared%20Freid%3A%20The%20Family%20Plan%20el%C5%91zetes"
         },
         {
-          "title": "Nichts wie weg",
+          "title": "The Girl with the Leica",
           "media": "film",
           "genres": [
-            "Vígjáték",
             "Dráma"
           ],
-          "overview": "Nurse Anke Bender reacts decisively to inappropriate behavior. After a patient gropes her, she slaps him. Unfortunately, the patient turns out to be none other than Hamburg’s health senator, who dies the very next day following an incorrectly administered IV. To avoid arrest, Anke impulsively flees in an ambulance—unaware that the injured pianist Luise Dobertin is inside.",
-          "date": "2026-08-25",
+          "overview": "The love story of Gerda Taro and Robert Capa.",
+          "date": "2026-09-02",
+          "poster": "https://images.justwatch.com/poster/347575060/s332/das-maedchen-mit-der-leica.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Girl%20with%20the%20Leica%20el%C5%91zetes"
+        },
+        {
+          "title": "The Runner: Versenyfutás az életért",
+          "media": "film",
+          "genres": [
+            "Akció",
+            "Dráma",
+            "Thriller"
+          ],
+          "overview": "A „The Runner - Versenyfutás az életért\" című pszichothrillerben Maia Marten (Gal Gadot), egy zseniális londoni ügyvéd életét feje tetejére állítja egy telefonhívás reggeli kocogása közben: a fiát elrabolták. Hogy visszakaphassa, futnia kell, kegyetlen utasításokat követni, és közben nem bízhat senkiben - minden másodperc annak próbája, milyen messzire menne el egy anya, hogy megmentse gyermekét.",
+          "date": "2026-09-02",
+          "poster": "https://images.justwatch.com/poster/347747910/s332/the-runner-2026-1.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Runner%3A%20Versenyfut%C3%A1s%20az%20%C3%A9let%C3%A9rt%20el%C5%91zetes"
+        },
+        {
+          "title": "No Rest for the Wicked",
+          "media": "film",
+          "genres": [
+            "Dráma",
+            "Horror",
+            "Romantikus"
+          ],
+          "overview": "Follows a fisherman who falls in love with a rugged whaler in the isolated Faroe Islands.",
+          "date": "2026-09-03",
           "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Nichts%20wie%20weg%20el%C5%91zetes"
+          "trailer": "https://www.youtube.com/results?search_query=No%20Rest%20for%20the%20Wicked%20el%C5%91zetes"
         },
         {
-          "title": "Untold: The Testimony of Vince Young",
-          "media": "film",
-          "genres": [],
-          "overview": "After delivering one of the greatest performances in Rose Bowl history, Texas Longhorns legend Vince Young was the NFL's next big thing, and for a while, he was. But a career riddled by injuries, conflict and sudden loss tells a far more complicated story than the highlight reels ever showed.",
-          "date": "2026-08-25",
-          "poster": "https://images.justwatch.com/poster/347918409/s332/untold-the-testimony-of-vince-young.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Untold%3A%20The%20Testimony%20of%20Vince%20Young%20el%C5%91zetes"
-        },
-        {
-          "title": "Stamptown",
+          "title": "Ghost School",
           "media": "film",
           "genres": [
-            "Vígjáték"
+            "Dráma"
           ],
-          "overview": "Overview TBA",
-          "date": "2026-08-25",
-          "poster": "https://images.justwatch.com/poster/347759996/s332/stamptown.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Stamptown%20el%C5%91zetes"
-        },
-        {
-          "title": "Tad és a csodalámpa",
-          "media": "film",
-          "genres": [
-            "Animáció",
-            "Vígjáték",
-            "Családi"
-          ],
-          "overview": "Tadeo és Sara immár szülőként próbálják egyensúlyban tartani a kalandot és a családi életet, miközben Momia féltékenységből egy veszélyes kívánsággal a múltba sodorja magát. Tadeónak és Sarának össze kell fogniuk, hogy megállítsák, mielőtt megváltoztatja a történelem menetét, és közben megmentsék a csapat többi tagját is, miközben a titokzatos csodalámpa nyomába erednek Londonból egészen a Közel-Kelet legmélyebb rejtelmeiig. (Hupka Adrián)",
-          "date": "2026-08-26",
-          "poster": "https://images.justwatch.com/poster/343763314/s332/tad-and-the-magic-lamp.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Tad%20%C3%A9s%20a%20csodal%C3%A1mpa%20el%C5%91zetes"
-        },
-        {
-          "title": "Yellow Mirror",
-          "media": "film",
-          "genres": [
-            "Animáció",
-            "Vígjáték"
-          ],
-          "overview": "A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre in this Disney+ exclusive.",
-          "date": "2026-08-26",
+          "overview": "Ten-year-old Rabia wants to know why her school has suddenly closed. Rumours are rife in the village and the authorities are no help. Courageously setting out to find the truth, Rabia navigates rural superstitions, local corruption and a wall of silence.",
+          "date": "2026-09-03",
           "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Yellow%20Mirror%20el%C5%91zetes"
+          "trailer": "https://www.youtube.com/results?search_query=Ghost%20School%20el%C5%91zetes"
         },
         {
-          "title": "Schwarzers Kosmos",
+          "title": "Fito Páez: The World Within a Song",
+          "media": "film",
+          "genres": [
+            "Dokumentum",
+            "Zene"
+          ],
+          "overview": "A documentary film that observes, listens to, and interacts with Fito Páez from a place of profound intimacy. The camera, almost invisible, witnesses his every move, accompanying him for over a year during recordings, rehearsals, tours, and performances in major cities across Latin America, Europe, and the United States. It is also a journey through the life of one of the greatest Spanish-language artists: his loves and heartbreaks, children and friendships, excesses, tragedies, failures, and successes.",
+          "date": "2026-09-03",
+          "poster": "https://images.justwatch.com/poster/347945295/s332/fito-paez-el-mundo-cabe-en-una-cancion.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Fito%20P%C3%A1ez%3A%20The%20World%20Within%20a%20Song%20el%C5%91zetes"
+        },
+        {
+          "title": "Same Sun - Mit dem Fahrrad durch Afrika",
           "media": "film",
           "genres": [
             "Dokumentum"
           ],
-          "overview": "",
-          "date": "2026-08-27",
-          "poster": "https://images.justwatch.com/poster/347833882/s332/schwarzers-kosmos.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Schwarzers%20Kosmos%20el%C5%91zetes"
+          "overview": "The film SAME SUN tells the story of Wiebke Lühmann's journey from Freiburg to the Cape of Good Hope. Honest, raw, and close to the inner and outer challenges of a 430-day bicycle trip. Her journey takes her through 22 countries, Sahara storms, the rain season, the Congo Basin, and the deserts of Namibia.",
+          "date": "2026-09-03",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Same%20Sun%20-%20Mit%20dem%20Fahrrad%20durch%20Afrika%20el%C5%91zetes"
         },
         {
-          "title": "Barreda",
+          "title": "Elephants in the Fog",
           "media": "film",
           "genres": [
-            "Krimi",
             "Dráma",
-            "Történelmi"
+            "Thriller"
           ],
-          "overview": "In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
-          "date": "2026-08-28",
-          "poster": "https://images.justwatch.com/poster/347823313/s332/barreda.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Barreda%20el%C5%91zetes"
+          "overview": "In a small Nepalese village nestled in the heart of a forest populated by wild elephants, Pirati is the matriarch of a Kinnar community. She dreams of escaping to a “normal” life with the man she is in love with. But when one of her daughters disappears, she must investigate and choose between love and responsibility to her community.",
+          "date": "2026-09-04",
+          "poster": "https://images.justwatch.com/poster/349537130/s332/elephants-in-the-fog.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Elephants%20in%20the%20Fog%20el%C5%91zetes"
         }
       ]
     },
     "hungary": {
       "items": [
         {
-          "title": "Plan Bea",
+          "title": "Low Expectations",
           "media": "film",
           "genres": [
-            "Vígjáték",
-            "Romantikus"
+            "Dráma"
           ],
-          "overview": "Bea has always known she was born to perform. But when a pandemic shuts down her school's music program and bans singing altogether, even her boundless ambition hits a wall. Undeterred, she convinces her friends to form an underground show choir — and what starts as an act of rebellion slowly becomes something much bigger: a reminder that music isn't a privilege, it's a lifeline. Funny, heartfelt, and packed with original songs, Plan Bea is an Australian musical feature film that proves you can't stop joy.",
-          "date": "2026-08-25",
-          "poster": "https://images.justwatch.com/poster/347573697/s332/plan-bea.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Plan%20Bea%20el%C5%91zetes"
-        },
-        {
-          "title": "Kutya csillagkép",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Dráma",
-            "Thriller"
-          ],
-          "overview": "A közeljövőben egy járvány megtizedelte az amerikai társadalmat. Egy pilóta magányosan él egy elhagyatott coloradói légibázison a kutyájával és egy kemény ex-tengerészgyalogossal. A két férfi nem is lehetne különbözőbb, de egymásra vannak utalva, hogy elhárítsák a kóborló betolakodókat. Amikor egy véletlenszerű adást fognak, a hang felcsillantja benne a reményt, hogy létezik egy jobb élet a szigorúan ellenőrzött határon kívül.  (Gergo Horvath)",
-          "date": "2026-08-26",
-          "poster": "https://images.justwatch.com/poster/346657270/s332/the-dog-stars.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Kutya%20csillagk%C3%A9p%20el%C5%91zetes"
-        },
-        {
-          "title": "Once More",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Zene",
-            "Romantikus"
-          ],
-          "overview": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other. Sometimes from a different human. This is a story of love coming back into the life of someone who doesn’t want to take it. A tale of second chances.. happy healing and bitter sweet closures.",
-          "date": "2026-08-28",
-          "poster": "https://images.justwatch.com/poster/321291937/s332/once-more-2025.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Once%20More%20el%C5%91zetes"
-        },
-        {
-          "title": "Biff the Human Slayer",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Horror"
-          ],
-          "overview": "A delusional vampire takes it upon himself to rid his town of violence. To do so, he teams up with a couple of freshly turned vampires, a stubborn christian struggling to adjust to his new truth, and a rook who is quick to adapt to hers.",
-          "date": "2026-09-08",
-          "poster": "https://images.justwatch.com/poster/347561958/s332/biff-the-human-slayer.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Biff%20the%20Human%20Slayer%20el%C5%91zetes"
+          "overview": "At the height of her music career, Maja falls apart and has to step away from her ambitions. Depressed and broke, she moves back home with her mother and works part-time at a local high school. Far from the spotlight, wrapped in everyday kindness, she slowly finds her way back to life.",
+          "date": "2026-09-11",
+          "poster": "https://images.justwatch.com/poster/347125920/s332/low-expectations.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Low%20Expectations%20el%C5%91zetes"
         }
       ]
     },
     "usa": {
       "items": [
         {
-          "title": "Desert Fiends 2",
+          "title": "Mother and Me",
           "media": "film",
           "genres": [
-            "Vígjáték",
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "A group of elite bounty hunters are on the trail to track down and kill The Desert Fiends. Meanwhile, a TikTok style influencer has come into town to have a meet up while the Desert Fiends are heading that way to eliminate that meet up.",
-          "date": "2026-08-25",
-          "poster": "https://images.justwatch.com/poster/346244440/s332/desert-fiends-2.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Desert%20Fiends%202%20el%C5%91zetes"
-        },
-        {
-          "title": "Traffic Jam Comedy Jam Vol 4",
-          "media": "film",
-          "genres": [
-            "Vígjáték"
-          ],
-          "overview": "Traffic Jam Comedy Jam is a stand up comedy series produced by Marc Brissett. Brisset was inspired by Def Jam comedy from the 90's. Marc Brissett's hope is that the series helps to launch careers of several stand up comedians. The series was shot at Room52 in Mid town Manhattan, NY.",
-          "date": "2026-08-25",
-          "poster": "https://images.justwatch.com/poster/347484798/s332/traffic-jam-comedy-jam-vol-4.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Traffic%20Jam%20Comedy%20Jam%20Vol%204%20el%C5%91zetes"
-        },
-        {
-          "title": "Rise of the Footsoldier: Retribution",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Krimi",
-            "Thriller"
-          ],
-          "overview": "Tate (Craig Fairbrass) battles ruthless mercenaries throughout Ibiza as he avenges his friend's death.  Get ready for the biggest and most action packed film in the successful independent crime saga.",
-          "date": "2026-08-28",
-          "poster": "https://images.justwatch.com/poster/347822711/s332/rise-of-the-footsoldier-retribution.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Rise%20of%20the%20Footsoldier%3A%20Retribution%20el%C5%91zetes"
-        },
-        {
-          "title": "Good Boy Gone Best",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Dráma"
-          ],
-          "overview": "To shape their son's upbringing, a couple orchestrates a reality where wealth and poverty. As the boy comes of age and uncovers the truth, the facade cracks, exposing a shocking reality.",
-          "date": "2026-08-28",
-          "poster": "https://images.justwatch.com/poster/346681548/s332/quy-tu-vuot-giau.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Good%20Boy%20Gone%20Best%20el%C5%91zetes"
-        },
-        {
-          "title": "ASI Babita Singh Reporting",
-          "media": "film",
-          "genres": [
-            "Krimi",
             "Dráma",
             "Thriller"
           ],
-          "overview": "An under-estimated cop visiting her in-laws for the first time finds herself torn between uncovering the truth in a murder investigation and the hidden lies in her own marriage.",
-          "date": "2026-08-28",
-          "poster": "https://images.justwatch.com/poster/348432149/s332/asi-babita-singh-reporting.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=ASI%20Babita%20Singh%20Reporting%20el%C5%91zetes"
+          "overview": "Casey is a young woman confined to her home, living under the same roof as her mother. Struggling to write what’s poised to be a best-selling horror novel and living in the shadow of her late father, a renowned horror author, Casey grapples with the complexities of her relationship with her mother.",
+          "date": "2026-08-31",
+          "poster": "https://images.justwatch.com/poster/347952971/s332/mother-and-me.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Mother%20and%20Me%20el%C5%91zetes"
         },
         {
-          "title": "Buddy",
+          "title": "The Room Below",
+          "media": "film",
+          "genres": [
+            "Thriller"
+          ],
+          "overview": "After losing her son to cancer, a grieving mother living with a mysterious creature in her home befriends another boy to replace her dead son. But when a retired detective begins investigating the child's disappearance, her carefully constructed world starts to unravel.",
+          "date": "2026-09-01",
+          "poster": "https://images.justwatch.com/poster/348423983/s332/the-room-below.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Room%20Below%20el%C5%91zetes"
+        },
+        {
+          "title": "Sara Bareilles: Good Grief",
+          "media": "film",
+          "genres": [
+            "Dokumentum",
+            "Zene"
+          ],
+          "overview": "Follows Grammy winner Sara Bareilles as she records her first album in seven years with close friends and fellow musicians, creating compositions that emerged from profound personal loss and grief.",
+          "date": "2026-09-02",
+          "poster": "https://images.justwatch.com/poster/348328782/s332/sara-bareilles-good-grief.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Sara%20Bareilles%3A%20Good%20Grief%20el%C5%91zetes"
+        },
+        {
+          "title": "Trapped in the Spotlight",
+          "media": "film",
+          "genres": [
+            "Thriller"
+          ],
+          "overview": "Neveah, a canceled R&B singer, struggles to rebuild her career and regain her fame 15 years after breaking up with her estranged co-star, Lupita, who publicly betrayed her.",
+          "date": "2026-09-03",
+          "poster": "https://images.justwatch.com/poster/326104063/s332/trapped-in-the-spotlight.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Trapped%20in%20the%20Spotlight%20el%C5%91zetes"
+        },
+        {
+          "title": "Magey Bituge Wedding",
           "media": "film",
           "genres": [
             "Vígjáték",
-            "Horror"
-          ],
-          "overview": "Remember BUDDY—the bright orange unicorn and star of that classic childrens' television show who brought joy and life lessons into your living room?  Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
-          "date": "2026-08-28",
-          "poster": "https://images.justwatch.com/poster/340383635/s332/buddy-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Buddy%20el%C5%91zetes"
-        },
-        {
-          "title": "The Cycle of Love",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Dokumentum",
             "Romantikus"
           ],
-          "overview": "Explores the romantic journey of PK Mahanandia, a Delhi street artist who trekked 6,000 miles by bicycle in 1977, venturing across continents to reunite with the woman he loved.",
-          "date": "2026-08-28",
-          "poster": "https://images.justwatch.com/poster/347702176/s332/the-cycle-of-love.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Cycle%20of%20Love%20el%C5%91zetes"
+          "overview": "The most chaotic love story ever!",
+          "date": "2026-09-03",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Magey%20Bituge%20Wedding%20el%C5%91zetes"
         },
         {
-          "title": "Barreda",
+          "title": "The Girl in the River",
           "media": "film",
           "genres": [
             "Krimi",
             "Dráma",
-            "Történelmi"
+            "Thriller"
           ],
-          "overview": "In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
-          "date": "2026-08-28",
-          "poster": "https://images.justwatch.com/poster/347823313/s332/barreda.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Barreda%20el%C5%91zetes"
+          "overview": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
+          "date": "2026-09-04",
+          "poster": "https://images.justwatch.com/poster/350629542/s332/the-girl-in-the-river.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Girl%20in%20the%20River%20el%C5%91zetes"
+        },
+        {
+          "title": "cocoon - One Summer of Girlhood",
+          "media": "film",
+          "genres": [
+            "Animáció",
+            "Dráma",
+            "Háborús"
+          ],
+          "overview": "San and Mayu are two schoolgirls living in Okinawa during the closing months of the Pacific War. Together with their classmates, the two friends are drafted into the war effort as nurses for wounded soldiers. When ordered to die for their country, the remaining members of the group escape only to face the harsh environment of a tropical paradise that has become a hellish battlefield.",
+          "date": "2026-09-04",
+          "poster": "https://images.justwatch.com/poster/339995976/s332/cocoon-one-summer-of-girlhood.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=cocoon%20-%20One%20Summer%20of%20Girlhood%20el%C5%91zetes"
+        },
+        {
+          "title": "Elephants in the Fog",
+          "media": "film",
+          "genres": [
+            "Dráma",
+            "Thriller"
+          ],
+          "overview": "In a small Nepalese village nestled in the heart of a forest populated by wild elephants, Pirati is the matriarch of a Kinnar community. She dreams of escaping to a “normal” life with the man she is in love with. But when one of her daughters disappears, she must investigate and choose between love and responsibility to her community.",
+          "date": "2026-09-04",
+          "poster": "https://images.justwatch.com/poster/349537130/s332/elephants-in-the-fog.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Elephants%20in%20the%20Fog%20el%C5%91zetes"
         }
       ]
     }
