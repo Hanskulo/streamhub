@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T14:07",
-  "week": "2026-09-01",
+  "generated_at": "2026-09-03T13:33",
+  "week": "2026-09-03",
   "by_provider": {
     "netflix": [
       {
@@ -43,6 +43,19 @@
     ],
     "amazon-prime-video": [
       {
+        "title": "Barreda",
+        "media": "film",
+        "genres": [
+          "Krimi",
+          "Dráma",
+          "Thriller"
+        ],
+        "overview": "In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
+        "date": "2026-08-28",
+        "poster": "https://images.justwatch.com/poster/350102971/s332/barreda.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Barreda%20el%C5%91zetes"
+      },
+      {
         "title": "ASI Babita Singh Reporting",
         "media": "film",
         "genres": [
@@ -54,19 +67,6 @@
         "date": "2026-08-28",
         "poster": "https://images.justwatch.com/poster/348432149/s332/asi-babita-singh-reporting.jpg",
         "trailer": "https://www.youtube.com/results?search_query=ASI%20Babita%20Singh%20Reporting%20el%C5%91zetes"
-      },
-      {
-        "title": "Barreda",
-        "media": "film",
-        "genres": [
-          "Krimi",
-          "Dráma",
-          "Thriller"
-        ],
-        "overview": "In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
-        "date": "2026-08-28",
-        "poster": "https://images.justwatch.com/poster/347823313/s332/barreda.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Barreda%20el%C5%91zetes"
       }
     ],
     "apple-tv": [
@@ -186,6 +186,19 @@
         "date": "2026-08-13",
         "poster": "https://images.justwatch.com/poster/348283495/s332/egy-huron.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Egy%20h%C3%BAron%20el%C5%91zetes"
+      },
+      {
+        "title": "The Invisible Guest",
+        "media": "film",
+        "genres": [
+          "Krimi",
+          "Dráma",
+          "Thriller"
+        ],
+        "overview": "Accused of murdering her lover, a young businesswoman hires a brilliant lawyer. With only three hours left, they must uncover what really happened.",
+        "date": "2026-08-07",
+        "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Invisible%20Guest%20el%C5%91zetes"
       }
     ],
     "mubi": [
@@ -235,6 +248,7 @@
     ],
     "artiflix": [],
     "artify": [],
-    "lionsgate-amazon-channels": []
+    "lionsgate-amazon-channels": [],
+    "crunchyroll-amazon-channel": []
   }
 }

@@ -168,6 +168,12 @@
       "name": "Lionsgate+ Amazon Channels",
       "tmdb_id": 2358,
       "accent": "#ffb3b3"
+    },
+    {
+      "slug": "crunchyroll-amazon-channel",
+      "name": "Crunchyroll Amazon Channel",
+      "tmdb_id": 1968,
+      "accent": "#a8e0ff"
     }
   ]
 }
