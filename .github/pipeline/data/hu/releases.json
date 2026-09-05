@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T13:33",
-  "week": "2026-09-03",
+  "generated_at": "2026-09-05T12:40",
+  "week": "2026-09-05",
   "by_provider": {
     "netflix": [
       {
@@ -48,7 +48,7 @@
         "genres": [
           "Krimi",
           "Dráma",
-          "Thriller"
+          "Történelmi"
         ],
         "overview": "In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
         "date": "2026-08-28",
@@ -70,6 +70,19 @@
       }
     ],
     "apple-tv": [
+      {
+        "title": "Mayday",
+        "media": "film",
+        "genres": [
+          "Akció",
+          "Vígjáték",
+          "Thriller"
+        ],
+        "overview": "Amikor az amerikai haditengerészet pilótája ellenséges vonalak mögött reked egy hidegháborús, szupertitkos küldetés során, egyetlen esélye van a túlélésre: össze kell fognia a különc volt KGB-s ügynökkel.",
+        "date": "2026-09-04",
+        "poster": "https://images.justwatch.com/poster/347329247/s332/mayday-2026.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Mayday%20el%C5%91zetes"
+      },
       {
         "title": "The Dynasty: UConn Huskies",
         "media": "sorozat",
@@ -124,19 +137,7 @@
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
-    "wow-presents-plus": [
-      {
-        "title": "RuPaul's Drag Race UK: Rewind",
-        "media": "film",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "Hosted by international Drag Race aficionado Angeria Paris VanMicheals, RuPaul's Drag Race UK: Rewind takes a hilarious trip down memory lane to revisit some of the most unforgettable moments from seven seasons of RuPaul's Drag Race UK and three seasons of RuPaul's Drag Race UK vs The World. From iconic runway looks and legendary performances to outrageous comedy, unforgettable drama and the queens who snatched the crown, celebrate the very best of Drag Race UK - before a brand-new season begins.",
-        "date": "2026-08-20",
-        "poster": "https://images.justwatch.com/poster/349015451/s332/rupauls-drag-race-uk-rewind.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=RuPaul%27s%20Drag%20Race%20UK%3A%20Rewind%20el%C5%91zetes"
-      }
-    ],
+    "wow-presents-plus": [],
     "magellan-tv": [],
     "broadwayhd": [],
     "dekkoo": [],
@@ -144,7 +145,21 @@
     "hoichoi": [],
     "cultpix": [],
     "filmbox": [],
-    "sun-nxt": [],
+    "sun-nxt": [
+      {
+        "title": "DC",
+        "media": "film",
+        "genres": [
+          "Akció",
+          "Krimi",
+          "Dráma"
+        ],
+        "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+        "date": "2026-08-07",
+        "poster": "https://images.justwatch.com/poster/348212111/s332/dc.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=DC%20el%C5%91zetes"
+      }
+    ],
     "skyshowtime": [],
     "crunchyroll": [],
     "hayu": [],
@@ -154,8 +169,7 @@
         "media": "film",
         "genres": [
           "Vígjáték",
-          "Dokumentum",
-          "Zene"
+          "Dokumentum"
         ],
         "overview": "Comedian, musician, and actor Whitmer Thomas digs into his small-town Alabama upbringing and his ongoing quest to be cool.",
         "date": "2026-08-14",
@@ -186,19 +200,6 @@
         "date": "2026-08-13",
         "poster": "https://images.justwatch.com/poster/348283495/s332/egy-huron.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Egy%20h%C3%BAron%20el%C5%91zetes"
-      },
-      {
-        "title": "The Invisible Guest",
-        "media": "film",
-        "genres": [
-          "Krimi",
-          "Dráma",
-          "Thriller"
-        ],
-        "overview": "Accused of murdering her lover, a young businesswoman hires a brilliant lawyer. With only three hours left, they must uncover what really happened.",
-        "date": "2026-08-07",
-        "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Invisible%20Guest%20el%C5%91zetes"
       }
     ],
     "mubi": [
@@ -216,21 +217,7 @@
         "trailer": "https://www.youtube.com/results?search_query=God%20Is%20Shy%20el%C5%91zetes"
       }
     ],
-    "bloodstream": [
-      {
-        "title": "Evil Follows",
-        "media": "film",
-        "genres": [
-          "Dráma",
-          "Horror",
-          "Thriller"
-        ],
-        "overview": "A husband's fight to save his wife from a demonic possession that began the moment the dybbuk box chose her as its next host.",
-        "date": "2026-08-04",
-        "poster": "https://images.justwatch.com/poster/347916008/s332/evil-follows.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Evil%20Follows%20el%C5%91zetes"
-      }
-    ],
+    "bloodstream": [],
     "kableone": [
       {
         "title": "The Great Punjab Robbery",
