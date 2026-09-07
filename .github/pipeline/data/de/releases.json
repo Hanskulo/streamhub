@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T12:41",
-  "week": "2026-09-05",
+  "generated_at": "2026-09-07T15:03",
+  "week": "2026-09-07",
   "by_provider": {
     "netflix": [
       {
@@ -26,19 +26,6 @@
         "date": "2026-08-21",
         "poster": "https://images.justwatch.com/poster/349224054/s332/pyaar-prema-kalyanam.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Pyaar%20Prema%20Kalyanam%20Trailer"
-      },
-      {
-        "title": "The Last House",
-        "media": "film",
-        "genres": [
-          "Action",
-          "Horror",
-          "Thriller"
-        ],
-        "overview": "Eine Familie, die auf rätselhafte Weise in ihrem Zuhause gefangen ist, muss angesichts schwindender Vorräte und einer ominösen Macht ums nackte Überleben kämpfen.",
-        "date": "2026-08-06",
-        "poster": "https://images.justwatch.com/poster/347571635/s332/az-utolso-haz.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20House%20Trailer"
       }
     ],
     "amazon-prime-video": [
@@ -54,19 +41,6 @@
         "date": "2026-08-28",
         "poster": "https://images.justwatch.com/poster/350102971/s332/barreda.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Barreda%20Trailer"
-      },
-      {
-        "title": "ASI Babita Singh Reporting",
-        "media": "film",
-        "genres": [
-          "Krimi",
-          "Drama",
-          "Thriller"
-        ],
-        "overview": "An under-estimated cop visiting her in-laws for the first time finds herself torn between uncovering the truth in a murder investigation and the hidden lies in her own marriage.",
-        "date": "2026-08-28",
-        "poster": "https://images.justwatch.com/poster/348432149/s332/asi-babita-singh-reporting.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=ASI%20Babita%20Singh%20Reporting%20Trailer"
       }
     ],
     "apple-tv": [
@@ -78,9 +52,9 @@
           "Komödie",
           "Thriller"
         ],
-        "overview": "Als ein US-Navy-Pilot während einer streng geheimen Mission im Kalten Krieg in feindlichem Gebiet gefangen ist, liegt seine einzige Überlebenschance darin, sich mit einem exzentrischen Ex-KGB-Agenten zu verbünden.",
+        "overview": "Auf dem Höhepunkt des Kalten Krieges gerät US-Navy-Pilot Lieutenant Troy „Assassin“ Kelly während einer streng geheimen Mission über russischem Gebiet hinter die feindlichen Linien. Dort trifft er auf den ehemaligen KGB-Agenten Nikolai Ustinov, der trotz seiner Vergangenheit eine Vorliebe für die amerikanische Kultur hegt. Was zunächst wie eine ausweglose Situation erscheint, entwickelt sich für die beiden zu einer ungewöhnlichen Zusammenarbeit, die ihr Schicksal nachhaltig verändert.",
         "date": "2026-09-04",
-        "poster": "https://images.justwatch.com/poster/347329247/s332/mayday-2026.jpg",
+        "poster": "https://images.justwatch.com/poster/347434490/s332/mayday-2026.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Mayday%20Trailer"
       },
       {
@@ -145,21 +119,7 @@
     "hoichoi": [],
     "cultpix": [],
     "filmbox": [],
-    "sun-nxt": [
-      {
-        "title": "DC",
-        "media": "film",
-        "genres": [
-          "Action",
-          "Krimi",
-          "Drama"
-        ],
-        "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-        "date": "2026-08-07",
-        "poster": "https://images.justwatch.com/poster/348212111/s332/dc.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=DC%20Trailer"
-      }
-    ],
+    "sun-nxt": [],
     "skyshowtime": [],
     "crunchyroll": [],
     "hayu": [],
@@ -187,22 +147,20 @@
         "date": "2026-08-14",
         "poster": "https://images.justwatch.com/poster/348319749/s332/the-sex-slave.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Sex%20Slave%3A%20Als%20Sexsklavin%20verkauft%20Trailer"
-      },
-      {
-        "title": "On a String",
-        "media": "film",
-        "genres": [
-          "Komödie",
-          "Drama",
-          "Musik"
-        ],
-        "overview": "A young, Juilliard-trained violist is still living at home with her parents in the heart of NYC, while trying to make a living playing gigs with her friends in the homes of strangers.",
-        "date": "2026-08-13",
-        "poster": "https://images.justwatch.com/poster/348283495/s332/egy-huron.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=On%20a%20String%20Trailer"
       }
     ],
     "mubi": [
+      {
+        "title": "Avec Kim",
+        "media": "film",
+        "genres": [
+          "Drama"
+        ],
+        "overview": "After a typical day at the garage, a young mechanic swaps her stained overalls for a leather ensemble—as she shifts gears into a different kind of routine. Driving through bustling Paris, she helps a passerby cross the street, delivers plants to a hardware store, and picks up an enigmatic passenger.",
+        "date": "2026-09-05",
+        "poster": "https://images.justwatch.com/poster/354165406/s332/avec-kim.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Avec%20Kim%20Trailer"
+      },
       {
         "title": "God is Shy [OmU]",
         "media": "film",
@@ -218,21 +176,7 @@
       }
     ],
     "bloodstream": [],
-    "kableone": [
-      {
-        "title": "The Great Punjab Robbery",
-        "media": "film",
-        "genres": [
-          "Action",
-          "Krimi",
-          "Thriller"
-        ],
-        "overview": "Three robbers with strange names seize an ordinary bank in Punjab. No demands. No ransom. Just cryptic riddles sent to the cops, each one leading deeper into the mystery.",
-        "date": "2026-08-07",
-        "poster": "https://images.justwatch.com/poster/347869450/s332/the-great-punjab-robbery.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Great%20Punjab%20Robbery%20Trailer"
-      }
-    ],
+    "kableone": [],
     "artiflix": [],
     "artify": [],
     "lionsgate-amazon-channels": [],
