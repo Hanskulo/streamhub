@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T15:03",
-  "week": "2026-09-07",
+  "generated_at": "2026-09-09T13:42",
+  "week": "2026-09-09",
   "by_provider": {
     "netflix": [
       {
@@ -13,22 +13,22 @@
         "date": "2026-08-26",
         "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20Trailer"
-      },
-      {
-        "title": "Pyaar Prema Kalyanam",
-        "media": "film",
-        "genres": [
-          "Komödie",
-          "Drama",
-          "Romantik"
-        ],
-        "overview": "Als eine Braut sich nach der Hochzeit weigert, zu Hause auszuziehen, muss ihr Mann für sich herausfinden, ob er sich an ein Leben bei den Schwiegereltern gewöhnen kann.",
-        "date": "2026-08-21",
-        "poster": "https://images.justwatch.com/poster/349224054/s332/pyaar-prema-kalyanam.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Pyaar%20Prema%20Kalyanam%20Trailer"
       }
     ],
     "amazon-prime-video": [
+      {
+        "title": "Drawn Together",
+        "media": "film",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Romantik"
+        ],
+        "overview": "Das Leben von Marfil, der Tochter eines spanischen Geschäftsmannes, steht in New York Kopf, als sie entführt und wieder freigelassen wird. Ihr Vater engagiert Sebastián Moore als Bodyguard, und da sie jede Minute miteinander verbringen, entflammt zwischen ihnen eine Anziehungskraft in einer Welt, in der nichts so ist, wie es scheint. Nach dem Roman von Mercedes Ron, Autorin der \"Culpa\"-Reihe.",
+        "date": "2026-09-09",
+        "poster": "https://images.justwatch.com/poster/348270456/s332/kiserto-kozelseg.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Drawn%20Together%20Trailer"
+      },
       {
         "title": "Barreda",
         "media": "film",
@@ -44,6 +44,19 @@
       }
     ],
     "apple-tv": [
+      {
+        "title": "Last Seen",
+        "media": "sorozat",
+        "genres": [
+          "Krimi",
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "Als Notrufdisponent Ian Ridley den Hilferuf eines Teenagers entgegennimmt, glaubt er, seine seit Jahren vermisste Tochter zu erkennen und setzt alles daran, sie zu finden.",
+        "date": "2026-09-09",
+        "poster": "https://images.justwatch.com/poster/348320106/s332/last-seen.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Last%20Seen%20Trailer"
+      },
       {
         "title": "Mayday",
         "media": "film",
@@ -158,7 +171,7 @@
         ],
         "overview": "After a typical day at the garage, a young mechanic swaps her stained overalls for a leather ensemble—as she shifts gears into a different kind of routine. Driving through bustling Paris, she helps a passerby cross the street, delivers plants to a hardware store, and picks up an enigmatic passenger.",
         "date": "2026-09-05",
-        "poster": "https://images.justwatch.com/poster/354165406/s332/avec-kim.jpg",
+        "poster": "https://images.justwatch.com/poster/354327732/s332/avec-kim.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Avec%20Kim%20Trailer"
       },
       {

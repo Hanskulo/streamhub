@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T15:03",
-  "week": "2026-09-07",
+  "generated_at": "2026-09-09T13:41",
+  "week": "2026-09-09",
   "by_provider": {
     "netflix": [
       {
@@ -13,22 +13,22 @@
         "date": "2026-08-26",
         "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20trailer"
-      },
-      {
-        "title": "Pyaar Prema Kalyanam",
-        "media": "film",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Romance"
-        ],
-        "overview": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
-        "date": "2026-08-21",
-        "poster": "https://images.justwatch.com/poster/349224054/s332/pyaar-prema-kalyanam.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Pyaar%20Prema%20Kalyanam%20trailer"
       }
     ],
     "amazon-prime-video": [
+      {
+        "title": "Drawn Together",
+        "media": "film",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Romance"
+        ],
+        "overview": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
+        "date": "2026-09-09",
+        "poster": "https://images.justwatch.com/poster/348270456/s332/kiserto-kozelseg.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Drawn%20Together%20trailer"
+      },
       {
         "title": "Barreda",
         "media": "film",
@@ -44,6 +44,19 @@
       }
     ],
     "apple-tv": [
+      {
+        "title": "Last Seen",
+        "media": "sorozat",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
+        "date": "2026-09-09",
+        "poster": "https://images.justwatch.com/poster/348320106/s332/last-seen.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Last%20Seen%20trailer"
+      },
       {
         "title": "Mayday",
         "media": "film",
@@ -158,7 +171,7 @@
         ],
         "overview": "After a typical day at the garage, a young mechanic swaps her stained overalls for a leather ensemble—as she shifts gears into a different kind of routine. Driving through bustling Paris, she helps a passerby cross the street, delivers plants to a hardware store, and picks up an enigmatic passenger.",
         "date": "2026-09-05",
-        "poster": "https://images.justwatch.com/poster/354165406/s332/avec-kim.jpg",
+        "poster": "https://images.justwatch.com/poster/354327732/s332/avec-kim.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Avec%20Kim%20trailer"
       },
       {
