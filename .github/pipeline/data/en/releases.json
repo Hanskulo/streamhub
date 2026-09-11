@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-09-09T13:41",
-  "week": "2026-09-09",
+  "generated_at": "2026-09-11T13:33",
+  "week": "2026-09-11",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Untold Mr. T: I Pity the Fool",
+        "media": "film",
+        "genres": [
+          "Documentary"
+        ],
+        "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
+        "date": "2026-09-08",
+        "poster": "https://images.justwatch.com/poster/348562926/s332/untold-mr-t-i-pity-the-fool.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool%20trailer"
+      },
       {
         "title": "The Last Salute",
         "media": "film",
@@ -17,17 +28,16 @@
     ],
     "amazon-prime-video": [
       {
-        "title": "Drawn Together",
-        "media": "film",
+        "title": "Honor Thy Mother",
+        "media": "sorozat",
         "genres": [
           "Drama",
-          "Thriller",
-          "Romance"
+          "Thriller"
         ],
-        "overview": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
-        "date": "2026-09-09",
-        "poster": "https://images.justwatch.com/poster/348270456/s332/kiserto-kozelseg.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Drawn%20Together%20trailer"
+        "overview": "After years of estrangement, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.",
+        "date": "2026-09-11",
+        "poster": "https://images.justwatch.com/poster/348290701/s332/honor-thy-mother.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20trailer"
       },
       {
         "title": "Barreda",
@@ -108,19 +118,7 @@
       }
     ],
     "justwatch-tv": [],
-    "apple-tv-store": [
-      {
-        "title": "Stolen by the Stars",
-        "media": "film",
-        "genres": [
-          "Documentary"
-        ],
-        "overview": "A visceral descent into the phenomenon of alien abduction. Through harrowing accounts from contactees and chilling military testimony, Stolen by the Stars explores the thin veil between our world and the unknown, and what happens when you reach for the stars, and they decide to reach back.",
-        "date": "2026-08-11",
-        "poster": "https://images.justwatch.com/poster/346688168/s332/stolen-by-the-stars.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Stolen%20by%20the%20Stars%20trailer"
-      }
-    ],
+    "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
@@ -137,6 +135,18 @@
     "crunchyroll": [],
     "hayu": [],
     "hbo-max": [
+      {
+        "title": "A Killer Story",
+        "media": "sorozat",
+        "genres": [
+          "Crime",
+          "Documentary"
+        ],
+        "overview": "Investigative journalist Joe Sexton looks into a 2002 double homicide case in Kansas after receiving thousands of emails from Eileen Umbehr, a homemaker turned citizen sleuth. Eileen and her husband Keen are convinced that Dana Chandler, the woman accused of killing her ex-husband and his girlfriend, did not commit the crime and devote their lives to fighting for Chandler's innocence.",
+        "date": "2026-09-10",
+        "poster": "https://images.justwatch.com/poster/354500705/s332/a-killer-story.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=A%20Killer%20Story%20trailer"
+      },
       {
         "title": "Whitmer Thomas: Terminal Crew of Dudes",
         "media": "film",
@@ -184,11 +194,38 @@
         ],
         "overview": "During a train ride, Ariel and Paul pass the time sketching their deepest fears. Their game takes an unexpected turn when Gilda, a mysterious passenger, intrudes on their exchange. Yet, her relationship with fear seems far less innocent than their playful drawings.",
         "date": "2026-08-27",
-        "poster": "https://images.justwatch.com/poster/340709069/s332/god-is-shy.jpg",
+        "poster": "https://images.justwatch.com/poster/330364325/s332/god-is-shy.jpg",
         "trailer": "https://www.youtube.com/results?search_query=God%20Is%20Shy%20trailer"
       }
     ],
-    "bloodstream": [],
+    "bloodstream": [
+      {
+        "title": "Disappear",
+        "media": "film",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Horror"
+        ],
+        "overview": "Between work shifts and concrete streets, a boy moves through a life that feels still and suffocating. An unexpected encounter fractures his routine and sparks a transformation destined to change the way he sees the world forever.",
+        "date": "2026-09-02",
+        "poster": "https://images.justwatch.com/poster/354131226/s332/disappear.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Disappear%20trailer"
+      },
+      {
+        "title": "Animal Trap",
+        "media": "film",
+        "genres": [
+          "Comedy",
+          "Horror",
+          "Thriller"
+        ],
+        "overview": "A young woman is abducted and held captive inside a liminal room where she is trained to regress back into her primal, animalistic nature.",
+        "date": "2026-08-15",
+        "poster": "https://images.justwatch.com/poster/350753295/s332/animal-trap.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Animal%20Trap%20trailer"
+      }
+    ],
     "kableone": [],
     "artiflix": [],
     "artify": [],

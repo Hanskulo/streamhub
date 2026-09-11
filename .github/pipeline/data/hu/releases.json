@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-09-09T13:41",
-  "week": "2026-09-09",
+  "generated_at": "2026-09-11T13:32",
+  "week": "2026-09-11",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Első kézből: Mr. T",
+        "media": "film",
+        "genres": [
+          "Dokumentum"
+        ],
+        "overview": "A Rocky III-ban és a The A-Teamben látható aranyláncok, taraj és hollywoodi hírnév előtt még Laurence Tureaud volt. Ez az egyik legvalószínűtlenebb és legkedveltebb szórakoztatóipari ikon – Mr. T – rendkívüli története.",
+        "date": "2026-09-08",
+        "poster": "https://images.justwatch.com/poster/348562926/s332/untold-mr-t-i-pity-the-fool.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Els%C5%91%20k%C3%A9zb%C5%91l%3A%20Mr.%20T%20el%C5%91zetes"
+      },
       {
         "title": "The Last Salute",
         "media": "film",
@@ -17,17 +28,16 @@
     ],
     "amazon-prime-video": [
       {
-        "title": "Kísértő közelség",
-        "media": "film",
+        "title": "Honor Thy Mother",
+        "media": "sorozat",
         "genres": [
           "Dráma",
-          "Thriller",
-          "Romantikus"
+          "Thriller"
         ],
-        "overview": "Marfilnak, egy nagy hatalmú spanyol üzletember lányának New York-i élete felfordul, amikor elrabolják, majd váratlanul szabadon engedik. Az apja Sebastian Moore-t bérli fel a lány testőreként, és miután minden egyes percet együtt kell tölteniük, óhatatlan vonzalom támad kettejük között egy világban, ahol semmi sem az, aminek látszik. Mercedes Ron, a Vétkesek-sorozat szerzőjének regénye alapján.",
-        "date": "2026-09-09",
-        "poster": "https://images.justwatch.com/poster/348270456/s332/kiserto-kozelseg.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=K%C3%ADs%C3%A9rt%C5%91%20k%C3%B6zels%C3%A9g%20el%C5%91zetes"
+        "overview": "After years of estrangement, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.",
+        "date": "2026-09-11",
+        "poster": "https://images.justwatch.com/poster/348290701/s332/honor-thy-mother.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20el%C5%91zetes"
       },
       {
         "title": "Barreda",
@@ -108,19 +118,7 @@
       }
     ],
     "justwatch-tv": [],
-    "apple-tv-store": [
-      {
-        "title": "Stolen by the Stars",
-        "media": "film",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "A visceral descent into the phenomenon of alien abduction. Through harrowing accounts from contactees and chilling military testimony, Stolen by the Stars explores the thin veil between our world and the unknown, and what happens when you reach for the stars, and they decide to reach back.",
-        "date": "2026-08-11",
-        "poster": "https://images.justwatch.com/poster/346688168/s332/stolen-by-the-stars.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Stolen%20by%20the%20Stars%20el%C5%91zetes"
-      }
-    ],
+    "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
@@ -137,6 +135,18 @@
     "crunchyroll": [],
     "hayu": [],
     "hbo-max": [
+      {
+        "title": "A Killer Story",
+        "media": "sorozat",
+        "genres": [
+          "Krimi",
+          "Dokumentum"
+        ],
+        "overview": "Investigative journalist Joe Sexton looks into a 2002 double homicide case in Kansas after receiving thousands of emails from Eileen Umbehr, a homemaker turned citizen sleuth. Eileen and her husband Keen are convinced that Dana Chandler, the woman accused of killing her ex-husband and his girlfriend, did not commit the crime and devote their lives to fighting for Chandler's innocence.",
+        "date": "2026-09-10",
+        "poster": "https://images.justwatch.com/poster/354500705/s332/a-killer-story.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=A%20Killer%20Story%20el%C5%91zetes"
+      },
       {
         "title": "Whitmer Thomas: Terminal Crew of Dudes",
         "media": "film",
@@ -158,7 +168,7 @@
         ],
         "overview": "Egy ötgyermekes anyuka valószínűtlen története, akit párja adott el szexrabszolgának a saját otthonában – miközben a gyerekek az emeleten aludtak.",
         "date": "2026-08-14",
-        "poster": "https://images.justwatch.com/poster/348319749/s332/the-sex-slave.jpg",
+        "poster": "https://images.justwatch.com/poster/348693275/s332/the-sex-slave.jpg",
         "trailer": "https://www.youtube.com/results?search_query=A%20szexrabszolga%20el%C5%91zetes"
       }
     ],
@@ -184,11 +194,38 @@
         ],
         "overview": "During a train ride, Ariel and Paul pass the time sketching their deepest fears. Their game takes an unexpected turn when Gilda, a mysterious passenger, intrudes on their exchange. Yet, her relationship with fear seems far less innocent than their playful drawings.",
         "date": "2026-08-27",
-        "poster": "https://images.justwatch.com/poster/340709069/s332/god-is-shy.jpg",
+        "poster": "https://images.justwatch.com/poster/330364325/s332/god-is-shy.jpg",
         "trailer": "https://www.youtube.com/results?search_query=God%20Is%20Shy%20el%C5%91zetes"
       }
     ],
-    "bloodstream": [],
+    "bloodstream": [
+      {
+        "title": "Disappear",
+        "media": "film",
+        "genres": [
+          "Dráma",
+          "Fantasy",
+          "Horror"
+        ],
+        "overview": "Between work shifts and concrete streets, a boy moves through a life that feels still and suffocating. An unexpected encounter fractures his routine and sparks a transformation destined to change the way he sees the world forever.",
+        "date": "2026-09-02",
+        "poster": "https://images.justwatch.com/poster/354131226/s332/disappear.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Disappear%20el%C5%91zetes"
+      },
+      {
+        "title": "Animal Trap",
+        "media": "film",
+        "genres": [
+          "Vígjáték",
+          "Horror",
+          "Thriller"
+        ],
+        "overview": "A young woman is abducted and held captive inside a liminal room where she is trained to regress back into her primal, animalistic nature.",
+        "date": "2026-08-15",
+        "poster": "https://images.justwatch.com/poster/350753295/s332/animal-trap.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Animal%20Trap%20el%C5%91zetes"
+      }
+    ],
     "kableone": [],
     "artiflix": [],
     "artify": [],

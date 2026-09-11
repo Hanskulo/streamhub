@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-09-09T13:42",
-  "week": "2026-09-09",
+  "generated_at": "2026-09-11T13:33",
+  "week": "2026-09-11",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Untold Mr. T: I Pity the Fool",
+        "media": "film",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
+        "date": "2026-09-08",
+        "poster": "https://images.justwatch.com/poster/348562926/s332/untold-mr-t-i-pity-the-fool.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool%20Trailer"
+      },
       {
         "title": "The Last Salute",
         "media": "film",
@@ -17,17 +28,16 @@
     ],
     "amazon-prime-video": [
       {
-        "title": "Drawn Together",
-        "media": "film",
+        "title": "Honor Thy Mother",
+        "media": "sorozat",
         "genres": [
           "Drama",
-          "Thriller",
-          "Romantik"
+          "Thriller"
         ],
-        "overview": "Das Leben von Marfil, der Tochter eines spanischen Geschäftsmannes, steht in New York Kopf, als sie entführt und wieder freigelassen wird. Ihr Vater engagiert Sebastián Moore als Bodyguard, und da sie jede Minute miteinander verbringen, entflammt zwischen ihnen eine Anziehungskraft in einer Welt, in der nichts so ist, wie es scheint. Nach dem Roman von Mercedes Ron, Autorin der \"Culpa\"-Reihe.",
-        "date": "2026-09-09",
-        "poster": "https://images.justwatch.com/poster/348270456/s332/kiserto-kozelseg.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Drawn%20Together%20Trailer"
+        "overview": "After years of estrangement, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.",
+        "date": "2026-09-11",
+        "poster": "https://images.justwatch.com/poster/348290701/s332/honor-thy-mother.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20Trailer"
       },
       {
         "title": "Barreda",
@@ -37,7 +47,7 @@
           "Drama",
           "Historie"
         ],
-        "overview": "In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
+        "overview": "Ein fiktionalisierter Dramafilm, der auf einem der schockierendsten Verbrechen in der Geschichte Argentiniens basiert. 1992 war Ricardo Barreda ein bescheidener Zahnarzt, ermordete brutal seine Frau, seine Schwiegermutter und zwei erwachsene Töchter in ihrem Familienhaus. Ricardo Barreda brandmarkte sich selbst als Opfer und entzündete einen Mediensturm und heizte einen nationalen Skandal an.",
         "date": "2026-08-28",
         "poster": "https://images.justwatch.com/poster/350102971/s332/barreda.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Barreda%20Trailer"
@@ -54,7 +64,7 @@
         ],
         "overview": "Als Notrufdisponent Ian Ridley den Hilferuf eines Teenagers entgegennimmt, glaubt er, seine seit Jahren vermisste Tochter zu erkennen und setzt alles daran, sie zu finden.",
         "date": "2026-09-09",
-        "poster": "https://images.justwatch.com/poster/348320106/s332/last-seen.jpg",
+        "poster": "https://images.justwatch.com/poster/348320393/s332/last-seen.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Last%20Seen%20Trailer"
       },
       {
@@ -67,7 +77,7 @@
         ],
         "overview": "Auf dem Höhepunkt des Kalten Krieges gerät US-Navy-Pilot Lieutenant Troy „Assassin“ Kelly während einer streng geheimen Mission über russischem Gebiet hinter die feindlichen Linien. Dort trifft er auf den ehemaligen KGB-Agenten Nikolai Ustinov, der trotz seiner Vergangenheit eine Vorliebe für die amerikanische Kultur hegt. Was zunächst wie eine ausweglose Situation erscheint, entwickelt sich für die beiden zu einer ungewöhnlichen Zusammenarbeit, die ihr Schicksal nachhaltig verändert.",
         "date": "2026-09-04",
-        "poster": "https://images.justwatch.com/poster/347434490/s332/mayday-2026.jpg",
+        "poster": "https://images.justwatch.com/poster/347434482/s332/mayday-2026.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Mayday%20Trailer"
       },
       {
@@ -79,7 +89,7 @@
         ],
         "overview": "Werfen Sie einen Blick hinter die Kulissen des erfolgreichsten Frauenteams in der Geschichte des College-Basketballs. Geno Auriemma treibt seine Spielerinnen bis an die Grenze, um zwölf Meisterschaftstitel zu gewinnen. Rebecca Lobo, Diana Taurasi, Paige Bueckers und andere erzählen, was nötig ist, um UConn zu überstehen und eine Basketball-Dynastie aufzubauen.",
         "date": "2026-08-20",
-        "poster": "https://images.justwatch.com/poster/349203896/s332/the-dynasty-uconn-huskies.jpg",
+        "poster": "https://images.justwatch.com/poster/348510620/s332/the-dynasty-uconn-huskies.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Dynasty%3A%20Die%20Insidergeschichte%20der%20UConn%20Huskies%20Trailer"
       }
     ],
@@ -108,19 +118,7 @@
       }
     ],
     "justwatch-tv": [],
-    "apple-tv-store": [
-      {
-        "title": "Stolen by the Stars",
-        "media": "film",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "A visceral descent into the phenomenon of alien abduction. Through harrowing accounts from contactees and chilling military testimony, Stolen by the Stars explores the thin veil between our world and the unknown, and what happens when you reach for the stars, and they decide to reach back.",
-        "date": "2026-08-11",
-        "poster": "https://images.justwatch.com/poster/346688168/s332/stolen-by-the-stars.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Stolen%20by%20the%20Stars%20Trailer"
-      }
-    ],
+    "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
@@ -137,6 +135,18 @@
     "crunchyroll": [],
     "hayu": [],
     "hbo-max": [
+      {
+        "title": "A Killer Story: Der Wahrheit auf der Spur",
+        "media": "sorozat",
+        "genres": [
+          "Krimi",
+          "Dokumentation"
+        ],
+        "overview": "Ein Doppelmordfall in Kansas beschäftigt die Öffentlichkeit mehr als zwei Jahrzehnte lang - darunter auch zwei hartnäckige Hobbydetektive.",
+        "date": "2026-09-10",
+        "poster": "https://images.justwatch.com/poster/354500705/s332/a-killer-story.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=A%20Killer%20Story%3A%20Der%20Wahrheit%20auf%20der%20Spur%20Trailer"
+      },
       {
         "title": "Whitmer Thomas: Terminal Crew of Dudes",
         "media": "film",
@@ -184,11 +194,38 @@
         ],
         "overview": "Während einer Zugfahrt vertreiben sich Ariel und Paul die Zeit damit, ihre tiefsten Ängste zu skizzieren. Ihre Reise nimmt eine unerwartete Wendung, als sich Gilda in ihr Gespräch einmischt. Plötzlich erhalten ihre unschuldigen, spielerischen Zeichnungen durch die Fremde eine beängstigende Realität.",
         "date": "2026-08-27",
-        "poster": "https://images.justwatch.com/poster/340709069/s332/god-is-shy.jpg",
+        "poster": "https://images.justwatch.com/poster/330364325/s332/god-is-shy.jpg",
         "trailer": "https://www.youtube.com/results?search_query=God%20is%20Shy%20%5BOmU%5D%20Trailer"
       }
     ],
-    "bloodstream": [],
+    "bloodstream": [
+      {
+        "title": "Disappear",
+        "media": "film",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Horror"
+        ],
+        "overview": "Between work shifts and concrete streets, a boy moves through a life that feels still and suffocating. An unexpected encounter fractures his routine and sparks a transformation destined to change the way he sees the world forever.",
+        "date": "2026-09-02",
+        "poster": "https://images.justwatch.com/poster/354131226/s332/disappear.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Disappear%20Trailer"
+      },
+      {
+        "title": "Animal Trap",
+        "media": "film",
+        "genres": [
+          "Komödie",
+          "Horror",
+          "Thriller"
+        ],
+        "overview": "A young woman is abducted and held captive inside a liminal room where she is trained to regress back into her primal, animalistic nature.",
+        "date": "2026-08-15",
+        "poster": "https://images.justwatch.com/poster/350753295/s332/animal-trap.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Animal%20Trap%20Trailer"
+      }
+    ],
     "kableone": [],
     "artiflix": [],
     "artify": [],
