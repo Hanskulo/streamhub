@@ -1,19 +1,8 @@
 {
-  "generated_at": "2026-09-11T13:32",
-  "week": "2026-09-11",
+  "generated_at": "2026-09-13T13:47",
+  "week": "2026-09-13",
   "by_provider": {
     "netflix": [
-      {
-        "title": "Első kézből: Mr. T",
-        "media": "film",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "A Rocky III-ban és a The A-Teamben látható aranyláncok, taraj és hollywoodi hírnév előtt még Laurence Tureaud volt. Ez az egyik legvalószínűtlenebb és legkedveltebb szórakoztatóipari ikon – Mr. T – rendkívüli története.",
-        "date": "2026-09-08",
-        "poster": "https://images.justwatch.com/poster/348562926/s332/untold-mr-t-i-pity-the-fool.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Els%C5%91%20k%C3%A9zb%C5%91l%3A%20Mr.%20T%20el%C5%91zetes"
-      },
       {
         "title": "The Last Salute",
         "media": "film",
@@ -24,6 +13,19 @@
         "date": "2026-08-26",
         "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20el%C5%91zetes"
+      },
+      {
+        "title": "Friss házasok",
+        "media": "film",
+        "genres": [
+          "Vígjáték",
+          "Dráma",
+          "Romantikus"
+        ],
+        "overview": "A menyasszony nem akarja elhagyni a családi fészket az esküvő után, így a férjnek ki kell találnia, alkalmazkodhat-e a közös élethez a nő szüleivel egy fedél alatt.",
+        "date": "2026-08-21",
+        "poster": "https://images.justwatch.com/poster/347628842/s332/pyaar-prema-kalyanam.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Friss%20h%C3%A1zasok%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -95,6 +97,15 @@
     ],
     "disney-plus": [
       {
+        "title": "2026 Disney Legends Awards Ceremony Live!",
+        "media": "film",
+        "genres": [],
+        "overview": "A kaliforniai Anaheimből élőben jelentkező Disney Legends díjátadó a „D23: The Ultimate Disney Fan Event” keretében köszönti a cég legmagasabb kitüntetését átvevő Disney-legendák rendkívüli csoportját. A díjazottak között szerepel Chris Berman, Jerry Bruckheimer, Susan Egan, Eric Goldberg, Anne Hathaway, Bob Iger, Kim Irvine, Dwayne Johnson, a Jonas Brothers, Lin-Manuel Miranda és Alan Tudyk. Az Emmy®-díjas Ryan Seacrest műsorvezetésével zajló felejthetetlen ünnepségen megható méltatások, meglepetések és inspiráló történetek idézik meg azokat az ikonokat, akiknek a kreativitása, tehetsége és látásmódja nemzedékek óta formálja a Disney varázsát.",
+        "date": "2026-08-16",
+        "poster": "https://images.justwatch.com/poster/348537803/s332/2026-disney-legends-awards-ceremony-live.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=2026%20Disney%20Legends%20Awards%20Ceremony%20Live%21%20el%C5%91zetes"
+      },
+      {
         "title": "Disney Princess: The Ultimate Concert Celebration",
         "media": "film",
         "genres": [
@@ -106,15 +117,6 @@
         "date": "2026-08-16",
         "poster": "https://images.justwatch.com/poster/348434549/s332/disney-princess-the-ultimate-concert-celebration.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Disney%20Princess%3A%20The%20Ultimate%20Concert%20Celebration%20el%C5%91zetes"
-      },
-      {
-        "title": "2026 Disney Legends Awards Ceremony Live!",
-        "media": "film",
-        "genres": [],
-        "overview": "A kaliforniai Anaheimből élőben jelentkező Disney Legends díjátadó a „D23: The Ultimate Disney Fan Event” keretében köszönti a cég legmagasabb kitüntetését átvevő Disney-legendák rendkívüli csoportját. A díjazottak között szerepel Chris Berman, Jerry Bruckheimer, Susan Egan, Eric Goldberg, Anne Hathaway, Bob Iger, Kim Irvine, Dwayne Johnson, a Jonas Brothers, Lin-Manuel Miranda és Alan Tudyk. Az Emmy®-díjas Ryan Seacrest műsorvezetésével zajló felejthetetlen ünnepségen megható méltatások, meglepetések és inspiráló történetek idézik meg azokat az ikonokat, akiknek a kreativitása, tehetsége és látásmódja nemzedékek óta formálja a Disney varázsát.",
-        "date": "2026-08-16",
-        "poster": "https://images.justwatch.com/poster/348537803/s332/2026-disney-legends-awards-ceremony-live.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=2026%20Disney%20Legends%20Awards%20Ceremony%20Live%21%20el%C5%91zetes"
       }
     ],
     "justwatch-tv": [],
@@ -136,7 +138,7 @@
     "hayu": [],
     "hbo-max": [
       {
-        "title": "A Killer Story",
+        "title": "Gyilkos Topekában",
         "media": "sorozat",
         "genres": [
           "Krimi",
@@ -145,7 +147,7 @@
         "overview": "Investigative journalist Joe Sexton looks into a 2002 double homicide case in Kansas after receiving thousands of emails from Eileen Umbehr, a homemaker turned citizen sleuth. Eileen and her husband Keen are convinced that Dana Chandler, the woman accused of killing her ex-husband and his girlfriend, did not commit the crime and devote their lives to fighting for Chandler's innocence.",
         "date": "2026-09-10",
         "poster": "https://images.justwatch.com/poster/354500705/s332/a-killer-story.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=A%20Killer%20Story%20el%C5%91zetes"
+        "trailer": "https://www.youtube.com/results?search_query=Gyilkos%20Topek%C3%A1ban%20el%C5%91zetes"
       },
       {
         "title": "Whitmer Thomas: Terminal Crew of Dudes",
