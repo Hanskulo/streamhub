@@ -1,238 +1,234 @@
 {
-  "generated_at": "2026-09-07T15:02",
-  "window": "2026-09-07 .. 2026-09-22",
+  "generated_at": "2026-09-14T15:52",
+  "window": "2026-09-14 .. 2026-09-29",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "Verlorene Seelen. Ein Krimi aus Passau",
+          "title": "Die vergessene Insel",
           "media": "film",
           "genres": [
-            "Krimi"
+            "Action",
+            "Animation",
+            "Komödie"
           ],
-          "overview": "In ihrem zehnten gemeinsamen Fall kommt es auf dem Ausflugsschiff \"Queen Danubia\" einer Passauer Reederei immer wieder zu nächtlichen Einbrüchen. Der Privatermittler Ferdinand Zankl soll dem Spuk ein Ende bereiten und übernimmt die Überwachung des Schiffes, das im Industriehafen vor Anker liegt. Nach einem unglücklichen Sturz auf den Kopf glaubt Zankl eine Wasserleiche in der Donau zu sehen, die jedoch gleich wieder versinkt. Ex-Polizistin Frederike Bader nimmt Zankls Beobachtung zunächst nicht ernst. Doch dann erfährt sie, dass Hans Lindegger (Martin Weinek), Wiener Kapitän eines benachbart vor Anker liegenden Transportschiffs, verschwunden ist. Sein Neffe Lenny Lindegger (Simon Morzé) vermisst ihn, seit es in der Nacht zuvor wieder einmal einen Einbruch auf der \"Queen Danubia\" gab. Welche Informationen hält der alte Fischer Thade Gutsmiedel (Michael Roll) vom gegenüberliegenden Ufer zurück?",
-          "date": "2026-09-07",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Verlorene%20Seelen.%20Ein%20Krimi%20aus%20Passau%20Trailer"
+          "overview": "Jo und Raissa sind seit Kindheitstagen beste Freundinnen, doch mit dem Ende ihrer Highschool-Zeit stehen grundlegende Veränderungen an, denn eine der Freundinnen möchte nach New York ziehen und dort studieren. So erleben sie eine letzte gemeinsame Nacht, in der sie plötzlich ein Portal entdecken, das sie auf die geheimnisvolle Insel Nakali bringt. Umgeben von magischen und faszinierenden Lebewesen droht der Verlust ihrer Erinnerungen an die gemeinsame Freundschaft. Ein Wettlauf beginnt, um möglichst wenig zu vergessen.",
+          "date": "2026-09-16",
+          "poster": "https://images.justwatch.com/poster/354519189/s332/die-vergessene-insel-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Die%20vergessene%20Insel%20Trailer"
         },
         {
-          "title": "Untold Mr. T: I Pity the Fool",
+          "title": "The Weight",
           "media": "film",
           "genres": [
-            "Dokumentation"
+            "Action",
+            "Krimi",
+            "Drama"
           ],
-          "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
-          "date": "2026-09-08",
-          "poster": "https://images.justwatch.com/poster/347598271/s332/untold-mr-t-i-pity-the-fool.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool%20Trailer"
+          "overview": "Oregon 1933: Nach dem Tod seiner Frau wird Samuel Murphy (Ethan Hawke) von seiner Tochter getrennt und landet in einem Arbeitslager. Um das Sorgerecht zurückzuerlangen, lässt Murphy sich auf einen riskanten Deal mit dem skrupellosen Lageraufseher Clancy (Russell Crowe) ein: Man stellt ihm eine vorzeitige Entlassung in Aussicht, wenn er sich im Gegenzug einer Gruppe Schmuggler bei einem Goldtransport durch die unbarmherzige Wildnis anschließt. Doch abgesehen von den Gefahren, die auf dem unwegsamen Terrain lauern, wird das Unterfangen auch durch Misstrauen und Verrat in den eigenen Reihen sabotiert. Je näher die Gruppe ihrem Ziel kommt, desto mehr zweifelt Murphy an dem Preis, den er für seine Freiheit und das Wiedersehen mit seinem Kind zahlen muss.",
+          "date": "2026-09-16",
+          "poster": "https://images.justwatch.com/poster/348767639/s332/the-weight-im-goldrausch.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Weight%20Trailer"
         },
         {
-          "title": "I Matter",
+          "title": "Billie",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Drama"
+          ],
+          "overview": "Nina und Angie sind beste Freundinnen und schlagen sich gemeinsam durchs Leben. Als Angies pubertierende Tochter Rahel 300 Euro für eine Klassenfahrt braucht, gehen sie kurzerhand in die Bank, in der Ninas Ehemann Marc arbeitet, um ihn nach einem Kleinkredit zu fragen. Doch als Marc die Bitte harsch ablehnt, verliert Angie die Beherrschung. Die Dinge geraten außer Kontrolle – und plötzlich sitzen die Freundinnen in der Bank fest und werden für Gangsterinnen gehalten.",
+          "date": "2026-09-17",
+          "poster": "https://images.justwatch.com/poster/335931940/s332/billie-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Billie%20Trailer"
+        },
+        {
+          "title": "Kalter Hund",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Drama"
+          ],
+          "overview": "Marianne ist ziemlich überrascht, als sie Herrmann am Morgen seines 100. Geburtstags tot in seinem Bett findet. Ihr Gatte hat sich der opulenten Feier mit Verwandtschaft und Lokalpresse gekonnt durch eine Überdosis Tabletten – eigentlich für den Familienmops Berlusconi angedacht – entzogen. Eine Unverschämtheit, die Marianne nicht an die große Glocke hängen will. Und so sieht sich die Familie gezwungen, ein absurdes Schmierentheater zu veranstalten, um das Bild der anerkannten Vorzeige-Familie vor den geladenen Gästen aufrechtzuerhalten. Während die Leiche des Patriarchen noch durchs Haus manövriert wird, entbrennt bereits ein erbitterter Streit um das Erbe. Doch das Testament ist verschwunden und zwischen gierigen Erben, verdrängten Wahrheiten und einer Familienaufstellung mit einem exzentrischen Schamanen kommen dunkle Geheimnisse ans Licht.",
+          "date": "2026-09-17",
+          "poster": "https://images.justwatch.com/poster/347660414/s332/kalter-hund.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Kalter%20Hund%20Trailer"
+        },
+        {
+          "title": "National Theatre Live: The Misanthrope",
           "media": "film",
           "genres": [
             "Drama"
           ],
-          "overview": "As she stands on the verge of leaving the orphanage she called home, Rebeca, a young Roma girl, clings to the hope that her father's release from prison will finally give her the family she has always longed for. When she is accepted into university to study acting, life finally seems to be opening up for her. But just as Rebeca begins to find her place in this new world, the life she comes from starts to catch up with her, forcing her to make choices she can no longer postpone.",
-          "date": "2026-09-08",
-          "poster": "https://images.justwatch.com/poster/350576068/s332/i-matter.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=I%20Matter%20Trailer"
+          "overview": "Alice, a brilliant novelist, despises the hollow contemporary mantras of kindness and respect. But the bolder she becomes in speaking out, the more colleagues avoid her, and the more her personal relationships begin to fracture. As she challenges fashionable ideas and lends her voice to causes others are afraid to touch, she faces intense criticism and backlash. Alice will soon learn the price she must pay as an artist and as a woman for daring to speak her mind. Award-winner Sandra Oh is the Misanthrope in Martin Crimp's cutting new version of Molière's dark comedy, directed by National Theatre Director Indhu Rubasingham.",
+          "date": "2026-09-22",
+          "poster": "https://images.justwatch.com/poster/346459335/s332/national-theatre-live-the-misanthrope.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=National%20Theatre%20Live%3A%20The%20Misanthrope%20Trailer"
         },
         {
-          "title": "Voices in My Head",
+          "title": "Another Day",
+          "media": "film",
+          "genres": [
+            "Drama"
+          ],
+          "overview": "Garance is a young actress, but not a star. She manages everything as best she can, valiant, cheerful, a soldier, and she finds in alcohol an unconditional fuel, a source of comfort. Garance changes her life and begins an eight-year journey of moves, work, encounters, parties and anxieties, joys and hardships… An intimate, friendly, and sexual revolution. But she consumes, more and more. Until the very possibility of death…",
+          "date": "2026-09-23",
+          "poster": "https://images.justwatch.com/poster/344540224/s332/another-day-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Another%20Day%20Trailer"
+        },
+        {
+          "title": "Possible Love",
           "media": "film",
           "genres": [
             "Drama",
-            "Horror"
-          ],
-          "overview": "Recently, a tragedy deeply shook the siblings Sarah and Kevin. Their parents died in a car accident. Sarah suffers greatly from the loss. She is convinced that her parents were murdered by a creepy woman who haunts their home. Increasingly, Kevin must realize that his sister is in great danger.",
-          "date": "2026-09-09",
-          "poster": "https://images.justwatch.com/poster/348256006/s332/voices-in-my-head.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Voices%20in%20My%20Head%20Trailer"
-        },
-        {
-          "title": "Letters from the Silenced Country",
-          "media": "film",
-          "genres": [
-            "Dokumentation"
-          ],
-          "overview": "A hybrid documentary portraying contemporary Belarus through the individuals who have endured imprisonment, repression, and exile — voices from a silenced country, suffocated by the regime.",
-          "date": "2026-09-09",
-          "poster": "https://images.justwatch.com/poster/354109057/s332/letters.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Letters%20from%20the%20Silenced%20Country%20Trailer"
-        },
-        {
-          "title": "Drawn Together",
-          "media": "film",
-          "genres": [
-            "Drama",
-            "Thriller",
             "Romantik"
           ],
-          "overview": "Das Leben von Marfil, der Tochter eines spanischen Geschäftsmannes, steht in New York Kopf, als sie entführt und wieder freigelassen wird. Ihr Vater engagiert Sebastián Moore als Bodyguard, und da sie jede Minute miteinander verbringen, entflammt zwischen ihnen eine Anziehungskraft in einer Welt, in der nichts so ist, wie es scheint. Nach dem Roman von Mercedes Ron, Autorin der \"Culpa\"-Reihe.",
-          "date": "2026-09-09",
-          "poster": "https://images.justwatch.com/poster/354109600/s332/drawn-together.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Drawn%20Together%20Trailer"
+          "overview": "Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment.",
+          "date": "2026-09-23",
+          "poster": "https://images.justwatch.com/poster/347600686/s332/possible-love.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Possible%20Love%20Trailer"
         },
         {
-          "title": "Lion Fist – Kampf der Champions",
+          "title": "Morgen war Krieg",
           "media": "film",
           "genres": [
-            "Action"
+            "Drama"
           ],
-          "overview": "Vier Jahre lang hat Kampfsportler Joe (Mathis Landwehr) unschuldig im Gefängnis gesessen. Nach seiner Freilassung erfährt er, dass sein Sohn eine teure Operation braucht, weil er an einem lebensbedrohlichen Tumor erkrankt ist. Joes einzige Chance, um ihn zu retten: ein brutales All-Styles-Turnier mit 100.000 Dollar Preisgeld. Nach einer harten Ausbildung durch Großmeister Wu betritt Joe den Ring mit einigen der stärksten Fighter der Welt – doch nicht alle seiner Gegner kämpfen mit sauberen Mitteln ...",
-          "date": "2026-09-10",
-          "poster": "https://images.justwatch.com/poster/345835158/s332/lion-fist-kampf-der-champions.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Lion%20Fist%20%E2%80%93%C2%A0Kampf%20der%20Champions%20Trailer"
-        },
-        {
-          "title": "The Train",
-          "media": "film",
-          "genres": [
-            "Thriller"
-          ],
-          "overview": "Vienna today. Visionary Leo Goldberg readies the sale of his legendary Majestic Imperator train. As rival investors and a deadly Russian spy board, British Major Alexander Stirling must battle conspirators to save his daughter, the train.",
-          "date": "2026-09-10",
-          "poster": "https://images.justwatch.com/poster/350621245/s332/the-train-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Train%20Trailer"
+          "overview": "Die EU ist zerbrochen und in Deutschland bilden rechts-populistische Kräfte eine neue Regierung. Krieg steht bevor. Jonas (33), der nichts kennt als Frieden, Wohlstand und Sicherheit, soll eingezogen werden. Er desertiert, um seine Überzeugungen und seinen Glauben an den Frieden nicht aufgeben zu müssen und versteckt sich bei seinem Vater",
+          "date": "2026-09-24",
+          "poster": "https://images.justwatch.com/poster/350408064/s332/morgen-war-krieg.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Morgen%20war%20Krieg%20Trailer"
         }
       ]
     },
     "hungary": {
       "items": [
         {
-          "title": "Ignition",
-          "media": "film",
-          "genres": [
-            "Krimi",
-            "Drama",
-            "Thriller"
-          ],
-          "overview": "*Ignition* is a real-time psychological thriller about bomb disposal officer Leon Colter. A routine call turns deadly when a device triggers a countdown, drawing him into a sadistic game led by a voice that knows his secrets.",
-          "date": "2026-09-07",
-          "poster": "https://images.justwatch.com/poster/354205928/s332/ignition.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Ignition%20Trailer"
-        },
-        {
-          "title": "Low Expectations",
-          "media": "film",
-          "genres": [
-            "Drama"
-          ],
-          "overview": "At the height of her music career, Maja falls apart and has to step away from her ambitions. Depressed and broke, she moves back home with her mother and works part-time at a local high school. Far from the spotlight, wrapped in everyday kindness, she slowly finds her way back to life.",
-          "date": "2026-09-11",
-          "poster": "https://images.justwatch.com/poster/347125920/s332/low-expectations.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Low%20Expectations%20Trailer"
-        },
-        {
-          "title": "In My Pain",
-          "media": "film",
-          "genres": [
-            "Drama"
-          ],
-          "overview": "A powerful true story of Sharon McKinney, a woman who spent much of her life trapped in a cycle of abuse, and addiction. After nearly losing her life, Sharon reaches rock bottom before finding hope through faith.",
-          "date": "2026-09-19",
-          "poster": "https://images.justwatch.com/poster/347836937/s332/in-my-pain.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=In%20My%20Pain%20Trailer"
-        }
-      ]
-    },
-    "usa": {
-      "items": [
-        {
-          "title": "Untold Mr. T: I Pity the Fool",
-          "media": "film",
-          "genres": [
-            "Dokumentation"
-          ],
-          "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
-          "date": "2026-09-08",
-          "poster": "https://images.justwatch.com/poster/347598271/s332/untold-mr-t-i-pity-the-fool.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool%20Trailer"
-        },
-        {
-          "title": "Company",
+          "title": "Last Train to Fortune",
           "media": "film",
           "genres": [
             "Komödie",
             "Drama",
             "Western"
           ],
-          "overview": "A mysterious traveler tells a story that spans generations, drawing together the lives of three wounded souls struggling to choose between vengeance and forgiveness.",
-          "date": "2026-09-08",
-          "poster": "https://images.justwatch.com/poster/347967306/s332/company-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Company%20Trailer"
+          "overview": "When schoolteacher Cecil Peachtree misses the last train to Fortune, he strikes a deal with outlaw Dooley to secure safe and timely travel.  On the journey, the two develop an odd friendship through the power of knowledge.",
+          "date": "2026-09-17",
+          "poster": "https://images.justwatch.com/poster/340508458/s332/az-utolso-vonat-fortune-ba.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Last%20Train%20to%20Fortune%20Trailer"
         },
         {
-          "title": "The Militia",
-          "media": "film",
-          "genres": [
-            "Drama",
-            "Thriller"
-          ],
-          "overview": "Daniel Pierce dreams of joining the local Militia alongside his father once he turns eighteen, but when his Dad becomes the target of the local Sheriff, Daniel and his friends form their own militia in a troubled effort to save him.",
-          "date": "2026-09-08",
-          "poster": "https://images.justwatch.com/poster/353502449/s332/the-militia.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Militia%20Trailer"
-        },
-        {
-          "title": "Maremma",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Drama",
-            "Thriller"
-          ],
-          "overview": "A young man navigates the traditions and realities of rural Telangana, where folklore shapes daily life. When community tensions surface, his journey takes an intense turn.",
-          "date": "2026-09-10",
-          "poster": "https://images.justwatch.com/poster/348271351/s332/maremma.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Maremma%20Trailer"
-        },
-        {
-          "title": "SOOBIN LIVE CONCERT MOVIE: ALL-ROUNDER",
-          "media": "film",
-          "genres": [
-            "Musik"
-          ],
-          "overview": "",
-          "date": "2026-09-10",
-          "poster": "https://images.justwatch.com/poster/348353896/s332/soobin-live-concert-movie-all-rounder.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=SOOBIN%20LIVE%20CONCERT%20MOVIE%3A%20ALL-ROUNDER%20Trailer"
-        },
-        {
-          "title": "A Marble in the Jar",
+          "title": "He Calls Me Daughter",
           "media": "film",
           "genres": [
             "Dokumentation"
           ],
-          "overview": "\"A Marble in the Jar\" follows surfer Tatiana Weston-Webb's rise and return amid women's surfing's push for equality, while coach and director, Greg Browning's, ALS battle re-frames the story as one of resilience and small, meaningful wins.",
-          "date": "2026-09-11",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=A%20Marble%20in%20the%20Jar%20Trailer"
-        },
+          "overview": "A documentary exploring the lasting impact of the father wound on women and the hope, healing, and restored identity found through the love of God as the perfect Father.",
+          "date": "2026-09-24",
+          "poster": "https://images.justwatch.com/poster/340848597/s332/he-calls-me-daughter.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=He%20Calls%20Me%20Daughter%20Trailer"
+        }
+      ]
+    },
+    "usa": {
+      "items": [
         {
-          "title": "Girl Group",
-          "media": "film",
-          "genres": [
-            "Komödie",
-            "Musik"
-          ],
-          "overview": "A pop diva, kicked out of her own group's reunion tour and slapped with a community service court order, seizes the chance to stage a comeback by coaching a group of misfit teen girls for a major record label audition, only to push them too far, forcing her to confront her toxic industry — and her own streak of self-destruction.",
-          "date": "2026-09-11",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Girl%20Group%20Trailer"
-        },
-        {
-          "title": "The Surgeon",
+          "title": "Run Hide Fight: Infidels",
           "media": "film",
           "genres": [
             "Action",
             "Thriller"
           ],
-          "overview": "A former surgeon is kidnapped and given an impossible choice.",
-          "date": "2026-09-12",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=The%20Surgeon%20Trailer"
+          "overview": "Nachdem islamische Terroristen ein pro-palästinensisches Lager an einer Universität besetzt haben, um dort die Scharia gegen Studenten durchzusetzen und Dissidenten, die sie als „Ungläubige“ betrachten, hinzurichten, schließen sich eine Gruppe von Studenten, ein Wachmann und ein Delta-Force-Veteran zusammen, um sich zur Wehr zu setzen.",
+          "date": "2026-09-16",
+          "poster": "https://images.justwatch.com/poster/347949929/s332/run-hide-fight-infidels.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Run%20Hide%20Fight%3A%20Infidels%20Trailer"
+        },
+        {
+          "title": "Die vergessene Insel",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Animation",
+            "Komödie"
+          ],
+          "overview": "Jo und Raissa sind seit Kindheitstagen beste Freundinnen, doch mit dem Ende ihrer Highschool-Zeit stehen grundlegende Veränderungen an, denn eine der Freundinnen möchte nach New York ziehen und dort studieren. So erleben sie eine letzte gemeinsame Nacht, in der sie plötzlich ein Portal entdecken, das sie auf die geheimnisvolle Insel Nakali bringt. Umgeben von magischen und faszinierenden Lebewesen droht der Verlust ihrer Erinnerungen an die gemeinsame Freundschaft. Ein Wettlauf beginnt, um möglichst wenig zu vergessen.",
+          "date": "2026-09-16",
+          "poster": "https://images.justwatch.com/poster/354519189/s332/forgotten-island-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Die%20vergessene%20Insel%20Trailer"
+        },
+        {
+          "title": "Godmother",
+          "media": "film",
+          "genres": [
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "A meticulously planned desert couples' vacation spirals into chaos when family tensions and a pair of mysterious hosts with devilish intentions transform a romantic getaway into a nightmare.",
+          "date": "2026-09-17",
+          "poster": "https://images.justwatch.com/poster/348470347/s332/godmother-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Godmother%20Trailer"
+        },
+        {
+          "title": "Pathetic Fallacy",
+          "media": "film",
+          "genres": [
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "A young widower arrives in a new-age mountain town in search of cosmic answers and a chance to heal. Instead, he finds an outlandish murderer and a forest of demonic spirits who offer a horrific bargain: the power to cheat death at a nightmarish cost.",
+          "date": "2026-09-20",
+          "poster": "https://images.justwatch.com/poster/354492373/s332/pathetic-fallacy.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Pathetic%20Fallacy%20Trailer"
+        },
+        {
+          "title": "Possible Love",
+          "media": "film",
+          "genres": [
+            "Drama",
+            "Romantik"
+          ],
+          "overview": "Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment.",
+          "date": "2026-09-23",
+          "poster": "https://images.justwatch.com/poster/347600686/s332/possible-love.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Possible%20Love%20Trailer"
+        },
+        {
+          "title": "The Vvaan: Force of the Forrest",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Thriller"
+          ],
+          "overview": "Ein vernünftiger Stadtmensch trotzt dem verbotenen Wald seiner Vorfahren und erweckt eine göttliche Göttin zum Leben, nur um zu erkennen, dass es Kräfte gibt, die jenseits der Logik liegen, und dass er sich als einziger Retter des Dorfes erheben muss, um sein Volk vor der Vernichtung zu bewahren.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/331551578/s332/the-vvaan-force-of-the-forrest.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Vvaan%3A%20Force%20of%20the%20Forrest%20Trailer"
+        },
+        {
+          "title": "Hunter",
+          "media": "film",
+          "genres": [
+            "Drama"
+          ],
+          "overview": "Plot to be announced.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/346668535/s332/hunter-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Hunter%20Trailer"
+        },
+        {
+          "title": "Unabomber",
+          "media": "film",
+          "genres": [
+            "Krimi",
+            "Historie",
+            "Thriller"
+          ],
+          "overview": "In this drama inspired by true events, Ted Kaczynski's transformation from Harvard prodigy to the infamous Unabomber unfolds as the FBI hunts him down.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/350187204/s332/unabomber.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Unabomber%20Trailer"
         }
       ]
     }

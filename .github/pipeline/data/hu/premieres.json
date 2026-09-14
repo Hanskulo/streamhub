@@ -1,238 +1,234 @@
 {
-  "generated_at": "2026-09-07T15:01",
-  "window": "2026-09-07 .. 2026-09-22",
+  "generated_at": "2026-09-14T15:52",
+  "window": "2026-09-14 .. 2026-09-29",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "Verlorene Seelen. Ein Krimi aus Passau",
+          "title": "Elfelejtett sziget",
           "media": "film",
           "genres": [
-            "Krimi"
+            "Akció",
+            "Animáció",
+            "Vígjáték"
           ],
-          "overview": "In ihrem zehnten gemeinsamen Fall kommt es auf dem Ausflugsschiff \"Queen Danubia\" einer Passauer Reederei immer wieder zu nächtlichen Einbrüchen. Der Privatermittler Ferdinand Zankl soll dem Spuk ein Ende bereiten und übernimmt die Überwachung des Schiffes, das im Industriehafen vor Anker liegt. Nach einem unglücklichen Sturz auf den Kopf glaubt Zankl eine Wasserleiche in der Donau zu sehen, die jedoch gleich wieder versinkt. Ex-Polizistin Frederike Bader nimmt Zankls Beobachtung zunächst nicht ernst. Doch dann erfährt sie, dass Hans Lindegger (Martin Weinek), Wiener Kapitän eines benachbart vor Anker liegenden Transportschiffs, verschwunden ist. Sein Neffe Lenny Lindegger (Simon Morzé) vermisst ihn, seit es in der Nacht zuvor wieder einmal einen Einbruch auf der \"Queen Danubia\" gab. Welche Informationen hält der alte Fischer Thade Gutsmiedel (Michael Roll) vom gegenüberliegenden Ufer zurück?",
-          "date": "2026-09-07",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Verlorene%20Seelen.%20Ein%20Krimi%20aus%20Passau%20el%C5%91zetes"
+          "overview": "Jo és Raissa a Nakali nevű, elfeledett sziget különös világában rekednek. Rájönnek, hogy az egyetlen út hazafelé talán egy egész életnyi emlék és érzelem feláldozását követeli.  (Csillag Lajos)",
+          "date": "2026-09-16",
+          "poster": "https://images.justwatch.com/poster/354519189/s332/die-vergessene-insel-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Elfelejtett%20sziget%20el%C5%91zetes"
         },
         {
-          "title": "Untold Mr. T: I Pity the Fool",
+          "title": "The Weight",
           "media": "film",
           "genres": [
-            "Dokumentum"
+            "Akció",
+            "Krimi",
+            "Dráma"
           ],
-          "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
-          "date": "2026-09-08",
-          "poster": "https://images.justwatch.com/poster/347598271/s332/untold-mr-t-i-pity-the-fool.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool%20el%C5%91zetes"
+          "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+          "date": "2026-09-16",
+          "poster": "https://images.justwatch.com/poster/348767639/s332/the-weight-im-goldrausch.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Weight%20el%C5%91zetes"
         },
         {
-          "title": "I Matter",
+          "title": "Billie",
+          "media": "film",
+          "genres": [
+            "Vígjáték",
+            "Dráma"
+          ],
+          "overview": "Nina and Angie are best friends and struggle through life together. When Angie's teenage daughter Rahel needs €300 for a school trip, they decide to go to the bank where Nina's husband Marc works to ask him for a small loan. But when Marc harshly rejects their request, Angie loses her temper. Things get out of control—and suddenly the friends are stuck in the bank and mistaken for gangsters.",
+          "date": "2026-09-17",
+          "poster": "https://images.justwatch.com/poster/335931940/s332/billie-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Billie%20el%C5%91zetes"
+        },
+        {
+          "title": "Let Sleeping Dogs Lie",
+          "media": "film",
+          "genres": [
+            "Vígjáték",
+            "Dráma"
+          ],
+          "overview": "On the morning of his hundredth birthday, Fanny finds her grandfather dead in his bed. As she and her family are forced to deal with the death, a bitter dispute over the inheritance erupts, in which old power relations are reversed.",
+          "date": "2026-09-17",
+          "poster": "https://images.justwatch.com/poster/347660414/s332/kalter-hund.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Let%20Sleeping%20Dogs%20Lie%20el%C5%91zetes"
+        },
+        {
+          "title": "Kalter Hund",
           "media": "film",
           "genres": [
             "Dráma"
           ],
-          "overview": "As she stands on the verge of leaving the orphanage she called home, Rebeca, a young Roma girl, clings to the hope that her father's release from prison will finally give her the family she has always longed for. When she is accepted into university to study acting, life finally seems to be opening up for her. But just as Rebeca begins to find her place in this new world, the life she comes from starts to catch up with her, forcing her to make choices she can no longer postpone.",
-          "date": "2026-09-08",
-          "poster": "https://images.justwatch.com/poster/350576068/s332/i-matter.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=I%20Matter%20el%C5%91zetes"
+          "overview": "",
+          "date": "2026-09-17",
+          "poster": "https://images.justwatch.com/poster/348274022/s332/kalter-hund-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Kalter%20Hund%20el%C5%91zetes"
         },
         {
-          "title": "Voices in my Head",
+          "title": "National Theatre Live: The Misanthrope",
+          "media": "film",
+          "genres": [
+            "Dráma"
+          ],
+          "overview": "Alice, a brilliant novelist, despises the hollow contemporary mantras of kindness and respect. But the bolder she becomes in speaking out, the more colleagues avoid her, and the more her personal relationships begin to fracture. As she challenges fashionable ideas and lends her voice to causes others are afraid to touch, she faces intense criticism and backlash. Alice will soon learn the price she must pay as an artist and as a woman for daring to speak her mind. Award-winner Sandra Oh is the Misanthrope in Martin Crimp's cutting new version of Molière's dark comedy, directed by National Theatre Director Indhu Rubasingham.",
+          "date": "2026-09-22",
+          "poster": "https://images.justwatch.com/poster/346459335/s332/national-theatre-live-the-misanthrope.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=National%20Theatre%20Live%3A%20The%20Misanthrope%20el%C5%91zetes"
+        },
+        {
+          "title": "Another Day",
+          "media": "film",
+          "genres": [
+            "Dráma"
+          ],
+          "overview": "Garance is a young actress, but not a star. She manages everything as best she can, valiant, cheerful, a soldier, and she finds in alcohol an unconditional fuel, a source of comfort. Garance changes her life and begins an eight-year journey of moves, work, encounters, parties and anxieties, joys and hardships… An intimate, friendly, and sexual revolution. But she consumes, more and more. Until the very possibility of death…",
+          "date": "2026-09-23",
+          "poster": "https://images.justwatch.com/poster/344540224/s332/another-day-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Another%20Day%20el%C5%91zetes"
+        },
+        {
+          "title": "Possible Love",
           "media": "film",
           "genres": [
             "Dráma",
-            "Horror"
-          ],
-          "overview": "Recently, a tragedy deeply shook the siblings Sarah and Kevin. Their parents died in a car accident. Sarah suffers greatly from the loss. She is convinced that her parents were murdered by a creepy woman who haunts their home. Increasingly, Kevin must realize that his sister is in great danger.",
-          "date": "2026-09-09",
-          "poster": "https://images.justwatch.com/poster/348256006/s332/voices-in-my-head.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Voices%20in%20my%20Head%20el%C5%91zetes"
-        },
-        {
-          "title": "Letters from the Silenced Country",
-          "media": "film",
-          "genres": [
-            "Dokumentum"
-          ],
-          "overview": "A hybrid documentary portraying contemporary Belarus through the individuals who have endured imprisonment, repression, and exile — voices from a silenced country, suffocated by the regime.",
-          "date": "2026-09-09",
-          "poster": "https://images.justwatch.com/poster/354109057/s332/letters.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Letters%20from%20the%20Silenced%20Country%20el%C5%91zetes"
-        },
-        {
-          "title": "Kísértő közelség",
-          "media": "film",
-          "genres": [
-            "Dráma",
-            "Thriller",
             "Romantikus"
           ],
-          "overview": "Marfilnak, egy nagy hatalmú spanyol üzletember lányának New York-i élete felfordul, amikor elrabolják, majd váratlanul szabadon engedik. Az apja Sebastian Moore-t bérli fel a lány testőreként, és miután minden egyes percet együtt kell tölteniük, óhatatlan vonzalom támad kettejük között egy világban, ahol semmi sem az, aminek látszik. Mercedes Ron, a Vétkesek-sorozat szerzőjének regénye alapján.",
-          "date": "2026-09-09",
-          "poster": "https://images.justwatch.com/poster/354109600/s332/drawn-together.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=K%C3%ADs%C3%A9rt%C5%91%20k%C3%B6zels%C3%A9g%20el%C5%91zetes"
-        },
-        {
-          "title": "Lion Fist",
-          "media": "film",
-          "genres": [
-            "Akció"
-          ],
-          "overview": "Martial Arts Fighter Joe goes to prison for 4 years and takes his wife's blame for a Drug Bust. After his release he finds out that his ex gave birth to his son and started a new life with a Drug Lord.",
-          "date": "2026-09-10",
-          "poster": "https://images.justwatch.com/poster/345835158/s332/lion-fist-kampf-der-champions.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Lion%20Fist%20el%C5%91zetes"
-        },
-        {
-          "title": "The Train",
-          "media": "film",
-          "genres": [
-            "Thriller"
-          ],
-          "overview": "Vienna today. Visionary Leo Goldberg readies the sale of his legendary Majestic Imperator train. As rival investors and a deadly Russian spy board, British Major Alexander Stirling must battle conspirators to save his daughter, the train.",
-          "date": "2026-09-10",
-          "poster": "https://images.justwatch.com/poster/350621245/s332/the-train-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Train%20el%C5%91zetes"
+          "overview": "Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment.",
+          "date": "2026-09-23",
+          "poster": "https://images.justwatch.com/poster/347600686/s332/possible-love.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Possible%20Love%20el%C5%91zetes"
         }
       ]
     },
     "hungary": {
       "items": [
         {
-          "title": "Ignition",
-          "media": "film",
-          "genres": [
-            "Krimi",
-            "Dráma",
-            "Thriller"
-          ],
-          "overview": "*Ignition* is a real-time psychological thriller about bomb disposal officer Leon Colter. A routine call turns deadly when a device triggers a countdown, drawing him into a sadistic game led by a voice that knows his secrets.",
-          "date": "2026-09-07",
-          "poster": "https://images.justwatch.com/poster/354205928/s332/ignition.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Ignition%20el%C5%91zetes"
-        },
-        {
-          "title": "Low Expectations",
-          "media": "film",
-          "genres": [
-            "Dráma"
-          ],
-          "overview": "At the height of her music career, Maja falls apart and has to step away from her ambitions. Depressed and broke, she moves back home with her mother and works part-time at a local high school. Far from the spotlight, wrapped in everyday kindness, she slowly finds her way back to life.",
-          "date": "2026-09-11",
-          "poster": "https://images.justwatch.com/poster/347125920/s332/low-expectations.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Low%20Expectations%20el%C5%91zetes"
-        },
-        {
-          "title": "In My Pain",
-          "media": "film",
-          "genres": [
-            "Dráma"
-          ],
-          "overview": "A powerful true story of Sharon McKinney, a woman who spent much of her life trapped in a cycle of abuse, and addiction. After nearly losing her life, Sharon reaches rock bottom before finding hope through faith.",
-          "date": "2026-09-19",
-          "poster": "https://images.justwatch.com/poster/347836937/s332/in-my-pain.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=In%20My%20Pain%20el%C5%91zetes"
-        }
-      ]
-    },
-    "usa": {
-      "items": [
-        {
-          "title": "Untold Mr. T: I Pity the Fool",
-          "media": "film",
-          "genres": [
-            "Dokumentum"
-          ],
-          "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
-          "date": "2026-09-08",
-          "poster": "https://images.justwatch.com/poster/347598271/s332/untold-mr-t-i-pity-the-fool.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool%20el%C5%91zetes"
-        },
-        {
-          "title": "Company",
+          "title": "Az utolsó vonat Fortune-ba",
           "media": "film",
           "genres": [
             "Vígjáték",
             "Dráma",
             "Western"
           ],
-          "overview": "A mysterious traveler tells a story that spans generations, drawing together the lives of three wounded souls struggling to choose between vengeance and forgiveness.",
-          "date": "2026-09-08",
-          "poster": "https://images.justwatch.com/poster/347967306/s332/company-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Company%20el%C5%91zetes"
+          "overview": "Egy iskolaigazgató és egy törvényen kívüli különös szövetségre lépnek, amikor a főhős lekési a Fortune-ba tartó utolsó vonatot, és kénytelen vele tartani a vadnyugati úton. Útjuk során lövöldözések, szökések és furcsa, váratlan találkozások sorozata teszi próbára a kapcsolatukat, miközben lassan sajátos barátság alakul ki közöttük.",
+          "date": "2026-09-17",
+          "poster": "https://images.justwatch.com/poster/347200579/s332/az-utolso-vonat-fortune-ba.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Az%20utols%C3%B3%20vonat%20Fortune-ba%20el%C5%91zetes"
         },
         {
-          "title": "The Militia",
-          "media": "film",
-          "genres": [
-            "Dráma",
-            "Thriller"
-          ],
-          "overview": "Daniel Pierce dreams of joining the local Militia alongside his father once he turns eighteen, but when his Dad becomes the target of the local Sheriff, Daniel and his friends form their own militia in a troubled effort to save him.",
-          "date": "2026-09-08",
-          "poster": "https://images.justwatch.com/poster/353502449/s332/the-militia.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Militia%20el%C5%91zetes"
-        },
-        {
-          "title": "Maremma",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Dráma",
-            "Thriller"
-          ],
-          "overview": "A young man navigates the traditions and realities of rural Telangana, where folklore shapes daily life. When community tensions surface, his journey takes an intense turn.",
-          "date": "2026-09-10",
-          "poster": "https://images.justwatch.com/poster/348271351/s332/maremma.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Maremma%20el%C5%91zetes"
-        },
-        {
-          "title": "SOOBIN LIVE CONCERT MOVIE: ALL-ROUNDER",
-          "media": "film",
-          "genres": [
-            "Zene"
-          ],
-          "overview": "",
-          "date": "2026-09-10",
-          "poster": "https://images.justwatch.com/poster/348353896/s332/soobin-live-concert-movie-all-rounder.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=SOOBIN%20LIVE%20CONCERT%20MOVIE%3A%20ALL-ROUNDER%20el%C5%91zetes"
-        },
-        {
-          "title": "A Marble in the Jar",
+          "title": "He Calls Me Daughter",
           "media": "film",
           "genres": [
             "Dokumentum"
           ],
-          "overview": "\"A Marble in the Jar\" follows surfer Tatiana Weston-Webb's rise and return amid women's surfing's push for equality, while coach and director, Greg Browning's, ALS battle re-frames the story as one of resilience and small, meaningful wins.",
-          "date": "2026-09-11",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=A%20Marble%20in%20the%20Jar%20el%C5%91zetes"
-        },
+          "overview": "A documentary exploring the lasting impact of the father wound on women and the hope, healing, and restored identity found through the love of God as the perfect Father.",
+          "date": "2026-09-24",
+          "poster": "https://images.justwatch.com/poster/340848597/s332/he-calls-me-daughter.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=He%20Calls%20Me%20Daughter%20el%C5%91zetes"
+        }
+      ]
+    },
+    "usa": {
+      "items": [
         {
-          "title": "Girl Group",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Zene"
-          ],
-          "overview": "A pop diva, kicked out of her own group's reunion tour and slapped with a community service court order, seizes the chance to stage a comeback by coaching a group of misfit teen girls for a major record label audition, only to push them too far, forcing her to confront her toxic industry — and her own streak of self-destruction.",
-          "date": "2026-09-11",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Girl%20Group%20el%C5%91zetes"
-        },
-        {
-          "title": "The Surgeon",
+          "title": "Run Hide Fight: Infidels",
           "media": "film",
           "genres": [
             "Akció",
             "Thriller"
           ],
-          "overview": "A former surgeon is kidnapped and given an impossible choice.",
-          "date": "2026-09-12",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=The%20Surgeon%20el%C5%91zetes"
+          "overview": "After Islamist terrorists hijack a college's pro-Palestine encampment with the goal of enforcing Sharia law on students and executing dissidents whom they deem \"infidels\", a group of students, a security guard, and a Delta Force veteran team up to fight back.",
+          "date": "2026-09-16",
+          "poster": "https://images.justwatch.com/poster/347949929/s332/run-hide-fight-infidels.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Run%20Hide%20Fight%3A%20Infidels%20el%C5%91zetes"
+        },
+        {
+          "title": "Elfelejtett sziget",
+          "media": "film",
+          "genres": [
+            "Akció",
+            "Animáció",
+            "Vígjáték"
+          ],
+          "overview": "Jo és Raissa a Nakali nevű, elfeledett sziget különös világában rekednek. Rájönnek, hogy az egyetlen út hazafelé talán egy egész életnyi emlék és érzelem feláldozását követeli.  (Csillag Lajos)",
+          "date": "2026-09-16",
+          "poster": "https://images.justwatch.com/poster/354519189/s332/forgotten-island-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Elfelejtett%20sziget%20el%C5%91zetes"
+        },
+        {
+          "title": "Godmother",
+          "media": "film",
+          "genres": [
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "A meticulously planned desert couples' vacation spirals into chaos when family tensions and a pair of mysterious hosts with devilish intentions transform a romantic getaway into a nightmare.",
+          "date": "2026-09-17",
+          "poster": "https://images.justwatch.com/poster/348470347/s332/godmother-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Godmother%20el%C5%91zetes"
+        },
+        {
+          "title": "Pathetic Fallacy",
+          "media": "film",
+          "genres": [
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "A young widower arrives in a new-age mountain town in search of cosmic answers and a chance to heal. Instead, he finds an outlandish murderer and a forest of demonic spirits who offer a horrific bargain: the power to cheat death at a nightmarish cost.",
+          "date": "2026-09-20",
+          "poster": "https://images.justwatch.com/poster/354492373/s332/pathetic-fallacy.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Pathetic%20Fallacy%20el%C5%91zetes"
+        },
+        {
+          "title": "Possible Love",
+          "media": "film",
+          "genres": [
+            "Dráma",
+            "Romantikus"
+          ],
+          "overview": "Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment.",
+          "date": "2026-09-23",
+          "poster": "https://images.justwatch.com/poster/347600686/s332/possible-love.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Possible%20Love%20el%C5%91zetes"
+        },
+        {
+          "title": "The Vvaan: Force of the Forrest",
+          "media": "film",
+          "genres": [
+            "Akció",
+            "Fantasy",
+            "Thriller"
+          ],
+          "overview": "A rational urban man defies his ancestral village's forbidden forest and awakens a divine goddess, forcing him to confront powers beyond logic as he becomes the unlikely saviour protecting his people from annihilation.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/331551578/s332/the-vvaan-force-of-the-forrest.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Vvaan%3A%20Force%20of%20the%20Forrest%20el%C5%91zetes"
+        },
+        {
+          "title": "Hunter",
+          "media": "film",
+          "genres": [
+            "Dráma"
+          ],
+          "overview": "Plot to be announced.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/346668535/s332/hunter-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Hunter%20el%C5%91zetes"
+        },
+        {
+          "title": "Unabomber",
+          "media": "film",
+          "genres": [
+            "Krimi",
+            "Történelmi",
+            "Thriller"
+          ],
+          "overview": "In this drama inspired by true events, Ted Kaczynski's transformation from Harvard prodigy to the infamous Unabomber unfolds as the FBI hunts him down.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/350187204/s332/unabomber.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Unabomber%20el%C5%91zetes"
         }
       ]
     }
