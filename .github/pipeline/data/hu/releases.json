@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T13:47",
-  "week": "2026-09-13",
+  "generated_at": "2026-09-15T14:18",
+  "week": "2026-09-15",
   "by_provider": {
     "netflix": [
       {
@@ -13,19 +13,6 @@
         "date": "2026-08-26",
         "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20el%C5%91zetes"
-      },
-      {
-        "title": "Friss házasok",
-        "media": "film",
-        "genres": [
-          "Vígjáték",
-          "Dráma",
-          "Romantikus"
-        ],
-        "overview": "A menyasszony nem akarja elhagyni a családi fészket az esküvő után, így a férjnek ki kell találnia, alkalmazkodhat-e a közös élethez a nő szüleivel egy fedél alatt.",
-        "date": "2026-08-21",
-        "poster": "https://images.justwatch.com/poster/347628842/s332/pyaar-prema-kalyanam.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Friss%20h%C3%A1zasok%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -148,44 +135,9 @@
         "date": "2026-09-10",
         "poster": "https://images.justwatch.com/poster/354500705/s332/a-killer-story.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Gyilkos%20Topek%C3%A1ban%20el%C5%91zetes"
-      },
-      {
-        "title": "Whitmer Thomas: Terminal Crew of Dudes",
-        "media": "film",
-        "genres": [
-          "Vígjáték",
-          "Dokumentum"
-        ],
-        "overview": "Comedian, musician, and actor Whitmer Thomas digs into his small-town Alabama upbringing and his ongoing quest to be cool.",
-        "date": "2026-08-14",
-        "poster": "https://images.justwatch.com/poster/348300622/s332/whitmer-thomas-terminal-crew-of-dudes.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Whitmer%20Thomas%3A%20Terminal%20Crew%20of%20Dudes%20el%C5%91zetes"
-      },
-      {
-        "title": "A szexrabszolga",
-        "media": "sorozat",
-        "genres": [
-          "Krimi",
-          "Dokumentum"
-        ],
-        "overview": "Egy ötgyermekes anyuka valószínűtlen története, akit párja adott el szexrabszolgának a saját otthonában – miközben a gyerekek az emeleten aludtak.",
-        "date": "2026-08-14",
-        "poster": "https://images.justwatch.com/poster/348693275/s332/the-sex-slave.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=A%20szexrabszolga%20el%C5%91zetes"
       }
     ],
     "mubi": [
-      {
-        "title": "Avec Kim",
-        "media": "film",
-        "genres": [
-          "Dráma"
-        ],
-        "overview": "After a typical day at the garage, a young mechanic swaps her stained overalls for a leather ensemble—as she shifts gears into a different kind of routine. Driving through bustling Paris, she helps a passerby cross the street, delivers plants to a hardware store, and picks up an enigmatic passenger.",
-        "date": "2026-09-05",
-        "poster": "https://images.justwatch.com/poster/354327732/s332/avec-kim.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Avec%20Kim%20el%C5%91zetes"
-      },
       {
         "title": "God Is Shy",
         "media": "film",
@@ -213,19 +165,6 @@
         "date": "2026-09-02",
         "poster": "https://images.justwatch.com/poster/354131226/s332/disappear.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Disappear%20el%C5%91zetes"
-      },
-      {
-        "title": "Animal Trap",
-        "media": "film",
-        "genres": [
-          "Vígjáték",
-          "Horror",
-          "Thriller"
-        ],
-        "overview": "A young woman is abducted and held captive inside a liminal room where she is trained to regress back into her primal, animalistic nature.",
-        "date": "2026-08-15",
-        "poster": "https://images.justwatch.com/poster/350753295/s332/animal-trap.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Animal%20Trap%20el%C5%91zetes"
       }
     ],
     "kableone": [],
