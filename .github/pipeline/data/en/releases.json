@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-09-15T14:19",
-  "week": "2026-09-15",
+  "generated_at": "2026-09-17T14:16",
+  "week": "2026-09-17",
   "by_provider": {
-    "netflix": [
-      {
-        "title": "The Last Salute",
-        "media": "film",
-        "genres": [
-          "Documentary"
-        ],
-        "overview": "Chronicles the MiG-21's final chapter in the Indian Air Force, showcasing stories of generations of fighter pilots who flew it.",
-        "date": "2026-08-26",
-        "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20trailer"
-      }
-    ],
+    "netflix": [],
     "amazon-prime-video": [
       {
         "title": "Honor Thy Mother",
@@ -82,30 +70,7 @@
         "trailer": "https://www.youtube.com/results?search_query=The%20Dynasty%3A%20UConn%20Huskies%20trailer"
       }
     ],
-    "disney-plus": [
-      {
-        "title": "2026 Disney Legends Awards Ceremony Live!",
-        "media": "film",
-        "genres": [],
-        "overview": "Live from Anaheim, California, the Disney Legends Awards Ceremony at “D23: The Ultimate Disney Fan Event” celebrates an extraordinary class of Disney Legends receiving the company’s highest honor. Honorees include Chris Berman, Jerry Bruckheimer, Susan Egan, Eric Goldberg, Anne Hathaway, Bob Iger, Kim Irvine, Dwayne Johnson, the Jonas Brothers, Lin‑Manuel Miranda, and Alan Tudyk. Hosted by Emmy® Award-winning Ryan Seacrest, this unforgettable ceremony features heartfelt tributes, surprise moments, and inspiring stories honoring the icons whose creativity, talent, and vision have shaped Disney magic for generations.",
-        "date": "2026-08-16",
-        "poster": "https://images.justwatch.com/poster/348537803/s332/2026-disney-legends-awards-ceremony-live.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=2026%20Disney%20Legends%20Awards%20Ceremony%20Live%21%20trailer"
-      },
-      {
-        "title": "Disney Princess: The Ultimate Concert Celebration",
-        "media": "film",
-        "genres": [
-          "Documentary",
-          "History",
-          "Family"
-        ],
-        "overview": "Disney Princess: The Ultimate Concert Celebration at Disneyland Resort brings together the largest gathering of Disney Princess stars ever assembled, celebrating the iconic stories across animation, live-action, stage, and music. This one-of-a-kind concert will transform the night skies with dazzling lights, sweeping projections, and sky-high fountains creating a truly immersive world where the music, magic, and legacy of Disney Princesses shine like never before.",
-        "date": "2026-08-16",
-        "poster": "https://images.justwatch.com/poster/348434549/s332/disney-princess-the-ultimate-concert-celebration.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Disney%20Princess%3A%20The%20Ultimate%20Concert%20Celebration%20trailer"
-      }
-    ],
+    "disney-plus": [],
     "justwatch-tv": [],
     "apple-tv-store": [],
     "youtube-premium": [],
