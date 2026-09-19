@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-17T14:16",
-  "week": "2026-09-17",
+  "generated_at": "2026-09-19T13:07",
+  "week": "2026-09-19",
   "by_provider": {
-    "netflix": [],
-    "amazon-prime-video": [
+    "netflix": [
       {
-        "title": "Honor Thy Mother",
-        "media": "sorozat",
+        "title": "The Last Salute",
+        "media": "film",
         "genres": [
-          "Dráma",
-          "Thriller"
+          "Dokumentum"
         ],
-        "overview": "After years of estrangement, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.",
-        "date": "2026-09-11",
-        "poster": "https://images.justwatch.com/poster/348290701/s332/honor-thy-mother.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20el%C5%91zetes"
-      },
+        "overview": "Chronicles the MiG-21's final chapter in the Indian Air Force, showcasing stories of generations of fighter pilots who flew it.",
+        "date": "2026-08-26",
+        "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20el%C5%91zetes"
+      }
+    ],
+    "amazon-prime-video": [
       {
         "title": "Barreda",
         "media": "film",
         "genres": [
           "Krimi",
           "Dráma",
-          "Történelmi"
+          "Thriller"
         ],
         "overview": "In 1992, Ricardo Barreda was an unassuming dentist, brutally murdered his wife, mother-in-law, and two adult daughters in their family home. Branding himself as a victim, Ricardo Barreda ignited a media storm and fueled a national scandal.",
         "date": "2026-08-28",
@@ -85,7 +85,20 @@
     "cultpix": [],
     "filmbox": [],
     "sun-nxt": [],
-    "skyshowtime": [],
+    "skyshowtime": [
+      {
+        "title": "Halálos kötelék 2",
+        "media": "sorozat",
+        "genres": [
+          "Krimi",
+          "Dráma"
+        ],
+        "overview": "Az antropológus Anka egy olyan emberölés ügyében vizsgálódik, amely feltűnően hasonlít a Norman Pionek sorozatgyilkos által elkövetett bűncselekményekre; az igazság felderítésében a bátor riporter, Sebastian, és a rendőr Jedrek segít neki.",
+        "date": "2026-09-10",
+        "poster": "https://images.justwatch.com/poster/354584623/s332/halalos-kotelek-2.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Hal%C3%A1los%20k%C3%B6tel%C3%A9k%202%20el%C5%91zetes"
+      }
+    ],
     "crunchyroll": [],
     "hayu": [],
     "hbo-max": [
@@ -96,7 +109,7 @@
           "Krimi",
           "Dokumentum"
         ],
-        "overview": "Investigative journalist Joe Sexton looks into a 2002 double homicide case in Kansas after receiving thousands of emails from Eileen Umbehr, a homemaker turned citizen sleuth. Eileen and her husband Keen are convinced that Dana Chandler, the woman accused of killing her ex-husband and his girlfriend, did not commit the crime and devote their lives to fighting for Chandler's innocence.",
+        "overview": "Két kensasi amatőr nyomozó egy New York-i újságíróval együttműködve próbálja bizonyítani az elítélt gyilkos, Dana Chandler ártatlanságát.",
         "date": "2026-09-10",
         "poster": "https://images.justwatch.com/poster/354500705/s332/a-killer-story.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Gyilkos%20Topek%C3%A1ban%20el%C5%91zetes"
@@ -136,6 +149,7 @@
     "artiflix": [],
     "artify": [],
     "lionsgate-amazon-channels": [],
-    "crunchyroll-amazon-channel": []
+    "crunchyroll-amazon-channel": [],
+    "hayu-amazon-channel": []
   }
 }

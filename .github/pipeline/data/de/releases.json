@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-17T14:17",
-  "week": "2026-09-17",
+  "generated_at": "2026-09-19T13:08",
+  "week": "2026-09-19",
   "by_provider": {
-    "netflix": [],
-    "amazon-prime-video": [
+    "netflix": [
       {
-        "title": "Honor Thy Mother",
-        "media": "sorozat",
+        "title": "The Last Salute",
+        "media": "film",
         "genres": [
-          "Drama",
-          "Thriller"
+          "Dokumentation"
         ],
-        "overview": "After years of estrangement, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.",
-        "date": "2026-09-11",
-        "poster": "https://images.justwatch.com/poster/348290701/s332/honor-thy-mother.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20Trailer"
-      },
+        "overview": "Chronicles the MiG-21's final chapter in the Indian Air Force, showcasing stories of generations of fighter pilots who flew it.",
+        "date": "2026-08-26",
+        "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20Trailer"
+      }
+    ],
+    "amazon-prime-video": [
       {
         "title": "Barreda",
         "media": "film",
         "genres": [
           "Krimi",
           "Drama",
-          "Historie"
+          "Thriller"
         ],
         "overview": "Ein fiktionalisierter Dramafilm, der auf einem der schockierendsten Verbrechen in der Geschichte Argentiniens basiert. 1992 war Ricardo Barreda ein bescheidener Zahnarzt, ermordete brutal seine Frau, seine Schwiegermutter und zwei erwachsene Töchter in ihrem Familienhaus. Ricardo Barreda brandmarkte sich selbst als Opfer und entzündete einen Mediensturm und heizte einen nationalen Skandal an.",
         "date": "2026-08-28",
@@ -85,7 +85,20 @@
     "cultpix": [],
     "filmbox": [],
     "sun-nxt": [],
-    "skyshowtime": [],
+    "skyshowtime": [
+      {
+        "title": "Deadly Ties",
+        "media": "sorozat",
+        "genres": [
+          "Krimi",
+          "Drama"
+        ],
+        "overview": "A continuation of the *Śleboda* series, centering on anthropologist Anka Serafin and journalist Sebastian Strzygoń. This time, the story takes us to Upper Silesia.",
+        "date": "2026-09-10",
+        "poster": "https://images.justwatch.com/poster/354584623/s332/halalos-kotelek-2.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Deadly%20Ties%20Trailer"
+      }
+    ],
     "crunchyroll": [],
     "hayu": [],
     "hbo-max": [
@@ -136,6 +149,7 @@
     "artiflix": [],
     "artify": [],
     "lionsgate-amazon-channels": [],
-    "crunchyroll-amazon-channel": []
+    "crunchyroll-amazon-channel": [],
+    "hayu-amazon-channel": []
   }
 }
