@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-09-19T13:08",
-  "week": "2026-09-19",
+  "generated_at": "2026-09-21T15:53",
+  "week": "2026-09-21",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Untold Mr. T: I Pity the Fool",
+        "media": "film",
+        "genres": [
+          "Documentary"
+        ],
+        "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
+        "date": "2026-09-08",
+        "poster": "https://images.justwatch.com/poster/348562926/s332/untold-mr-t-i-pity-the-fool.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool%20trailer"
+      },
       {
         "title": "The Last Salute",
         "media": "film",
@@ -16,6 +27,31 @@
       }
     ],
     "amazon-prime-video": [
+      {
+        "title": "Neagley",
+        "media": "sorozat",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama"
+        ],
+        "overview": "Neagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery.",
+        "date": "2026-09-16",
+        "poster": "https://images.justwatch.com/poster/348270705/s332/neagley.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Neagley%20trailer"
+      },
+      {
+        "title": "Honor Thy Mother",
+        "media": "sorozat",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "After years of estrangement, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.",
+        "date": "2026-09-11",
+        "poster": "https://images.justwatch.com/poster/354708311/s332/honor-thy-mother.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20trailer"
+      },
       {
         "title": "Barreda",
         "media": "film",
@@ -56,18 +92,6 @@
         "date": "2026-09-04",
         "poster": "https://images.justwatch.com/poster/347434490/s332/mayday-2026.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Mayday%20trailer"
-      },
-      {
-        "title": "The Dynasty: UConn Huskies",
-        "media": "sorozat",
-        "genres": [
-          "Documentary",
-          "Sport"
-        ],
-        "overview": "Explores the history and the recent win by UConn Huskies Women's Basketball team of the 2025 NCAA National Championship, through a mix of archival footage and interviews.",
-        "date": "2026-08-20",
-        "poster": "https://images.justwatch.com/poster/349203896/s332/the-dynasty-uconn-huskies.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Dynasty%3A%20UConn%20Huskies%20trailer"
       }
     ],
     "disney-plus": [],
@@ -91,7 +115,8 @@
         "media": "sorozat",
         "genres": [
           "Crime",
-          "Drama"
+          "Drama",
+          "Thriller"
         ],
         "overview": "A continuation of the *Śleboda* series, centering on anthropologist Anka Serafin and journalist Sebastian Strzygoń. This time, the story takes us to Upper Silesia.",
         "date": "2026-09-10",
@@ -117,6 +142,17 @@
     ],
     "mubi": [
       {
+        "title": "JAŸ-Z in 8",
+        "media": "sorozat",
+        "genres": [
+          "Documentary"
+        ],
+        "overview": "Thirty years after his landmark debut album, artist, icon, philanthropist, and entrepreneur JAŸ-Z sits down with longtime friend, producer, and director Rick Rubin for an intimate reflection on his storied career.",
+        "date": "2026-09-18",
+        "poster": "https://images.justwatch.com/poster/351001554/s332/jay-z-in-8.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=JA%C5%B8-Z%20in%208%20trailer"
+      },
+      {
         "title": "God Is Shy",
         "media": "film",
         "genres": [
@@ -130,21 +166,7 @@
         "trailer": "https://www.youtube.com/results?search_query=God%20Is%20Shy%20trailer"
       }
     ],
-    "bloodstream": [
-      {
-        "title": "Disappear",
-        "media": "film",
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Horror"
-        ],
-        "overview": "Between work shifts and concrete streets, a boy moves through a life that feels still and suffocating. An unexpected encounter fractures his routine and sparks a transformation destined to change the way he sees the world forever.",
-        "date": "2026-09-02",
-        "poster": "https://images.justwatch.com/poster/354131226/s332/disappear.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Disappear%20trailer"
-      }
-    ],
+    "bloodstream": [],
     "kableone": [],
     "artiflix": [],
     "artify": [],

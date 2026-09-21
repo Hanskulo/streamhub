@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-09-19T13:08",
-  "week": "2026-09-19",
+  "generated_at": "2026-09-21T15:53",
+  "week": "2026-09-21",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Untold Mr. T: I Pity the Fool",
+        "media": "film",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
+        "date": "2026-09-08",
+        "poster": "https://images.justwatch.com/poster/348562926/s332/untold-mr-t-i-pity-the-fool.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool%20Trailer"
+      },
       {
         "title": "The Last Salute",
         "media": "film",
@@ -16,6 +27,31 @@
       }
     ],
     "amazon-prime-video": [
+      {
+        "title": "Neagley",
+        "media": "sorozat",
+        "genres": [
+          "Action",
+          "Krimi",
+          "Drama"
+        ],
+        "overview": "In der REACHER-Welt beginnt ein neues Kapitel. Frances Neagley (Maria Sten) ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher (Alan Ritchson) in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
+        "date": "2026-09-16",
+        "poster": "https://images.justwatch.com/poster/348270701/s332/neagley.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Neagley%20Trailer"
+      },
+      {
+        "title": "Honor Thy Mother",
+        "media": "sorozat",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "After years of estrangement, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.",
+        "date": "2026-09-11",
+        "poster": "https://images.justwatch.com/poster/354708311/s332/honor-thy-mother.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20Trailer"
+      },
       {
         "title": "Barreda",
         "media": "film",
@@ -56,18 +92,6 @@
         "date": "2026-09-04",
         "poster": "https://images.justwatch.com/poster/347434482/s332/mayday-2026.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Mayday%20Trailer"
-      },
-      {
-        "title": "Dynasty: Die Insidergeschichte der UConn Huskies",
-        "media": "sorozat",
-        "genres": [
-          "Dokumentation",
-          "Sport"
-        ],
-        "overview": "Werfen Sie einen Blick hinter die Kulissen des erfolgreichsten Frauenteams in der Geschichte des College-Basketballs. Geno Auriemma treibt seine Spielerinnen bis an die Grenze, um zwölf Meisterschaftstitel zu gewinnen. Rebecca Lobo, Diana Taurasi, Paige Bueckers und andere erzählen, was nötig ist, um UConn zu überstehen und eine Basketball-Dynastie aufzubauen.",
-        "date": "2026-08-20",
-        "poster": "https://images.justwatch.com/poster/348510620/s332/the-dynasty-uconn-huskies.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Dynasty%3A%20Die%20Insidergeschichte%20der%20UConn%20Huskies%20Trailer"
       }
     ],
     "disney-plus": [],
@@ -91,7 +115,8 @@
         "media": "sorozat",
         "genres": [
           "Krimi",
-          "Drama"
+          "Drama",
+          "Thriller"
         ],
         "overview": "A continuation of the *Śleboda* series, centering on anthropologist Anka Serafin and journalist Sebastian Strzygoń. This time, the story takes us to Upper Silesia.",
         "date": "2026-09-10",
@@ -117,6 +142,17 @@
     ],
     "mubi": [
       {
+        "title": "JAŸ-Z in 8 [OmU]",
+        "media": "sorozat",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Song für Song begibt sich Rick Rubin auf eine Reise durch JAŸ-Zs musikalisches Werk und kuratiert eine Playlist, um den Schaffensprozess der Musiklegende zu beleuchten. In acht Folgen sprechen die beiden über wichtige Einflüsse, prägende Erfahrungen und seine künstlerische Innovationskraft.",
+        "date": "2026-09-18",
+        "poster": "https://images.justwatch.com/poster/351001554/s332/jay-z-in-8.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=JA%C5%B8-Z%20in%208%20%5BOmU%5D%20Trailer"
+      },
+      {
         "title": "God is Shy [OmU]",
         "media": "film",
         "genres": [
@@ -130,21 +166,7 @@
         "trailer": "https://www.youtube.com/results?search_query=God%20is%20Shy%20%5BOmU%5D%20Trailer"
       }
     ],
-    "bloodstream": [
-      {
-        "title": "Disappear",
-        "media": "film",
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Horror"
-        ],
-        "overview": "Between work shifts and concrete streets, a boy moves through a life that feels still and suffocating. An unexpected encounter fractures his routine and sparks a transformation destined to change the way he sees the world forever.",
-        "date": "2026-09-02",
-        "poster": "https://images.justwatch.com/poster/354131226/s332/disappear.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Disappear%20Trailer"
-      }
-    ],
+    "bloodstream": [],
     "kableone": [],
     "artiflix": [],
     "artify": [],
