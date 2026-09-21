@@ -1,81 +1,34 @@
 {
-  "generated_at": "2026-09-14T15:52",
-  "window": "2026-09-14 .. 2026-09-29",
+  "generated_at": "2026-09-21T15:52",
+  "window": "2026-09-21 .. 2026-10-06",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "Elfelejtett sziget",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Animáció",
-            "Vígjáték"
-          ],
-          "overview": "Jo és Raissa a Nakali nevű, elfeledett sziget különös világában rekednek. Rájönnek, hogy az egyetlen út hazafelé talán egy egész életnyi emlék és érzelem feláldozását követeli.  (Csillag Lajos)",
-          "date": "2026-09-16",
-          "poster": "https://images.justwatch.com/poster/354519189/s332/die-vergessene-insel-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Elfelejtett%20sziget%20el%C5%91zetes"
-        },
-        {
-          "title": "The Weight",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Krimi",
-            "Dráma"
-          ],
-          "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
-          "date": "2026-09-16",
-          "poster": "https://images.justwatch.com/poster/348767639/s332/the-weight-im-goldrausch.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Weight%20el%C5%91zetes"
-        },
-        {
-          "title": "Billie",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Dráma"
-          ],
-          "overview": "Nina and Angie are best friends and struggle through life together. When Angie's teenage daughter Rahel needs €300 for a school trip, they decide to go to the bank where Nina's husband Marc works to ask him for a small loan. But when Marc harshly rejects their request, Angie loses her temper. Things get out of control—and suddenly the friends are stuck in the bank and mistaken for gangsters.",
-          "date": "2026-09-17",
-          "poster": "https://images.justwatch.com/poster/335931940/s332/billie-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Billie%20el%C5%91zetes"
-        },
-        {
-          "title": "Let Sleeping Dogs Lie",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Dráma"
-          ],
-          "overview": "On the morning of his hundredth birthday, Fanny finds her grandfather dead in his bed. As she and her family are forced to deal with the death, a bitter dispute over the inheritance erupts, in which old power relations are reversed.",
-          "date": "2026-09-17",
-          "poster": "https://images.justwatch.com/poster/347660414/s332/kalter-hund.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Let%20Sleeping%20Dogs%20Lie%20el%C5%91zetes"
-        },
-        {
-          "title": "Kalter Hund",
-          "media": "film",
-          "genres": [
-            "Dráma"
-          ],
-          "overview": "",
-          "date": "2026-09-17",
-          "poster": "https://images.justwatch.com/poster/348274022/s332/kalter-hund-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Kalter%20Hund%20el%C5%91zetes"
-        },
-        {
           "title": "National Theatre Live: The Misanthrope",
           "media": "film",
           "genres": [
+            "Vígjáték",
             "Dráma"
           ],
           "overview": "Alice, a brilliant novelist, despises the hollow contemporary mantras of kindness and respect. But the bolder she becomes in speaking out, the more colleagues avoid her, and the more her personal relationships begin to fracture. As she challenges fashionable ideas and lends her voice to causes others are afraid to touch, she faces intense criticism and backlash. Alice will soon learn the price she must pay as an artist and as a woman for daring to speak her mind. Award-winner Sandra Oh is the Misanthrope in Martin Crimp's cutting new version of Molière's dark comedy, directed by National Theatre Director Indhu Rubasingham.",
           "date": "2026-09-22",
           "poster": "https://images.justwatch.com/poster/346459335/s332/national-theatre-live-the-misanthrope.jpg",
           "trailer": "https://www.youtube.com/results?search_query=National%20Theatre%20Live%3A%20The%20Misanthrope%20el%C5%91zetes"
+        },
+        {
+          "title": "One Last Shot - Végső ostrom",
+          "media": "film",
+          "genres": [
+            "Akció",
+            "Dráma",
+            "Thriller"
+          ],
+          "overview": "A tapasztalt Navy SEAL, Jake Harris újra akcióba lép, amikor egy volt bajtársa fenyegeti a világot. Hogy megakadályozza a terv irányítóját a nukleáris kódok megszerzésében, Harris ellenséges területre vezeti csapatát, ahol zsoldosokkal, halálos csapdákkal és saját zűrös múltjával néz szembe. Főszerepben Scott Adkins, Steven Cree, Hannah Ware és Dolph Lundgren.",
+          "date": "2026-09-22",
+          "poster": "https://images.justwatch.com/poster/353797527/s332/one-last-shot.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=One%20Last%20Shot%20-%20V%C3%A9gs%C5%91%20ostrom%20el%C5%91zetes"
         },
         {
           "title": "Another Day",
@@ -99,24 +52,57 @@
           "date": "2026-09-23",
           "poster": "https://images.justwatch.com/poster/347600686/s332/possible-love.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Possible%20Love%20el%C5%91zetes"
+        },
+        {
+          "title": "Eine Nacht in Bangkok",
+          "media": "film",
+          "genres": [
+            "Dráma"
+          ],
+          "overview": "Katharina and Hektor who used to be married ten years ago meet again after their daughter Lilith is suspected of serial burglary.",
+          "date": "2026-09-23",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Eine%20Nacht%20in%20Bangkok%20el%C5%91zetes"
+        },
+        {
+          "title": "The Paradise",
+          "media": "film",
+          "genres": [
+            "Akció",
+            "Dráma",
+            "Thriller"
+          ],
+          "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
+          "date": "2026-09-23",
+          "poster": "https://images.justwatch.com/poster/347980703/s332/the-paradise.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Paradise%20el%C5%91zetes"
+        },
+        {
+          "title": "Shame and Money",
+          "media": "film",
+          "genres": [
+            "Dráma"
+          ],
+          "overview": "After losing their livelihood in a village, a Kosovar family is forced to move to the capital in pursuit of a place in a hypercapitalist society.",
+          "date": "2026-09-24",
+          "poster": "https://images.justwatch.com/poster/344040301/s332/shame-and-money.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Shame%20and%20Money%20el%C5%91zetes"
+        },
+        {
+          "title": "Butterfly",
+          "media": "film",
+          "genres": [
+            "Dráma"
+          ],
+          "overview": "Two sisters raised on a charter resort in Gran Canaria. After 27 years, they reluctantly return to their childhood island to deal with their parents death, and end up with a half-finished esoteric retreat center in the Canary Islands.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/341412225/s332/butterfly-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Butterfly%20el%C5%91zetes"
         }
       ]
     },
     "hungary": {
       "items": [
-        {
-          "title": "Az utolsó vonat Fortune-ba",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Dráma",
-            "Western"
-          ],
-          "overview": "Egy iskolaigazgató és egy törvényen kívüli különös szövetségre lépnek, amikor a főhős lekési a Fortune-ba tartó utolsó vonatot, és kénytelen vele tartani a vadnyugati úton. Útjuk során lövöldözések, szökések és furcsa, váratlan találkozások sorozata teszi próbára a kapcsolatukat, miközben lassan sajátos barátság alakul ki közöttük.",
-          "date": "2026-09-17",
-          "poster": "https://images.justwatch.com/poster/347200579/s332/az-utolso-vonat-fortune-ba.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Az%20utols%C3%B3%20vonat%20Fortune-ba%20el%C5%91zetes"
-        },
         {
           "title": "He Calls Me Daughter",
           "media": "film",
@@ -127,59 +113,47 @@
           "date": "2026-09-24",
           "poster": "https://images.justwatch.com/poster/340848597/s332/he-calls-me-daughter.jpg",
           "trailer": "https://www.youtube.com/results?search_query=He%20Calls%20Me%20Daughter%20el%C5%91zetes"
+        },
+        {
+          "title": "Verity",
+          "media": "film",
+          "genres": [
+            "Krimi",
+            "Dráma",
+            "Thriller"
+          ],
+          "overview": "owen Ashleigh író megélhetési nehézégekkel szembesül, ezért igent mond egy állásajánlatra, amely élete nagy lehetőségének bizonyul. Jeremy Crawford, a bestsellerszerző Verity Crawford férje felbéreli őt, ugyanis felesége egy rejtélyes baleset következtében félbehagyta műveit. A férj Ashleigh-re bízná a befejezést, ám ahogy az író megérkezik a birtokra és munkához lát, egy félkész kéziratot talál, melyből kiderül egy családi titok. Ashleigh feladata rájönni, hogy Verity írásai a fantázia szüleményei, vagy baljós előrejelzések...  (Szarka Károly)",
+          "date": "2026-09-30",
+          "poster": "https://images.justwatch.com/poster/345873745/s332/verity.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Verity%20el%C5%91zetes"
+        },
+        {
+          "title": "Yezhu Kadal Yezhu Malai",
+          "media": "film",
+          "genres": [
+            "Dráma",
+            "Fantasy",
+            "Romantikus"
+          ],
+          "overview": "Caught between family duty and romantic love, a young man faces an impossible choice.",
+          "date": "2026-10-01",
+          "poster": "https://images.justwatch.com/poster/312115955/s332/yezhu-kadal-yezhu-malai.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Yezhu%20Kadal%20Yezhu%20Malai%20el%C5%91zetes"
         }
       ]
     },
     "usa": {
       "items": [
         {
-          "title": "Run Hide Fight: Infidels",
+          "title": "Judge Judy: Unfiltered, Unforgettable",
           "media": "film",
           "genres": [
-            "Akció",
-            "Thriller"
+            "Dokumentum"
           ],
-          "overview": "After Islamist terrorists hijack a college's pro-Palestine encampment with the goal of enforcing Sharia law on students and executing dissidents whom they deem \"infidels\", a group of students, a security guard, and a Delta Force veteran team up to fight back.",
-          "date": "2026-09-16",
-          "poster": "https://images.justwatch.com/poster/347949929/s332/run-hide-fight-infidels.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Run%20Hide%20Fight%3A%20Infidels%20el%C5%91zetes"
-        },
-        {
-          "title": "Elfelejtett sziget",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Animáció",
-            "Vígjáték"
-          ],
-          "overview": "Jo és Raissa a Nakali nevű, elfeledett sziget különös világában rekednek. Rájönnek, hogy az egyetlen út hazafelé talán egy egész életnyi emlék és érzelem feláldozását követeli.  (Csillag Lajos)",
-          "date": "2026-09-16",
-          "poster": "https://images.justwatch.com/poster/354519189/s332/forgotten-island-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Elfelejtett%20sziget%20el%C5%91zetes"
-        },
-        {
-          "title": "Godmother",
-          "media": "film",
-          "genres": [
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "A meticulously planned desert couples' vacation spirals into chaos when family tensions and a pair of mysterious hosts with devilish intentions transform a romantic getaway into a nightmare.",
-          "date": "2026-09-17",
-          "poster": "https://images.justwatch.com/poster/348470347/s332/godmother-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Godmother%20el%C5%91zetes"
-        },
-        {
-          "title": "Pathetic Fallacy",
-          "media": "film",
-          "genres": [
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "A young widower arrives in a new-age mountain town in search of cosmic answers and a chance to heal. Instead, he finds an outlandish murderer and a forest of demonic spirits who offer a horrific bargain: the power to cheat death at a nightmarish cost.",
-          "date": "2026-09-20",
-          "poster": "https://images.justwatch.com/poster/354492373/s332/pathetic-fallacy.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Pathetic%20Fallacy%20el%C5%91zetes"
+          "overview": "For three decades, JUDGE JUDY has been a fixture in homes across America and around the world, making Judge Judy one of the most recognizable and influential personalities in television history. Audiences worldwide know her razor-sharp wit, unwavering common sense and unmistakable courtroom authority, with an influence that extends far beyond television.",
+          "date": "2026-09-22",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Judge%20Judy%3A%20Unfiltered%2C%20Unforgettable%20el%C5%91zetes"
         },
         {
           "title": "Possible Love",
@@ -192,19 +166,6 @@
           "date": "2026-09-23",
           "poster": "https://images.justwatch.com/poster/347600686/s332/possible-love.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Possible%20Love%20el%C5%91zetes"
-        },
-        {
-          "title": "The Vvaan: Force of the Forrest",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Fantasy",
-            "Thriller"
-          ],
-          "overview": "A rational urban man defies his ancestral village's forbidden forest and awakens a divine goddess, forcing him to confront powers beyond logic as he becomes the unlikely saviour protecting his people from annihilation.",
-          "date": "2026-09-25",
-          "poster": "https://images.justwatch.com/poster/331551578/s332/the-vvaan-force-of-the-forrest.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Vvaan%3A%20Force%20of%20the%20Forrest%20el%C5%91zetes"
         },
         {
           "title": "Hunter",
@@ -227,8 +188,56 @@
           ],
           "overview": "In this drama inspired by true events, Ted Kaczynski's transformation from Harvard prodigy to the infamous Unabomber unfolds as the FBI hunts him down.",
           "date": "2026-09-25",
-          "poster": "https://images.justwatch.com/poster/350187204/s332/unabomber.jpg",
+          "poster": "https://images.justwatch.com/poster/354673730/s332/unabomber.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Unabomber%20el%C5%91zetes"
+        },
+        {
+          "title": "Victorian Psycho",
+          "media": "film",
+          "genres": [
+            "Vígjáték",
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/347673621/s332/victorian-psycho-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Victorian%20Psycho%20el%C5%91zetes"
+        },
+        {
+          "title": "The Vvaan: Force of the Forrest",
+          "media": "film",
+          "genres": [
+            "Akció",
+            "Dráma",
+            "Fantasy"
+          ],
+          "overview": "A rational urban man defies his ancestral village's forbidden forest and awakens a divine goddess, forcing him to confront powers beyond logic as he becomes the unlikely saviour protecting his people from annihilation.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/354774123/s332/the-vvaan-force-of-the-forrest.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Vvaan%3A%20Force%20of%20the%20Forrest%20el%C5%91zetes"
+        },
+        {
+          "title": "Bill's Cube",
+          "media": "film",
+          "genres": [
+            "Sci-Fi"
+          ],
+          "overview": "Bill, an underachieving stoner is approached by a businessman with a plan that includes corporate espionage and time travel.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/350415048/s332/bills-cube.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Bill%27s%20Cube%20el%C5%91zetes"
+        },
+        {
+          "title": "Brother Save Us",
+          "media": "film",
+          "genres": [
+            "Sci-Fi"
+          ],
+          "overview": "A 12-year-old boy in the Midwest befriends an AI farmworker, creating tension with his brother while their father battles illness.",
+          "date": "2026-09-26",
+          "poster": "https://images.justwatch.com/poster/348275390/s332/brother-save-us.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Brother%20Save%20Us%20el%C5%91zetes"
         }
       ]
     }

@@ -1,70 +1,34 @@
 {
-  "generated_at": "2026-09-14T15:52",
-  "window": "2026-09-14 .. 2026-09-29",
+  "generated_at": "2026-09-21T15:52",
+  "window": "2026-09-21 .. 2026-10-06",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "Die vergessene Insel",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Animation",
-            "Komödie"
-          ],
-          "overview": "Jo und Raissa sind seit Kindheitstagen beste Freundinnen, doch mit dem Ende ihrer Highschool-Zeit stehen grundlegende Veränderungen an, denn eine der Freundinnen möchte nach New York ziehen und dort studieren. So erleben sie eine letzte gemeinsame Nacht, in der sie plötzlich ein Portal entdecken, das sie auf die geheimnisvolle Insel Nakali bringt. Umgeben von magischen und faszinierenden Lebewesen droht der Verlust ihrer Erinnerungen an die gemeinsame Freundschaft. Ein Wettlauf beginnt, um möglichst wenig zu vergessen.",
-          "date": "2026-09-16",
-          "poster": "https://images.justwatch.com/poster/354519189/s332/die-vergessene-insel-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Die%20vergessene%20Insel%20Trailer"
-        },
-        {
-          "title": "The Weight",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Krimi",
-            "Drama"
-          ],
-          "overview": "Oregon 1933: Nach dem Tod seiner Frau wird Samuel Murphy (Ethan Hawke) von seiner Tochter getrennt und landet in einem Arbeitslager. Um das Sorgerecht zurückzuerlangen, lässt Murphy sich auf einen riskanten Deal mit dem skrupellosen Lageraufseher Clancy (Russell Crowe) ein: Man stellt ihm eine vorzeitige Entlassung in Aussicht, wenn er sich im Gegenzug einer Gruppe Schmuggler bei einem Goldtransport durch die unbarmherzige Wildnis anschließt. Doch abgesehen von den Gefahren, die auf dem unwegsamen Terrain lauern, wird das Unterfangen auch durch Misstrauen und Verrat in den eigenen Reihen sabotiert. Je näher die Gruppe ihrem Ziel kommt, desto mehr zweifelt Murphy an dem Preis, den er für seine Freiheit und das Wiedersehen mit seinem Kind zahlen muss.",
-          "date": "2026-09-16",
-          "poster": "https://images.justwatch.com/poster/348767639/s332/the-weight-im-goldrausch.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Weight%20Trailer"
-        },
-        {
-          "title": "Billie",
-          "media": "film",
-          "genres": [
-            "Komödie",
-            "Drama"
-          ],
-          "overview": "Nina und Angie sind beste Freundinnen und schlagen sich gemeinsam durchs Leben. Als Angies pubertierende Tochter Rahel 300 Euro für eine Klassenfahrt braucht, gehen sie kurzerhand in die Bank, in der Ninas Ehemann Marc arbeitet, um ihn nach einem Kleinkredit zu fragen. Doch als Marc die Bitte harsch ablehnt, verliert Angie die Beherrschung. Die Dinge geraten außer Kontrolle – und plötzlich sitzen die Freundinnen in der Bank fest und werden für Gangsterinnen gehalten.",
-          "date": "2026-09-17",
-          "poster": "https://images.justwatch.com/poster/335931940/s332/billie-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Billie%20Trailer"
-        },
-        {
-          "title": "Kalter Hund",
-          "media": "film",
-          "genres": [
-            "Komödie",
-            "Drama"
-          ],
-          "overview": "Marianne ist ziemlich überrascht, als sie Herrmann am Morgen seines 100. Geburtstags tot in seinem Bett findet. Ihr Gatte hat sich der opulenten Feier mit Verwandtschaft und Lokalpresse gekonnt durch eine Überdosis Tabletten – eigentlich für den Familienmops Berlusconi angedacht – entzogen. Eine Unverschämtheit, die Marianne nicht an die große Glocke hängen will. Und so sieht sich die Familie gezwungen, ein absurdes Schmierentheater zu veranstalten, um das Bild der anerkannten Vorzeige-Familie vor den geladenen Gästen aufrechtzuerhalten. Während die Leiche des Patriarchen noch durchs Haus manövriert wird, entbrennt bereits ein erbitterter Streit um das Erbe. Doch das Testament ist verschwunden und zwischen gierigen Erben, verdrängten Wahrheiten und einer Familienaufstellung mit einem exzentrischen Schamanen kommen dunkle Geheimnisse ans Licht.",
-          "date": "2026-09-17",
-          "poster": "https://images.justwatch.com/poster/347660414/s332/kalter-hund.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Kalter%20Hund%20Trailer"
-        },
-        {
           "title": "National Theatre Live: The Misanthrope",
           "media": "film",
           "genres": [
+            "Komödie",
             "Drama"
           ],
           "overview": "Alice, a brilliant novelist, despises the hollow contemporary mantras of kindness and respect. But the bolder she becomes in speaking out, the more colleagues avoid her, and the more her personal relationships begin to fracture. As she challenges fashionable ideas and lends her voice to causes others are afraid to touch, she faces intense criticism and backlash. Alice will soon learn the price she must pay as an artist and as a woman for daring to speak her mind. Award-winner Sandra Oh is the Misanthrope in Martin Crimp's cutting new version of Molière's dark comedy, directed by National Theatre Director Indhu Rubasingham.",
           "date": "2026-09-22",
           "poster": "https://images.justwatch.com/poster/346459335/s332/national-theatre-live-the-misanthrope.jpg",
           "trailer": "https://www.youtube.com/results?search_query=National%20Theatre%20Live%3A%20The%20Misanthrope%20Trailer"
+        },
+        {
+          "title": "One Last Shot",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+          ],
+          "overview": "Ein Navy-SEAL wird einberufen, als die Welt von seinem ehemaligen Kameraden bedroht wird.",
+          "date": "2026-09-22",
+          "poster": "https://images.justwatch.com/poster/353797527/s332/one-last-shot.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=One%20Last%20Shot%20Trailer"
         },
         {
           "title": "Another Day",
@@ -90,33 +54,55 @@
           "trailer": "https://www.youtube.com/results?search_query=Possible%20Love%20Trailer"
         },
         {
-          "title": "Morgen war Krieg",
+          "title": "Eine Nacht in Bangkok",
           "media": "film",
           "genres": [
             "Drama"
           ],
-          "overview": "Die EU ist zerbrochen und in Deutschland bilden rechts-populistische Kräfte eine neue Regierung. Krieg steht bevor. Jonas (33), der nichts kennt als Frieden, Wohlstand und Sicherheit, soll eingezogen werden. Er desertiert, um seine Überzeugungen und seinen Glauben an den Frieden nicht aufgeben zu müssen und versteckt sich bei seinem Vater",
+          "overview": "Katharina und Hektor haben nichts mehr miteinander zu tun. Vor zehn Jahren waren die beiden noch ein Ehepaar – bis ein unerhörtes Ereignis beide erkennen ließ, wie weit sie sich voneinander entfernt hatten.Notgedrungen treffen nun die Eltern wieder aufeinander: Die gemeinsame erwachsene Tochter Lilith sitzt in Untersuchungshaft.",
+          "date": "2026-09-23",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Eine%20Nacht%20in%20Bangkok%20Trailer"
+        },
+        {
+          "title": "The Paradise",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+          ],
+          "overview": "Im Secunderabad der 1980er Jahre kämpft ein ausgegrenzter Stamm unter der Führung eines unerwarteten Anführers gegen Diskriminierung und für seine Bürgerrechte und stellt sich dabei der systemischen Unterdrückung entgegen.",
+          "date": "2026-09-23",
+          "poster": "https://images.justwatch.com/poster/347980703/s332/the-paradise.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Paradise%20Trailer"
+        },
+        {
+          "title": "Von Scham und Geld",
+          "media": "film",
+          "genres": [
+            "Drama"
+          ],
+          "overview": "Nachdem ein Verrat sie um ihre Existenzgrundlage bringt, zieht ein Ehepaar aus dem ländlichen Kosovo in die Hauptstadt Pristina — und kämpft um das Einzige, was ihnen noch bleibt: ihre Würde.",
           "date": "2026-09-24",
-          "poster": "https://images.justwatch.com/poster/350408064/s332/morgen-war-krieg.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Morgen%20war%20Krieg%20Trailer"
+          "poster": "https://images.justwatch.com/poster/346671598/s332/shame-and-money.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Von%20Scham%20und%20Geld%20Trailer"
+        },
+        {
+          "title": "Butterfly – Rückkehr nach Gran Canaria",
+          "media": "film",
+          "genres": [
+            "Drama"
+          ],
+          "overview": "Two sisters raised on a charter resort in Gran Canaria. After 27 years, they reluctantly return to their childhood island to deal with their parents death, and end up with a half-finished esoteric retreat center in the Canary Islands.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/341412225/s332/butterfly-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Butterfly%20%E2%80%93%20R%C3%BCckkehr%20nach%20Gran%20Canaria%20Trailer"
         }
       ]
     },
     "hungary": {
       "items": [
-        {
-          "title": "Last Train to Fortune",
-          "media": "film",
-          "genres": [
-            "Komödie",
-            "Drama",
-            "Western"
-          ],
-          "overview": "When schoolteacher Cecil Peachtree misses the last train to Fortune, he strikes a deal with outlaw Dooley to secure safe and timely travel.  On the journey, the two develop an odd friendship through the power of knowledge.",
-          "date": "2026-09-17",
-          "poster": "https://images.justwatch.com/poster/340508458/s332/az-utolso-vonat-fortune-ba.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Last%20Train%20to%20Fortune%20Trailer"
-        },
         {
           "title": "He Calls Me Daughter",
           "media": "film",
@@ -127,59 +113,47 @@
           "date": "2026-09-24",
           "poster": "https://images.justwatch.com/poster/340848597/s332/he-calls-me-daughter.jpg",
           "trailer": "https://www.youtube.com/results?search_query=He%20Calls%20Me%20Daughter%20Trailer"
+        },
+        {
+          "title": "Verity - Dunkle Geheimnisse",
+          "media": "film",
+          "genres": [
+            "Krimi",
+            "Drama",
+            "Thriller"
+          ],
+          "overview": "Die erfolglose Schriftstellerin Lowen Ashleigh zieht auf das abgelegene Anwesen der Crawfords, um dort als Ghostwriterin für Verity Crawford zu arbeiten. Nachdem Lowen auf scheinbar erschreckende autobiografische Aufzeichnungen von Verity stößt, ringt sie mit den verstörenden und verstörenden Geständnissen über Veritys Ehemann Jeremy und findet es schwer, Fiktion von Realität, Manipulation von Anziehung und Gelegenheit von Besessenheit zu unterscheiden.",
+          "date": "2026-09-30",
+          "poster": "https://images.justwatch.com/poster/348740552/s332/verity.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Verity%20-%20Dunkle%20Geheimnisse%20Trailer"
+        },
+        {
+          "title": "Yezhu Kadal Yezhu Malai",
+          "media": "film",
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Romantik"
+          ],
+          "overview": "Caught between family duty and romantic love, a young man faces an impossible choice.",
+          "date": "2026-10-01",
+          "poster": "https://images.justwatch.com/poster/312115955/s332/yezhu-kadal-yezhu-malai.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Yezhu%20Kadal%20Yezhu%20Malai%20Trailer"
         }
       ]
     },
     "usa": {
       "items": [
         {
-          "title": "Run Hide Fight: Infidels",
+          "title": "Judge Judy: Unfiltered, Unforgettable",
           "media": "film",
           "genres": [
-            "Action",
-            "Thriller"
+            "Dokumentation"
           ],
-          "overview": "Nachdem islamische Terroristen ein pro-palästinensisches Lager an einer Universität besetzt haben, um dort die Scharia gegen Studenten durchzusetzen und Dissidenten, die sie als „Ungläubige“ betrachten, hinzurichten, schließen sich eine Gruppe von Studenten, ein Wachmann und ein Delta-Force-Veteran zusammen, um sich zur Wehr zu setzen.",
-          "date": "2026-09-16",
-          "poster": "https://images.justwatch.com/poster/347949929/s332/run-hide-fight-infidels.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Run%20Hide%20Fight%3A%20Infidels%20Trailer"
-        },
-        {
-          "title": "Die vergessene Insel",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Animation",
-            "Komödie"
-          ],
-          "overview": "Jo und Raissa sind seit Kindheitstagen beste Freundinnen, doch mit dem Ende ihrer Highschool-Zeit stehen grundlegende Veränderungen an, denn eine der Freundinnen möchte nach New York ziehen und dort studieren. So erleben sie eine letzte gemeinsame Nacht, in der sie plötzlich ein Portal entdecken, das sie auf die geheimnisvolle Insel Nakali bringt. Umgeben von magischen und faszinierenden Lebewesen droht der Verlust ihrer Erinnerungen an die gemeinsame Freundschaft. Ein Wettlauf beginnt, um möglichst wenig zu vergessen.",
-          "date": "2026-09-16",
-          "poster": "https://images.justwatch.com/poster/354519189/s332/forgotten-island-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Die%20vergessene%20Insel%20Trailer"
-        },
-        {
-          "title": "Godmother",
-          "media": "film",
-          "genres": [
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "A meticulously planned desert couples' vacation spirals into chaos when family tensions and a pair of mysterious hosts with devilish intentions transform a romantic getaway into a nightmare.",
-          "date": "2026-09-17",
-          "poster": "https://images.justwatch.com/poster/348470347/s332/godmother-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Godmother%20Trailer"
-        },
-        {
-          "title": "Pathetic Fallacy",
-          "media": "film",
-          "genres": [
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "A young widower arrives in a new-age mountain town in search of cosmic answers and a chance to heal. Instead, he finds an outlandish murderer and a forest of demonic spirits who offer a horrific bargain: the power to cheat death at a nightmarish cost.",
-          "date": "2026-09-20",
-          "poster": "https://images.justwatch.com/poster/354492373/s332/pathetic-fallacy.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Pathetic%20Fallacy%20Trailer"
+          "overview": "For three decades, JUDGE JUDY has been a fixture in homes across America and around the world, making Judge Judy one of the most recognizable and influential personalities in television history. Audiences worldwide know her razor-sharp wit, unwavering common sense and unmistakable courtroom authority, with an influence that extends far beyond television.",
+          "date": "2026-09-22",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Judge%20Judy%3A%20Unfiltered%2C%20Unforgettable%20Trailer"
         },
         {
           "title": "Possible Love",
@@ -192,19 +166,6 @@
           "date": "2026-09-23",
           "poster": "https://images.justwatch.com/poster/347600686/s332/possible-love.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Possible%20Love%20Trailer"
-        },
-        {
-          "title": "The Vvaan: Force of the Forrest",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Fantasy",
-            "Thriller"
-          ],
-          "overview": "Ein vernünftiger Stadtmensch trotzt dem verbotenen Wald seiner Vorfahren und erweckt eine göttliche Göttin zum Leben, nur um zu erkennen, dass es Kräfte gibt, die jenseits der Logik liegen, und dass er sich als einziger Retter des Dorfes erheben muss, um sein Volk vor der Vernichtung zu bewahren.",
-          "date": "2026-09-25",
-          "poster": "https://images.justwatch.com/poster/331551578/s332/the-vvaan-force-of-the-forrest.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Vvaan%3A%20Force%20of%20the%20Forrest%20Trailer"
         },
         {
           "title": "Hunter",
@@ -227,8 +188,56 @@
           ],
           "overview": "In this drama inspired by true events, Ted Kaczynski's transformation from Harvard prodigy to the infamous Unabomber unfolds as the FBI hunts him down.",
           "date": "2026-09-25",
-          "poster": "https://images.justwatch.com/poster/350187204/s332/unabomber.jpg",
+          "poster": "https://images.justwatch.com/poster/354673730/s332/unabomber.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Unabomber%20Trailer"
+        },
+        {
+          "title": "Victorian Psycho",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/347673621/s332/victorian-psycho-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Victorian%20Psycho%20Trailer"
+        },
+        {
+          "title": "The Vvaan: Force of the Forrest",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy"
+          ],
+          "overview": "Ein vernünftiger Stadtmensch trotzt dem verbotenen Wald seiner Vorfahren und erweckt eine göttliche Göttin zum Leben, nur um zu erkennen, dass es Kräfte gibt, die jenseits der Logik liegen, und dass er sich als einziger Retter des Dorfes erheben muss, um sein Volk vor der Vernichtung zu bewahren.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/354774123/s332/the-vvaan-force-of-the-forrest.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Vvaan%3A%20Force%20of%20the%20Forrest%20Trailer"
+        },
+        {
+          "title": "Bill's Cube",
+          "media": "film",
+          "genres": [
+            "Sci-Fi"
+          ],
+          "overview": "Bill, an underachieving stoner is approached by a businessman with a plan that includes corporate espionage and time travel.",
+          "date": "2026-09-25",
+          "poster": "https://images.justwatch.com/poster/350415048/s332/bills-cube.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Bill%27s%20Cube%20Trailer"
+        },
+        {
+          "title": "Brother Save Us",
+          "media": "film",
+          "genres": [
+            "Sci-Fi"
+          ],
+          "overview": "A 12-year-old boy in the Midwest befriends an AI farmworker, creating tension with his brother while their father battles illness.",
+          "date": "2026-09-26",
+          "poster": "https://images.justwatch.com/poster/348275390/s332/brother-save-us.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Brother%20Save%20Us%20Trailer"
         }
       ]
     }
