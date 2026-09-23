@@ -1,31 +1,8 @@
 {
-  "generated_at": "2026-09-21T15:53",
-  "week": "2026-09-21",
+  "generated_at": "2026-09-23T14:13",
+  "week": "2026-09-23",
   "by_provider": {
-    "netflix": [
-      {
-        "title": "Untold Mr. T: I Pity the Fool",
-        "media": "film",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
-        "date": "2026-09-08",
-        "poster": "https://images.justwatch.com/poster/348562926/s332/untold-mr-t-i-pity-the-fool.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool%20Trailer"
-      },
-      {
-        "title": "The Last Salute",
-        "media": "film",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "Chronicles the MiG-21's final chapter in the Indian Air Force, showcasing stories of generations of fighter pilots who flew it.",
-        "date": "2026-08-26",
-        "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20Trailer"
-      }
-    ],
+    "netflix": [],
     "amazon-prime-video": [
       {
         "title": "Neagley",
@@ -68,10 +45,20 @@
     ],
     "apple-tv": [
       {
+        "title": "Brothers",
+        "media": "sorozat",
+        "genres": [
+          "Komödie"
+        ],
+        "overview": "Die Hollywood-Schauspieler Matthew McConaughey und Woody Harrelson sind seit Jahren dicke Freunde. Doch ein schockierendes Familiengeheimnis lässt den Schluss zu, dass die beiden mehr verbinden könnte, als sie je geahnt hätten.",
+        "date": "2026-09-23",
+        "poster": "https://images.justwatch.com/poster/350958192/s332/brothers-1.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Brothers%20Trailer"
+      },
+      {
         "title": "Last Seen",
         "media": "sorozat",
         "genres": [
-          "Krimi",
           "Drama",
           "Thriller"
         ],

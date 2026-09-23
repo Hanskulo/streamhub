@@ -1,31 +1,8 @@
 {
-  "generated_at": "2026-09-21T15:53",
-  "week": "2026-09-21",
+  "generated_at": "2026-09-23T14:13",
+  "week": "2026-09-23",
   "by_provider": {
-    "netflix": [
-      {
-        "title": "Untold Mr. T: I Pity the Fool",
-        "media": "film",
-        "genres": [
-          "Documentary"
-        ],
-        "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
-        "date": "2026-09-08",
-        "poster": "https://images.justwatch.com/poster/348562926/s332/untold-mr-t-i-pity-the-fool.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool%20trailer"
-      },
-      {
-        "title": "The Last Salute",
-        "media": "film",
-        "genres": [
-          "Documentary"
-        ],
-        "overview": "Chronicles the MiG-21's final chapter in the Indian Air Force, showcasing stories of generations of fighter pilots who flew it.",
-        "date": "2026-08-26",
-        "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20trailer"
-      }
-    ],
+    "netflix": [],
     "amazon-prime-video": [
       {
         "title": "Neagley",
@@ -68,14 +45,24 @@
     ],
     "apple-tv": [
       {
+        "title": "Brothers",
+        "media": "sorozat",
+        "genres": [
+          "Comedy"
+        ],
+        "overview": "McConaughey and Harrelson they try to live together on a Texas ranch. That close space puts their friendship to the test.",
+        "date": "2026-09-23",
+        "poster": "https://images.justwatch.com/poster/350958165/s332/brothers-1.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Brothers%20trailer"
+      },
+      {
         "title": "Last Seen",
         "media": "sorozat",
         "genres": [
-          "Crime",
           "Drama",
           "Thriller"
         ],
-        "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
+        "overview": "Police dispatcher Ian Ridley's daughter Maggie disappeared years ago. He receives a call, believing it's her, and embarks on a relentless quest to find her and reunite his family, disregarding consequences.",
         "date": "2026-09-09",
         "poster": "https://images.justwatch.com/poster/348320106/s332/last-seen.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Last%20Seen%20trailer"
