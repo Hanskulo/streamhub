@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-09-23T14:13",
-  "week": "2026-09-23",
+  "generated_at": "2026-09-25T14:36",
+  "week": "2026-09-25",
   "by_provider": {
-    "netflix": [],
+    "netflix": [
+      {
+        "title": "Slachtvee",
+        "media": "film",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Europäisch"
+        ],
+        "overview": "Als Thomas erfährt, dass er Krebs hat und seine Tage gezählt sind, beschließt er, die ihm verbleibende Zeit zu nutzen, um so viele Übeltäter wie möglich auszuschalten.",
+        "date": "2026-09-19",
+        "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Slachtvee%20Trailer"
+      },
+      {
+        "title": "The Last Salute",
+        "media": "film",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Chronicles the MiG-21's final chapter in the Indian Air Force, showcasing stories of generations of fighter pilots who flew it.",
+        "date": "2026-08-26",
+        "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20Trailer"
+      }
+    ],
     "amazon-prime-video": [
       {
         "title": "Neagley",
@@ -12,7 +37,7 @@
           "Krimi",
           "Drama"
         ],
-        "overview": "In der REACHER-Welt beginnt ein neues Kapitel. Frances Neagley (Maria Sten) ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher (Alan Ritchson) in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
+        "overview": "Frances Neagley ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
         "date": "2026-09-16",
         "poster": "https://images.justwatch.com/poster/348270701/s332/neagley.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Neagley%20Trailer"

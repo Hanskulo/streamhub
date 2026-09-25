@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-09-23T14:13",
-  "week": "2026-09-23",
+  "generated_at": "2026-09-25T14:35",
+  "week": "2026-09-25",
   "by_provider": {
-    "netflix": [],
+    "netflix": [
+      {
+        "title": "Vágómarha",
+        "media": "film",
+        "genres": [
+          "Dráma",
+          "Thriller",
+          "Európai"
+        ],
+        "overview": "Amikor Thomas megtudja, hogy rákos és a napjai meg vannak számlálva, elhatározza, hogy hátralévő idejében megszabadítja a világot minél több gonosztevőtől.",
+        "date": "2026-09-19",
+        "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=V%C3%A1g%C3%B3marha%20el%C5%91zetes"
+      },
+      {
+        "title": "The Last Salute",
+        "media": "film",
+        "genres": [
+          "Dokumentum"
+        ],
+        "overview": "Chronicles the MiG-21's final chapter in the Indian Air Force, showcasing stories of generations of fighter pilots who flew it.",
+        "date": "2026-08-26",
+        "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20el%C5%91zetes"
+      }
+    ],
     "amazon-prime-video": [
       {
         "title": "Neagley",
@@ -12,9 +37,9 @@
           "Krimi",
           "Dráma"
         ],
-        "overview": "A REACHER világában új fejezet kezdődik. Frances Neagley (Maria Sten) egy chicagói magánnyomozó, aki Jack Reacher (Alan Ritchson) kollégája volt a sereg 110-ik Különleges Nyomozati Egységénél. Amikor megtudja, hogy egy imádott régi barátja életét vesztette egy gyanús balesetben, a végletekig is elmegy, hogy kiderítse az igazságot.",
+        "overview": "A REACHER világában új fejezet kezdődik. Frances Neagley egy chicagói magánnyomozó, aki Jack Reacher kollégája volt a sereg 110-ik Különleges Nyomozati Egységénél. Amikor megtudja, hogy egy imádott régi barátja életét vesztette egy gyanús balesetben, a végletekig is elmegy, hogy kiderítse az igazságot.",
         "date": "2026-09-16",
-        "poster": "https://images.justwatch.com/poster/348270705/s332/neagley.jpg",
+        "poster": "https://images.justwatch.com/poster/354898828/s332/neagley.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Neagley%20el%C5%91zetes"
       },
       {
