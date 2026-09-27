@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T14:35",
-  "week": "2026-09-25",
+  "generated_at": "2026-09-27T14:41",
+  "week": "2026-09-27",
   "by_provider": {
     "netflix": [
       {
@@ -15,33 +15,9 @@
         "date": "2026-09-19",
         "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Slachtvee%20trailer"
-      },
-      {
-        "title": "The Last Salute",
-        "media": "film",
-        "genres": [
-          "Documentary"
-        ],
-        "overview": "Chronicles the MiG-21's final chapter in the Indian Air Force, showcasing stories of generations of fighter pilots who flew it.",
-        "date": "2026-08-26",
-        "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20trailer"
       }
     ],
     "amazon-prime-video": [
-      {
-        "title": "Neagley",
-        "media": "sorozat",
-        "genres": [
-          "Action",
-          "Crime",
-          "Drama"
-        ],
-        "overview": "Neagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery.",
-        "date": "2026-09-16",
-        "poster": "https://images.justwatch.com/poster/354898861/s332/neagley.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Neagley%20trailer"
-      },
       {
         "title": "Honor Thy Mother",
         "media": "sorozat",
@@ -88,7 +64,7 @@
           "Thriller"
         ],
         "overview": "Police dispatcher Ian Ridley's daughter Maggie disappeared years ago. He receives a call, believing it's her, and embarks on a relentless quest to find her and reunite his family, disregarding consequences.",
-        "date": "2026-09-09",
+        "date": "2026-09-08",
         "poster": "https://images.justwatch.com/poster/348320106/s332/last-seen.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Last%20Seen%20trailer"
       },
@@ -138,20 +114,7 @@
     ],
     "crunchyroll": [],
     "hayu": [],
-    "hbo-max": [
-      {
-        "title": "A Killer Story",
-        "media": "sorozat",
-        "genres": [
-          "Crime",
-          "Documentary"
-        ],
-        "overview": "Investigative journalist Joe Sexton looks into a 2002 double homicide case in Kansas after receiving thousands of emails from Eileen Umbehr, a homemaker turned citizen sleuth. Eileen and her husband Keen are convinced that Dana Chandler, the woman accused of killing her ex-husband and his girlfriend, did not commit the crime and devote their lives to fighting for Chandler's innocence.",
-        "date": "2026-09-10",
-        "poster": "https://images.justwatch.com/poster/354500705/s332/a-killer-story.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=A%20Killer%20Story%20trailer"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [
       {
         "title": "JAŸ-Z in 8",
@@ -161,21 +124,20 @@
         ],
         "overview": "Thirty years after his landmark debut album, artist, icon, philanthropist, and entrepreneur JAŸ-Z sits down with longtime friend, producer, and director Rick Rubin for an intimate reflection on his storied career.",
         "date": "2026-09-18",
-        "poster": "https://images.justwatch.com/poster/351001554/s332/jay-z-in-8.jpg",
+        "poster": "https://images.justwatch.com/poster/354985886/s332/jay-z-in-8.jpg",
         "trailer": "https://www.youtube.com/results?search_query=JA%C5%B8-Z%20in%208%20trailer"
       },
       {
-        "title": "God Is Shy",
+        "title": "Pulp: What Do You Do for an Encore?",
         "media": "film",
         "genres": [
-          "Animation",
-          "Drama",
-          "Fantasy"
+          "Documentary",
+          "Music"
         ],
-        "overview": "During a train ride, Ariel and Paul pass the time sketching their deepest fears. Their game takes an unexpected turn when Gilda, a mysterious passenger, intrudes on their exchange. Yet, her relationship with fear seems far less innocent than their playful drawings.",
-        "date": "2026-08-27",
-        "poster": "https://images.justwatch.com/poster/330364325/s332/god-is-shy.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=God%20Is%20Shy%20trailer"
+        "overview": "A fusion of the brilliantly choreographed stage spectacle of Pulp’s biggest ever arena show — part of the global tour for More, the band’s first album in 24 years — with four decades of colorful, never-seen-before archival material.",
+        "date": "2026-09-18",
+        "poster": "https://images.justwatch.com/poster/354875699/s332/pulp-what-do-you-do-for-an-encore.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Pulp%3A%20What%20Do%20You%20Do%20for%20an%20Encore%3F%20trailer"
       }
     ],
     "bloodstream": [],

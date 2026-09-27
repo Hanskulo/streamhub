@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T14:36",
-  "week": "2026-09-25",
+  "generated_at": "2026-09-27T14:41",
+  "week": "2026-09-27",
   "by_provider": {
     "netflix": [
       {
@@ -15,33 +15,9 @@
         "date": "2026-09-19",
         "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Slachtvee%20Trailer"
-      },
-      {
-        "title": "The Last Salute",
-        "media": "film",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "Chronicles the MiG-21's final chapter in the Indian Air Force, showcasing stories of generations of fighter pilots who flew it.",
-        "date": "2026-08-26",
-        "poster": "https://images.justwatch.com/poster/350182117/s332/the-last-salute.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Salute%20Trailer"
       }
     ],
     "amazon-prime-video": [
-      {
-        "title": "Neagley",
-        "media": "sorozat",
-        "genres": [
-          "Action",
-          "Krimi",
-          "Drama"
-        ],
-        "overview": "Frances Neagley ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
-        "date": "2026-09-16",
-        "poster": "https://images.justwatch.com/poster/348270701/s332/neagley.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Neagley%20Trailer"
-      },
       {
         "title": "Honor Thy Mother",
         "media": "sorozat",
@@ -88,7 +64,7 @@
           "Thriller"
         ],
         "overview": "Als Notrufdisponent Ian Ridley den Hilferuf eines Teenagers entgegennimmt, glaubt er, seine seit Jahren vermisste Tochter zu erkennen und setzt alles daran, sie zu finden.",
-        "date": "2026-09-09",
+        "date": "2026-09-08",
         "poster": "https://images.justwatch.com/poster/348320393/s332/last-seen.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Last%20Seen%20Trailer"
       },
@@ -138,20 +114,7 @@
     ],
     "crunchyroll": [],
     "hayu": [],
-    "hbo-max": [
-      {
-        "title": "A Killer Story: Der Wahrheit auf der Spur",
-        "media": "sorozat",
-        "genres": [
-          "Krimi",
-          "Dokumentation"
-        ],
-        "overview": "Ein Doppelmordfall in Kansas beschäftigt die Öffentlichkeit mehr als zwei Jahrzehnte lang - darunter auch zwei hartnäckige Hobbydetektive.",
-        "date": "2026-09-10",
-        "poster": "https://images.justwatch.com/poster/354500705/s332/a-killer-story.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=A%20Killer%20Story%3A%20Der%20Wahrheit%20auf%20der%20Spur%20Trailer"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [
       {
         "title": "JAŸ-Z in 8 [OmU]",
@@ -161,21 +124,20 @@
         ],
         "overview": "Song für Song begibt sich Rick Rubin auf eine Reise durch JAŸ-Zs musikalisches Werk und kuratiert eine Playlist, um den Schaffensprozess der Musiklegende zu beleuchten. In acht Folgen sprechen die beiden über wichtige Einflüsse, prägende Erfahrungen und seine künstlerische Innovationskraft.",
         "date": "2026-09-18",
-        "poster": "https://images.justwatch.com/poster/351001554/s332/jay-z-in-8.jpg",
+        "poster": "https://images.justwatch.com/poster/354985886/s332/jay-z-in-8.jpg",
         "trailer": "https://www.youtube.com/results?search_query=JA%C5%B8-Z%20in%208%20%5BOmU%5D%20Trailer"
       },
       {
-        "title": "God is Shy [OmU]",
+        "title": "Pulp: Bereit Für Eine Zugabe? [OmU]",
         "media": "film",
         "genres": [
-          "Animation",
-          "Drama",
-          "Fantasy"
+          "Dokumentation",
+          "Musik"
         ],
-        "overview": "Während einer Zugfahrt vertreiben sich Ariel und Paul die Zeit damit, ihre tiefsten Ängste zu skizzieren. Ihre Reise nimmt eine unerwartete Wendung, als sich Gilda in ihr Gespräch einmischt. Plötzlich erhalten ihre unschuldigen, spielerischen Zeichnungen durch die Fremde eine beängstigende Realität.",
-        "date": "2026-08-27",
-        "poster": "https://images.justwatch.com/poster/330364325/s332/god-is-shy.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=God%20is%20Shy%20%5BOmU%5D%20Trailer"
+        "overview": "Zum ersten Album seit 24 Jahren ging die Kultband Pulp auf eine Tournee über mehrere Kontinente. Garth Jennings ordnet diese Comeback-Konzerte ein: die Anfänge in Sheffield, was Pulp für die Popkultur der Neunziger bedeutete, und wie Frontmann Jarvis Cocker sich selbst erfand.",
+        "date": "2026-09-18",
+        "poster": "https://images.justwatch.com/poster/354875699/s332/pulp-what-do-you-do-for-an-encore.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Pulp%3A%20Bereit%20F%C3%BCr%20Eine%20Zugabe%3F%20%5BOmU%5D%20Trailer"
       }
     ],
     "bloodstream": [],
