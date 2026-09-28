@@ -1,119 +1,107 @@
 {
-  "generated_at": "2026-09-21T15:52",
-  "window": "2026-09-21 .. 2026-10-06",
+  "generated_at": "2026-09-28T17:37",
+  "window": "2026-09-28 .. 2026-10-13",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "National Theatre Live: The Misanthrope",
+          "title": "Verity",
           "media": "film",
           "genres": [
-            "Comedy",
-            "Drama"
-          ],
-          "overview": "Alice, a brilliant novelist, despises the hollow contemporary mantras of kindness and respect. But the bolder she becomes in speaking out, the more colleagues avoid her, and the more her personal relationships begin to fracture. As she challenges fashionable ideas and lends her voice to causes others are afraid to touch, she faces intense criticism and backlash. Alice will soon learn the price she must pay as an artist and as a woman for daring to speak her mind. Award-winner Sandra Oh is the Misanthrope in Martin Crimp's cutting new version of Molière's dark comedy, directed by National Theatre Director Indhu Rubasingham.",
-          "date": "2026-09-22",
-          "poster": "https://images.justwatch.com/poster/346459335/s332/national-theatre-live-the-misanthrope.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=National%20Theatre%20Live%3A%20The%20Misanthrope%20trailer"
-        },
-        {
-          "title": "One Last Shot",
-          "media": "film",
-          "genres": [
-            "Action",
+            "Crime",
             "Drama",
             "Thriller"
           ],
-          "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
-          "date": "2026-09-22",
-          "poster": "https://images.justwatch.com/poster/353797527/s332/one-last-shot.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=One%20Last%20Shot%20trailer"
+          "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+          "date": "2026-09-30",
+          "poster": "https://images.justwatch.com/poster/345873745/s332/verity.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Verity%20trailer"
         },
         {
-          "title": "Another Day",
+          "title": "The Prince and the Kaiser – Yves Saint Laurent and Karl Lagerfeld",
           "media": "film",
           "genres": [
-            "Drama"
+            "Documentary"
           ],
-          "overview": "Garance is a young actress, but not a star. She manages everything as best she can, valiant, cheerful, a soldier, and she finds in alcohol an unconditional fuel, a source of comfort. Garance changes her life and begins an eight-year journey of moves, work, encounters, parties and anxieties, joys and hardships… An intimate, friendly, and sexual revolution. But she consumes, more and more. Until the very possibility of death…",
-          "date": "2026-09-23",
-          "poster": "https://images.justwatch.com/poster/344540224/s332/another-day-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Another%20Day%20trailer"
-        },
-        {
-          "title": "Possible Love",
-          "media": "film",
-          "genres": [
-            "Drama",
-            "Romance"
-          ],
-          "overview": "Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment.",
-          "date": "2026-09-23",
-          "poster": "https://images.justwatch.com/poster/347600686/s332/possible-love.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Possible%20Love%20trailer"
-        },
-        {
-          "title": "Eine Nacht in Bangkok",
-          "media": "film",
-          "genres": [
-            "Drama"
-          ],
-          "overview": "Katharina and Hektor who used to be married ten years ago meet again after their daughter Lilith is suspected of serial burglary.",
-          "date": "2026-09-23",
+          "overview": "At the International Wool Secretariat competition, 18-year-old Yves Saint Laurent and 21-year-old Karl Lagerfeld are honoured. Whilst Saint Laurent takes over Dior shortly afterwards and founds his own label, Lagerfeld becomes a master of constant reinvention. The former friends become bitter rivals, not least because of Jacques de Bascher, Lagerfeld’s flamboyant partner, who also comes dangerously close to Saint Laurent.",
+          "date": "2026-09-30",
           "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Eine%20Nacht%20in%20Bangkok%20trailer"
+          "trailer": "https://www.youtube.com/results?search_query=The%20Prince%20and%20the%20Kaiser%20%E2%80%93%20Yves%20Saint%20Laurent%20and%20Karl%20Lagerfeld%20trailer"
         },
         {
-          "title": "The Paradise",
+          "title": "The Widower: 'Til Death Do Us Part",
           "media": "film",
           "genres": [
-            "Action",
+            "Crime",
+            "Documentary"
+          ],
+          "overview": "A journalist and a detective uncover the truth about a killer whose charm masked a trail of failed marriages and suspicious deaths.",
+          "date": "2026-09-30",
+          "poster": "https://images.justwatch.com/poster/351062309/s332/the-widower-til-death-do-us-part.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Widower%3A%20%27Til%20Death%20Do%20Us%20Part%20trailer"
+        },
+        {
+          "title": "Crazy Rich, Incredibly Broke",
+          "media": "film",
+          "genres": [
+            "Comedy"
+          ],
+          "overview": "When the snobbish and wealthy AlThahabi family find out they're actually not as loaded as they think, they're forced to fake their affluence to survive.",
+          "date": "2026-10-01",
+          "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Crazy%20Rich%2C%20Incredibly%20Broke%20trailer"
+        },
+        {
+          "title": "Watching People Watching Birds",
+          "media": "film",
+          "genres": [
+            "Documentary"
+          ],
+          "overview": "Highly topical, serious and humorous, this film observes people who are passionately devoted to bird watching. Through their eyes and ears, we discover the world of the birds that becomes a metaphor for the state of the world.",
+          "date": "2026-10-01",
+          "poster": "https://images.justwatch.com/poster/338423252/s332/watching-people-watching-birds.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Watching%20People%20Watching%20Birds%20trailer"
+        },
+        {
+          "title": "How Can I Help",
+          "media": "film",
+          "genres": [
+            "Drama"
+          ],
+          "overview": "In 2030, retired actress Mrs. Winkler lives bitterly and marked by pain. When her daughter Emi accepts a theater offer, a care robot named Pavlovich takes over the care of her mother. Unexpectedly, his knowledge of classical plays seems to reawaken Mrs. Winkler's will to live...",
+          "date": "2026-10-01",
+          "poster": "https://images.justwatch.com/poster/347597966/s332/frau-winkler-verlaesst-das-haus.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=How%20Can%20I%20Help%20trailer"
+        },
+        {
+          "title": "Where do I go from here?",
+          "media": "film",
+          "genres": [
+            "Documentary"
+          ],
+          "overview": "Majd and Shahfaisal live together in a residential group for unaccompanied refugee minors in Germany. Here, in the protected environment of the group, for the first time after fleeing, they should be able to live a life true to who they really are: teenagers who are just developing a personality, have dreams and are looking for their place in society. But how is this supposed to work if they are not even part of this society due to their refugee status?",
+          "date": "2026-10-01",
+          "poster": "https://images.justwatch.com/poster/336485462/s332/wohin-mit-mir.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Where%20do%20I%20go%20from%20here%3F%20trailer"
+        },
+        {
+          "title": "Corpus Delicti",
+          "media": "film",
+          "genres": [
             "Drama",
-            "Thriller"
+            "Thriller",
+            "Sci-Fi"
           ],
-          "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
-          "date": "2026-09-23",
-          "poster": "https://images.justwatch.com/poster/347980703/s332/the-paradise.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Paradise%20trailer"
-        },
-        {
-          "title": "Shame and Money",
-          "media": "film",
-          "genres": [
-            "Drama"
-          ],
-          "overview": "After losing their livelihood in a village, a Kosovar family is forced to move to the capital in pursuit of a place in a hypercapitalist society.",
-          "date": "2026-09-24",
-          "poster": "https://images.justwatch.com/poster/344040301/s332/shame-and-money.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Shame%20and%20Money%20trailer"
-        },
-        {
-          "title": "Butterfly",
-          "media": "film",
-          "genres": [
-            "Drama"
-          ],
-          "overview": "Two sisters raised on a charter resort in Gran Canaria. After 27 years, they reluctantly return to their childhood island to deal with their parents death, and end up with a half-finished esoteric retreat center in the Canary Islands.",
-          "date": "2026-09-25",
-          "poster": "https://images.justwatch.com/poster/341412225/s332/butterfly-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Butterfly%20trailer"
+          "overview": "In the near future, the “method” controls the health and freedom of society. The life of neuroscientist Mia Holl, who is loyal to the system, changes abruptly when her brother Moritz Holl is wrongly accused of murder and imprisoned. In the fight for truth and justice, Mia begins to question the system and becomes the hunted herself.",
+          "date": "2026-10-01",
+          "poster": "https://images.justwatch.com/poster/346855405/s332/corpus-delicti-2026-1.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Corpus%20Delicti%20trailer"
         }
       ]
     },
     "hungary": {
       "items": [
-        {
-          "title": "He Calls Me Daughter",
-          "media": "film",
-          "genres": [
-            "Documentary"
-          ],
-          "overview": "A documentary exploring the lasting impact of the father wound on women and the hope, healing, and restored identity found through the love of God as the perfect Father.",
-          "date": "2026-09-24",
-          "poster": "https://images.justwatch.com/poster/340848597/s332/he-calls-me-daughter.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=He%20Calls%20Me%20Daughter%20trailer"
-        },
         {
           "title": "Verity",
           "media": "film",
@@ -131,113 +119,124 @@
           "title": "Yezhu Kadal Yezhu Malai",
           "media": "film",
           "genres": [
+            "Action",
             "Drama",
-            "Fantasy",
-            "Romance"
+            "Fantasy"
           ],
           "overview": "Caught between family duty and romantic love, a young man faces an impossible choice.",
           "date": "2026-10-01",
           "poster": "https://images.justwatch.com/poster/312115955/s332/yezhu-kadal-yezhu-malai.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Yezhu%20Kadal%20Yezhu%20Malai%20trailer"
+        },
+        {
+          "title": "Free Leonard Peltier",
+          "media": "film",
+          "genres": [
+            "Documentary"
+          ],
+          "overview": "Leonard Peltier, an activist jailed for decades after a disputed conviction, faces his twilight years as a new generation fights for his release from prison before it's too late.",
+          "date": "2026-10-12",
+          "poster": "https://images.justwatch.com/poster/330272719/s332/free-leonard-peltier.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Free%20Leonard%20Peltier%20trailer"
         }
       ]
     },
     "usa": {
       "items": [
         {
-          "title": "Judge Judy: Unfiltered, Unforgettable",
+          "title": "Verity",
           "media": "film",
           "genres": [
-            "Documentary"
+            "Crime",
+            "Drama",
+            "Thriller"
           ],
-          "overview": "For three decades, JUDGE JUDY has been a fixture in homes across America and around the world, making Judge Judy one of the most recognizable and influential personalities in television history. Audiences worldwide know her razor-sharp wit, unwavering common sense and unmistakable courtroom authority, with an influence that extends far beyond television.",
-          "date": "2026-09-22",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Judge%20Judy%3A%20Unfiltered%2C%20Unforgettable%20trailer"
+          "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+          "date": "2026-09-30",
+          "poster": "https://images.justwatch.com/poster/345873745/s332/verity.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Verity%20trailer"
         },
         {
-          "title": "Possible Love",
+          "title": "The Hole, 309 Days to the Bloodiest Tragedy",
+          "media": "film",
+          "genres": [
+            "Thriller"
+          ],
+          "overview": "When a spate of gruesome killings rocks the countryside in East Jakarta, army officer Soegeng is tasked with clearing up rumours about the military’s involvement. Soegeng’s investigation, however, confronts him with the foundations of corruption – a truth too close for comfort.",
+          "date": "2026-10-01",
+          "poster": "https://images.justwatch.com/poster/354559251/s332/the-hole-309-days-to-the-bloodiest-tragedy.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Hole%2C%20309%20Days%20to%20the%20Bloodiest%20Tragedy%20trailer"
+        },
+        {
+          "title": "Parpadea",
+          "media": "film",
+          "genres": [
+            "Thriller"
+          ],
+          "overview": "",
+          "date": "2026-10-01",
+          "poster": "https://images.justwatch.com/poster/344543503/s332/parpadea.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Parpadea%20trailer"
+        },
+        {
+          "title": "Terrifier 4",
+          "media": "film",
+          "genres": [
+            "Comedy",
+            "Horror"
+          ],
+          "overview": "The fourth installment in the Terrifier franchise. Plot TBA.",
+          "date": "2026-10-01",
+          "poster": "https://images.justwatch.com/poster/338381731/s332/terrifier-4.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Terrifier%204%20trailer"
+        },
+        {
+          "title": "Crazy Rich, Incredibly Broke",
+          "media": "film",
+          "genres": [
+            "Comedy"
+          ],
+          "overview": "When the snobbish and wealthy AlThahabi family find out they're actually not as loaded as they think, they're forced to fake their affluence to survive.",
+          "date": "2026-10-01",
+          "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Crazy%20Rich%2C%20Incredibly%20Broke%20trailer"
+        },
+        {
+          "title": "When Anyone Sees",
+          "media": "film",
+          "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+          ],
+          "overview": "Christian, a young man overlooked by society, burdened by a dark past and escalating madness, finds himself trapped in a world of violence and despair.",
+          "date": "2026-10-04",
+          "poster": "https://images.justwatch.com/poster/347388301/s332/when-anyone-sees.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=When%20Anyone%20Sees%20trailer"
+        },
+        {
+          "title": "Love of Your Life",
           "media": "film",
           "genres": [
             "Drama",
             "Romance"
           ],
-          "overview": "Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment.",
-          "date": "2026-09-23",
-          "poster": "https://images.justwatch.com/poster/347600686/s332/possible-love.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Possible%20Love%20trailer"
+          "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+          "date": "2026-10-07",
+          "poster": "https://images.justwatch.com/poster/354522082/s332/love-of-your-life.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Love%20of%20Your%20Life%20trailer"
         },
         {
-          "title": "Hunter",
-          "media": "film",
-          "genres": [
-            "Drama"
-          ],
-          "overview": "Plot to be announced.",
-          "date": "2026-09-25",
-          "poster": "https://images.justwatch.com/poster/346668535/s332/hunter-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Hunter%20trailer"
-        },
-        {
-          "title": "Unabomber",
-          "media": "film",
-          "genres": [
-            "Crime",
-            "History",
-            "Thriller"
-          ],
-          "overview": "In this drama inspired by true events, Ted Kaczynski's transformation from Harvard prodigy to the infamous Unabomber unfolds as the FBI hunts him down.",
-          "date": "2026-09-25",
-          "poster": "https://images.justwatch.com/poster/354673730/s332/unabomber.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Unabomber%20trailer"
-        },
-        {
-          "title": "Victorian Psycho",
+          "title": "Who Is Martin Mull?",
           "media": "film",
           "genres": [
             "Comedy",
-            "Horror",
-            "Thriller"
+            "Documentary"
           ],
-          "overview": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine.",
-          "date": "2026-09-25",
-          "poster": "https://images.justwatch.com/poster/347673621/s332/victorian-psycho-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Victorian%20Psycho%20trailer"
-        },
-        {
-          "title": "The Vvaan: Force of the Forrest",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Drama",
-            "Fantasy"
-          ],
-          "overview": "A rational urban man defies his ancestral village's forbidden forest and awakens a divine goddess, forcing him to confront powers beyond logic as he becomes the unlikely saviour protecting his people from annihilation.",
-          "date": "2026-09-25",
-          "poster": "https://images.justwatch.com/poster/354774123/s332/the-vvaan-force-of-the-forrest.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Vvaan%3A%20Force%20of%20the%20Forrest%20trailer"
-        },
-        {
-          "title": "Bill's Cube",
-          "media": "film",
-          "genres": [
-            "Sci-Fi"
-          ],
-          "overview": "Bill, an underachieving stoner is approached by a businessman with a plan that includes corporate espionage and time travel.",
-          "date": "2026-09-25",
-          "poster": "https://images.justwatch.com/poster/350415048/s332/bills-cube.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Bill%27s%20Cube%20trailer"
-        },
-        {
-          "title": "Brother Save Us",
-          "media": "film",
-          "genres": [
-            "Sci-Fi"
-          ],
-          "overview": "A 12-year-old boy in the Midwest befriends an AI farmworker, creating tension with his brother while their father battles illness.",
-          "date": "2026-09-26",
-          "poster": "https://images.justwatch.com/poster/348275390/s332/brother-save-us.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Brother%20Save%20Us%20trailer"
+          "overview": "Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.",
+          "date": "2026-10-07",
+          "poster": "https://images.justwatch.com/poster/355003226/s332/who-is-martin-mull.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20trailer"
         }
       ]
     }
