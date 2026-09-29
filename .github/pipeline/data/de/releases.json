@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T14:41",
-  "week": "2026-09-27",
+  "generated_at": "2026-09-29T15:48",
+  "week": "2026-09-29",
   "by_provider": {
     "netflix": [
       {
@@ -15,9 +15,33 @@
         "date": "2026-09-19",
         "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Slachtvee%20Trailer"
+      },
+      {
+        "title": "Untold Mr. T: I Pity the Fool",
+        "media": "film",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Before the gold chains, mohawk, and Hollywood fame of The A-Team and Rocky III, there was Laurence Tureaud. This is the extraordinary origin story behind one of the most unlikely and beloved icons in entertainment — Mr. T.",
+        "date": "2026-09-08",
+        "poster": "https://images.justwatch.com/poster/348562926/s332/untold-mr-t-i-pity-the-fool.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool%20Trailer"
       }
     ],
     "amazon-prime-video": [
+      {
+        "title": "Neagley",
+        "media": "sorozat",
+        "genres": [
+          "Action",
+          "Krimi",
+          "Drama"
+        ],
+        "overview": "Frances Neagley ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
+        "date": "2026-09-16",
+        "poster": "https://images.justwatch.com/poster/348270701/s332/neagley.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Neagley%20Trailer"
+      },
       {
         "title": "Honor Thy Mother",
         "media": "sorozat",
@@ -29,19 +53,6 @@
         "date": "2026-09-11",
         "poster": "https://images.justwatch.com/poster/354708311/s332/honor-thy-mother.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20Trailer"
-      },
-      {
-        "title": "Barreda",
-        "media": "film",
-        "genres": [
-          "Krimi",
-          "Drama",
-          "Thriller"
-        ],
-        "overview": "Ein fiktionalisierter Dramafilm, der auf einem der schockierendsten Verbrechen in der Geschichte Argentiniens basiert. 1992 war Ricardo Barreda ein bescheidener Zahnarzt, ermordete brutal seine Frau, seine Schwiegermutter und zwei erwachsene Töchter in ihrem Familienhaus. Ricardo Barreda brandmarkte sich selbst als Opfer und entzündete einen Mediensturm und heizte einen nationalen Skandal an.",
-        "date": "2026-08-28",
-        "poster": "https://images.justwatch.com/poster/350102971/s332/barreda.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Barreda%20Trailer"
       }
     ],
     "apple-tv": [
@@ -113,8 +124,45 @@
       }
     ],
     "crunchyroll": [],
-    "hayu": [],
-    "hbo-max": [],
+    "hayu": [
+      {
+        "title": "Still Flipping Out",
+        "media": "sorozat",
+        "genres": [
+          "Dokumentation",
+          "Reality"
+        ],
+        "overview": "Follows Lewis as he navigates the hilariously unpredictable nature of his professional and personal lives as his trademark spontaneity collides with the people who work with him, for him, and still somehow survive him.",
+        "date": "2026-09-28",
+        "poster": "https://images.justwatch.com/poster/350393650/s332/still-flipping-out.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20Trailer"
+      }
+    ],
+    "hbo-max": [
+      {
+        "title": "A Killer Story: Der Wahrheit auf der Spur",
+        "media": "sorozat",
+        "genres": [
+          "Krimi",
+          "Dokumentation"
+        ],
+        "overview": "Ein Doppelmordfall in Kansas beschäftigt die Öffentlichkeit mehr als zwei Jahrzehnte lang - darunter auch zwei hartnäckige Hobbydetektive.",
+        "date": "2026-09-10",
+        "poster": "https://images.justwatch.com/poster/354500705/s332/a-killer-story.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=A%20Killer%20Story%3A%20Der%20Wahrheit%20auf%20der%20Spur%20Trailer"
+      },
+      {
+        "title": "9/11: Days That Shocked the World",
+        "media": "sorozat",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "The terrorist hijackings and destruction of the Twin Towers were a defining moment in human history. Nearly 3,000 people were killed, triggering the war on terror and changing the way we live today. Rescue workers, survivors and witnesses relive the traumatic events of 9/11, some telling their story for the first time.",
+        "date": "2026-09-02",
+        "poster": "https://images.justwatch.com/poster/354057117/s332/9-11-a-vilagot-megrengeto-napok.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=9/11%3A%20Days%20That%20Shocked%20the%20World%20Trailer"
+      }
+    ],
     "mubi": [
       {
         "title": "JAŸ-Z in 8 [OmU]",
@@ -140,12 +188,63 @@
         "trailer": "https://www.youtube.com/results?search_query=Pulp%3A%20Bereit%20F%C3%BCr%20Eine%20Zugabe%3F%20%5BOmU%5D%20Trailer"
       }
     ],
-    "bloodstream": [],
-    "kableone": [],
+    "bloodstream": [
+      {
+        "title": "Last Chance Motel",
+        "media": "film",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ],
+        "overview": "A newlywed couple's dream wedding spirals into a bloody nightmare when they uncover that their secluded venue- a desolate motel deep in the Nevada desert- is run by a relentless bloodthirsty family with dark secrets, revealing that one bride's future may not be all that it was promised to be.",
+        "date": "2026-10-06",
+        "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20Trailer"
+      }
+    ],
+    "kableone": [
+      {
+        "title": "Mitti de Putt",
+        "media": "film",
+        "genres": [
+          "Action",
+          "Drama",
+          "Familie"
+        ],
+        "overview": "Two villages are bound by a rivalry that has outlived the men who started it. For one young man, the feud stops being history the day his uncle murders his grandparents and carries his mother away.",
+        "date": "2026-09-18",
+        "poster": "https://images.justwatch.com/poster/354571457/s332/mitti-de-putt.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Mitti%20de%20Putt%20Trailer"
+      },
+      {
+        "title": "Saara Pind Vailliyaan Daa",
+        "media": "film",
+        "genres": [
+          "Action"
+        ],
+        "overview": "After his father Baghail Singh is murdered, Jagga sets out to uncover the truth. His search reveals a secret underworld mafia and a shocking revelation about his father's past.",
+        "date": "2026-09-10",
+        "poster": "https://images.justwatch.com/poster/355005082/s332/saara-pind-vailliyaan-daa.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Saara%20Pind%20Vailliyaan%20Daa%20Trailer"
+      }
+    ],
     "artiflix": [],
     "artify": [],
-    "lionsgate-amazon-channels": [],
+    "lionsgate-amazon-channel": [],
     "crunchyroll-amazon-channel": [],
-    "hayu-amazon-channel": []
+    "hayu-amazon-channel": [
+      {
+        "title": "Still Flipping Out",
+        "media": "sorozat",
+        "genres": [
+          "Dokumentation",
+          "Reality"
+        ],
+        "overview": "Follows Lewis as he navigates the hilariously unpredictable nature of his professional and personal lives as his trademark spontaneity collides with the people who work with him, for him, and still somehow survive him.",
+        "date": "2026-09-28",
+        "poster": "https://images.justwatch.com/poster/350393650/s332/still-flipping-out.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20Trailer"
+      }
+    ]
   }
 }
