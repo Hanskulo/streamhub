@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T15:48",
-  "week": "2026-09-29",
+  "generated_at": "2026-10-01T16:25",
+  "week": "2026-10-01",
   "by_provider": {
     "netflix": [
       {
@@ -41,18 +41,6 @@
         "date": "2026-09-16",
         "poster": "https://images.justwatch.com/poster/348270701/s332/neagley.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Neagley%20Trailer"
-      },
-      {
-        "title": "Honor Thy Mother",
-        "media": "sorozat",
-        "genres": [
-          "Drama",
-          "Thriller"
-        ],
-        "overview": "After years of estrangement, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.",
-        "date": "2026-09-11",
-        "poster": "https://images.justwatch.com/poster/354708311/s332/honor-thy-mother.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20Trailer"
       }
     ],
     "apple-tv": [
@@ -200,6 +188,28 @@
         "date": "2026-10-06",
         "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20Trailer"
+      },
+      {
+        "title": "V/C/R/01",
+        "media": "film",
+        "genres": [
+          "Horror"
+        ],
+        "overview": "A disturbing analog horror anthology unfolds through recovered VHS tapes and surveillance footage, revealing terrifying encounters with mysterious entities, a human experiment, a desperate emergency call, and a horrifying discovery",
+        "date": "2026-09-25",
+        "poster": "https://images.justwatch.com/poster/355013720/s332/v-c-r-01.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=V/C/R/01%20Trailer"
+      },
+      {
+        "title": "Black-Eyed Terror",
+        "media": "film",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Paranormal Documentary",
+        "date": "2026-09-11",
+        "poster": "https://images.justwatch.com/poster/355042795/s332/black-eyed-terror.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Black-Eyed%20Terror%20Trailer"
       }
     ],
     "kableone": [

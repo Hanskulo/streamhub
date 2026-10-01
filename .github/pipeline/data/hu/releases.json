@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T15:47",
-  "week": "2026-09-29",
+  "generated_at": "2026-10-01T16:24",
+  "week": "2026-10-01",
   "by_provider": {
     "netflix": [
       {
@@ -41,18 +41,6 @@
         "date": "2026-09-16",
         "poster": "https://images.justwatch.com/poster/354898828/s332/neagley.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Neagley%20el%C5%91zetes"
-      },
-      {
-        "title": "Honor Thy Mother",
-        "media": "sorozat",
-        "genres": [
-          "Dráma",
-          "Thriller"
-        ],
-        "overview": "After years of estrangement, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.",
-        "date": "2026-09-11",
-        "poster": "https://images.justwatch.com/poster/354708311/s332/honor-thy-mother.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20el%C5%91zetes"
       }
     ],
     "apple-tv": [
@@ -176,7 +164,7 @@
         "trailer": "https://www.youtube.com/results?search_query=JA%C5%B8-Z%20in%208%20el%C5%91zetes"
       },
       {
-        "title": "Pulp - What Do You Do for an Encore?",
+        "title": "Pulp: What Do You Do for an Encore?",
         "media": "film",
         "genres": [
           "Dokumentum",
@@ -185,7 +173,7 @@
         "overview": "A Pulp: What Do You Do for an Encore? egy lendületes koncertfilm és pályakép, amely a sheffieldi Pulp különös, kitartó és kulturális jelentőségű útját követi végig a kezdeti mellőzöttségtől a brit popzene meghatározó zenekarává válásig. Garth Jennings filmje a zenekar eddigi legnagyobb arénakoncertjének látványos felvételeit kapcsolja össze négy évtizednyi, korábban nem látott archív anyaggal, miközben Jarvis Cocker narrációja vezeti végig a nézőt a dalokon, a visszatérésen és azon a kérdésen, mi következhet egy olyan zenekar számára, amely már egyszer korszakot teremtett.",
         "date": "2026-09-18",
         "poster": "https://images.justwatch.com/poster/354875699/s332/pulp-what-do-you-do-for-an-encore.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Pulp%20-%20What%20Do%20You%20Do%20for%20an%20Encore%3F%20el%C5%91zetes"
+        "trailer": "https://www.youtube.com/results?search_query=Pulp%3A%20What%20Do%20You%20Do%20for%20an%20Encore%3F%20el%C5%91zetes"
       }
     ],
     "bloodstream": [
@@ -200,6 +188,28 @@
         "date": "2026-10-06",
         "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20el%C5%91zetes"
+      },
+      {
+        "title": "V/C/R/01",
+        "media": "film",
+        "genres": [
+          "Horror"
+        ],
+        "overview": "A disturbing analog horror anthology unfolds through recovered VHS tapes and surveillance footage, revealing terrifying encounters with mysterious entities, a human experiment, a desperate emergency call, and a horrifying discovery",
+        "date": "2026-09-25",
+        "poster": "https://images.justwatch.com/poster/355013720/s332/v-c-r-01.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=V/C/R/01%20el%C5%91zetes"
+      },
+      {
+        "title": "Black-Eyed Terror",
+        "media": "film",
+        "genres": [
+          "Dokumentum"
+        ],
+        "overview": "Paranormal Documentary",
+        "date": "2026-09-11",
+        "poster": "https://images.justwatch.com/poster/355042795/s332/black-eyed-terror.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Black-Eyed%20Terror%20el%C5%91zetes"
       }
     ],
     "kableone": [
