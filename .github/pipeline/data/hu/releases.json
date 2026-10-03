@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T16:24",
-  "week": "2026-10-01",
+  "generated_at": "2026-10-03T14:18",
+  "week": "2026-10-03",
   "by_provider": {
     "netflix": [
       {
@@ -15,17 +15,6 @@
         "date": "2026-09-19",
         "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
         "trailer": "https://www.youtube.com/results?search_query=V%C3%A1g%C3%B3marha%20el%C5%91zetes"
-      },
-      {
-        "title": "Első kézből: Mr. T",
-        "media": "film",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "A Rocky III-ban és a The A-Teamben látható aranyláncok, taraj és hollywoodi hírnév előtt még Laurence Tureaud volt. Ez az egyik legvalószínűtlenebb és legkedveltebb szórakoztatóipari ikon – Mr. T – rendkívüli története.",
-        "date": "2026-09-08",
-        "poster": "https://images.justwatch.com/poster/348562926/s332/untold-mr-t-i-pity-the-fool.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Els%C5%91%20k%C3%A9zb%C5%91l%3A%20Mr.%20T%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -66,19 +55,6 @@
         "date": "2026-09-08",
         "poster": "https://images.justwatch.com/poster/348320106/s332/last-seen.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Last%20Seen%20el%C5%91zetes"
-      },
-      {
-        "title": "Mayday",
-        "media": "film",
-        "genres": [
-          "Akció",
-          "Vígjáték",
-          "Thriller"
-        ],
-        "overview": "Amikor az amerikai haditengerészet pilótája ellenséges vonalak mögött reked egy hidegháborús, szupertitkos küldetés során, egyetlen esélye van a túlélésre: össze kell fognia a különc volt KGB-s ügynökkel.",
-        "date": "2026-09-04",
-        "poster": "https://images.justwatch.com/poster/347434490/s332/mayday-2026.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Mayday%20el%C5%91zetes"
       }
     ],
     "disney-plus": [],
@@ -107,7 +83,7 @@
         ],
         "overview": "Az antropológus Anka egy olyan emberölés ügyében vizsgálódik, amely feltűnően hasonlít a Norman Pionek sorozatgyilkos által elkövetett bűncselekményekre; az igazság felderítésében a bátor riporter, Sebastian, és a rendőr Jedrek segít neki.",
         "date": "2026-09-10",
-        "poster": "https://images.justwatch.com/poster/354584623/s332/halalos-kotelek-2.jpg",
+        "poster": "https://images.justwatch.com/poster/355133072/s332/halalos-kotelek-2.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Hal%C3%A1los%20K%C3%B6tel%C3%A9k%202%20el%C5%91zetes"
       }
     ],
@@ -138,17 +114,6 @@
         "date": "2026-09-10",
         "poster": "https://images.justwatch.com/poster/354500705/s332/a-killer-story.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Gyilkos%20Topek%C3%A1ban%20el%C5%91zetes"
-      },
-      {
-        "title": "9/11 - A világot megrengető napok",
-        "media": "sorozat",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "2001. szeptember 11-én terroristák négy eltérített repülőgéppel megdöbbentő támadást intéztek az Egyesült Államok ellen, 2977 ember halálát okozva.",
-        "date": "2026-09-02",
-        "poster": "https://images.justwatch.com/poster/354057117/s332/9-11-a-vilagot-megrengeto-napok.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=9/11%20-%20A%20vil%C3%A1got%20megrenget%C5%91%20napok%20el%C5%91zetes"
       }
     ],
     "mubi": [
@@ -178,16 +143,28 @@
     ],
     "bloodstream": [
       {
-        "title": "Last Chance Motel",
+        "title": "She Did It",
         "media": "film",
         "genres": [
+          "Thriller"
+        ],
+        "overview": "After a suicide attempt, a fragile young woman awakens to find her boyfriend claiming her dead body is in their bathtub.",
+        "date": "2026-10-02",
+        "poster": "https://images.justwatch.com/poster/354752310/s332/she-did-it.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=She%20Did%20It%20el%C5%91zetes"
+      },
+      {
+        "title": "Creature Fear",
+        "media": "film",
+        "genres": [
+          "Krimi",
           "Horror",
           "Thriller"
         ],
-        "overview": "A newlywed couple's dream wedding spirals into a bloody nightmare when they uncover that their secluded venue- a desolate motel deep in the Nevada desert- is run by a relentless bloodthirsty family with dark secrets, revealing that one bride's future may not be all that it was promised to be.",
-        "date": "2026-10-06",
-        "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20el%C5%91zetes"
+        "overview": "In a small Wisconsin lake town, a poverty-stricken felon contracts Creutzfeldt-Jakob Disease after ingesting diseased venison. As his descent into madness intensifies, he targets a Chicago musician and a mysterious singer, whose dream of recording an album together is threatened by the felon's violent unraveling.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/337800747/s332/creature-fear.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Creature%20Fear%20el%C5%91zetes"
       },
       {
         "title": "V/C/R/01",
@@ -241,7 +218,19 @@
     "artiflix": [],
     "artify": [],
     "lionsgate-amazon-channel": [],
-    "crunchyroll-amazon-channel": [],
+    "crunchyroll-amazon-channel": [
+      {
+        "title": "FX Fighter Kurumi-chan",
+        "media": "sorozat",
+        "genres": [
+          "Animáció"
+        ],
+        "overview": "Student Kurumi Fukuga starts FX trading to recover her late mother's 20 million yen loss. She discovers a volatile world of gains and losses. With friends Mochiko, Mebuki and Yasuko, she navigates this risky money game's highs and lows.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/354747292/s332/fx-fighter-kurumi-chan.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=FX%20Fighter%20Kurumi-chan%20el%C5%91zetes"
+      }
+    ],
     "hayu-amazon-channel": [
       {
         "title": "Still Flipping Out",
