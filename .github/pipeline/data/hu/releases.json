@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-03T14:18",
-  "week": "2026-10-03",
+  "generated_at": "2026-10-05T18:23",
+  "week": "2026-10-05",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Unabomber",
+        "media": "film",
+        "genres": [
+          "Krimi",
+          "Dráma",
+          "Thriller"
+        ],
+        "overview": "A valós események ihlette dráma bemutatja, hogyan vált Ted Kaczynski a Harvard zseniális hallgatójából és kísérleti alanyból az Unabomberré, miközben üldözi az FBI.",
+        "date": "2026-09-25",
+        "poster": "https://images.justwatch.com/poster/354939438/s332/unabomber.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Unabomber%20el%C5%91zetes"
+      },
       {
         "title": "Vágómarha",
         "media": "film",
@@ -34,6 +47,17 @@
     ],
     "apple-tv": [
       {
+        "title": "The Last First: Winter K2",
+        "media": "film",
+        "genres": [
+          "Dokumentum"
+        ],
+        "overview": "A történelmi verseny, hogy feljussanak a K2 csúcsára télen, tragédiába torkollik, és rámutat, hogy az ambíció, az ego és a dicsőségvágy éppolyan veszélyes lehet, mint maga a hegy.",
+        "date": "2026-10-02",
+        "poster": "https://images.justwatch.com/poster/355160143/s332/the-last-first-winter-k2.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20First%3A%20Winter%20K2%20el%C5%91zetes"
+      },
+      {
         "title": "Brothers",
         "media": "sorozat",
         "genres": [
@@ -57,7 +81,21 @@
         "trailer": "https://www.youtube.com/results?search_query=Last%20Seen%20el%C5%91zetes"
       }
     ],
-    "disney-plus": [],
+    "disney-plus": [
+      {
+        "title": "Boszorkánysuli",
+        "media": "sorozat",
+        "genres": [
+          "Vígjáték",
+          "Dráma",
+          "Fantasy"
+        ],
+        "overview": "A New York-i tinédzser, Briar Roberts egy rejtélyes New Orleans-i varázslóiskolába érkezik, hogy kiderítse, mi történt az anyjával. A boszorkányok és a vámpírok között egyre nő a feszültség, neki pedig boszorkánytanonc barátaival egy sötét, fenyegető erővel kell szembeszállnia. A természetfeletti gimi veszélyei közepette egy tiltott szerelem is lángra lobban.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/354821285/s332/boszorkanysuli.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Boszork%C3%A1nysuli%20el%C5%91zetes"
+      }
+    ],
     "justwatch-tv": [],
     "apple-tv-store": [],
     "youtube-premium": [],
@@ -220,15 +258,17 @@
     "lionsgate-amazon-channel": [],
     "crunchyroll-amazon-channel": [
       {
-        "title": "FX Fighter Kurumi-chan",
+        "title": "From Far Away",
         "media": "sorozat",
         "genres": [
-          "Animáció"
+          "Akció",
+          "Animáció",
+          "Fantasy"
         ],
-        "overview": "Student Kurumi Fukuga starts FX trading to recover her late mother's 20 million yen loss. She discovers a volatile world of gains and losses. With friends Mochiko, Mebuki and Yasuko, she navigates this risky money game's highs and lows.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/354747292/s332/fx-fighter-kurumi-chan.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=FX%20Fighter%20Kurumi-chan%20el%C5%91zetes"
+        "overview": "On her way home from school one day, Noriko is unexpectedly plunged into a strange and extraordinary fantasy world. Her troubles compound exponentially when she is rescued and befriended by a handsome young man by the name of Izark. He may be brave and courageous, but inside Izark lurks the darkest evil imaginable. And according to an ancient prophecy, Noriko possesses the power to unleash that evil. Now, inexorably bound together, these two unlikely allies must navigate a world both wondrous and hostile.",
+        "date": "2026-10-05",
+        "poster": "https://images.justwatch.com/poster/354265268/s332/from-far-away.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=From%20Far%20Away%20el%C5%91zetes"
       }
     ],
     "hayu-amazon-channel": [

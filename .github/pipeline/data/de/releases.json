@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-03T14:18",
-  "week": "2026-10-03",
+  "generated_at": "2026-10-05T18:24",
+  "week": "2026-10-05",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Unabomber",
+        "media": "film",
+        "genres": [
+          "Krimi",
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "In diesem Drama nach wahren Ereignissen wird Ted Kaczynskis Weg vom Harvard-Wunderkind und Testobjekt zum berüchtigten, vom FBI gejagten Unabomber nacherzählt.",
+        "date": "2026-09-25",
+        "poster": "https://images.justwatch.com/poster/354976666/s332/unabomber.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Unabomber%20Trailer"
+      },
       {
         "title": "Slachtvee",
         "media": "film",
@@ -34,6 +47,17 @@
     ],
     "apple-tv": [
       {
+        "title": "The Last First: Winter K2",
+        "media": "film",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Ein historischer Wettlauf um die erste Winterbesteigung des K2 gerät zur Tragödie und offenbart, dass Ehrgeiz, Ego und Ruhmsucht ebenso gefährlich sein können wie der Berg selbst.",
+        "date": "2026-10-02",
+        "poster": "https://images.justwatch.com/poster/347980855/s332/the-last-first-winter-k2.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20First%3A%20Winter%20K2%20Trailer"
+      },
+      {
         "title": "Brothers",
         "media": "sorozat",
         "genres": [
@@ -41,7 +65,7 @@
         ],
         "overview": "Die Hollywood-Schauspieler Matthew McConaughey und Woody Harrelson sind seit Jahren dicke Freunde. Doch ein schockierendes Familiengeheimnis lässt den Schluss zu, dass die beiden mehr verbinden könnte, als sie je geahnt hätten.",
         "date": "2026-09-23",
-        "poster": "https://images.justwatch.com/poster/350958192/s332/brothers-1.jpg",
+        "poster": "https://images.justwatch.com/poster/355205550/s332/brothers-1.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Brothers%20Trailer"
       },
       {
@@ -57,7 +81,21 @@
         "trailer": "https://www.youtube.com/results?search_query=Last%20Seen%20Trailer"
       }
     ],
-    "disney-plus": [],
+    "disney-plus": [
+      {
+        "title": "Coven Academy",
+        "media": "sorozat",
+        "genres": [
+          "Komödie",
+          "Drama",
+          "Fantasy"
+        ],
+        "overview": "Die Coven Academy begleitet drei junge Hexen in Ausbildung, die vom Schicksal dazu bestimmt sind, ihre Stadt vor gefährlichen, uralten Mächten zu beschützen. Zwischen der Aufdeckung dunkler Geheimnisse, dem Erlernen unberechenbarer Magie und der Konfrontation mit ablenkend süßen Rivalen müssen sie sich auch mit den Herzschmerzen und tiefen Bindungen auseinandersetzen, die das Erwachsenwerden mit sich bringt.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/348408700/s332/boszorkanysuli.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Coven%20Academy%20Trailer"
+      }
+    ],
     "justwatch-tv": [],
     "apple-tv-store": [],
     "youtube-premium": [],
@@ -220,15 +258,17 @@
     "lionsgate-amazon-channel": [],
     "crunchyroll-amazon-channel": [
       {
-        "title": "FX Fighter Kurumi-chan",
+        "title": "From Far Away",
         "media": "sorozat",
         "genres": [
-          "Animation"
+          "Action",
+          "Animation",
+          "Fantasy"
         ],
-        "overview": "Kaufen! Verkaufen! Profit schlagen… oder alles verlieren! Die Studentin Fukuga Kurumi stürzt sich in die schnelllebige Welt des Devisenhandels, um die 20 Millionen Yen zurückzugewinnen, die ihre Mutter einst verlor. Gemeinsam mit ihren Trader-Freundinnen Mochiko, Mebuki und Yasuko kämpft sie gegen volatile Märkte, in denen jede Entscheidung zu Reichtum oder Ruin führen kann!",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/354747292/s332/fx-fighter-kurumi-chan.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=FX%20Fighter%20Kurumi-chan%20Trailer"
+        "overview": "On her way home from school one day, Noriko is unexpectedly plunged into a strange and extraordinary fantasy world. Her troubles compound exponentially when she is rescued and befriended by a handsome young man by the name of Izark. He may be brave and courageous, but inside Izark lurks the darkest evil imaginable. And according to an ancient prophecy, Noriko possesses the power to unleash that evil. Now, inexorably bound together, these two unlikely allies must navigate a world both wondrous and hostile.",
+        "date": "2026-10-05",
+        "poster": "https://images.justwatch.com/poster/354265268/s332/from-far-away.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=From%20Far%20Away%20Trailer"
       }
     ],
     "hayu-amazon-channel": [
