@@ -1,132 +1,137 @@
 {
-  "generated_at": "2026-09-28T17:37",
-  "window": "2026-09-28 .. 2026-10-13",
+  "generated_at": "2026-10-05T18:23",
+  "window": "2026-10-05 .. 2026-10-20",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "Verity",
+          "title": "Who Is Martin Mull?",
           "media": "film",
           "genres": [
-            "Crime",
+            "Comedy",
+            "Documentary"
+          ],
+          "overview": "Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.",
+          "date": "2026-10-07",
+          "poster": "https://images.justwatch.com/poster/355003226/s332/who-is-martin-mull.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20trailer"
+        },
+        {
+          "title": "Love of Your Life",
+          "media": "film",
+          "genres": [
             "Drama",
-            "Thriller"
+            "Romance"
           ],
-          "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-          "date": "2026-09-30",
-          "poster": "https://images.justwatch.com/poster/345873745/s332/verity.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Verity%20trailer"
+          "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+          "date": "2026-10-07",
+          "poster": "https://images.justwatch.com/poster/354522082/s332/love-of-your-life.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Love%20of%20Your%20Life%20trailer"
         },
         {
-          "title": "The Prince and the Kaiser – Yves Saint Laurent and Karl Lagerfeld",
-          "media": "film",
-          "genres": [
-            "Documentary"
-          ],
-          "overview": "At the International Wool Secretariat competition, 18-year-old Yves Saint Laurent and 21-year-old Karl Lagerfeld are honoured. Whilst Saint Laurent takes over Dior shortly afterwards and founds his own label, Lagerfeld becomes a master of constant reinvention. The former friends become bitter rivals, not least because of Jacques de Bascher, Lagerfeld’s flamboyant partner, who also comes dangerously close to Saint Laurent.",
-          "date": "2026-09-30",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=The%20Prince%20and%20the%20Kaiser%20%E2%80%93%20Yves%20Saint%20Laurent%20and%20Karl%20Lagerfeld%20trailer"
-        },
-        {
-          "title": "The Widower: 'Til Death Do Us Part",
-          "media": "film",
-          "genres": [
-            "Crime",
-            "Documentary"
-          ],
-          "overview": "A journalist and a detective uncover the truth about a killer whose charm masked a trail of failed marriages and suspicious deaths.",
-          "date": "2026-09-30",
-          "poster": "https://images.justwatch.com/poster/351062309/s332/the-widower-til-death-do-us-part.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Widower%3A%20%27Til%20Death%20Do%20Us%20Part%20trailer"
-        },
-        {
-          "title": "Crazy Rich, Incredibly Broke",
+          "title": "Jamie Foxx: Take Care of Yourself",
           "media": "film",
           "genres": [
             "Comedy"
           ],
-          "overview": "When the snobbish and wealthy AlThahabi family find out they're actually not as loaded as they think, they're forced to fake their affluence to survive.",
-          "date": "2026-10-01",
-          "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Crazy%20Rich%2C%20Incredibly%20Broke%20trailer"
+          "overview": "Jamie Foxx delivers honest self-care comedy in \"Take Care of Yourself.\" He joins the \"Hularious\" lineup with Hannah Berner, Ralph Barbosa, Bill Burr, Chris Distefano, Jim Gaffigan, Zarna Garg, Nikki Glaser, Ilana Glazer and more.",
+          "date": "2026-10-07",
+          "poster": "https://images.justwatch.com/poster/354938117/s332/jamie-foxx-take-care-of-yourself.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Jamie%20Foxx%3A%20Take%20Care%20of%20Yourself%20trailer"
         },
         {
-          "title": "Watching People Watching Birds",
+          "title": "Eine Krankheit wie ein Gedicht",
           "media": "film",
           "genres": [
             "Documentary"
           ],
-          "overview": "Highly topical, serious and humorous, this film observes people who are passionately devoted to bird watching. Through their eyes and ears, we discover the world of the birds that becomes a metaphor for the state of the world.",
-          "date": "2026-10-01",
-          "poster": "https://images.justwatch.com/poster/338423252/s332/watching-people-watching-birds.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Watching%20People%20Watching%20Birds%20trailer"
+          "overview": "Jelena Ilić's father suffers from drug-induced psychosis and has been in forensic psychiatry for five years. Now the day of his release is approaching. How can the director be sure that her father will not relapse and become violent again? How can a reconciliation be achieved? And how can society successfully reintegrate a mentally ill offender?",
+          "date": "2026-10-08",
+          "poster": "https://images.justwatch.com/poster/341166505/s332/eine-krankheit-wie-ein-gedicht.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Eine%20Krankheit%20wie%20ein%20Gedicht%20trailer"
         },
         {
-          "title": "How Can I Help",
+          "title": "Robu 404",
           "media": "film",
           "genres": [
+            "Animation"
+          ],
+          "overview": "Der neunjährige Can meistert dank seines selbstgebauten KI-Roboters \"Robu 404\" nicht nur technische Hürden, sondern entdeckt Mut, Selbstvertrauen und echte Freundschaft. Türkischer Animationsfilm.",
+          "date": "2026-10-08",
+          "poster": "https://images.justwatch.com/poster/355028483/s332/robu-404.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Robu%20404%20trailer"
+        },
+        {
+          "title": "Animals",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Crime",
             "Drama"
           ],
-          "overview": "In 2030, retired actress Mrs. Winkler lives bitterly and marked by pain. When her daughter Emi accepts a theater offer, a care robot named Pavlovich takes over the care of her mother. Unexpectedly, his knowledge of classical plays seems to reawaken Mrs. Winkler's will to live...",
-          "date": "2026-10-01",
-          "poster": "https://images.justwatch.com/poster/347597966/s332/frau-winkler-verlaesst-das-haus.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=How%20Can%20I%20Help%20trailer"
+          "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+          "date": "2026-10-09",
+          "poster": "https://images.justwatch.com/poster/348205137/s332/animals-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Animals%20trailer"
         },
         {
-          "title": "Where do I go from here?",
+          "title": "Zogsool",
+          "media": "film",
+          "genres": [],
+          "overview": "The vast Mongolian grassland stretches across the screen, with blue skies and beautiful clouds filling half the frame. Underneath, an oil tanker truck drives for some time along a scenic road, before coming to a stop in front of a small town. When the town is suddenly sealed off due to the COVID pandemic, Sumber, the oil tanker driver, is quarantined at the gas station. Khanda, a single mother who manages the station while being exploited for sex and labor by a corrupt government official and the greedy owner, is now also tasked with looking after Sumber.",
+          "date": "2026-10-11",
+          "poster": "https://images.justwatch.com/poster/354578789/s332/zogsool.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Zogsool%20trailer"
+        },
+        {
+          "title": "Free Leonard Peltier",
           "media": "film",
           "genres": [
             "Documentary"
           ],
-          "overview": "Majd and Shahfaisal live together in a residential group for unaccompanied refugee minors in Germany. Here, in the protected environment of the group, for the first time after fleeing, they should be able to live a life true to who they really are: teenagers who are just developing a personality, have dreams and are looking for their place in society. But how is this supposed to work if they are not even part of this society due to their refugee status?",
-          "date": "2026-10-01",
-          "poster": "https://images.justwatch.com/poster/336485462/s332/wohin-mit-mir.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Where%20do%20I%20go%20from%20here%3F%20trailer"
-        },
-        {
-          "title": "Corpus Delicti",
-          "media": "film",
-          "genres": [
-            "Drama",
-            "Thriller",
-            "Sci-Fi"
-          ],
-          "overview": "In the near future, the “method” controls the health and freedom of society. The life of neuroscientist Mia Holl, who is loyal to the system, changes abruptly when her brother Moritz Holl is wrongly accused of murder and imprisoned. In the fight for truth and justice, Mia begins to question the system and becomes the hunted herself.",
-          "date": "2026-10-01",
-          "poster": "https://images.justwatch.com/poster/346855405/s332/corpus-delicti-2026-1.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Corpus%20Delicti%20trailer"
+          "overview": "Leonard Peltier, an activist jailed for decades after a disputed conviction, faces his twilight years as a new generation fights for his release from prison before it's too late.",
+          "date": "2026-10-12",
+          "poster": "https://images.justwatch.com/poster/330272719/s332/free-leonard-peltier.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Free%20Leonard%20Peltier%20trailer"
         }
       ]
     },
     "hungary": {
       "items": [
         {
-          "title": "Verity",
+          "title": "Theatre Hauntings - West End Ghouls",
           "media": "film",
           "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
+            "Documentary"
           ],
-          "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-          "date": "2026-09-30",
-          "poster": "https://images.justwatch.com/poster/345873745/s332/verity.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Verity%20trailer"
+          "overview": "Ghostly sightings, haunted theatres and tragic legends collide in London's West End as eyewitnesses and dramatic reconstructions explore the chilling stories behind some of theatreland's most famous hauntings.",
+          "date": "2026-10-05",
+          "poster": "https://images.justwatch.com/poster/346683684/s332/theatre-hauntings-west-end-ghouls.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Theatre%20Hauntings%20-%20West%20End%20Ghouls%20trailer"
         },
         {
-          "title": "Yezhu Kadal Yezhu Malai",
+          "title": "Theatre Hauntings - Dark Knights on Broadway",
           "media": "film",
           "genres": [
-            "Action",
-            "Drama",
-            "Fantasy"
+            "Documentary"
           ],
-          "overview": "Caught between family duty and romantic love, a young man faces an impossible choice.",
-          "date": "2026-10-01",
-          "poster": "https://images.justwatch.com/poster/312115955/s332/yezhu-kadal-yezhu-malai.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Yezhu%20Kadal%20Yezhu%20Malai%20trailer"
+          "overview": "Broadway's brightest theatres hide dark secrets. From Olive Thomas to William Frohman, this documentary explores the tragic true stories and ghostly legends said to haunt New York's theatre district.",
+          "date": "2026-10-05",
+          "poster": "https://images.justwatch.com/poster/346683800/s332/theatre-hauntings-dark-knights-on-broadway.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Theatre%20Hauntings%20-%20Dark%20Knights%20on%20Broadway%20trailer"
+        },
+        {
+          "title": "Last Chance Motel",
+          "media": "film",
+          "genres": [
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "A newlywed couple's dream wedding spirals into a bloody nightmare when they uncover that their secluded venue- a desolate motel deep in the Nevada desert- is run by a relentless bloodthirsty family with dark secrets, revealing that one bride's future may not be all that it was promised to be.",
+          "date": "2026-10-06",
+          "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20trailer"
         },
         {
           "title": "Free Leonard Peltier",
@@ -144,75 +149,16 @@
     "usa": {
       "items": [
         {
-          "title": "Verity",
-          "media": "film",
-          "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
-          ],
-          "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-          "date": "2026-09-30",
-          "poster": "https://images.justwatch.com/poster/345873745/s332/verity.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Verity%20trailer"
-        },
-        {
-          "title": "The Hole, 309 Days to the Bloodiest Tragedy",
-          "media": "film",
-          "genres": [
-            "Thriller"
-          ],
-          "overview": "When a spate of gruesome killings rocks the countryside in East Jakarta, army officer Soegeng is tasked with clearing up rumours about the military’s involvement. Soegeng’s investigation, however, confronts him with the foundations of corruption – a truth too close for comfort.",
-          "date": "2026-10-01",
-          "poster": "https://images.justwatch.com/poster/354559251/s332/the-hole-309-days-to-the-bloodiest-tragedy.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Hole%2C%20309%20Days%20to%20the%20Bloodiest%20Tragedy%20trailer"
-        },
-        {
-          "title": "Parpadea",
-          "media": "film",
-          "genres": [
-            "Thriller"
-          ],
-          "overview": "",
-          "date": "2026-10-01",
-          "poster": "https://images.justwatch.com/poster/344543503/s332/parpadea.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Parpadea%20trailer"
-        },
-        {
-          "title": "Terrifier 4",
+          "title": "Who Is Martin Mull?",
           "media": "film",
           "genres": [
             "Comedy",
-            "Horror"
+            "Documentary"
           ],
-          "overview": "The fourth installment in the Terrifier franchise. Plot TBA.",
-          "date": "2026-10-01",
-          "poster": "https://images.justwatch.com/poster/338381731/s332/terrifier-4.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Terrifier%204%20trailer"
-        },
-        {
-          "title": "Crazy Rich, Incredibly Broke",
-          "media": "film",
-          "genres": [
-            "Comedy"
-          ],
-          "overview": "When the snobbish and wealthy AlThahabi family find out they're actually not as loaded as they think, they're forced to fake their affluence to survive.",
-          "date": "2026-10-01",
-          "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Crazy%20Rich%2C%20Incredibly%20Broke%20trailer"
-        },
-        {
-          "title": "When Anyone Sees",
-          "media": "film",
-          "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
-          ],
-          "overview": "Christian, a young man overlooked by society, burdened by a dark past and escalating madness, finds himself trapped in a world of violence and despair.",
-          "date": "2026-10-04",
-          "poster": "https://images.justwatch.com/poster/347388301/s332/when-anyone-sees.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=When%20Anyone%20Sees%20trailer"
+          "overview": "Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.",
+          "date": "2026-10-07",
+          "poster": "https://images.justwatch.com/poster/355003226/s332/who-is-martin-mull.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20trailer"
         },
         {
           "title": "Love of Your Life",
@@ -227,16 +173,73 @@
           "trailer": "https://www.youtube.com/results?search_query=Love%20of%20Your%20Life%20trailer"
         },
         {
-          "title": "Who Is Martin Mull?",
+          "title": "Fatima",
+          "media": "film",
+          "genres": [
+            "Drama"
+          ],
+          "overview": "Fatima is a model student at her strict school and an obedient daughter to her overprotective father. But in secret, she smokes and trains her voice, developing real singing talent. In a society where singing in public is taboo, she can never let her guard down.",
+          "date": "2026-10-08",
+          "poster": "https://images.justwatch.com/poster/354578995/s332/fatima-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Fatima%20trailer"
+        },
+        {
+          "title": "The Beast",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+          ],
+          "overview": "When a militia of unidentified hostiles coordinates a coup against the U.S., the president uncovers the extent of The Beast's highly classified offensive capabilities in order to save his life and America.",
+          "date": "2026-10-09",
+          "poster": "https://images.justwatch.com/poster/353893545/s332/the-beast-2026-1.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Beast%20trailer"
+        },
+        {
+          "title": "Angel and the Badman",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Romance",
+            "Western"
+          ],
+          "overview": "A wounded outlaw finds unexpected mercy in the care of a rancher's daughter. The hope of love pulls him toward a different life until the law, and his violent past, close in on his new home. Now he must choose the kind of man he'll become.",
+          "date": "2026-10-09",
+          "poster": "https://images.justwatch.com/poster/348233280/s332/angel-and-the-badman-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Angel%20and%20the%20Badman%20trailer"
+        },
+        {
+          "title": "The Spirit of Halloween",
           "media": "film",
           "genres": [
             "Comedy",
+            "Romance"
+          ],
+          "overview": "Brilliant bridal designer Everly Stone has no patience for Halloween, especially the beloved fire-station bash that once left her heartbroken in front of everyone she knew, but when her late mentor appears with a glamorous warning, Everly Stone is swept through one unforgettable night by three mischievous spirits who reveal the joy she lost, the people she’s pushing away, and the future she might miss if she keeps hiding behind work and fear. With a loyal assistant ready for more, a town waiting to welcome her back, and longtime friend Beau Madison still carrying a spark from their past, Everly Stone must decide whether Halloween is the night that broke her heart or the one that can finally help it heal.",
+          "date": "2026-10-10",
+          "poster": "https://images.justwatch.com/poster/354137199/s332/the-spirit-of-halloween.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Spirit%20of%20Halloween%20trailer"
+        },
+        {
+          "title": "Zogsool",
+          "media": "film",
+          "genres": [],
+          "overview": "The vast Mongolian grassland stretches across the screen, with blue skies and beautiful clouds filling half the frame. Underneath, an oil tanker truck drives for some time along a scenic road, before coming to a stop in front of a small town. When the town is suddenly sealed off due to the COVID pandemic, Sumber, the oil tanker driver, is quarantined at the gas station. Khanda, a single mother who manages the station while being exploited for sex and labor by a corrupt government official and the greedy owner, is now also tasked with looking after Sumber.",
+          "date": "2026-10-11",
+          "poster": "https://images.justwatch.com/poster/354578789/s332/zogsool.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Zogsool%20trailer"
+        },
+        {
+          "title": "Kashpirovsky - Under the Spell",
+          "media": "film",
+          "genres": [
             "Documentary"
           ],
-          "overview": "Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.",
-          "date": "2026-10-07",
-          "poster": "https://images.justwatch.com/poster/355003226/s332/who-is-martin-mull.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20trailer"
+          "overview": "The film tells the remarkable story of Dr Anatoly Kashpirovsky, who, at the height of his career, claimed to anaesthetise three women remotely for major surgery through the sheer force of his persuasion. His televised healing séances, broadcast across the Soviet bloc, broke viewing records, reaching hundreds of millions of people. Loved by his followers and despised by his enemies, Kashpirovsky became an unlikely symbol of a world undergoing radical political transformation.",
+          "date": "2026-10-12",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Kashpirovsky%20-%20Under%20the%20Spell%20trailer"
         }
       ]
     }
