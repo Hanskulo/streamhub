@@ -1,48 +1,46 @@
 {
-  "generated_at": "2026-10-05T18:24",
-  "week": "2026-10-05",
+  "generated_at": "2026-10-07T16:25",
+  "week": "2026-10-07",
   "by_provider": {
     "netflix": [
       {
-        "title": "Unabomber",
+        "title": "Crazy Rich, Incredibly Broke",
         "media": "film",
         "genres": [
-          "Krimi",
-          "Drama",
-          "Thriller"
+          "Komödie",
+          "Drama"
         ],
-        "overview": "In diesem Drama nach wahren Ereignissen wird Ted Kaczynskis Weg vom Harvard-Wunderkind und Testobjekt zum berüchtigten, vom FBI gejagten Unabomber nacherzählt.",
-        "date": "2026-09-25",
-        "poster": "https://images.justwatch.com/poster/354976666/s332/unabomber.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Unabomber%20Trailer"
-      },
-      {
-        "title": "Slachtvee",
-        "media": "film",
-        "genres": [
-          "Drama",
-          "Thriller",
-          "Europäisch"
-        ],
-        "overview": "Als Thomas erfährt, dass er Krebs hat und seine Tage gezählt sind, beschließt er, die ihm verbleibende Zeit zu nutzen, um so viele Übeltäter wie möglich auszuschalten.",
-        "date": "2026-09-19",
-        "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Slachtvee%20Trailer"
+        "overview": "Verzogen und völlig ahnungslos müssen drei verwöhnte Geschwister plötzlich erwachsen werden, als ihr Vater ihnen offenbart, dass sich ihr Vermögen in Luft aufgelöst hat.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Crazy%20Rich%2C%20Incredibly%20Broke%20Trailer"
       }
     ],
     "amazon-prime-video": [
       {
-        "title": "Neagley",
+        "title": "Der Tod ist mir lieber",
         "media": "sorozat",
         "genres": [
           "Action",
-          "Krimi",
-          "Drama"
+          "Komödie",
+          "Horror"
         ],
-        "overview": "Frances Neagley ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
-        "date": "2026-09-16",
-        "poster": "https://images.justwatch.com/poster/348270701/s332/neagley.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Neagley%20Trailer"
+        "overview": "In Mendoza lebt ein Außenseiter namens Archie. In einer Nacht wird er von einem Zombie gebissen, und nachdem er darüber nachgedacht hat, seinem Leben ein Ende zu setzen, beschließt er, herauszufinden, was mit seinem Körper vor sich geht. Mithilfe einer Freundin und seines Schwarms macht sich Archie auf die Suche nach einem Heilmittel, bevor er sich in ein Monster verwandelt und alle umbringt.",
+        "date": "2026-10-02",
+        "poster": "https://images.justwatch.com/poster/355173703/s332/inkabb-a-halal.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Der%20Tod%20ist%20mir%20lieber%20Trailer"
+      },
+      {
+        "title": "Honor Thy Mother",
+        "media": "sorozat",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "After years of estrangement, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.",
+        "date": "2026-09-11",
+        "poster": "https://images.justwatch.com/poster/354708311/s332/honor-thy-mother.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20Trailer"
       }
     ],
     "apple-tv": [
@@ -108,7 +106,7 @@
     "true-story": [],
     "hoichoi": [],
     "cultpix": [],
-    "filmbox": [],
+    "filmbox-stream": [],
     "sun-nxt": [],
     "skyshowtime": [
       {
@@ -240,17 +238,6 @@
         "date": "2026-09-18",
         "poster": "https://images.justwatch.com/poster/354571457/s332/mitti-de-putt.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Mitti%20de%20Putt%20Trailer"
-      },
-      {
-        "title": "Saara Pind Vailliyaan Daa",
-        "media": "film",
-        "genres": [
-          "Action"
-        ],
-        "overview": "After his father Baghail Singh is murdered, Jagga sets out to uncover the truth. His search reveals a secret underworld mafia and a shocking revelation about his father's past.",
-        "date": "2026-09-10",
-        "poster": "https://images.justwatch.com/poster/355005082/s332/saara-pind-vailliyaan-daa.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Saara%20Pind%20Vailliyaan%20Daa%20Trailer"
       }
     ],
     "artiflix": [],

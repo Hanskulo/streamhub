@@ -1,48 +1,46 @@
 {
-  "generated_at": "2026-10-05T18:23",
-  "week": "2026-10-05",
+  "generated_at": "2026-10-07T16:25",
+  "week": "2026-10-07",
   "by_provider": {
     "netflix": [
       {
-        "title": "Unabomber",
+        "title": "Csóró dúsgazdagok",
         "media": "film",
         "genres": [
-          "Krimi",
-          "Dráma",
-          "Thriller"
+          "Vígjáték",
+          "Dráma"
         ],
-        "overview": "A valós események ihlette dráma bemutatja, hogyan vált Ted Kaczynski a Harvard zseniális hallgatójából és kísérleti alanyból az Unabomberré, miközben üldözi az FBI.",
-        "date": "2026-09-25",
-        "poster": "https://images.justwatch.com/poster/354939438/s332/unabomber.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Unabomber%20el%C5%91zetes"
-      },
-      {
-        "title": "Vágómarha",
-        "media": "film",
-        "genres": [
-          "Dráma",
-          "Thriller",
-          "Európai"
-        ],
-        "overview": "Amikor Thomas megtudja, hogy rákos és a napjai meg vannak számlálva, elhatározza, hogy hátralévő idejében megszabadítja a világot minél több gonosztevőtől.",
-        "date": "2026-09-19",
-        "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=V%C3%A1g%C3%B3marha%20el%C5%91zetes"
+        "overview": "Amikor a sznob és jómódú AlThahabi család rájön, hogy egyáltalán nincsenek olyan jól eleresztve, mint hitték, a túlélés érdekében kénytelenek tovább színlelni a gazdagságot.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Cs%C3%B3r%C3%B3%20d%C3%BAsgazdagok%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
       {
-        "title": "Neagley",
+        "title": "Inkább a halál",
         "media": "sorozat",
         "genres": [
           "Akció",
-          "Krimi",
-          "Dráma"
+          "Vígjáték",
+          "Horror"
         ],
-        "overview": "A REACHER világában új fejezet kezdődik. Frances Neagley egy chicagói magánnyomozó, aki Jack Reacher kollégája volt a sereg 110-ik Különleges Nyomozati Egységénél. Amikor megtudja, hogy egy imádott régi barátja életét vesztette egy gyanús balesetben, a végletekig is elmegy, hogy kiderítse az igazságot.",
-        "date": "2026-09-16",
-        "poster": "https://images.justwatch.com/poster/354898828/s332/neagley.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Neagley%20el%C5%91zetes"
+        "overview": "Archie a mexikói Mendoza kisvárosának gimnáziumi lúzere, akinek az élete akkor fordul végképp feje tetejére, amikor egy zombi megharapja a sarki boltban. Miközben próbálja megérteni különös, élőhalottá váló állapotát, rájön, hogy a városban zajló furcsa események mögött egy sötét terv áll, amely akár teljes zombiapokalipszist is elszabadíthat. Archie a gótikus legjobb barátnőjével, Crisszel, valamint plátói szerelmével, Brendával fog össze, hogy megmentsék Mendozát, nyomozásukban pedig Sara Díaz detektív segíti őket. A túlélésért folytatott kaotikus küzdelem közben Archie nemcsak a zombiléttel és a helyi fenyegetésekkel kénytelen szembenézni, hanem saját félelmeivel, bizonytalanságaival és a felnövés fájdalmas felismeréseivel is.",
+        "date": "2026-10-02",
+        "poster": "https://images.justwatch.com/poster/355173703/s332/inkabb-a-halal.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Ink%C3%A1bb%20a%20hal%C3%A1l%20el%C5%91zetes"
+      },
+      {
+        "title": "Honor Thy Mother",
+        "media": "sorozat",
+        "genres": [
+          "Dráma",
+          "Thriller"
+        ],
+        "overview": "After years of estrangement, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.",
+        "date": "2026-09-11",
+        "poster": "https://images.justwatch.com/poster/354708311/s332/honor-thy-mother.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20el%C5%91zetes"
       }
     ],
     "apple-tv": [
@@ -108,7 +106,7 @@
     "true-story": [],
     "hoichoi": [],
     "cultpix": [],
-    "filmbox": [],
+    "filmbox-stream": [],
     "sun-nxt": [],
     "skyshowtime": [
       {
@@ -240,17 +238,6 @@
         "date": "2026-09-18",
         "poster": "https://images.justwatch.com/poster/354571457/s332/mitti-de-putt.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Mitti%20de%20Putt%20el%C5%91zetes"
-      },
-      {
-        "title": "Saara Pind Vailliyaan Daa",
-        "media": "film",
-        "genres": [
-          "Akció"
-        ],
-        "overview": "After his father Baghail Singh is murdered, Jagga sets out to uncover the truth. His search reveals a secret underworld mafia and a shocking revelation about his father's past.",
-        "date": "2026-09-10",
-        "poster": "https://images.justwatch.com/poster/355005082/s332/saara-pind-vailliyaan-daa.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Saara%20Pind%20Vailliyaan%20Daa%20el%C5%91zetes"
       }
     ],
     "artiflix": [],
