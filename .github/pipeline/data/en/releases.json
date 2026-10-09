@@ -1,19 +1,33 @@
 {
-  "generated_at": "2026-10-07T16:25",
-  "week": "2026-10-07",
+  "generated_at": "2026-10-09T16:09",
+  "week": "2026-10-09",
   "by_provider": {
     "netflix": [
       {
-        "title": "AlMahaitiya",
+        "title": "Unabomber",
         "media": "film",
         "genres": [
-          "Comedy",
-          "Drama"
+          "Crime",
+          "Drama",
+          "Thriller"
         ],
-        "overview": "A wealthy family loses their fortune and chooses to continue to fake affluence in an effort to keep up appearances.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=AlMahaitiya%20trailer"
+        "overview": "In this drama inspired by true events, Ted Kaczynski's transformation from Harvard prodigy to the infamous Unabomber unfolds as the FBI hunts him down.",
+        "date": "2026-09-25",
+        "poster": "https://images.justwatch.com/poster/354939438/s332/unabomber.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Unabomber%20trailer"
+      },
+      {
+        "title": "Slachtvee",
+        "media": "film",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "European"
+        ],
+        "overview": "Thomas, in his forties, holds an important post in a slaughterhouse. He is engaged to Marie-Rose, the daughter of the director, whom he hopes to follow later. In a routine examination in the hospital, however, he finds out that he has cancer and his days are counted. The upheaval that he suffers as a result, however, does not take long, his decision is certain: he will use the short time to clean up some bad guys. What else can he do now?",
+        "date": "2026-09-19",
+        "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Slachtvee%20trailer"
       }
     ],
     "amazon-prime-video": [
@@ -31,6 +45,19 @@
         "trailer": "https://www.youtube.com/results?search_query=I%20Would%20Rather%20Die%20trailer"
       },
       {
+        "title": "Neagley",
+        "media": "sorozat",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama"
+        ],
+        "overview": "Neagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery.",
+        "date": "2026-09-16",
+        "poster": "https://images.justwatch.com/poster/354898861/s332/neagley.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Neagley%20trailer"
+      },
+      {
         "title": "Honor Thy Mother",
         "media": "sorozat",
         "genres": [
@@ -44,6 +71,18 @@
       }
     ],
     "apple-tv": [
+      {
+        "title": "Matchbox the Movie",
+        "media": "film",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+        "date": "2026-10-05",
+        "poster": "https://images.justwatch.com/poster/354573347/s332/matchbox.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Matchbox%20the%20Movie%20trailer"
+      },
       {
         "title": "The Last First: Winter K2",
         "media": "film",
@@ -65,18 +104,6 @@
         "date": "2026-09-23",
         "poster": "https://images.justwatch.com/poster/350958165/s332/brothers-1.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Brothers%20trailer"
-      },
-      {
-        "title": "Last Seen",
-        "media": "sorozat",
-        "genres": [
-          "Drama",
-          "Thriller"
-        ],
-        "overview": "Police dispatcher Ian Ridley's daughter Maggie disappeared years ago. He receives a call, believing it's her, and embarks on a relentless quest to find her and reunite his family, disregarding consequences.",
-        "date": "2026-09-08",
-        "poster": "https://images.justwatch.com/poster/348320106/s332/last-seen.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Last%20Seen%20trailer"
       }
     ],
     "disney-plus": [
@@ -179,15 +206,16 @@
     ],
     "bloodstream": [
       {
-        "title": "She Did It",
+        "title": "Last Chance Motel",
         "media": "film",
         "genres": [
+          "Horror",
           "Thriller"
         ],
-        "overview": "After a suicide attempt, a fragile young woman awakens to find her boyfriend claiming her dead body is in their bathtub.",
-        "date": "2026-10-02",
-        "poster": "https://images.justwatch.com/poster/354752310/s332/she-did-it.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=She%20Did%20It%20trailer"
+        "overview": "A newlywed couple's dream wedding spirals into a bloody nightmare when they uncover that their secluded venue- a desolate motel deep in the Nevada desert- is run by a relentless bloodthirsty family with dark secrets, revealing that one bride's future may not be all that it was promised to be.",
+        "date": "2026-10-06",
+        "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20trailer"
       },
       {
         "title": "Creature Fear",
@@ -203,15 +231,26 @@
         "trailer": "https://www.youtube.com/results?search_query=Creature%20Fear%20trailer"
       },
       {
-        "title": "V/C/R/01",
+        "title": "Witchcraft Motion Picture Company Presents: Science Fiction Anthology Volume 1",
+        "media": "film",
+        "genres": [
+          "Sci-Fi"
+        ],
+        "overview": "Witchcraft Motion Picture Company and Rod Blackhurst present their first anthology collection of science fiction short films.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/355181096/s332/witchcraft-motion-picture-company-presents-science-fiction-anthology-volume-1.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Witchcraft%20Motion%20Picture%20Company%20Presents%3A%20Science%20Fiction%20Anthology%20Volume%201%20trailer"
+      },
+      {
+        "title": "Halloween Candy 2",
         "media": "film",
         "genres": [
           "Horror"
         ],
-        "overview": "A disturbing analog horror anthology unfolds through recovered VHS tapes and surveillance footage, revealing terrifying encounters with mysterious entities, a human experiment, a desperate emergency call, and a horrifying discovery",
-        "date": "2026-09-25",
-        "poster": "https://images.justwatch.com/poster/355013720/s332/v-c-r-01.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=V/C/R/01%20trailer"
+        "overview": "One year after surviving a Halloween massacre, Candee faces a new nightmare when a masked killer traps her and her friends inside a house where every secret is deadly. As the body count rises, she'll learn that the true monsters aren’t always the ones wearing masks.",
+        "date": "2026-09-29",
+        "poster": "https://images.justwatch.com/poster/354751739/s332/halloween-candy-2.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Halloween%20Candy%202%20trailer"
       },
       {
         "title": "Black-Eyed Terror",
@@ -225,21 +264,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Black-Eyed%20Terror%20trailer"
       }
     ],
-    "kableone": [
-      {
-        "title": "Mitti de Putt",
-        "media": "film",
-        "genres": [
-          "Action",
-          "Drama",
-          "Family"
-        ],
-        "overview": "Two villages are bound by a rivalry that has outlived the men who started it. For one young man, the feud stops being history the day his uncle murders his grandparents and carries his mother away.",
-        "date": "2026-09-18",
-        "poster": "https://images.justwatch.com/poster/354571457/s332/mitti-de-putt.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Mitti%20de%20Putt%20trailer"
-      }
-    ],
+    "kableone": [],
     "artiflix": [],
     "artify": [],
     "lionsgate-amazon-channel": [],

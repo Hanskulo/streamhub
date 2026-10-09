@@ -1,19 +1,33 @@
 {
-  "generated_at": "2026-10-07T16:25",
-  "week": "2026-10-07",
+  "generated_at": "2026-10-09T16:09",
+  "week": "2026-10-09",
   "by_provider": {
     "netflix": [
       {
-        "title": "Csóró dúsgazdagok",
+        "title": "Unabomber",
         "media": "film",
         "genres": [
-          "Vígjáték",
-          "Dráma"
+          "Krimi",
+          "Dráma",
+          "Thriller"
         ],
-        "overview": "Amikor a sznob és jómódú AlThahabi család rájön, hogy egyáltalán nincsenek olyan jól eleresztve, mint hitték, a túlélés érdekében kénytelenek tovább színlelni a gazdagságot.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Cs%C3%B3r%C3%B3%20d%C3%BAsgazdagok%20el%C5%91zetes"
+        "overview": "A valós események ihlette dráma bemutatja, hogyan vált Ted Kaczynski a Harvard zseniális hallgatójából és kísérleti alanyból az Unabomberré, miközben üldözi az FBI.",
+        "date": "2026-09-25",
+        "poster": "https://images.justwatch.com/poster/354939438/s332/unabomber.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Unabomber%20el%C5%91zetes"
+      },
+      {
+        "title": "Vágómarha",
+        "media": "film",
+        "genres": [
+          "Dráma",
+          "Thriller",
+          "Európai"
+        ],
+        "overview": "Amikor Thomas megtudja, hogy rákos és a napjai meg vannak számlálva, elhatározza, hogy hátralévő idejében megszabadítja a világot minél több gonosztevőtől.",
+        "date": "2026-09-19",
+        "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=V%C3%A1g%C3%B3marha%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -31,6 +45,19 @@
         "trailer": "https://www.youtube.com/results?search_query=Ink%C3%A1bb%20a%20hal%C3%A1l%20el%C5%91zetes"
       },
       {
+        "title": "Neagley",
+        "media": "sorozat",
+        "genres": [
+          "Akció",
+          "Krimi",
+          "Dráma"
+        ],
+        "overview": "A REACHER világában új fejezet kezdődik. Frances Neagley egy chicagói magánnyomozó, aki Jack Reacher kollégája volt a sereg 110-ik Különleges Nyomozati Egységénél. Amikor megtudja, hogy egy imádott régi barátja életét vesztette egy gyanús balesetben, a végletekig is elmegy, hogy kiderítse az igazságot.",
+        "date": "2026-09-16",
+        "poster": "https://images.justwatch.com/poster/354898828/s332/neagley.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Neagley%20el%C5%91zetes"
+      },
+      {
         "title": "Honor Thy Mother",
         "media": "sorozat",
         "genres": [
@@ -44,6 +71,18 @@
       }
     ],
     "apple-tv": [
+      {
+        "title": "Matchbox",
+        "media": "film",
+        "genres": [
+          "Akció",
+          "Vígjáték"
+        ],
+        "overview": "Amikor a volt gyermekkori barátok újra találkoznak, váratlanul éles fordulattal egy veszélyes nemzetközi összeesküvésbe csöppennek, és meg kell menteniük a világot.",
+        "date": "2026-10-05",
+        "poster": "https://images.justwatch.com/poster/354573347/s332/matchbox.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Matchbox%20el%C5%91zetes"
+      },
       {
         "title": "The Last First: Winter K2",
         "media": "film",
@@ -65,18 +104,6 @@
         "date": "2026-09-23",
         "poster": "https://images.justwatch.com/poster/350958165/s332/brothers-1.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Brothers%20el%C5%91zetes"
-      },
-      {
-        "title": "Last Seen",
-        "media": "sorozat",
-        "genres": [
-          "Dráma",
-          "Thriller"
-        ],
-        "overview": "Amikor a segélyhívó diszpécser Ian Ridley kétségbeesett hívást fogad egy tinédzsertől, akiről azt gondolja, talán a rég elveszett lánya, semmi sem állíthatja meg a felkutatásában.",
-        "date": "2026-09-08",
-        "poster": "https://images.justwatch.com/poster/348320106/s332/last-seen.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Last%20Seen%20el%C5%91zetes"
       }
     ],
     "disney-plus": [
@@ -179,15 +206,16 @@
     ],
     "bloodstream": [
       {
-        "title": "She Did It",
+        "title": "Last Chance Motel",
         "media": "film",
         "genres": [
+          "Horror",
           "Thriller"
         ],
-        "overview": "After a suicide attempt, a fragile young woman awakens to find her boyfriend claiming her dead body is in their bathtub.",
-        "date": "2026-10-02",
-        "poster": "https://images.justwatch.com/poster/354752310/s332/she-did-it.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=She%20Did%20It%20el%C5%91zetes"
+        "overview": "A newlywed couple's dream wedding spirals into a bloody nightmare when they uncover that their secluded venue- a desolate motel deep in the Nevada desert- is run by a relentless bloodthirsty family with dark secrets, revealing that one bride's future may not be all that it was promised to be.",
+        "date": "2026-10-06",
+        "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20el%C5%91zetes"
       },
       {
         "title": "Creature Fear",
@@ -203,15 +231,26 @@
         "trailer": "https://www.youtube.com/results?search_query=Creature%20Fear%20el%C5%91zetes"
       },
       {
-        "title": "V/C/R/01",
+        "title": "Witchcraft Motion Picture Company Presents: Science Fiction Anthology Volume 1",
+        "media": "film",
+        "genres": [
+          "Sci-Fi"
+        ],
+        "overview": "Witchcraft Motion Picture Company and Rod Blackhurst present their first anthology collection of science fiction short films.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/355181096/s332/witchcraft-motion-picture-company-presents-science-fiction-anthology-volume-1.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Witchcraft%20Motion%20Picture%20Company%20Presents%3A%20Science%20Fiction%20Anthology%20Volume%201%20el%C5%91zetes"
+      },
+      {
+        "title": "Halloween Candy 2",
         "media": "film",
         "genres": [
           "Horror"
         ],
-        "overview": "A disturbing analog horror anthology unfolds through recovered VHS tapes and surveillance footage, revealing terrifying encounters with mysterious entities, a human experiment, a desperate emergency call, and a horrifying discovery",
-        "date": "2026-09-25",
-        "poster": "https://images.justwatch.com/poster/355013720/s332/v-c-r-01.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=V/C/R/01%20el%C5%91zetes"
+        "overview": "One year after surviving a Halloween massacre, Candee faces a new nightmare when a masked killer traps her and her friends inside a house where every secret is deadly. As the body count rises, she'll learn that the true monsters aren’t always the ones wearing masks.",
+        "date": "2026-09-29",
+        "poster": "https://images.justwatch.com/poster/354751739/s332/halloween-candy-2.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Halloween%20Candy%202%20el%C5%91zetes"
       },
       {
         "title": "Black-Eyed Terror",
@@ -225,21 +264,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Black-Eyed%20Terror%20el%C5%91zetes"
       }
     ],
-    "kableone": [
-      {
-        "title": "Mitti de Putt",
-        "media": "film",
-        "genres": [
-          "Akció",
-          "Dráma",
-          "Családi"
-        ],
-        "overview": "Two villages are bound by a rivalry that has outlived the men who started it. For one young man, the feud stops being history the day his uncle murders his grandparents and carries his mother away.",
-        "date": "2026-09-18",
-        "poster": "https://images.justwatch.com/poster/354571457/s332/mitti-de-putt.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Mitti%20de%20Putt%20el%C5%91zetes"
-      }
-    ],
+    "kableone": [],
     "artiflix": [],
     "artify": [],
     "lionsgate-amazon-channel": [],
