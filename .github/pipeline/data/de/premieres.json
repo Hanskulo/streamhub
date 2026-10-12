@@ -1,89 +1,10 @@
 {
-  "generated_at": "2026-10-05T18:23",
-  "window": "2026-10-05 .. 2026-10-20",
+  "generated_at": "2026-10-12T18:59",
+  "window": "2026-10-12 .. 2026-10-27",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
-        {
-          "title": "Who Is Martin Mull?",
-          "media": "film",
-          "genres": [
-            "Komödie",
-            "Dokumentation"
-          ],
-          "overview": "Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.",
-          "date": "2026-10-07",
-          "poster": "https://images.justwatch.com/poster/355003226/s332/who-is-martin-mull.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20Trailer"
-        },
-        {
-          "title": "Love of Your Life",
-          "media": "film",
-          "genres": [
-            "Drama",
-            "Romantik"
-          ],
-          "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-          "date": "2026-10-07",
-          "poster": "https://images.justwatch.com/poster/354522082/s332/love-of-your-life.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Love%20of%20Your%20Life%20Trailer"
-        },
-        {
-          "title": "Jamie Foxx: Take Care of Yourself",
-          "media": "film",
-          "genres": [
-            "Komödie"
-          ],
-          "overview": "Jamie Foxx wird mit dem Alter nur besser. „Jamie Foxx: Take Care of Yourself“ liefert eine dringend benötigte Dosis Selbstfürsorge in seinem bislang ehrlichsten, reifsten und unvergesslichsten Programm.",
-          "date": "2026-10-07",
-          "poster": "https://images.justwatch.com/poster/354938117/s332/jamie-foxx-take-care-of-yourself.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Jamie%20Foxx%3A%20Take%20Care%20of%20Yourself%20Trailer"
-        },
-        {
-          "title": "Eine Krankheit wie ein Gedicht",
-          "media": "film",
-          "genres": [
-            "Dokumentation"
-          ],
-          "overview": "Drogeninduzierte, chronifizierte, schizo-affektive Psychose des manischen Formen-  kreises, Typ polytox, kein morphin Typ - das ist die Diagnose meines Vaters. Übersetzt  bedeutet das, dass er immer wieder denselben Kreislauf durchlebt: er verfällt in drogen-  induzierte Psychosen, wird in Psychiatrien ausgenüchtert und versinkt danach in  depressiver Scham. Während dieser Psychosen ist er unberechenbar und lebt seine  Gewalt offen aus, gegen die Menschen in seinem Umfeld - auch gegen meine Mutter  und mich.  Für mich ist er jedoch nicht nur ein Täter, dessen Taten ich zutiefst verurteile, sondern  auch ein Mensch, den ich liebe und ein Künstler, den ich bewundere.  Seine Psychosen und Innenwelten hat er in Fotografien, Malereien und Skulpturen  verewigt und dokumentiert. Er kämpft gegen sich selbst, seine Krankheit und gegen das  System. Und ich an seiner Seite.",
-          "date": "2026-10-08",
-          "poster": "https://images.justwatch.com/poster/341166505/s332/eine-krankheit-wie-ein-gedicht.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Eine%20Krankheit%20wie%20ein%20Gedicht%20Trailer"
-        },
-        {
-          "title": "Robu 404",
-          "media": "film",
-          "genres": [
-            "Animation"
-          ],
-          "overview": "Der neunjährige Can meistert dank seines selbstgebauten KI-Roboters \"Robu 404\" nicht nur technische Hürden, sondern entdeckt Mut, Selbstvertrauen und echte Freundschaft. Türkischer Animationsfilm.",
-          "date": "2026-10-08",
-          "poster": "https://images.justwatch.com/poster/355028483/s332/robu-404.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Robu%20404%20Trailer"
-        },
-        {
-          "title": "Animals",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Krimi",
-            "Drama"
-          ],
-          "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-          "date": "2026-10-09",
-          "poster": "https://images.justwatch.com/poster/348205137/s332/animals-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Animals%20Trailer"
-        },
-        {
-          "title": "Zogsool",
-          "media": "film",
-          "genres": [],
-          "overview": "The vast Mongolian grassland stretches across the screen, with blue skies and beautiful clouds filling half the frame. Underneath, an oil tanker truck drives for some time along a scenic road, before coming to a stop in front of a small town. When the town is suddenly sealed off due to the COVID pandemic, Sumber, the oil tanker driver, is quarantined at the gas station. Khanda, a single mother who manages the station while being exploited for sex and labor by a corrupt government official and the greedy owner, is now also tasked with looking after Sumber.",
-          "date": "2026-10-11",
-          "poster": "https://images.justwatch.com/poster/354578789/s332/zogsool.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Zogsool%20Trailer"
-        },
         {
           "title": "Free Leonard Peltier",
           "media": "film",
@@ -94,46 +15,97 @@
           "date": "2026-10-12",
           "poster": "https://images.justwatch.com/poster/330272719/s332/free-leonard-peltier.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Free%20Leonard%20Peltier%20Trailer"
+        },
+        {
+          "title": "Street Fighter",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "overview": "1993 werden die verfeindeten Kämpfer Ryu und Ken Masters erneut in den Kampf geworfen, als die mysteriöse Chun-Li sie für das nächste World Warrior Tournament rekrutiert, einen brutalen Kampf voller Fäuste, Schicksal und Wut. Doch hinter diesem Battle Royale verbirgt sich eine tödliche Verschwörung, die sie zwingt, gegeneinander und gegen die Dämonen ihrer Vergangenheit anzutreten.",
+          "date": "2026-10-13",
+          "poster": "https://images.justwatch.com/poster/355116278/s332/street-fighter-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Street%20Fighter%20Trailer"
+        },
+        {
+          "title": "Iron Boy",
+          "media": "film",
+          "genres": [
+            "Animation",
+            "Drama",
+            "Familie"
+          ],
+          "overview": "In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
+          "date": "2026-10-14",
+          "poster": "https://images.justwatch.com/poster/348572621/s332/iron-boy.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Iron%20Boy%20Trailer"
+        },
+        {
+          "title": "Minotaurus",
+          "media": "film",
+          "genres": [
+            "Krimi",
+            "Drama",
+            "Thriller"
+          ],
+          "overview": "Russland, 2022: Firmenchef Gleb führt ein Leben in Wohlstand und häuslicher Behaglichkeit. Doch bald gerät er an allen Fronten unter Druck. Zu Hause entzieht sich ihm seine Frau Galina mehr und mehr, und der Verdacht, dass sie ihn betrügt, lässt ihn nicht los. Im Betrieb verlangen die örtlichen Behörden von ihm, eine Anzahl seiner Beschäftigten für den Krieg in der Ukraine zu rekrutieren. Während er weiterhin seine Hände in Unschuld waschen will, ringt Gleb um Kontrolle. Doch der Zerfall seines sorgsam geordneten Lebens beschleunigt sich. Der Weg in die Gewalt scheint längst unausweichlich.",
+          "date": "2026-10-14",
+          "poster": "https://images.justwatch.com/poster/354820789/s332/minotaurus-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Minotaurus%20Trailer"
+        },
+        {
+          "title": "My Happy End",
+          "media": "film",
+          "genres": [
+            "Animation",
+            "Komödie"
+          ],
+          "overview": "Alle Hunde rennen hinter ihren Schwänzen her. Ein Hund schafft es schließlich doch, seinen Schwanz zu fangen. Und das verändert sein Leben. Denn er findet in ihm seinen besten Freund.",
+          "date": "2026-10-15",
+          "poster": "https://images.justwatch.com/poster/341847257/s332/My-Happy-End.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=My%20Happy%20End%20Trailer"
+        },
+        {
+          "title": "Dondurmam Gaymak: Gapital",
+          "media": "film",
+          "genres": [
+            "Komödie"
+          ],
+          "overview": "",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/349724676/s332/dondurmam-gaymak-gapital.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Dondurmam%20Gaymak%3A%20Gapital%20Trailer"
+        },
+        {
+          "title": "You Can See Everything",
+          "media": "film",
+          "genres": [
+            "Dokumentation"
+          ],
+          "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/355337192/s332/you-can-see-everything.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=You%20Can%20See%20Everything%20Trailer"
+        },
+        {
+          "title": "Masterplan",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Komödie",
+            "Krimi"
+          ],
+          "overview": "Ein Meisterdieb hat es auf die Mona Lisa abgesehen. Für den Coup rekrutiert er zwei Fremde: die italienische Cyber-Expertin Chiara und den französischen Sprengstoffspezialisten Jay. Dann offenbart er ihnen, ihr Vater zu sein. Die neuen Familienmitglieder müssen lernen, zusammenzuarbeiten und sich nicht gegenseitig umzubringen, damit der Raub des Jahrhunderts gelingen kann.",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/355186776/s332/masterplan.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Masterplan%20Trailer"
         }
       ]
     },
     "hungary": {
       "items": [
         {
-          "title": "Theatre Hauntings - West End Ghouls",
-          "media": "film",
-          "genres": [
-            "Dokumentation"
-          ],
-          "overview": "Ghostly sightings, haunted theatres and tragic legends collide in London's West End as eyewitnesses and dramatic reconstructions explore the chilling stories behind some of theatreland's most famous hauntings.",
-          "date": "2026-10-05",
-          "poster": "https://images.justwatch.com/poster/346683684/s332/theatre-hauntings-west-end-ghouls.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Theatre%20Hauntings%20-%20West%20End%20Ghouls%20Trailer"
-        },
-        {
-          "title": "Theatre Hauntings - Dark Knights on Broadway",
-          "media": "film",
-          "genres": [
-            "Dokumentation"
-          ],
-          "overview": "Broadway's brightest theatres hide dark secrets. From Olive Thomas to William Frohman, this documentary explores the tragic true stories and ghostly legends said to haunt New York's theatre district.",
-          "date": "2026-10-05",
-          "poster": "https://images.justwatch.com/poster/346683800/s332/theatre-hauntings-dark-knights-on-broadway.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Theatre%20Hauntings%20-%20Dark%20Knights%20on%20Broadway%20Trailer"
-        },
-        {
-          "title": "Last Chance Motel",
-          "media": "film",
-          "genres": [
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "A newlywed couple's dream wedding spirals into a bloody nightmare when they uncover that their secluded venue- a desolate motel deep in the Nevada desert- is run by a relentless bloodthirsty family with dark secrets, revealing that one bride's future may not be all that it was promised to be.",
-          "date": "2026-10-06",
-          "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20Trailer"
-        },
-        {
           "title": "Free Leonard Peltier",
           "media": "film",
           "genres": [
@@ -143,103 +115,117 @@
           "date": "2026-10-12",
           "poster": "https://images.justwatch.com/poster/330272719/s332/free-leonard-peltier.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Free%20Leonard%20Peltier%20Trailer"
+        },
+        {
+          "title": "Wildwood",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Animation",
+            "Fantasy"
+          ],
+          "overview": "Prues Abenteuer beginnen in den Wäldern außerhalb von Portland, als sie sich auf die Suche nach ihrem entführten Bruder macht.",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/354539728/s332/wildwood.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Wildwood%20Trailer"
         }
       ]
     },
     "usa": {
       "items": [
         {
-          "title": "Who Is Martin Mull?",
+          "title": "Iron Boy",
           "media": "film",
           "genres": [
-            "Komödie",
-            "Dokumentation"
-          ],
-          "overview": "Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.",
-          "date": "2026-10-07",
-          "poster": "https://images.justwatch.com/poster/355003226/s332/who-is-martin-mull.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20Trailer"
-        },
-        {
-          "title": "Love of Your Life",
-          "media": "film",
-          "genres": [
+            "Animation",
             "Drama",
-            "Romantik"
+            "Familie"
           ],
-          "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-          "date": "2026-10-07",
-          "poster": "https://images.justwatch.com/poster/354522082/s332/love-of-your-life.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Love%20of%20Your%20Life%20Trailer"
+          "overview": "In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
+          "date": "2026-10-14",
+          "poster": "https://images.justwatch.com/poster/348572621/s332/iron-boy.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Iron%20Boy%20Trailer"
         },
         {
-          "title": "Fatima",
+          "title": "The man formerly known as Maxwell Milk",
           "media": "film",
           "genres": [
             "Drama"
           ],
-          "overview": "Fatima is a model student at her strict school and an obedient daughter to her overprotective father. But in secret, she smokes and trains her voice, developing real singing talent. In a society where singing in public is taboo, she can never let her guard down.",
-          "date": "2026-10-08",
-          "poster": "https://images.justwatch.com/poster/354578995/s332/fatima-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Fatima%20Trailer"
+          "overview": "Maxwell details his dairy journey as he mutates into someone unrecognizable.",
+          "date": "2026-10-14",
+          "poster": "https://images.justwatch.com/poster/355030231/s332/the-man-formerly-known-as-maxwell-milk.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20man%20formerly%20known%20as%20Maxwell%20Milk%20Trailer"
         },
         {
-          "title": "The Beast",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Drama",
-            "Thriller"
-          ],
-          "overview": "When a militia of unidentified hostiles coordinates a coup against the U.S., the president uncovers the extent of The Beast's highly classified offensive capabilities in order to save his life and America.",
-          "date": "2026-10-09",
-          "poster": "https://images.justwatch.com/poster/353893545/s332/the-beast-2026-1.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Beast%20Trailer"
-        },
-        {
-          "title": "Angel and the Badman",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Romantik",
-            "Western"
-          ],
-          "overview": "A wounded outlaw finds unexpected mercy in the care of a rancher's daughter. The hope of love pulls him toward a different life until the law, and his violent past, close in on his new home. Now he must choose the kind of man he'll become.",
-          "date": "2026-10-09",
-          "poster": "https://images.justwatch.com/poster/348233280/s332/angel-and-the-badman-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Angel%20and%20the%20Badman%20Trailer"
-        },
-        {
-          "title": "The Spirit of Halloween",
+          "title": "Quick Fix",
           "media": "film",
           "genres": [
             "Komödie",
-            "Romantik"
+            "Horror"
           ],
-          "overview": "Brilliant bridal designer Everly Stone has no patience for Halloween, especially the beloved fire-station bash that once left her heartbroken in front of everyone she knew, but when her late mentor appears with a glamorous warning, Everly Stone is swept through one unforgettable night by three mischievous spirits who reveal the joy she lost, the people she’s pushing away, and the future she might miss if she keeps hiding behind work and fear. With a loyal assistant ready for more, a town waiting to welcome her back, and longtime friend Beau Madison still carrying a spark from their past, Everly Stone must decide whether Halloween is the night that broke her heart or the one that can finally help it heal.",
-          "date": "2026-10-10",
-          "poster": "https://images.justwatch.com/poster/354137199/s332/the-spirit-of-halloween.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Spirit%20of%20Halloween%20Trailer"
+          "overview": "Norman has been living his life through labels. (literally). Julius is trying to help Norman navigate through his strange \"illness.\"",
+          "date": "2026-10-15",
+          "poster": "https://images.justwatch.com/poster/348318166/s332/quick-fix-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Quick%20Fix%20Trailer"
         },
         {
-          "title": "Zogsool",
-          "media": "film",
-          "genres": [],
-          "overview": "The vast Mongolian grassland stretches across the screen, with blue skies and beautiful clouds filling half the frame. Underneath, an oil tanker truck drives for some time along a scenic road, before coming to a stop in front of a small town. When the town is suddenly sealed off due to the COVID pandemic, Sumber, the oil tanker driver, is quarantined at the gas station. Khanda, a single mother who manages the station while being exploited for sex and labor by a corrupt government official and the greedy owner, is now also tasked with looking after Sumber.",
-          "date": "2026-10-11",
-          "poster": "https://images.justwatch.com/poster/354578789/s332/zogsool.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Zogsool%20Trailer"
-        },
-        {
-          "title": "Kashpirovsky - Under the Spell",
+          "title": "Kashpirovsky. Under the Spell",
           "media": "film",
           "genres": [
             "Dokumentation"
           ],
           "overview": "The film tells the remarkable story of Dr Anatoly Kashpirovsky, who, at the height of his career, claimed to anaesthetise three women remotely for major surgery through the sheer force of his persuasion. His televised healing séances, broadcast across the Soviet bloc, broke viewing records, reaching hundreds of millions of people. Loved by his followers and despised by his enemies, Kashpirovsky became an unlikely symbol of a world undergoing radical political transformation.",
-          "date": "2026-10-12",
+          "date": "2026-10-16",
           "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Kashpirovsky%20-%20Under%20the%20Spell%20Trailer"
+          "trailer": "https://www.youtube.com/results?search_query=Kashpirovsky.%20Under%20the%20Spell%20Trailer"
+        },
+        {
+          "title": "Wuthering Heights: The House of the Damned",
+          "media": "film",
+          "genres": [
+            "Horror"
+          ],
+          "overview": "Mr. Lockwood arrives at the remote and storm-battered Wuthering Heights, unaware that Catherine's vengeful ghost walks its halls. Her obsessed lover, Heathcliff, feeds her bloodlust with human sacrifice, hoping to give her soul a new body to inhabit. As Lockwood grows sick and delusional, he is drawn deeper into their deadly, undying love, and must escape before he becomes their next victim.",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/353927982/s332/wuthering-heights-the-house-of-the-damned.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Wuthering%20Heights%3A%20The%20House%20of%20the%20Damned%20Trailer"
+        },
+        {
+          "title": "LEGO Friends: Heartlake the Musical",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Drama",
+            "Fantasy"
+          ],
+          "overview": "Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark – with plenty of song and dance numbers along the way.",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=LEGO%20Friends%3A%20Heartlake%20the%20Musical%20Trailer"
+        },
+        {
+          "title": "Trust Me, I'm a Doctor",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Drama"
+          ],
+          "overview": "The life of Dr. Sandeep Kapoor was turned upside down when he's implicated in the wrongful death trial of one-time Playboy centerfold Anna Nicole Smith.",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/350124008/s332/trust-me-im-a-doctor.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Trust%20Me%2C%20I%27m%20a%20Doctor%20Trailer"
+        },
+        {
+          "title": "You Can See Everything",
+          "media": "film",
+          "genres": [
+            "Dokumentation"
+          ],
+          "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/355337192/s332/you-can-see-everything.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=You%20Can%20See%20Everything%20Trailer"
         }
       ]
     }

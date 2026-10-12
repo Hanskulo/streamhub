@@ -1,89 +1,10 @@
 {
-  "generated_at": "2026-10-05T18:22",
-  "window": "2026-10-05 .. 2026-10-20",
+  "generated_at": "2026-10-12T18:58",
+  "window": "2026-10-12 .. 2026-10-27",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
-        {
-          "title": "Who Is Martin Mull?",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Dokumentum"
-          ],
-          "overview": "Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.",
-          "date": "2026-10-07",
-          "poster": "https://images.justwatch.com/poster/355003226/s332/who-is-martin-mull.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20el%C5%91zetes"
-        },
-        {
-          "title": "Love of Your Life",
-          "media": "film",
-          "genres": [
-            "Dráma",
-            "Romantikus"
-          ],
-          "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-          "date": "2026-10-07",
-          "poster": "https://images.justwatch.com/poster/354522082/s332/love-of-your-life.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Love%20of%20Your%20Life%20el%C5%91zetes"
-        },
-        {
-          "title": "Jamie Foxx: Take Care of Yourself",
-          "media": "film",
-          "genres": [
-            "Vígjáték"
-          ],
-          "overview": "Jamie Foxx az idővel csak jobb lesz. A \"Jamie Foxx: Vigyázz magadra\" egy jó adag nevetésterápia, amelyben a sztár eddigi legőszintébb, legkiforrottabb és legfelejthetetlenebb arcát mutatja.",
-          "date": "2026-10-07",
-          "poster": "https://images.justwatch.com/poster/354938117/s332/jamie-foxx-take-care-of-yourself.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Jamie%20Foxx%3A%20Take%20Care%20of%20Yourself%20el%C5%91zetes"
-        },
-        {
-          "title": "Eine Krankheit wie ein Gedicht",
-          "media": "film",
-          "genres": [
-            "Dokumentum"
-          ],
-          "overview": "Jelena Ilić's father suffers from drug-induced psychosis and has been in forensic psychiatry for five years. Now the day of his release is approaching. How can the director be sure that her father will not relapse and become violent again? How can a reconciliation be achieved? And how can society successfully reintegrate a mentally ill offender?",
-          "date": "2026-10-08",
-          "poster": "https://images.justwatch.com/poster/341166505/s332/eine-krankheit-wie-ein-gedicht.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Eine%20Krankheit%20wie%20ein%20Gedicht%20el%C5%91zetes"
-        },
-        {
-          "title": "Robu 404",
-          "media": "film",
-          "genres": [
-            "Animáció"
-          ],
-          "overview": "Der neunjährige Can meistert dank seines selbstgebauten KI-Roboters \"Robu 404\" nicht nur technische Hürden, sondern entdeckt Mut, Selbstvertrauen und echte Freundschaft. Türkischer Animationsfilm.",
-          "date": "2026-10-08",
-          "poster": "https://images.justwatch.com/poster/355028483/s332/robu-404.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Robu%20404%20el%C5%91zetes"
-        },
-        {
-          "title": "Állatok",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Krimi",
-            "Dráma"
-          ],
-          "overview": "Egy Los Angeles-i polgármesterjelölt és felesége igyekeznek összeszedni az elrabolt fiuk váltságdíját, miközben olyan döntéseket hoznak, amik darabokra törhetik az életüket.",
-          "date": "2026-10-09",
-          "poster": "https://images.justwatch.com/poster/354539781/s332/animals-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=%C3%81llatok%20el%C5%91zetes"
-        },
-        {
-          "title": "Zogsool",
-          "media": "film",
-          "genres": [],
-          "overview": "The vast Mongolian grassland stretches across the screen, with blue skies and beautiful clouds filling half the frame. Underneath, an oil tanker truck drives for some time along a scenic road, before coming to a stop in front of a small town. When the town is suddenly sealed off due to the COVID pandemic, Sumber, the oil tanker driver, is quarantined at the gas station. Khanda, a single mother who manages the station while being exploited for sex and labor by a corrupt government official and the greedy owner, is now also tasked with looking after Sumber.",
-          "date": "2026-10-11",
-          "poster": "https://images.justwatch.com/poster/354578789/s332/zogsool.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Zogsool%20el%C5%91zetes"
-        },
         {
           "title": "Free Leonard Peltier",
           "media": "film",
@@ -94,46 +15,97 @@
           "date": "2026-10-12",
           "poster": "https://images.justwatch.com/poster/330272719/s332/free-leonard-peltier.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Free%20Leonard%20Peltier%20el%C5%91zetes"
+        },
+        {
+          "title": "Street Fighter",
+          "media": "film",
+          "genres": [
+            "Akció",
+            "Fantasy"
+          ],
+          "overview": "1993-ban a külön utakon járó harcosok, Ryu (Andrew Koji) és Ken Masters (Noah Centineo) ismét küzdelembe keverednek, amikor a titokzatos Chun-Li (Callina Liang) beszervezi őket a következő World Warrior Tournamentre: egy brutális összecsapásra. De a háttérben egy halálos összeesküvés húzódik, amely arra kényszeríti őket, hogy szembenézzenek egymással és múltjuk démonaival.  (Bolla Eszter)R3",
+          "date": "2026-10-13",
+          "poster": "https://images.justwatch.com/poster/344441027/s332/street-fighter-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Street%20Fighter%20el%C5%91zetes"
+        },
+        {
+          "title": "Iron Boy",
+          "media": "film",
+          "genres": [
+            "Animáció",
+            "Dráma",
+            "Családi"
+          ],
+          "overview": "In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
+          "date": "2026-10-14",
+          "poster": "https://images.justwatch.com/poster/348572621/s332/iron-boy.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Iron%20Boy%20el%C5%91zetes"
+        },
+        {
+          "title": "Minotaur",
+          "media": "film",
+          "genres": [
+            "Krimi",
+            "Dráma",
+            "Thriller"
+          ],
+          "overview": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
+          "date": "2026-10-14",
+          "poster": "https://images.justwatch.com/poster/344232848/s332/minotaurus-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Minotaur%20el%C5%91zetes"
+        },
+        {
+          "title": "My Happy End",
+          "media": "film",
+          "genres": [
+            "Animáció",
+            "Vígjáték"
+          ],
+          "overview": "Minden kutya kergeti a farkát, de miután egyszer az egyik sikeresen el is kapja, örökre megváltozik az élete, és közben egy új legjobb barátot is szerez.",
+          "date": "2026-10-15",
+          "poster": "https://images.justwatch.com/poster/341847257/s332/My-Happy-End.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=My%20Happy%20End%20el%C5%91zetes"
+        },
+        {
+          "title": "Dondurmam Gaymak: Gapital",
+          "media": "film",
+          "genres": [
+            "Vígjáték"
+          ],
+          "overview": "",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/349724676/s332/dondurmam-gaymak-gapital.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Dondurmam%20Gaymak%3A%20Gapital%20el%C5%91zetes"
+        },
+        {
+          "title": "You Can See Everything",
+          "media": "film",
+          "genres": [
+            "Dokumentum"
+          ],
+          "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/355337192/s332/you-can-see-everything.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=You%20Can%20See%20Everything%20el%C5%91zetes"
+        },
+        {
+          "title": "A mesterterv",
+          "media": "film",
+          "genres": [
+            "Akció",
+            "Vígjáték",
+            "Krimi"
+          ],
+          "overview": "Amikor egy legendás tolvaj a Mona Lisára vet szemet, két fiatalt toboroz magának segítségül - Chiarát, egy olasz kiberbűnözés-szakértőt, és Jayt, egy francia robbanószer-szakértőt -, majd elárulná, hogy mindkettejüknek ő az apja. A kaotikus találkozás közben az új családtagoknak meg kell tanulniuk együttműködni, és nem megölni egymást, hogy esélyük legyen az évszázad rablásának végrehajtására.",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/355186771/s332/masterplan.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=A%20mesterterv%20el%C5%91zetes"
         }
       ]
     },
     "hungary": {
       "items": [
         {
-          "title": "Theatre Hauntings - West End Ghouls",
-          "media": "film",
-          "genres": [
-            "Dokumentum"
-          ],
-          "overview": "Ghostly sightings, haunted theatres and tragic legends collide in London's West End as eyewitnesses and dramatic reconstructions explore the chilling stories behind some of theatreland's most famous hauntings.",
-          "date": "2026-10-05",
-          "poster": "https://images.justwatch.com/poster/346683684/s332/theatre-hauntings-west-end-ghouls.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Theatre%20Hauntings%20-%20West%20End%20Ghouls%20el%C5%91zetes"
-        },
-        {
-          "title": "Theatre Hauntings - Dark Knights on Broadway",
-          "media": "film",
-          "genres": [
-            "Dokumentum"
-          ],
-          "overview": "Broadway's brightest theatres hide dark secrets. From Olive Thomas to William Frohman, this documentary explores the tragic true stories and ghostly legends said to haunt New York's theatre district.",
-          "date": "2026-10-05",
-          "poster": "https://images.justwatch.com/poster/346683800/s332/theatre-hauntings-dark-knights-on-broadway.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Theatre%20Hauntings%20-%20Dark%20Knights%20on%20Broadway%20el%C5%91zetes"
-        },
-        {
-          "title": "Last Chance Motel",
-          "media": "film",
-          "genres": [
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "A newlywed couple's dream wedding spirals into a bloody nightmare when they uncover that their secluded venue- a desolate motel deep in the Nevada desert- is run by a relentless bloodthirsty family with dark secrets, revealing that one bride's future may not be all that it was promised to be.",
-          "date": "2026-10-06",
-          "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20el%C5%91zetes"
-        },
-        {
           "title": "Free Leonard Peltier",
           "media": "film",
           "genres": [
@@ -143,103 +115,117 @@
           "date": "2026-10-12",
           "poster": "https://images.justwatch.com/poster/330272719/s332/free-leonard-peltier.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Free%20Leonard%20Peltier%20el%C5%91zetes"
+        },
+        {
+          "title": "Wildwood - A tiltott vadon",
+          "media": "film",
+          "genres": [
+            "Akció",
+            "Animáció",
+            "Fantasy"
+          ],
+          "overview": "Prue és osztálytársa, Curtis egy tiltott, varázslatos erdőbe téved, amelyet elbűvölt lények, hűséges szövetségesek és félelmetes ellenfelek népesítenek be. Kétségbeesett küldetésre indulnak, hogy kiszabadítsák Prue elrabolt kisöccsét, Macet a varjak fogságából, akiket egy Alexandra nevű, titokzatos nő vezet. (Csillag Lajos)",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/354684670/s332/wildwood.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Wildwood%20-%20A%20tiltott%20vadon%20el%C5%91zetes"
         }
       ]
     },
     "usa": {
       "items": [
         {
-          "title": "Who Is Martin Mull?",
+          "title": "Iron Boy",
           "media": "film",
           "genres": [
-            "Vígjáték",
-            "Dokumentum"
-          ],
-          "overview": "Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.",
-          "date": "2026-10-07",
-          "poster": "https://images.justwatch.com/poster/355003226/s332/who-is-martin-mull.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20el%C5%91zetes"
-        },
-        {
-          "title": "Love of Your Life",
-          "media": "film",
-          "genres": [
+            "Animáció",
             "Dráma",
-            "Romantikus"
+            "Családi"
           ],
-          "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-          "date": "2026-10-07",
-          "poster": "https://images.justwatch.com/poster/354522082/s332/love-of-your-life.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Love%20of%20Your%20Life%20el%C5%91zetes"
+          "overview": "In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
+          "date": "2026-10-14",
+          "poster": "https://images.justwatch.com/poster/348572621/s332/iron-boy.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Iron%20Boy%20el%C5%91zetes"
         },
         {
-          "title": "Fatima",
+          "title": "The man formerly known as Maxwell Milk",
           "media": "film",
           "genres": [
             "Dráma"
           ],
-          "overview": "Fatima is a model student at her strict school and an obedient daughter to her overprotective father. But in secret, she smokes and trains her voice, developing real singing talent. In a society where singing in public is taboo, she can never let her guard down.",
-          "date": "2026-10-08",
-          "poster": "https://images.justwatch.com/poster/354578995/s332/fatima-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Fatima%20el%C5%91zetes"
+          "overview": "Maxwell details his dairy journey as he mutates into someone unrecognizable.",
+          "date": "2026-10-14",
+          "poster": "https://images.justwatch.com/poster/355030231/s332/the-man-formerly-known-as-maxwell-milk.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20man%20formerly%20known%20as%20Maxwell%20Milk%20el%C5%91zetes"
         },
         {
-          "title": "The Beast",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Dráma",
-            "Thriller"
-          ],
-          "overview": "When a militia of unidentified hostiles coordinates a coup against the U.S., the president uncovers the extent of The Beast's highly classified offensive capabilities in order to save his life and America.",
-          "date": "2026-10-09",
-          "poster": "https://images.justwatch.com/poster/353893545/s332/the-beast-2026-1.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Beast%20el%C5%91zetes"
-        },
-        {
-          "title": "Angel and the Badman",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Romantikus",
-            "Western"
-          ],
-          "overview": "A wounded outlaw finds unexpected mercy in the care of a rancher's daughter. The hope of love pulls him toward a different life until the law, and his violent past, close in on his new home. Now he must choose the kind of man he'll become.",
-          "date": "2026-10-09",
-          "poster": "https://images.justwatch.com/poster/348233280/s332/angel-and-the-badman-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Angel%20and%20the%20Badman%20el%C5%91zetes"
-        },
-        {
-          "title": "The Spirit of Halloween",
+          "title": "Quick Fix",
           "media": "film",
           "genres": [
             "Vígjáték",
-            "Romantikus"
+            "Horror"
           ],
-          "overview": "Brilliant bridal designer Everly Stone has no patience for Halloween, especially the beloved fire-station bash that once left her heartbroken in front of everyone she knew, but when her late mentor appears with a glamorous warning, Everly Stone is swept through one unforgettable night by three mischievous spirits who reveal the joy she lost, the people she’s pushing away, and the future she might miss if she keeps hiding behind work and fear. With a loyal assistant ready for more, a town waiting to welcome her back, and longtime friend Beau Madison still carrying a spark from their past, Everly Stone must decide whether Halloween is the night that broke her heart or the one that can finally help it heal.",
-          "date": "2026-10-10",
-          "poster": "https://images.justwatch.com/poster/354137199/s332/the-spirit-of-halloween.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Spirit%20of%20Halloween%20el%C5%91zetes"
+          "overview": "Norman has been living his life through labels. (literally). Julius is trying to help Norman navigate through his strange \"illness.\"",
+          "date": "2026-10-15",
+          "poster": "https://images.justwatch.com/poster/348318166/s332/quick-fix-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Quick%20Fix%20el%C5%91zetes"
         },
         {
-          "title": "Zogsool",
-          "media": "film",
-          "genres": [],
-          "overview": "The vast Mongolian grassland stretches across the screen, with blue skies and beautiful clouds filling half the frame. Underneath, an oil tanker truck drives for some time along a scenic road, before coming to a stop in front of a small town. When the town is suddenly sealed off due to the COVID pandemic, Sumber, the oil tanker driver, is quarantined at the gas station. Khanda, a single mother who manages the station while being exploited for sex and labor by a corrupt government official and the greedy owner, is now also tasked with looking after Sumber.",
-          "date": "2026-10-11",
-          "poster": "https://images.justwatch.com/poster/354578789/s332/zogsool.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Zogsool%20el%C5%91zetes"
-        },
-        {
-          "title": "Kashpirovsky - Under the Spell",
+          "title": "Kashpirovsky. Under the Spell",
           "media": "film",
           "genres": [
             "Dokumentum"
           ],
           "overview": "The film tells the remarkable story of Dr Anatoly Kashpirovsky, who, at the height of his career, claimed to anaesthetise three women remotely for major surgery through the sheer force of his persuasion. His televised healing séances, broadcast across the Soviet bloc, broke viewing records, reaching hundreds of millions of people. Loved by his followers and despised by his enemies, Kashpirovsky became an unlikely symbol of a world undergoing radical political transformation.",
-          "date": "2026-10-12",
+          "date": "2026-10-16",
           "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Kashpirovsky%20-%20Under%20the%20Spell%20el%C5%91zetes"
+          "trailer": "https://www.youtube.com/results?search_query=Kashpirovsky.%20Under%20the%20Spell%20el%C5%91zetes"
+        },
+        {
+          "title": "Wuthering Heights: The House of the Damned",
+          "media": "film",
+          "genres": [
+            "Horror"
+          ],
+          "overview": "Mr. Lockwood arrives at the remote and storm-battered Wuthering Heights, unaware that Catherine's vengeful ghost walks its halls. Her obsessed lover, Heathcliff, feeds her bloodlust with human sacrifice, hoping to give her soul a new body to inhabit. As Lockwood grows sick and delusional, he is drawn deeper into their deadly, undying love, and must escape before he becomes their next victim.",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/353927982/s332/wuthering-heights-the-house-of-the-damned.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Wuthering%20Heights%3A%20The%20House%20of%20the%20Damned%20el%C5%91zetes"
+        },
+        {
+          "title": "LEGO Friends: Heartlake the Musical",
+          "media": "film",
+          "genres": [
+            "Vígjáték",
+            "Dráma",
+            "Fantasy"
+          ],
+          "overview": "Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark – with plenty of song and dance numbers along the way.",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=LEGO%20Friends%3A%20Heartlake%20the%20Musical%20el%C5%91zetes"
+        },
+        {
+          "title": "Trust Me, I'm a Doctor",
+          "media": "film",
+          "genres": [
+            "Vígjáték",
+            "Dráma"
+          ],
+          "overview": "The life of Dr. Sandeep Kapoor was turned upside down when he's implicated in the wrongful death trial of one-time Playboy centerfold Anna Nicole Smith.",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/350124008/s332/trust-me-im-a-doctor.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Trust%20Me%2C%20I%27m%20a%20Doctor%20el%C5%91zetes"
+        },
+        {
+          "title": "You Can See Everything",
+          "media": "film",
+          "genres": [
+            "Dokumentum"
+          ],
+          "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+          "date": "2026-10-16",
+          "poster": "https://images.justwatch.com/poster/355337192/s332/you-can-see-everything.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=You%20Can%20See%20Everything%20el%C5%91zetes"
         }
       ]
     }
