@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-11T15:38",
-  "week": "2026-10-11",
+  "generated_at": "2026-10-13T16:56",
+  "week": "2026-10-13",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Who Is Martin Mull?",
+        "media": "film",
+        "genres": [
+          "Komödie",
+          "Dokumentation"
+        ],
+        "overview": "Er war ein begnadeter Comedian – doch sein wahres Genie lag woanders. Diese starbesetzte Doku beleuchtet Martin Mulls lebenslange, große Leidenschaft für die Kunst.",
+        "date": "2026-10-07",
+        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20Trailer"
+      },
       {
         "title": "Unabomber",
         "media": "film",
@@ -15,19 +27,6 @@
         "date": "2026-09-25",
         "poster": "https://images.justwatch.com/poster/354976666/s332/unabomber.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Unabomber%20Trailer"
-      },
-      {
-        "title": "Slachtvee",
-        "media": "film",
-        "genres": [
-          "Drama",
-          "Thriller",
-          "Europäisch"
-        ],
-        "overview": "Als Thomas erfährt, dass er Krebs hat und seine Tage gezählt sind, beschließt er, die ihm verbleibende Zeit zu nutzen, um so viele Übeltäter wie möglich auszuschalten.",
-        "date": "2026-09-19",
-        "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Slachtvee%20Trailer"
       }
     ],
     "amazon-prime-video": [
@@ -43,18 +42,6 @@
         "date": "2026-10-02",
         "poster": "https://images.justwatch.com/poster/355173703/s332/inkabb-a-halal.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Der%20Tod%20ist%20mir%20lieber%20Trailer"
-      },
-      {
-        "title": "Honor Thy Mother",
-        "media": "sorozat",
-        "genres": [
-          "Drama",
-          "Thriller"
-        ],
-        "overview": "After years of estrangement, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.",
-        "date": "2026-09-11",
-        "poster": "https://images.justwatch.com/poster/354708311/s332/honor-thy-mother.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20Trailer"
       }
     ],
     "apple-tv": [
@@ -205,6 +192,19 @@
         "date": "2026-10-11",
         "poster": "https://images.justwatch.com/poster/354797926/s332/full-clearing-another-world-under-a-goddess-with-zero-believers.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20under%20a%20Goddess%20with%20Zero%20Believers%20Trailer"
+      },
+      {
+        "title": "A Certain Dark Item",
+        "media": "sorozat",
+        "genres": [
+          "Action",
+          "Animation",
+          "Thriller"
+        ],
+        "overview": "Esper-Kräfte verprechen in der Bildungsstadt eine bessere Zukunft. Doch unter der friedlichen Oberfläche lauert eine gnadenlose dunkle Seite. ITEM, ein Eliteteam aus vier Mädchen mit tödlichen Fähigkeiten, führt gefährliche Missionen durch, die nie publik werden dürfen. Als eine Fünfte beitritt, werden sie tiefer in diese Welt der Gewalt, Brutalität und moralischer Korruption gezogen.",
+        "date": "2026-10-09",
+        "poster": "https://images.justwatch.com/poster/355006389/s332/a-certain-dark-item.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=A%20Certain%20Dark%20Item%20Trailer"
       },
       {
         "title": "From Far Away",

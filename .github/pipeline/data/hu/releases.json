@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-11T15:37",
-  "week": "2026-10-11",
+  "generated_at": "2026-10-13T16:55",
+  "week": "2026-10-13",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Kicsoda Martin Mull?",
+        "media": "film",
+        "genres": [
+          "Vígjáték",
+          "Dokumentum"
+        ],
+        "overview": "A dokumentumfilm Martin Mull sokoldalú pályáját és rejtettebb művészi oldalát tárja fel: a komikusként, zenészként, színészként és festőként is maradandót alkotó előadó életútját saját megszólalásai, archív anyagok és pályatársak visszaemlékezései rajzolják meg. A történet végigköveti, hogyan jutott el a füstös folkkluboktól és a szatirikus zenei fellépésektől a televíziós kultszerepekig, majd a galériák világáig, miközben barátai és kollégái felidézik különös humorát, állandó újrakezdéseit és azt a művészi szenvedélyt, amely egész életében a nevetések mögött is meghatározta őt.",
+        "date": "2026-10-07",
+        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Kicsoda%20Martin%20Mull%3F%20el%C5%91zetes"
+      },
       {
         "title": "Unabomber",
         "media": "film",
@@ -15,19 +27,6 @@
         "date": "2026-09-25",
         "poster": "https://images.justwatch.com/poster/354939438/s332/unabomber.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Unabomber%20el%C5%91zetes"
-      },
-      {
-        "title": "Vágómarha",
-        "media": "film",
-        "genres": [
-          "Dráma",
-          "Thriller",
-          "Európai"
-        ],
-        "overview": "Amikor Thomas megtudja, hogy rákos és a napjai meg vannak számlálva, elhatározza, hogy hátralévő idejében megszabadítja a világot minél több gonosztevőtől.",
-        "date": "2026-09-19",
-        "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=V%C3%A1g%C3%B3marha%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -43,18 +42,6 @@
         "date": "2026-10-02",
         "poster": "https://images.justwatch.com/poster/355173703/s332/inkabb-a-halal.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Ink%C3%A1bb%20a%20hal%C3%A1l%20el%C5%91zetes"
-      },
-      {
-        "title": "Honor Thy Mother",
-        "media": "sorozat",
-        "genres": [
-          "Dráma",
-          "Thriller"
-        ],
-        "overview": "After years of estrangement, a mother and daughter find themselves on opposite sides of a bitter contest for what each believes is rightfully hers. Old wounds resurface as they weigh whether to confront the past together or let it drive them further apart.",
-        "date": "2026-09-11",
-        "poster": "https://images.justwatch.com/poster/354708311/s332/honor-thy-mother.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Honor%20Thy%20Mother%20el%C5%91zetes"
       }
     ],
     "apple-tv": [
@@ -205,6 +192,19 @@
         "date": "2026-10-11",
         "poster": "https://images.justwatch.com/poster/354797926/s332/full-clearing-another-world-under-a-goddess-with-zero-believers.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20under%20a%20Goddess%20with%20Zero%20Believers%20el%C5%91zetes"
+      },
+      {
+        "title": "A Certain Dark Item",
+        "media": "sorozat",
+        "genres": [
+          "Akció",
+          "Animáció",
+          "Thriller"
+        ],
+        "overview": "In Academy City, psychic powers promise a brighter future. But beneath the city's peaceful surface lurks a merciless dark side. ITEM, an elite team of four girls with deadly abilities, carries out dangerous missions that can never see the light of day. When a fifth girl enters their lives, ITEM is drawn deeper into a world of violence, brutality, and moral corruption.",
+        "date": "2026-10-09",
+        "poster": "https://images.justwatch.com/poster/355006389/s332/a-certain-dark-item.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=A%20Certain%20Dark%20Item%20el%C5%91zetes"
       },
       {
         "title": "From Far Away",
