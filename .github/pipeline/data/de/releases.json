@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-10-13T16:56",
-  "week": "2026-10-13",
+  "generated_at": "2026-10-15T14:09",
+  "week": "2026-10-15",
   "by_provider": {
     "netflix": [
       {
-        "title": "Who Is Martin Mull?",
+        "title": "Slachtvee",
         "media": "film",
         "genres": [
-          "Komödie",
-          "Dokumentation"
-        ],
-        "overview": "Er war ein begnadeter Comedian – doch sein wahres Genie lag woanders. Diese starbesetzte Doku beleuchtet Martin Mulls lebenslange, große Leidenschaft für die Kunst.",
-        "date": "2026-10-07",
-        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20Trailer"
-      },
-      {
-        "title": "Unabomber",
-        "media": "film",
-        "genres": [
-          "Krimi",
           "Drama",
-          "Thriller"
+          "Thriller",
+          "Europäisch"
         ],
-        "overview": "In diesem Drama nach wahren Ereignissen wird Ted Kaczynskis Weg vom Harvard-Wunderkind und Testobjekt zum berüchtigten, vom FBI gejagten Unabomber nacherzählt.",
-        "date": "2026-09-25",
-        "poster": "https://images.justwatch.com/poster/354976666/s332/unabomber.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Unabomber%20Trailer"
+        "overview": "Als Thomas erfährt, dass er Krebs hat und seine Tage gezählt sind, beschließt er, die ihm verbleibende Zeit zu nutzen, um so viele Übeltäter wie möglich auszuschalten.",
+        "date": "2026-09-19",
+        "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Slachtvee%20Trailer"
       }
     ],
     "amazon-prime-video": [
+      {
+        "title": "Love of Your Life",
+        "media": "film",
+        "genres": [
+          "Drama",
+          "Romantik"
+        ],
+        "overview": "Unter Rachel Morrisons Regie erzählt \"Love of Your Life\" von Maya (Margaret Qualley), deren Zufallsbegegnung mit Charlie (Gabriel Basso) eine große Liebe entfacht. Doch als ihre Träume zerplatzen, wird Maya in ein neues Leben katapultiert. Sie muss neu herausfinden, wer sie ist, was sie will und wie sie wieder lieben kann.",
+        "date": "2026-10-07",
+        "poster": "https://images.justwatch.com/poster/354522082/s332/szeresd-az-eleted.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Love%20of%20Your%20Life%20Trailer"
+      },
       {
         "title": "Der Tod ist mir lieber",
         "media": "sorozat",
@@ -42,6 +42,19 @@
         "date": "2026-10-02",
         "poster": "https://images.justwatch.com/poster/355173703/s332/inkabb-a-halal.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Der%20Tod%20ist%20mir%20lieber%20Trailer"
+      },
+      {
+        "title": "Neagley",
+        "media": "sorozat",
+        "genres": [
+          "Action",
+          "Krimi",
+          "Drama"
+        ],
+        "overview": "Frances Neagley ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
+        "date": "2026-09-16",
+        "poster": "https://images.justwatch.com/poster/348270701/s332/neagley.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Neagley%20Trailer"
       }
     ],
     "apple-tv": [
@@ -100,7 +113,19 @@
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
-    "wow-presents-plus": [],
+    "wow-presents-plus": [
+      {
+        "title": "Goodbye Goodbye Goodbye",
+        "media": "sorozat",
+        "genres": [
+          "Reality"
+        ],
+        "overview": "After we watch a queen sashay away each week, Kyran Thrax gives them a call to say hello — and goodbye, goodbye, goodbye. The RuPaul’s Drag Race UK winner gets the first post-elimination debrief, digging into fan reactions and burning questions fans want answered.",
+        "date": "2026-09-16",
+        "poster": "https://images.justwatch.com/poster/355089625/s332/goodbye-goodbye-goodbye.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Goodbye%20Goodbye%20Goodbye%20Trailer"
+      }
+    ],
     "magellan-tv": [],
     "broadwayhd": [],
     "dekkoo": [],
@@ -194,19 +219,6 @@
         "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20under%20a%20Goddess%20with%20Zero%20Believers%20Trailer"
       },
       {
-        "title": "A Certain Dark Item",
-        "media": "sorozat",
-        "genres": [
-          "Action",
-          "Animation",
-          "Thriller"
-        ],
-        "overview": "Esper-Kräfte verprechen in der Bildungsstadt eine bessere Zukunft. Doch unter der friedlichen Oberfläche lauert eine gnadenlose dunkle Seite. ITEM, ein Eliteteam aus vier Mädchen mit tödlichen Fähigkeiten, führt gefährliche Missionen durch, die nie publik werden dürfen. Als eine Fünfte beitritt, werden sie tiefer in diese Welt der Gewalt, Brutalität und moralischer Korruption gezogen.",
-        "date": "2026-10-09",
-        "poster": "https://images.justwatch.com/poster/355006389/s332/a-certain-dark-item.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=A%20Certain%20Dark%20Item%20Trailer"
-      },
-      {
         "title": "From Far Away",
         "media": "sorozat",
         "genres": [
@@ -214,7 +226,7 @@
           "Animation",
           "Fantasy"
         ],
-        "overview": "Noriko is an ordinary high school student, until an explosion pulls her into a world of magic where no one speaks her language. Completely lost, Noriko is rescued by Izark, a shunned swordsman determined to kill the Awakening: a prophesied figure said to control the Sky Demon. As Izark and Noriko bond, he realizes she may be the very person he’s hunting.",
+        "overview": "Noriko ist eine gewöhnliche Oberschülerin, bis sie eines Tages in eine magische Welt katapultiert wird, in der niemand ihre Sprache spricht. Völlig verloren wird sie von Izark, einem Wanderkrieger, gerettet, der fest entschlossen ist, das Erwachen - die Person, die den Himmelsdämon kontrollieren kann - zu töten. Doch während ihrer Reise bemerkt Izark, dass Noriko diese Person sein könnte.",
         "date": "2026-10-05",
         "poster": "https://images.justwatch.com/poster/354265268/s332/from-far-away.jpg",
         "trailer": "https://www.youtube.com/results?search_query=From%20Far%20Away%20Trailer"

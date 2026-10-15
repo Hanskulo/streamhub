@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-10-13T16:55",
-  "week": "2026-10-13",
+  "generated_at": "2026-10-15T14:08",
+  "week": "2026-10-15",
   "by_provider": {
     "netflix": [
       {
-        "title": "Kicsoda Martin Mull?",
+        "title": "Vágómarha",
         "media": "film",
         "genres": [
-          "Vígjáték",
-          "Dokumentum"
-        ],
-        "overview": "A dokumentumfilm Martin Mull sokoldalú pályáját és rejtettebb művészi oldalát tárja fel: a komikusként, zenészként, színészként és festőként is maradandót alkotó előadó életútját saját megszólalásai, archív anyagok és pályatársak visszaemlékezései rajzolják meg. A történet végigköveti, hogyan jutott el a füstös folkkluboktól és a szatirikus zenei fellépésektől a televíziós kultszerepekig, majd a galériák világáig, miközben barátai és kollégái felidézik különös humorát, állandó újrakezdéseit és azt a művészi szenvedélyt, amely egész életében a nevetések mögött is meghatározta őt.",
-        "date": "2026-10-07",
-        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Kicsoda%20Martin%20Mull%3F%20el%C5%91zetes"
-      },
-      {
-        "title": "Unabomber",
-        "media": "film",
-        "genres": [
-          "Krimi",
           "Dráma",
-          "Thriller"
+          "Thriller",
+          "Európai"
         ],
-        "overview": "A valós események ihlette dráma bemutatja, hogyan vált Ted Kaczynski a Harvard zseniális hallgatójából és kísérleti alanyból az Unabomberré, miközben üldözi az FBI.",
-        "date": "2026-09-25",
-        "poster": "https://images.justwatch.com/poster/354939438/s332/unabomber.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Unabomber%20el%C5%91zetes"
+        "overview": "Amikor Thomas megtudja, hogy rákos és a napjai meg vannak számlálva, elhatározza, hogy hátralévő idejében megszabadítja a világot minél több gonosztevőtől.",
+        "date": "2026-09-19",
+        "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=V%C3%A1g%C3%B3marha%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
+      {
+        "title": "Szeresd az életed",
+        "media": "film",
+        "genres": [
+          "Dráma",
+          "Romantikus"
+        ],
+        "overview": "Rachel Morrison (The Fire Inside) filmje, a SZERESD AZ ÉLETED Maya (Margaret Qualley) története. Egy véletlen találkozás Charlie-val (Gabriel Basso) elsöprő szerelmet szül, és korábban elképzelni sem mert jövőt tár a lány elé. Amikor ez a jövő darabokra hullik, Maya egy új életbe csöppen, amely arra kényszeríti, hogy szembenézzen azzal, ki is ő valójában, mire vágyik, és hogyan tud újra szeretni.",
+        "date": "2026-10-07",
+        "poster": "https://images.justwatch.com/poster/354522082/s332/szeresd-az-eleted.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Szeresd%20az%20%C3%A9leted%20el%C5%91zetes"
+      },
       {
         "title": "Inkább a halál",
         "media": "sorozat",
@@ -42,6 +42,19 @@
         "date": "2026-10-02",
         "poster": "https://images.justwatch.com/poster/355173703/s332/inkabb-a-halal.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Ink%C3%A1bb%20a%20hal%C3%A1l%20el%C5%91zetes"
+      },
+      {
+        "title": "Neagley",
+        "media": "sorozat",
+        "genres": [
+          "Akció",
+          "Krimi",
+          "Dráma"
+        ],
+        "overview": "A REACHER világában új fejezet kezdődik. Frances Neagley egy chicagói magánnyomozó, aki Jack Reacher kollégája volt a sereg 110-ik Különleges Nyomozati Egységénél. Amikor megtudja, hogy egy imádott régi barátja életét vesztette egy gyanús balesetben, a végletekig is elmegy, hogy kiderítse az igazságot.",
+        "date": "2026-09-16",
+        "poster": "https://images.justwatch.com/poster/354898828/s332/neagley.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Neagley%20el%C5%91zetes"
       }
     ],
     "apple-tv": [
@@ -100,7 +113,19 @@
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
-    "wow-presents-plus": [],
+    "wow-presents-plus": [
+      {
+        "title": "Goodbye Goodbye Goodbye",
+        "media": "sorozat",
+        "genres": [
+          "Reality"
+        ],
+        "overview": "After we watch a queen sashay away each week, Kyran Thrax gives them a call to say hello — and goodbye, goodbye, goodbye. The RuPaul’s Drag Race UK winner gets the first post-elimination debrief, digging into fan reactions and burning questions fans want answered.",
+        "date": "2026-09-16",
+        "poster": "https://images.justwatch.com/poster/355089625/s332/goodbye-goodbye-goodbye.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Goodbye%20Goodbye%20Goodbye%20el%C5%91zetes"
+      }
+    ],
     "magellan-tv": [],
     "broadwayhd": [],
     "dekkoo": [],
@@ -192,19 +217,6 @@
         "date": "2026-10-11",
         "poster": "https://images.justwatch.com/poster/354797926/s332/full-clearing-another-world-under-a-goddess-with-zero-believers.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20under%20a%20Goddess%20with%20Zero%20Believers%20el%C5%91zetes"
-      },
-      {
-        "title": "A Certain Dark Item",
-        "media": "sorozat",
-        "genres": [
-          "Akció",
-          "Animáció",
-          "Thriller"
-        ],
-        "overview": "In Academy City, psychic powers promise a brighter future. But beneath the city's peaceful surface lurks a merciless dark side. ITEM, an elite team of four girls with deadly abilities, carries out dangerous missions that can never see the light of day. When a fifth girl enters their lives, ITEM is drawn deeper into a world of violence, brutality, and moral corruption.",
-        "date": "2026-10-09",
-        "poster": "https://images.justwatch.com/poster/355006389/s332/a-certain-dark-item.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=A%20Certain%20Dark%20Item%20el%C5%91zetes"
       },
       {
         "title": "From Far Away",
