@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-15T14:09",
-  "week": "2026-10-15",
+  "generated_at": "2026-10-17T12:57",
+  "week": "2026-10-17",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Who Is Martin Mull?",
+        "media": "film",
+        "genres": [
+          "Komödie",
+          "Dokumentation"
+        ],
+        "overview": "Er war ein begnadeter Comedian – doch sein wahres Genie lag woanders. Diese starbesetzte Doku beleuchtet Martin Mulls lebenslange, große Leidenschaft für die Kunst.",
+        "date": "2026-10-07",
+        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20Trailer"
+      },
       {
         "title": "Slachtvee",
         "media": "film",
@@ -25,7 +37,7 @@
           "Drama",
           "Romantik"
         ],
-        "overview": "Unter Rachel Morrisons Regie erzählt \"Love of Your Life\" von Maya (Margaret Qualley), deren Zufallsbegegnung mit Charlie (Gabriel Basso) eine große Liebe entfacht. Doch als ihre Träume zerplatzen, wird Maya in ein neues Leben katapultiert. Sie muss neu herausfinden, wer sie ist, was sie will und wie sie wieder lieben kann.",
+        "overview": "Mayas Zufallsbegegnung mit Charlie entfacht eine große Liebe. Doch als ihre Träume zerplatzen, wird Maya in ein neues Leben katapultiert. Sie muss neu herausfinden, wer sie ist, was sie will und wie sie wieder lieben kann.",
         "date": "2026-10-07",
         "poster": "https://images.justwatch.com/poster/354522082/s332/szeresd-az-eleted.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Love%20of%20Your%20Life%20Trailer"
@@ -40,24 +52,24 @@
         ],
         "overview": "In Mendoza lebt ein Außenseiter namens Archie. In einer Nacht wird er von einem Zombie gebissen, und nachdem er darüber nachgedacht hat, seinem Leben ein Ende zu setzen, beschließt er, herauszufinden, was mit seinem Körper vor sich geht. Mithilfe einer Freundin und seines Schwarms macht sich Archie auf die Suche nach einem Heilmittel, bevor er sich in ein Monster verwandelt und alle umbringt.",
         "date": "2026-10-02",
-        "poster": "https://images.justwatch.com/poster/355173703/s332/inkabb-a-halal.jpg",
+        "poster": "https://images.justwatch.com/poster/355551513/s332/inkabb-a-halal.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Der%20Tod%20ist%20mir%20lieber%20Trailer"
-      },
-      {
-        "title": "Neagley",
-        "media": "sorozat",
-        "genres": [
-          "Action",
-          "Krimi",
-          "Drama"
-        ],
-        "overview": "Frances Neagley ist eine Privatdetektivin in Chicago und eine ehemalige Militärkollegin von Jack Reacher in der 110. Spezialeinheit der US-Army. Als sie erfährt, dass ein lieber Freund aus ihrer Vergangenheit bei einem verdächtigen Unfall ums Leben kam, setzt sie alles daran, für Gerechtigkeit zu sorgen.",
-        "date": "2026-09-16",
-        "poster": "https://images.justwatch.com/poster/348270701/s332/neagley.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Neagley%20Trailer"
       }
     ],
     "apple-tv": [
+      {
+        "title": "Tenzing",
+        "media": "film",
+        "genres": [
+          "Drama",
+          "Historie",
+          "Thriller"
+        ],
+        "overview": "Ein zu allem entschlossener Mann begibt sich auf eine lebensgefährliche Expedition und stellt sich scheinbar unüberwindbaren Hindernissen, um als erster Mensch den Gipfel des Mount Everest zu erreichen.",
+        "date": "2026-10-16",
+        "poster": "https://images.justwatch.com/poster/354677229/s332/tendzing.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Tenzing%20Trailer"
+      },
       {
         "title": "Matchbox: Der Film",
         "media": "film",
@@ -113,19 +125,7 @@
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
-    "wow-presents-plus": [
-      {
-        "title": "Goodbye Goodbye Goodbye",
-        "media": "sorozat",
-        "genres": [
-          "Reality"
-        ],
-        "overview": "After we watch a queen sashay away each week, Kyran Thrax gives them a call to say hello — and goodbye, goodbye, goodbye. The RuPaul’s Drag Race UK winner gets the first post-elimination debrief, digging into fan reactions and burning questions fans want answered.",
-        "date": "2026-09-16",
-        "poster": "https://images.justwatch.com/poster/355089625/s332/goodbye-goodbye-goodbye.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Goodbye%20Goodbye%20Goodbye%20Trailer"
-      }
-    ],
+    "wow-presents-plus": [],
     "magellan-tv": [],
     "broadwayhd": [],
     "dekkoo": [],
@@ -187,17 +187,6 @@
         "date": "2026-10-06",
         "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20Trailer"
-      },
-      {
-        "title": "Witchcraft Motion Picture Company Presents: Science Fiction Anthology Volume 1",
-        "media": "film",
-        "genres": [
-          "Sci-Fi"
-        ],
-        "overview": "Witchcraft Motion Picture Company and Rod Blackhurst present their first anthology collection of science fiction short films.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/355181096/s332/witchcraft-motion-picture-company-presents-science-fiction-anthology-volume-1.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Witchcraft%20Motion%20Picture%20Company%20Presents%3A%20Science%20Fiction%20Anthology%20Volume%201%20Trailer"
       }
     ],
     "kableone": [],

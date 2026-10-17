@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-15T14:09",
-  "week": "2026-10-15",
+  "generated_at": "2026-10-17T12:57",
+  "week": "2026-10-17",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Who Is Martin Mull?",
+        "media": "film",
+        "genres": [
+          "Comedy",
+          "Documentary"
+        ],
+        "overview": "Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.",
+        "date": "2026-10-07",
+        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20trailer"
+      },
       {
         "title": "Slachtvee",
         "media": "film",
@@ -38,26 +50,26 @@
           "Comedy",
           "Horror"
         ],
-        "overview": "The protagonist Archie, considered the school loser, is bitten by a zombie and finds himself at the center of a mission to save the city alongside his friends Cris and Brenda.",
+        "overview": "One cold night, misfit Archie gets bitten by a zombie and after briefly considering ending his life, he decides he's going to figure out what the hell is happening to his body. So, with the help of his only friend and his lifelong crush, Archie sets out to find a cure before he turns into a full-blown monster and kills everyone.",
         "date": "2026-10-02",
-        "poster": "https://images.justwatch.com/poster/355173703/s332/inkabb-a-halal.jpg",
+        "poster": "https://images.justwatch.com/poster/355551513/s332/inkabb-a-halal.jpg",
         "trailer": "https://www.youtube.com/results?search_query=I%20Would%20Rather%20Die%20trailer"
-      },
-      {
-        "title": "Neagley",
-        "media": "sorozat",
-        "genres": [
-          "Action",
-          "Crime",
-          "Drama"
-        ],
-        "overview": "Neagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery.",
-        "date": "2026-09-16",
-        "poster": "https://images.justwatch.com/poster/354898861/s332/neagley.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Neagley%20trailer"
       }
     ],
     "apple-tv": [
+      {
+        "title": "Tenzing",
+        "media": "film",
+        "genres": [
+          "Drama",
+          "History",
+          "Thriller"
+        ],
+        "overview": "The untold and inspiring tale of one of the most important mountain climbers in history who, with Edmund Hillary, became the first person to reach the summit of Mount Everest.",
+        "date": "2026-10-16",
+        "poster": "https://images.justwatch.com/poster/354677231/s332/tendzing.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Tenzing%20trailer"
+      },
       {
         "title": "Matchbox the Movie",
         "media": "film",
@@ -113,19 +125,7 @@
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
-    "wow-presents-plus": [
-      {
-        "title": "Goodbye Goodbye Goodbye",
-        "media": "sorozat",
-        "genres": [
-          "Reality"
-        ],
-        "overview": "After we watch a queen sashay away each week, Kyran Thrax gives them a call to say hello — and goodbye, goodbye, goodbye. The RuPaul’s Drag Race UK winner gets the first post-elimination debrief, digging into fan reactions and burning questions fans want answered.",
-        "date": "2026-09-16",
-        "poster": "https://images.justwatch.com/poster/355089625/s332/goodbye-goodbye-goodbye.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Goodbye%20Goodbye%20Goodbye%20trailer"
-      }
-    ],
+    "wow-presents-plus": [],
     "magellan-tv": [],
     "broadwayhd": [],
     "dekkoo": [],
@@ -187,17 +187,6 @@
         "date": "2026-10-06",
         "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20trailer"
-      },
-      {
-        "title": "Witchcraft Motion Picture Company Presents: Science Fiction Anthology Volume 1",
-        "media": "film",
-        "genres": [
-          "Sci-Fi"
-        ],
-        "overview": "Witchcraft Motion Picture Company and Rod Blackhurst present their first anthology collection of science fiction short films.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/355181096/s332/witchcraft-motion-picture-company-presents-science-fiction-anthology-volume-1.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Witchcraft%20Motion%20Picture%20Company%20Presents%3A%20Science%20Fiction%20Anthology%20Volume%201%20trailer"
       }
     ],
     "kableone": [],
@@ -206,7 +195,7 @@
     "lionsgate-amazon-channel": [],
     "crunchyroll-amazon-channel": [
       {
-        "title": "Full Clearing Another World under a Goddess with Zero Believers",
+        "title": "Full Clearing Another World Under a Goddess with Zero Believers",
         "media": "sorozat",
         "genres": [
           "Action",
@@ -216,7 +205,7 @@
         "overview": "An isekai fantasy where an ordinary gamer reincarnates without special powers, teams up with a minor goddess, and rises from the weakest to the strongest in a new world.",
         "date": "2026-10-11",
         "poster": "https://images.justwatch.com/poster/354797926/s332/full-clearing-another-world-under-a-goddess-with-zero-believers.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20under%20a%20Goddess%20with%20Zero%20Believers%20trailer"
+        "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20Under%20a%20Goddess%20with%20Zero%20Believers%20trailer"
       },
       {
         "title": "From Far Away",

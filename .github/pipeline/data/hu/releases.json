@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-15T14:08",
-  "week": "2026-10-15",
+  "generated_at": "2026-10-17T12:56",
+  "week": "2026-10-17",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Kicsoda Martin Mull?",
+        "media": "film",
+        "genres": [
+          "Vígjáték",
+          "Dokumentum"
+        ],
+        "overview": "A dokumentumfilm Martin Mull sokoldalú pályáját és rejtettebb művészi oldalát tárja fel: a komikusként, zenészként, színészként és festőként is maradandót alkotó előadó életútját saját megszólalásai, archív anyagok és pályatársak visszaemlékezései rajzolják meg. A történet végigköveti, hogyan jutott el a füstös folkkluboktól és a szatirikus zenei fellépésektől a televíziós kultszerepekig, majd a galériák világáig, miközben barátai és kollégái felidézik különös humorát, állandó újrakezdéseit és azt a művészi szenvedélyt, amely egész életében a nevetések mögött is meghatározta őt.",
+        "date": "2026-10-07",
+        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Kicsoda%20Martin%20Mull%3F%20el%C5%91zetes"
+      },
       {
         "title": "Vágómarha",
         "media": "film",
@@ -25,9 +37,9 @@
           "Dráma",
           "Romantikus"
         ],
-        "overview": "Rachel Morrison (The Fire Inside) filmje, a SZERESD AZ ÉLETED Maya (Margaret Qualley) története. Egy véletlen találkozás Charlie-val (Gabriel Basso) elsöprő szerelmet szül, és korábban elképzelni sem mert jövőt tár a lány elé. Amikor ez a jövő darabokra hullik, Maya egy új életbe csöppen, amely arra kényszeríti, hogy szembenézzen azzal, ki is ő valójában, mire vágyik, és hogyan tud újra szeretni.",
+        "overview": "Rachel Morrison filmje, a SZERESD AZ ÉLETED Maya története. Egy véletlen találkozás Charlie-val elsöprő szerelmet szül, és korábban elképzelni sem mert jövőt tár a lány elé. Amikor ez a jövő darabokra hullik, Maya egy új életbe csöppen, amely arra kényszeríti, hogy szembenézzen azzal, ki is ő valójában, mire vágyik, és hogyan tud újra szeretni.",
         "date": "2026-10-07",
-        "poster": "https://images.justwatch.com/poster/354522082/s332/szeresd-az-eleted.jpg",
+        "poster": "https://images.justwatch.com/poster/355561624/s332/szeresd-az-eleted.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Szeresd%20az%20%C3%A9leted%20el%C5%91zetes"
       },
       {
@@ -38,26 +50,26 @@
           "Vígjáték",
           "Horror"
         ],
-        "overview": "Archie a mexikói Mendoza kisvárosának gimnáziumi lúzere, akinek az élete akkor fordul végképp feje tetejére, amikor egy zombi megharapja a sarki boltban. Miközben próbálja megérteni különös, élőhalottá váló állapotát, rájön, hogy a városban zajló furcsa események mögött egy sötét terv áll, amely akár teljes zombiapokalipszist is elszabadíthat. Archie a gótikus legjobb barátnőjével, Crisszel, valamint plátói szerelmével, Brendával fog össze, hogy megmentsék Mendozát, nyomozásukban pedig Sara Díaz detektív segíti őket. A túlélésért folytatott kaotikus küzdelem közben Archie nemcsak a zombiléttel és a helyi fenyegetésekkel kénytelen szembenézni, hanem saját félelmeivel, bizonytalanságaival és a felnövés fájdalmas felismeréseivel is.",
+        "overview": "Mendoza csendes, vidéki kisvárosában él egy Archie nevű különc fiú. Egy hideg estén Archie-t megharapja egy zombi, és miután az is megfordul a fejében, hogy végez magával, úgy dönt, kideríti, mi az ördög történik a testével. Így aztán egyetlen barátja és élete szerelme segítségével Archie nekivág, hogy gyógymódot találjon, mielőtt szörnyeteggé változik, és megöl mindenkit.",
         "date": "2026-10-02",
-        "poster": "https://images.justwatch.com/poster/355173703/s332/inkabb-a-halal.jpg",
+        "poster": "https://images.justwatch.com/poster/355551508/s332/inkabb-a-halal.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Ink%C3%A1bb%20a%20hal%C3%A1l%20el%C5%91zetes"
-      },
-      {
-        "title": "Neagley",
-        "media": "sorozat",
-        "genres": [
-          "Akció",
-          "Krimi",
-          "Dráma"
-        ],
-        "overview": "A REACHER világában új fejezet kezdődik. Frances Neagley egy chicagói magánnyomozó, aki Jack Reacher kollégája volt a sereg 110-ik Különleges Nyomozati Egységénél. Amikor megtudja, hogy egy imádott régi barátja életét vesztette egy gyanús balesetben, a végletekig is elmegy, hogy kiderítse az igazságot.",
-        "date": "2026-09-16",
-        "poster": "https://images.justwatch.com/poster/354898828/s332/neagley.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Neagley%20el%C5%91zetes"
       }
     ],
     "apple-tv": [
+      {
+        "title": "Tendzing",
+        "media": "film",
+        "genres": [
+          "Dráma",
+          "Történelmi",
+          "Thriller"
+        ],
+        "overview": "Egy elszánt férfi kockázatos küldetése során teljesíthetetlennek tűnő akadályokat is legyőz, hogy megvalósítsa álmát: elsőként elérni az Everest csúcsát.",
+        "date": "2026-10-16",
+        "poster": "https://images.justwatch.com/poster/354681065/s332/tendzing.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Tendzing%20el%C5%91zetes"
+      },
       {
         "title": "Matchbox",
         "media": "film",
@@ -113,19 +125,7 @@
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
-    "wow-presents-plus": [
-      {
-        "title": "Goodbye Goodbye Goodbye",
-        "media": "sorozat",
-        "genres": [
-          "Reality"
-        ],
-        "overview": "After we watch a queen sashay away each week, Kyran Thrax gives them a call to say hello — and goodbye, goodbye, goodbye. The RuPaul’s Drag Race UK winner gets the first post-elimination debrief, digging into fan reactions and burning questions fans want answered.",
-        "date": "2026-09-16",
-        "poster": "https://images.justwatch.com/poster/355089625/s332/goodbye-goodbye-goodbye.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Goodbye%20Goodbye%20Goodbye%20el%C5%91zetes"
-      }
-    ],
+    "wow-presents-plus": [],
     "magellan-tv": [],
     "broadwayhd": [],
     "dekkoo": [],
@@ -187,17 +187,6 @@
         "date": "2026-10-06",
         "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20el%C5%91zetes"
-      },
-      {
-        "title": "Witchcraft Motion Picture Company Presents: Science Fiction Anthology Volume 1",
-        "media": "film",
-        "genres": [
-          "Sci-Fi"
-        ],
-        "overview": "Witchcraft Motion Picture Company and Rod Blackhurst present their first anthology collection of science fiction short films.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/355181096/s332/witchcraft-motion-picture-company-presents-science-fiction-anthology-volume-1.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Witchcraft%20Motion%20Picture%20Company%20Presents%3A%20Science%20Fiction%20Anthology%20Volume%201%20el%C5%91zetes"
       }
     ],
     "kableone": [],
@@ -206,7 +195,7 @@
     "lionsgate-amazon-channel": [],
     "crunchyroll-amazon-channel": [
       {
-        "title": "Full Clearing Another World under a Goddess with Zero Believers",
+        "title": "Full Clearing Another World Under a Goddess with Zero Believers",
         "media": "sorozat",
         "genres": [
           "Akció",
@@ -216,7 +205,7 @@
         "overview": "An isekai fantasy where an ordinary gamer reincarnates without special powers, teams up with a minor goddess, and rises from the weakest to the strongest in a new world.",
         "date": "2026-10-11",
         "poster": "https://images.justwatch.com/poster/354797926/s332/full-clearing-another-world-under-a-goddess-with-zero-believers.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20under%20a%20Goddess%20with%20Zero%20Believers%20el%C5%91zetes"
+        "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20Under%20a%20Goddess%20with%20Zero%20Believers%20el%C5%91zetes"
       },
       {
         "title": "From Far Away",
