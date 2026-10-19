@@ -1,231 +1,254 @@
 {
-  "generated_at": "2026-10-12T18:58",
-  "window": "2026-10-12 .. 2026-10-27",
+  "generated_at": "2026-10-19T16:25",
+  "window": "2026-10-19 .. 2026-11-03",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "Free Leonard Peltier",
+          "title": "Kan Kardeşi - Those in Between",
           "media": "film",
           "genres": [
             "Dokumentum"
           ],
-          "overview": "Leonard Peltier, an activist jailed for decades after a disputed conviction, faces his twilight years as a new generation fights for his release from prison before it's too late.",
-          "date": "2026-10-12",
-          "poster": "https://images.justwatch.com/poster/330272719/s332/free-leonard-peltier.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Free%20Leonard%20Peltier%20el%C5%91zetes"
+          "overview": "A few meters from the UN buffer zone, Ayşegül and her best friend Adnan grow up in Lefkoşa, the Turkish-controlled half of Cyprus’s divided capital. From the rooftops, they gaze at the European south – close enough to touch and yet out of reach: as the daughter of Turkish settlers, Ayşegül cannot cross the border. She works at a supermarket and dreams of a life in France, while Adnan aspires to a career as a professional badminton player. But family expectations, Ayşegül’s engagement to her jealous ex-boyfriend, and Adnan’s military service test their friendship and plans for the future.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/355581400/s332/kan-kardesi-those-in-between.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Kan%20Karde%C5%9Fi%20-%20Those%20in%20Between%20el%C5%91zetes"
         },
         {
-          "title": "Street Fighter",
+          "title": "Dreams of a Sleeping Dragon",
           "media": "film",
           "genres": [
-            "Akció",
-            "Fantasy"
+            "Dokumentum"
           ],
-          "overview": "1993-ban a külön utakon járó harcosok, Ryu (Andrew Koji) és Ken Masters (Noah Centineo) ismét küzdelembe keverednek, amikor a titokzatos Chun-Li (Callina Liang) beszervezi őket a következő World Warrior Tournamentre: egy brutális összecsapásra. De a háttérben egy halálos összeesküvés húzódik, amely arra kényszeríti őket, hogy szembenézzenek egymással és múltjuk démonaival.  (Bolla Eszter)R3",
-          "date": "2026-10-13",
-          "poster": "https://images.justwatch.com/poster/344441027/s332/street-fighter-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Street%20Fighter%20el%C5%91zetes"
+          "overview": "For more than a year, people have been protesting every evening in front of the Georgian parliament against the autocratic regime of the ruling party »Georgian Dream«. A community without leadership, united by the hope for a future in Europe and the independence from Russia, but divided on how to get there. While the government tries to keep the protesters under control with police violence, heavy fines, and pressure on the judiciary, the protesters call out the names of political prisoners every evening. One of the demonstrators is the twelve-year-old Aguna, roaming the protest ground on his own. The story of a child whose childhood is taken away by adults – and who therefore declares himself an adult. A claim Aguna will not let anyone take away from him.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/355615398/s332/dreams-of-a-sleeping-dragon.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Dreams%20of%20a%20Sleeping%20Dragon%20el%C5%91zetes"
         },
         {
-          "title": "Iron Boy",
+          "title": "Coward",
           "media": "film",
           "genres": [
-            "Animáció",
             "Dráma",
-            "Családi"
+            "Történelmi",
+            "Romantikus"
           ],
-          "overview": "In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
-          "date": "2026-10-14",
-          "poster": "https://images.justwatch.com/poster/348572621/s332/iron-boy.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Iron%20Boy%20el%C5%91zetes"
+          "overview": "Pierre, a young Belgian soldier, wants to prove himself on the battlefield during the First World War. Behind the frontlines, he meets Francis, who is asked to find a way to boost morale.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/354751833/s332/coward.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Coward%20el%C5%91zetes"
         },
         {
-          "title": "Minotaur",
+          "title": "The Cycle",
           "media": "film",
           "genres": [
             "Krimi",
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/349702942/s332/the-cycle.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Cycle%20el%C5%91zetes"
+        },
+        {
+          "title": "A vesszőből font férj",
+          "media": "film",
+          "genres": [
+            "Vígjáték",
+            "Dráma",
+            "Fantasy"
+          ],
+          "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/355641664/s332/wicker.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=A%20vessz%C5%91b%C5%91l%20font%20f%C3%A9rj%20el%C5%91zetes"
+        },
+        {
+          "title": "Die andere Seite",
+          "media": "film",
+          "genres": [
             "Dráma",
             "Thriller"
           ],
-          "overview": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
-          "date": "2026-10-14",
-          "poster": "https://images.justwatch.com/poster/344232848/s332/minotaurus-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Minotaur%20el%C5%91zetes"
+          "overview": "Since losing her family, a woman is living alone in the wilderness — far away from society, which is dominated by mistrust and fear after the outbreak of a fatal disease. When she is forced to leave this life behind, she not only experiences a boundless freedom, but also remembers the importance of human closeness and the feeling of belonging.",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/355049812/s332/die-andere-seite-2026-1.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Die%20andere%20Seite%20el%C5%91zetes"
         },
         {
-          "title": "My Happy End",
+          "title": "Zwei Minuten",
           "media": "film",
           "genres": [
-            "Animáció",
-            "Vígjáték"
+            "Dráma"
           ],
-          "overview": "Minden kutya kergeti a farkát, de miután egyszer az egyik sikeresen el is kapja, örökre megváltozik az élete, és közben egy új legjobb barátot is szerez.",
-          "date": "2026-10-15",
-          "poster": "https://images.justwatch.com/poster/341847257/s332/My-Happy-End.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=My%20Happy%20End%20el%C5%91zetes"
+          "overview": "Following routine, Mai has prepared breakfast, made coffee and packed school lunches. While her mother can’t get out of bed, Mai tries to make sure her little sister Louisa has a perfectly normal morning. But the two need get to school, and time is running short once again. Under mounting pressure, Mai is unable to play the adult today. For the first time, it’s up to Louisa to step into that role. Feeling betrayed and abandoned by her big sister, Louisa bravely takes on the new challenge – even as the sisters’ otherwise strong bond threatens to cracken.",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/355678578/s332/zwei-minuten.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Zwei%20Minuten%20el%C5%91zetes"
         },
         {
-          "title": "Dondurmam Gaymak: Gapital",
+          "title": "The Girl with the Leica",
           "media": "film",
           "genres": [
-            "Vígjáték"
+            "Dráma"
           ],
-          "overview": "",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/349724676/s332/dondurmam-gaymak-gapital.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Dondurmam%20Gaymak%3A%20Gapital%20el%C5%91zetes"
-        },
-        {
-          "title": "You Can See Everything",
-          "media": "film",
-          "genres": [
-            "Dokumentum"
-          ],
-          "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/355337192/s332/you-can-see-everything.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=You%20Can%20See%20Everything%20el%C5%91zetes"
-        },
-        {
-          "title": "A mesterterv",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Vígjáték",
-            "Krimi"
-          ],
-          "overview": "Amikor egy legendás tolvaj a Mona Lisára vet szemet, két fiatalt toboroz magának segítségül - Chiarát, egy olasz kiberbűnözés-szakértőt, és Jayt, egy francia robbanószer-szakértőt -, majd elárulná, hogy mindkettejüknek ő az apja. A kaotikus találkozás közben az új családtagoknak meg kell tanulniuk együttműködni, és nem megölni egymást, hogy esélyük legyen az évszázad rablásának végrehajtására.",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/355186771/s332/masterplan.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=A%20mesterterv%20el%C5%91zetes"
+          "overview": "On Bastille Day in 1937, pioneering German-Jewish photojournalist Gerda Taro spends her final day in Paris confronting her past, her complex partnership with Robert Capa, and her absolute commitment to anti-fascist resistance before returning to the front lines of the Spanish Civil War.",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/354785877/s332/das-maedchen-mit-der-leica.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Girl%20with%20the%20Leica%20el%C5%91zetes"
         }
       ]
     },
     "hungary": {
       "items": [
         {
-          "title": "Free Leonard Peltier",
+          "title": "Hanging by a Wire",
           "media": "film",
           "genres": [
+            "Akció",
+            "Krimi",
             "Dokumentum"
           ],
-          "overview": "Leonard Peltier, an activist jailed for decades after a disputed conviction, faces his twilight years as a new generation fights for his release from prison before it's too late.",
-          "date": "2026-10-12",
-          "poster": "https://images.justwatch.com/poster/330272719/s332/free-leonard-peltier.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Free%20Leonard%20Peltier%20el%C5%91zetes"
+          "overview": "On a Tuesday morning in August 2023, a group of kids set off for school, climbing into a makeshift cable car for the journey across a mountain pass in northwest Pakistan. What happened next would make headlines around the world. Suddenly, 900 feet above the ground, two cables snapped, putting the teenagers in mortal danger.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/350686982/s332/hanging-by-a-wire.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Hanging%20by%20a%20Wire%20el%C5%91zetes"
+        },
+        {
+          "title": "Tag",
+          "media": "film",
+          "genres": [
+            "Horror"
+          ],
+          "overview": "On their honeymoon in a quaint, old-fashioned town, newlyweds Maggie and Joe decide to ignore a local warning and venture into a supposedly haunted maze after dark. After a few drinks, the couple turns their late-night adventure into a playful game of tag. But as they wander deeper into the winding paths, their innocent fun takes an unsettling turn. With darkness closing in and strange things happening around them, the newlyweds begin to realize they may not be alone. And in this maze, some games are better left unplayed.",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/355642334/s332/tag-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Tag%20el%C5%91zetes"
         },
         {
           "title": "Wildwood - A tiltott vadon",
           "media": "film",
           "genres": [
-            "Akció",
             "Animáció",
-            "Fantasy"
+            "Fantasy",
+            "Horror"
           ],
           "overview": "Prue és osztálytársa, Curtis egy tiltott, varázslatos erdőbe téved, amelyet elbűvölt lények, hűséges szövetségesek és félelmetes ellenfelek népesítenek be. Kétségbeesett küldetésre indulnak, hogy kiszabadítsák Prue elrabolt kisöccsét, Macet a varjak fogságából, akiket egy Alexandra nevű, titokzatos nő vezet. (Csillag Lajos)",
           "date": "2026-10-22",
           "poster": "https://images.justwatch.com/poster/354684670/s332/wildwood.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Wildwood%20-%20A%20tiltott%20vadon%20el%C5%91zetes"
+        },
+        {
+          "title": "Thousands of Meters, Hundreds of Hours",
+          "media": "film",
+          "genres": [
+            "Dokumentum",
+            "Történelmi"
+          ],
+          "overview": "Through interviews with women who have been trained in the craft of making traditional Lepoglava lace we learn about this symbol's role in the creation of Lepoglava's identity and how it connects local women across time and space.",
+          "date": "2026-10-30",
+          "poster": "https://images.justwatch.com/poster/355480564/s332/thousands-of-meters-hundreds-of-hours.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Thousands%20of%20Meters%2C%20Hundreds%20of%20Hours%20el%C5%91zetes"
         }
       ]
     },
     "usa": {
       "items": [
         {
-          "title": "Iron Boy",
+          "title": "Coward",
           "media": "film",
           "genres": [
-            "Animáció",
             "Dráma",
-            "Családi"
+            "Történelmi",
+            "Romantikus"
           ],
-          "overview": "In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
-          "date": "2026-10-14",
-          "poster": "https://images.justwatch.com/poster/348572621/s332/iron-boy.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Iron%20Boy%20el%C5%91zetes"
+          "overview": "Pierre, a young Belgian soldier, wants to prove himself on the battlefield during the First World War. Behind the frontlines, he meets Francis, who is asked to find a way to boost morale.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/354751833/s332/coward.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Coward%20el%C5%91zetes"
         },
         {
-          "title": "The man formerly known as Maxwell Milk",
+          "title": "The Night Everything Changed",
           "media": "film",
           "genres": [
-            "Dráma"
+            "Thriller"
           ],
-          "overview": "Maxwell details his dairy journey as he mutates into someone unrecognizable.",
-          "date": "2026-10-14",
-          "poster": "https://images.justwatch.com/poster/355030231/s332/the-man-formerly-known-as-maxwell-milk.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20man%20formerly%20known%20as%20Maxwell%20Milk%20el%C5%91zetes"
+          "overview": "When Tina's teenage daughter doesn't return home from a sleepover with her closest friends, she goes on a frantic hunt to find her before it's too late. In the process, she unravels dark secrets of a forbidden romance and a tryst among BFFs.",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/347382771/s332/the-night-everything-changed.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Night%20Everything%20Changed%20el%C5%91zetes"
         },
         {
-          "title": "Quick Fix",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Horror"
-          ],
-          "overview": "Norman has been living his life through labels. (literally). Julius is trying to help Norman navigate through his strange \"illness.\"",
-          "date": "2026-10-15",
-          "poster": "https://images.justwatch.com/poster/348318166/s332/quick-fix-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Quick%20Fix%20el%C5%91zetes"
-        },
-        {
-          "title": "Kashpirovsky. Under the Spell",
+          "title": "Miss Representation: Rise Up",
           "media": "film",
           "genres": [
             "Dokumentum"
           ],
-          "overview": "The film tells the remarkable story of Dr Anatoly Kashpirovsky, who, at the height of his career, claimed to anaesthetise three women remotely for major surgery through the sheer force of his persuasion. His televised healing séances, broadcast across the Soviet bloc, broke viewing records, reaching hundreds of millions of people. Loved by his followers and despised by his enemies, Kashpirovsky became an unlikely symbol of a world undergoing radical political transformation.",
-          "date": "2026-10-16",
+          "overview": "MISS REPRESENTATION: RISING dives deep into the cultural backlash against women’s mental health, agency, and political power with technology exacerbating sexism and misogyny towards women and girls.",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/351085203/s332/miss-representation-rise-up.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Miss%20Representation%3A%20Rise%20Up%20el%C5%91zetes"
+        },
+        {
+          "title": "Titanic",
+          "media": "film",
+          "genres": [
+            "Vígjáték",
+            "Családi",
+            "Romantikus"
+          ],
+          "overview": "Titanic is an upcoming Tamil-language romantic comedy film written and directed by M. Janakiraman and produced by C. V. Kumar.",
+          "date": "2026-10-23",
+          "poster": "https://images.justwatch.com/poster/342629923/s332/titanic-2018.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Titanic%20el%C5%91zetes"
+        },
+        {
+          "title": "Andhar",
+          "media": "film",
+          "genres": [
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "In an isolated house where flowers wilt at a touch and time refuses to move in a straight line, a fragile young widow begins a new life, with a much older husband, she can't quite trust - haunted by warnings, watched by something patient, and carrying a secret that isn't only her own. When an impossible death draws a sharp-witted detective into the house's orbit, he finds a place that bends memory, guards an ancient purpose, and refuses to let anyone leave unchanged. What waits beneath is older than the walls, and the answer, when it comes at dawn, will reach further than anyone expects.",
+          "date": "2026-10-23",
+          "poster": "https://images.justwatch.com/poster/354192984/s332/andhar.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Andhar%20el%C5%91zetes"
+        },
+        {
+          "title": "Happy Birthday",
+          "media": "film",
+          "genres": [
+            "Dráma"
+          ],
+          "overview": "Eight-year-old maid Toha goes to great lengths to ensure that her best friend Nelly, the daughter of her wealthy employer, has a successful birthday party in this poignant debut feature exploring classism in modern-day Cairo.",
+          "date": "2026-10-23",
+          "poster": "https://images.justwatch.com/poster/330275251/s332/happy-birthday-2025-1.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Happy%20Birthday%20el%C5%91zetes"
+        },
+        {
+          "title": "Human",
+          "media": "film",
+          "genres": [
+            "Horror"
+          ],
+          "overview": "Follows Dani Ferris, alone and exhausted, who seeks a moment of digital distraction before bed but instead gets thrust into a blood-drenched supernatural nightmare filled with horrors and heartbreak.",
+          "date": "2026-10-23",
+          "poster": "https://images.justwatch.com/poster/355304509/s332/human-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Human%20el%C5%91zetes"
+        },
+        {
+          "title": "Watch You Rise",
+          "media": "film",
+          "genres": [
+            "Dokumentum"
+          ],
+          "overview": "Follows Isabella Grace Cohn as she works to understand and expose the roots of sexual harm — her peers’, her mother’s, and eventually her own. Along the way, she meets diverse survivors, perpetrators, and experts. Together they explore the cultural, educational and legal gray areas that fuel the cycle of harm in a quest for hope and transformation.",
+          "date": "2026-10-24",
           "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Kashpirovsky.%20Under%20the%20Spell%20el%C5%91zetes"
-        },
-        {
-          "title": "Wuthering Heights: The House of the Damned",
-          "media": "film",
-          "genres": [
-            "Horror"
-          ],
-          "overview": "Mr. Lockwood arrives at the remote and storm-battered Wuthering Heights, unaware that Catherine's vengeful ghost walks its halls. Her obsessed lover, Heathcliff, feeds her bloodlust with human sacrifice, hoping to give her soul a new body to inhabit. As Lockwood grows sick and delusional, he is drawn deeper into their deadly, undying love, and must escape before he becomes their next victim.",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/353927982/s332/wuthering-heights-the-house-of-the-damned.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Wuthering%20Heights%3A%20The%20House%20of%20the%20Damned%20el%C5%91zetes"
-        },
-        {
-          "title": "LEGO Friends: Heartlake the Musical",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Dráma",
-            "Fantasy"
-          ],
-          "overview": "Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark – with plenty of song and dance numbers along the way.",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=LEGO%20Friends%3A%20Heartlake%20the%20Musical%20el%C5%91zetes"
-        },
-        {
-          "title": "Trust Me, I'm a Doctor",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
-            "Dráma"
-          ],
-          "overview": "The life of Dr. Sandeep Kapoor was turned upside down when he's implicated in the wrongful death trial of one-time Playboy centerfold Anna Nicole Smith.",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/350124008/s332/trust-me-im-a-doctor.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Trust%20Me%2C%20I%27m%20a%20Doctor%20el%C5%91zetes"
-        },
-        {
-          "title": "You Can See Everything",
-          "media": "film",
-          "genres": [
-            "Dokumentum"
-          ],
-          "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/355337192/s332/you-can-see-everything.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=You%20Can%20See%20Everything%20el%C5%91zetes"
+          "trailer": "https://www.youtube.com/results?search_query=Watch%20You%20Rise%20el%C5%91zetes"
         }
       ]
     }

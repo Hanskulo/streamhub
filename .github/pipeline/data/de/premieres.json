@@ -1,231 +1,254 @@
 {
-  "generated_at": "2026-10-12T18:59",
-  "window": "2026-10-12 .. 2026-10-27",
+  "generated_at": "2026-10-19T16:26",
+  "window": "2026-10-19 .. 2026-11-03",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "Free Leonard Peltier",
+          "title": "Kan Kardeşi - Those in Between",
           "media": "film",
           "genres": [
             "Dokumentation"
           ],
-          "overview": "Leonard Peltier, an activist jailed for decades after a disputed conviction, faces his twilight years as a new generation fights for his release from prison before it's too late.",
-          "date": "2026-10-12",
-          "poster": "https://images.justwatch.com/poster/330272719/s332/free-leonard-peltier.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Free%20Leonard%20Peltier%20Trailer"
+          "overview": "A few meters from the UN buffer zone, Ayşegül and her best friend Adnan grow up in Lefkoşa, the Turkish-controlled half of Cyprus’s divided capital. From the rooftops, they gaze at the European south – close enough to touch and yet out of reach: as the daughter of Turkish settlers, Ayşegül cannot cross the border. She works at a supermarket and dreams of a life in France, while Adnan aspires to a career as a professional badminton player. But family expectations, Ayşegül’s engagement to her jealous ex-boyfriend, and Adnan’s military service test their friendship and plans for the future.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/355581400/s332/kan-kardesi-those-in-between.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Kan%20Karde%C5%9Fi%20-%20Those%20in%20Between%20Trailer"
         },
         {
-          "title": "Street Fighter",
+          "title": "Dreams of a Sleeping Dragon",
           "media": "film",
           "genres": [
-            "Action",
-            "Fantasy"
+            "Dokumentation"
           ],
-          "overview": "1993 werden die verfeindeten Kämpfer Ryu und Ken Masters erneut in den Kampf geworfen, als die mysteriöse Chun-Li sie für das nächste World Warrior Tournament rekrutiert, einen brutalen Kampf voller Fäuste, Schicksal und Wut. Doch hinter diesem Battle Royale verbirgt sich eine tödliche Verschwörung, die sie zwingt, gegeneinander und gegen die Dämonen ihrer Vergangenheit anzutreten.",
-          "date": "2026-10-13",
-          "poster": "https://images.justwatch.com/poster/355116278/s332/street-fighter-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Street%20Fighter%20Trailer"
+          "overview": "Seit über 450 Tagen demonstrieren Menschen vor dem georgischen Parlament gegen die autokratische Regierungspartei.  Eine Gemeinschaft ohne Führung, vereint durch den Wunsch nach einer Zukunft Georgiens in Europa – uneins in der Frage, wie der Weg dorthin aussehen soll.  Während die Regierung versucht, durch Polizeigewalt und Einflussnahme auf die Justiz, die Demonstrierenden in Schach zu halten, rufen diese allabendlich die Namen der politischen Gefangenen aus.  Einer der Demonstranten ist der zwölfjährige Aguna, der dort ohne Begleitung umherstreift.  Die Geschichte eines Kindes, dem Erwachsene seine Kindheit nehmen – und das sich deshalb den Anspruch stellt, selbst erwachsen zu sein. Ein Anspruch, den Aguna sich von niemandem nehmen lässt.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/355615398/s332/dreams-of-a-sleeping-dragon.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Dreams%20of%20a%20Sleeping%20Dragon%20Trailer"
         },
         {
-          "title": "Iron Boy",
+          "title": "Coward",
           "media": "film",
           "genres": [
-            "Animation",
             "Drama",
-            "Familie"
+            "Historie",
+            "Romantik"
           ],
-          "overview": "In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
-          "date": "2026-10-14",
-          "poster": "https://images.justwatch.com/poster/348572621/s332/iron-boy.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Iron%20Boy%20Trailer"
+          "overview": "Während sich der Erste Weltkrieg immer weiter hinzieht, brennt Pierre, ein neu an der Front eingetroffener Soldat, darauf, sich zu beweisen. Hinter den Linien begegnet er Francis, der seine Kameraden mit einer Theaterrevue aufheitern will. Während die Gewalt unvermindert anhält, suchen beide Männer nach Wegen, der Brutalität des Krieges zu entkommen – und sei es nur für einen Augenblick.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/354751833/s332/coward.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Coward%20Trailer"
         },
         {
-          "title": "Minotaurus",
+          "title": "The Cycle",
           "media": "film",
           "genres": [
             "Krimi",
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/349702942/s332/the-cycle.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Cycle%20Trailer"
+        },
+        {
+          "title": "Wicker",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Drama",
+            "Fantasy"
+          ],
+          "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/355641664/s332/wicker.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Wicker%20Trailer"
+        },
+        {
+          "title": "Die andere Seite",
+          "media": "film",
+          "genres": [
             "Drama",
             "Thriller"
           ],
-          "overview": "Russland, 2022: Firmenchef Gleb führt ein Leben in Wohlstand und häuslicher Behaglichkeit. Doch bald gerät er an allen Fronten unter Druck. Zu Hause entzieht sich ihm seine Frau Galina mehr und mehr, und der Verdacht, dass sie ihn betrügt, lässt ihn nicht los. Im Betrieb verlangen die örtlichen Behörden von ihm, eine Anzahl seiner Beschäftigten für den Krieg in der Ukraine zu rekrutieren. Während er weiterhin seine Hände in Unschuld waschen will, ringt Gleb um Kontrolle. Doch der Zerfall seines sorgsam geordneten Lebens beschleunigt sich. Der Weg in die Gewalt scheint längst unausweichlich.",
-          "date": "2026-10-14",
-          "poster": "https://images.justwatch.com/poster/354820789/s332/minotaurus-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Minotaurus%20Trailer"
+          "overview": "Die Ärztin Hanna hat durch eine ansteckende Krankheit alles verloren. Als Infizierte ist sie Überträgerin des Virus und wird von der Gesellschaft ausgeschlossen. Hanna hat sich in die Einsamkeit der Berge geflüchtet, wo sie in der alpinen Wildnis zur Einzelkämpferin geworden ist. Als sie auf eine junge Frau trifft, die ebenfalls zu den Ausgegrenzten zählt, ändert sich alles. Hanna nimmt sich ihrer an, gemeinsam wollen sie über die Alpen nach Süden, wo ein Leben in Freiheit möglich scheint.",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/355049812/s332/die-andere-seite-2026-1.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Die%20andere%20Seite%20Trailer"
         },
         {
-          "title": "My Happy End",
+          "title": "Zwei Minuten",
           "media": "film",
           "genres": [
-            "Animation",
-            "Komödie"
+            "Drama"
           ],
-          "overview": "Alle Hunde rennen hinter ihren Schwänzen her. Ein Hund schafft es schließlich doch, seinen Schwanz zu fangen. Und das verändert sein Leben. Denn er findet in ihm seinen besten Freund.",
-          "date": "2026-10-15",
-          "poster": "https://images.justwatch.com/poster/341847257/s332/My-Happy-End.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=My%20Happy%20End%20Trailer"
+          "overview": "Following routine, Mai has prepared breakfast, made coffee and packed school lunches. While her mother can’t get out of bed, Mai tries to make sure her little sister Louisa has a perfectly normal morning. But the two need get to school, and time is running short once again. Under mounting pressure, Mai is unable to play the adult today. For the first time, it’s up to Louisa to step into that role. Feeling betrayed and abandoned by her big sister, Louisa bravely takes on the new challenge – even as the sisters’ otherwise strong bond threatens to cracken.",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/355678578/s332/zwei-minuten.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Zwei%20Minuten%20Trailer"
         },
         {
-          "title": "Dondurmam Gaymak: Gapital",
+          "title": "Das Mädchen mit der Leica",
           "media": "film",
           "genres": [
-            "Komödie"
+            "Drama"
           ],
-          "overview": "",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/349724676/s332/dondurmam-gaymak-gapital.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Dondurmam%20Gaymak%3A%20Gapital%20Trailer"
-        },
-        {
-          "title": "You Can See Everything",
-          "media": "film",
-          "genres": [
-            "Dokumentation"
-          ],
-          "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/355337192/s332/you-can-see-everything.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=You%20Can%20See%20Everything%20Trailer"
-        },
-        {
-          "title": "Masterplan",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Komödie",
-            "Krimi"
-          ],
-          "overview": "Ein Meisterdieb hat es auf die Mona Lisa abgesehen. Für den Coup rekrutiert er zwei Fremde: die italienische Cyber-Expertin Chiara und den französischen Sprengstoffspezialisten Jay. Dann offenbart er ihnen, ihr Vater zu sein. Die neuen Familienmitglieder müssen lernen, zusammenzuarbeiten und sich nicht gegenseitig umzubringen, damit der Raub des Jahrhunderts gelingen kann.",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/355186776/s332/masterplan.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Masterplan%20Trailer"
+          "overview": "On Bastille Day in 1937, pioneering German-Jewish photojournalist Gerda Taro spends her final day in Paris confronting her past, her complex partnership with Robert Capa, and her absolute commitment to anti-fascist resistance before returning to the front lines of the Spanish Civil War.",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/354785877/s332/das-maedchen-mit-der-leica.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Das%20M%C3%A4dchen%20mit%20der%20Leica%20Trailer"
         }
       ]
     },
     "hungary": {
       "items": [
         {
-          "title": "Free Leonard Peltier",
+          "title": "Hanging by a Wire",
           "media": "film",
           "genres": [
+            "Action",
+            "Krimi",
             "Dokumentation"
           ],
-          "overview": "Leonard Peltier, an activist jailed for decades after a disputed conviction, faces his twilight years as a new generation fights for his release from prison before it's too late.",
-          "date": "2026-10-12",
-          "poster": "https://images.justwatch.com/poster/330272719/s332/free-leonard-peltier.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Free%20Leonard%20Peltier%20Trailer"
+          "overview": "Ein Seilbahnkabel reißt und acht Männer hängen 275 Meter über einer entlegenen Schlucht des Himalaya fest. Da auch das verbleibende Seil zu reißen droht, eilen Rettungskräfte zur Hilfe herbei.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/350686982/s332/hanging-by-a-wire.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Hanging%20by%20a%20Wire%20Trailer"
+        },
+        {
+          "title": "Tag",
+          "media": "film",
+          "genres": [
+            "Horror"
+          ],
+          "overview": "On their honeymoon in a quaint, old-fashioned town, newlyweds Maggie and Joe decide to ignore a local warning and venture into a supposedly haunted maze after dark. After a few drinks, the couple turns their late-night adventure into a playful game of tag. But as they wander deeper into the winding paths, their innocent fun takes an unsettling turn. With darkness closing in and strange things happening around them, the newlyweds begin to realize they may not be alone. And in this maze, some games are better left unplayed.",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/355642334/s332/tag-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Tag%20Trailer"
         },
         {
           "title": "Wildwood",
           "media": "film",
           "genres": [
-            "Action",
             "Animation",
-            "Fantasy"
+            "Fantasy",
+            "Horror"
           ],
           "overview": "Prues Abenteuer beginnen in den Wäldern außerhalb von Portland, als sie sich auf die Suche nach ihrem entführten Bruder macht.",
           "date": "2026-10-22",
           "poster": "https://images.justwatch.com/poster/354539728/s332/wildwood.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Wildwood%20Trailer"
+        },
+        {
+          "title": "Thousands of Meters, Hundreds of Hours",
+          "media": "film",
+          "genres": [
+            "Dokumentation",
+            "Historie"
+          ],
+          "overview": "Through interviews with women who have been trained in the craft of making traditional Lepoglava lace we learn about this symbol's role in the creation of Lepoglava's identity and how it connects local women across time and space.",
+          "date": "2026-10-30",
+          "poster": "https://images.justwatch.com/poster/355480564/s332/thousands-of-meters-hundreds-of-hours.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Thousands%20of%20Meters%2C%20Hundreds%20of%20Hours%20Trailer"
         }
       ]
     },
     "usa": {
       "items": [
         {
-          "title": "Iron Boy",
+          "title": "Coward",
           "media": "film",
           "genres": [
-            "Animation",
             "Drama",
-            "Familie"
+            "Historie",
+            "Romantik"
           ],
-          "overview": "In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
-          "date": "2026-10-14",
-          "poster": "https://images.justwatch.com/poster/348572621/s332/iron-boy.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Iron%20Boy%20Trailer"
+          "overview": "Während sich der Erste Weltkrieg immer weiter hinzieht, brennt Pierre, ein neu an der Front eingetroffener Soldat, darauf, sich zu beweisen. Hinter den Linien begegnet er Francis, der seine Kameraden mit einer Theaterrevue aufheitern will. Während die Gewalt unvermindert anhält, suchen beide Männer nach Wegen, der Brutalität des Krieges zu entkommen – und sei es nur für einen Augenblick.",
+          "date": "2026-10-21",
+          "poster": "https://images.justwatch.com/poster/354751833/s332/coward.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Coward%20Trailer"
         },
         {
-          "title": "The man formerly known as Maxwell Milk",
+          "title": "The Night Everything Changed",
           "media": "film",
           "genres": [
-            "Drama"
+            "Thriller"
           ],
-          "overview": "Maxwell details his dairy journey as he mutates into someone unrecognizable.",
-          "date": "2026-10-14",
-          "poster": "https://images.justwatch.com/poster/355030231/s332/the-man-formerly-known-as-maxwell-milk.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20man%20formerly%20known%20as%20Maxwell%20Milk%20Trailer"
+          "overview": "When Tina's teenage daughter doesn't return home from a sleepover with her closest friends, she goes on a frantic hunt to find her before it's too late. In the process, she unravels dark secrets of a forbidden romance and a tryst among BFFs.",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/347382771/s332/the-night-everything-changed.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Night%20Everything%20Changed%20Trailer"
         },
         {
-          "title": "Quick Fix",
-          "media": "film",
-          "genres": [
-            "Komödie",
-            "Horror"
-          ],
-          "overview": "Norman has been living his life through labels. (literally). Julius is trying to help Norman navigate through his strange \"illness.\"",
-          "date": "2026-10-15",
-          "poster": "https://images.justwatch.com/poster/348318166/s332/quick-fix-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Quick%20Fix%20Trailer"
-        },
-        {
-          "title": "Kashpirovsky. Under the Spell",
+          "title": "Miss Representation: Rise Up",
           "media": "film",
           "genres": [
             "Dokumentation"
           ],
-          "overview": "The film tells the remarkable story of Dr Anatoly Kashpirovsky, who, at the height of his career, claimed to anaesthetise three women remotely for major surgery through the sheer force of his persuasion. His televised healing séances, broadcast across the Soviet bloc, broke viewing records, reaching hundreds of millions of people. Loved by his followers and despised by his enemies, Kashpirovsky became an unlikely symbol of a world undergoing radical political transformation.",
-          "date": "2026-10-16",
+          "overview": "MISS REPRESENTATION: RISING dives deep into the cultural backlash against women’s mental health, agency, and political power with technology exacerbating sexism and misogyny towards women and girls.",
+          "date": "2026-10-22",
+          "poster": "https://images.justwatch.com/poster/351085203/s332/miss-representation-rise-up.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Miss%20Representation%3A%20Rise%20Up%20Trailer"
+        },
+        {
+          "title": "Titanic",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Familie",
+            "Romantik"
+          ],
+          "overview": "„Titanic“ ist eine kommende romantische Komödie in Tamil, geschrieben und inszeniert von M. Janakiraman und produziert von C. V. Kumar.",
+          "date": "2026-10-23",
+          "poster": "https://images.justwatch.com/poster/342629923/s332/titanic-2018.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Titanic%20Trailer"
+        },
+        {
+          "title": "Andhar",
+          "media": "film",
+          "genres": [
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "In an isolated house where flowers wilt at a touch and time refuses to move in a straight line, a fragile young widow begins a new life, with a much older husband, she can't quite trust - haunted by warnings, watched by something patient, and carrying a secret that isn't only her own. When an impossible death draws a sharp-witted detective into the house's orbit, he finds a place that bends memory, guards an ancient purpose, and refuses to let anyone leave unchanged. What waits beneath is older than the walls, and the answer, when it comes at dawn, will reach further than anyone expects.",
+          "date": "2026-10-23",
+          "poster": "https://images.justwatch.com/poster/354192984/s332/andhar.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Andhar%20Trailer"
+        },
+        {
+          "title": "Happy Birthday",
+          "media": "film",
+          "genres": [
+            "Drama"
+          ],
+          "overview": "Eight-year-old maid Toha goes to great lengths to ensure that her best friend Nelly, the daughter of her wealthy employer, has a successful birthday party in this poignant debut feature exploring classism in modern-day Cairo.",
+          "date": "2026-10-23",
+          "poster": "https://images.justwatch.com/poster/330275251/s332/happy-birthday-2025-1.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Happy%20Birthday%20Trailer"
+        },
+        {
+          "title": "Human",
+          "media": "film",
+          "genres": [
+            "Horror"
+          ],
+          "overview": "Follows Dani Ferris, alone and exhausted, who seeks a moment of digital distraction before bed but instead gets thrust into a blood-drenched supernatural nightmare filled with horrors and heartbreak.",
+          "date": "2026-10-23",
+          "poster": "https://images.justwatch.com/poster/355304509/s332/human-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Human%20Trailer"
+        },
+        {
+          "title": "Watch You Rise",
+          "media": "film",
+          "genres": [
+            "Dokumentation"
+          ],
+          "overview": "Follows Isabella Grace Cohn as she works to understand and expose the roots of sexual harm — her peers’, her mother’s, and eventually her own. Along the way, she meets diverse survivors, perpetrators, and experts. Together they explore the cultural, educational and legal gray areas that fuel the cycle of harm in a quest for hope and transformation.",
+          "date": "2026-10-24",
           "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Kashpirovsky.%20Under%20the%20Spell%20Trailer"
-        },
-        {
-          "title": "Wuthering Heights: The House of the Damned",
-          "media": "film",
-          "genres": [
-            "Horror"
-          ],
-          "overview": "Mr. Lockwood arrives at the remote and storm-battered Wuthering Heights, unaware that Catherine's vengeful ghost walks its halls. Her obsessed lover, Heathcliff, feeds her bloodlust with human sacrifice, hoping to give her soul a new body to inhabit. As Lockwood grows sick and delusional, he is drawn deeper into their deadly, undying love, and must escape before he becomes their next victim.",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/353927982/s332/wuthering-heights-the-house-of-the-damned.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Wuthering%20Heights%3A%20The%20House%20of%20the%20Damned%20Trailer"
-        },
-        {
-          "title": "LEGO Friends: Heartlake the Musical",
-          "media": "film",
-          "genres": [
-            "Komödie",
-            "Drama",
-            "Fantasy"
-          ],
-          "overview": "Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark – with plenty of song and dance numbers along the way.",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=LEGO%20Friends%3A%20Heartlake%20the%20Musical%20Trailer"
-        },
-        {
-          "title": "Trust Me, I'm a Doctor",
-          "media": "film",
-          "genres": [
-            "Komödie",
-            "Drama"
-          ],
-          "overview": "The life of Dr. Sandeep Kapoor was turned upside down when he's implicated in the wrongful death trial of one-time Playboy centerfold Anna Nicole Smith.",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/350124008/s332/trust-me-im-a-doctor.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Trust%20Me%2C%20I%27m%20a%20Doctor%20Trailer"
-        },
-        {
-          "title": "You Can See Everything",
-          "media": "film",
-          "genres": [
-            "Dokumentation"
-          ],
-          "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-          "date": "2026-10-16",
-          "poster": "https://images.justwatch.com/poster/355337192/s332/you-can-see-everything.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=You%20Can%20See%20Everything%20Trailer"
+          "trailer": "https://www.youtube.com/results?search_query=Watch%20You%20Rise%20Trailer"
         }
       ]
     }
