@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-10-17T12:57",
-  "week": "2026-10-17",
+  "generated_at": "2026-10-19T16:27",
+  "week": "2026-10-19",
   "by_provider": {
     "netflix": [
-      {
-        "title": "Who Is Martin Mull?",
-        "media": "film",
-        "genres": [
-          "Comedy",
-          "Documentary"
-        ],
-        "overview": "Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.",
-        "date": "2026-10-07",
-        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20trailer"
-      },
       {
         "title": "Slachtvee",
         "media": "film",
@@ -105,21 +93,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Brothers%20trailer"
       }
     ],
-    "disney-plus": [
-      {
-        "title": "Coven Academy",
-        "media": "sorozat",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Fantasy"
-        ],
-        "overview": "In the haunted heart of New Orleans, three teenage witches and their warlock peers attend an elite magic boarding school where power is currency, secrets are lethal and attraction is a liability.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/348408700/s332/boszorkanysuli.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Coven%20Academy%20trailer"
-      }
-    ],
+    "disney-plus": [],
     "justwatch-tv": [],
     "apple-tv-store": [],
     "youtube-premium": [],
@@ -149,33 +123,32 @@
         "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20trailer"
       }
     ],
-    "hbo-max": [],
-    "mubi": [
+    "hbo-max": [
       {
-        "title": "JAŸ-Z in 8",
+        "title": "Corregidora: The Darkest Night in Mexican Soccer",
         "media": "sorozat",
         "genres": [
           "Documentary"
         ],
-        "overview": "Thirty years after his landmark debut album, artist, icon, philanthropist, and entrepreneur JAŸ-Z sits down with longtime friend, producer, and director Rick Rubin for an intimate reflection on his storied career.",
-        "date": "2026-09-18",
-        "poster": "https://images.justwatch.com/poster/354985886/s332/jay-z-in-8.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=JA%C5%B8-Z%20in%208%20trailer"
-      },
-      {
-        "title": "Pulp: What Do You Do for an Encore?",
-        "media": "film",
-        "genres": [
-          "Documentary",
-          "Music"
-        ],
-        "overview": "A fusion of the brilliantly choreographed stage spectacle of Pulp’s biggest ever arena show — part of the global tour for More, the band’s first album in 24 years — with four decades of colorful, never-seen-before archival material.",
-        "date": "2026-09-18",
-        "poster": "https://images.justwatch.com/poster/354875699/s332/pulp-what-do-you-do-for-an-encore.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Pulp%3A%20What%20Do%20You%20Do%20for%20an%20Encore%3F%20trailer"
+        "overview": "Revisits the events of March 5, 2022, during the match between Querétaro and Atlas, reconstructing what unfolded and examining its aftermath, the conflicting narratives surrounding the case, and the questions that, four years later, remain unresolved.",
+        "date": "2026-10-15",
+        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Corregidora%3A%20The%20Darkest%20Night%20in%20Mexican%20Soccer%20trailer"
       }
     ],
+    "mubi": [],
     "bloodstream": [
+      {
+        "title": "Tag",
+        "media": "film",
+        "genres": [
+          "Horror"
+        ],
+        "overview": "On their honeymoon in a quaint, old-fashioned town, newlyweds Maggie and Joe decide to ignore a local warning and venture into a supposedly haunted maze after dark. After a few drinks, the couple turns their late-night adventure into a playful game of tag. But as they wander deeper into the winding paths, their innocent fun takes an unsettling turn. With darkness closing in and strange things happening around them, the newlyweds begin to realize they may not be alone. And in this maze, some games are better left unplayed.",
+        "date": "2026-10-22",
+        "poster": "https://images.justwatch.com/poster/355642334/s332/tag-2026.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Tag%20trailer"
+      },
       {
         "title": "Last Chance Motel",
         "media": "film",
@@ -206,6 +179,19 @@
         "date": "2026-10-11",
         "poster": "https://images.justwatch.com/poster/354797926/s332/full-clearing-another-world-under-a-goddess-with-zero-believers.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20Under%20a%20Goddess%20with%20Zero%20Believers%20trailer"
+      },
+      {
+        "title": "Battle Spirits [Re] ZEKKAI NO KU",
+        "media": "sorozat",
+        "genres": [
+          "Action",
+          "Animation",
+          "Sci-Fi"
+        ],
+        "overview": "Keio 3, Hinomoto, Eito. As the Bakumatsu throws Japan into turmoil, young Kuu Bashin dreams of becoming stronger through Standard Battle Spirits. His world changes when he encounters Ajara Zetsu, a wandering samurai and formidable Eternal Battler pursued by anti-shogunate forces. As the worlds of Standard and Eternal Battle collide, Kuu is pulled into Zetsu's journey—and sets history in motion.",
+        "date": "2026-10-06",
+        "poster": "https://images.justwatch.com/poster/355425501/s332/battle-spirits-re-zekkai-no-ku.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Battle%20Spirits%20%5BRe%5D%20ZEKKAI%20NO%20KU%20trailer"
       },
       {
         "title": "From Far Away",

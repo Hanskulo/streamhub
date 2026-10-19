@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-10-17T12:57",
-  "week": "2026-10-17",
+  "generated_at": "2026-10-19T16:27",
+  "week": "2026-10-19",
   "by_provider": {
     "netflix": [
-      {
-        "title": "Who Is Martin Mull?",
-        "media": "film",
-        "genres": [
-          "Komödie",
-          "Dokumentation"
-        ],
-        "overview": "Er war ein begnadeter Comedian – doch sein wahres Genie lag woanders. Diese starbesetzte Doku beleuchtet Martin Mulls lebenslange, große Leidenschaft für die Kunst.",
-        "date": "2026-10-07",
-        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20Trailer"
-      },
       {
         "title": "Slachtvee",
         "media": "film",
@@ -105,21 +93,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Brothers%20Trailer"
       }
     ],
-    "disney-plus": [
-      {
-        "title": "Coven Academy",
-        "media": "sorozat",
-        "genres": [
-          "Komödie",
-          "Drama",
-          "Fantasy"
-        ],
-        "overview": "Die Coven Academy begleitet drei junge Hexen in Ausbildung, die vom Schicksal dazu bestimmt sind, ihre Stadt vor gefährlichen, uralten Mächten zu beschützen. Zwischen der Aufdeckung dunkler Geheimnisse, dem Erlernen unberechenbarer Magie und der Konfrontation mit ablenkend süßen Rivalen müssen sie sich auch mit den Herzschmerzen und tiefen Bindungen auseinandersetzen, die das Erwachsenwerden mit sich bringt.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/348408700/s332/boszorkanysuli.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Coven%20Academy%20Trailer"
-      }
-    ],
+    "disney-plus": [],
     "justwatch-tv": [],
     "apple-tv-store": [],
     "youtube-premium": [],
@@ -149,33 +123,32 @@
         "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20Trailer"
       }
     ],
-    "hbo-max": [],
-    "mubi": [
+    "hbo-max": [
       {
-        "title": "JAŸ-Z in 8 [OmU]",
+        "title": "Corregidora: Die dunkelste Nacht des mexikanischen Fußballs",
         "media": "sorozat",
         "genres": [
           "Dokumentation"
         ],
-        "overview": "Song für Song begibt sich Rick Rubin auf eine Reise durch JAŸ-Zs musikalisches Werk und kuratiert eine Playlist, um den Schaffensprozess der Musiklegende zu beleuchten. In acht Folgen sprechen die beiden über wichtige Einflüsse, prägende Erfahrungen und seine künstlerische Innovationskraft.",
-        "date": "2026-09-18",
-        "poster": "https://images.justwatch.com/poster/354985886/s332/jay-z-in-8.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=JA%C5%B8-Z%20in%208%20%5BOmU%5D%20Trailer"
-      },
-      {
-        "title": "Pulp: Bereit Für Eine Zugabe? [OmU]",
-        "media": "film",
-        "genres": [
-          "Dokumentation",
-          "Musik"
-        ],
-        "overview": "Zum ersten Album seit 24 Jahren ging die Kultband Pulp auf eine Tournee über mehrere Kontinente. Garth Jennings ordnet diese Comeback-Konzerte ein: die Anfänge in Sheffield, was Pulp für die Popkultur der Neunziger bedeutete, und wie Frontmann Jarvis Cocker sich selbst erfand.",
-        "date": "2026-09-18",
-        "poster": "https://images.justwatch.com/poster/354875699/s332/pulp-what-do-you-do-for-an-encore.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Pulp%3A%20Bereit%20F%C3%BCr%20Eine%20Zugabe%3F%20%5BOmU%5D%20Trailer"
+        "overview": "Eine Untersuchung der Ausschreitungen im Corregidora-Stadion im Jahr 2022 und der Ereignisse, die zu den gewalttätigen Fan-Zusammenstößen führten.",
+        "date": "2026-10-15",
+        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Corregidora%3A%20Die%20dunkelste%20Nacht%20des%20mexikanischen%20Fu%C3%9Fballs%20Trailer"
       }
     ],
+    "mubi": [],
     "bloodstream": [
+      {
+        "title": "Tag",
+        "media": "film",
+        "genres": [
+          "Horror"
+        ],
+        "overview": "On their honeymoon in a quaint, old-fashioned town, newlyweds Maggie and Joe decide to ignore a local warning and venture into a supposedly haunted maze after dark. After a few drinks, the couple turns their late-night adventure into a playful game of tag. But as they wander deeper into the winding paths, their innocent fun takes an unsettling turn. With darkness closing in and strange things happening around them, the newlyweds begin to realize they may not be alone. And in this maze, some games are better left unplayed.",
+        "date": "2026-10-22",
+        "poster": "https://images.justwatch.com/poster/355642334/s332/tag-2026.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Tag%20Trailer"
+      },
       {
         "title": "Last Chance Motel",
         "media": "film",
@@ -206,6 +179,19 @@
         "date": "2026-10-11",
         "poster": "https://images.justwatch.com/poster/354797926/s332/full-clearing-another-world-under-a-goddess-with-zero-believers.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20under%20a%20Goddess%20with%20Zero%20Believers%20Trailer"
+      },
+      {
+        "title": "Battle Spirits [Re] ZEKKAI NO KU",
+        "media": "sorozat",
+        "genres": [
+          "Action",
+          "Animation",
+          "Sci-Fi"
+        ],
+        "overview": "Wir schreiben das Jahr 3 der Keio-Ära, Iapan, Ädo. Während politische Umwälzungen das Land in Aufruhr versetzen, träumt der junge Kū Bashin davon, durch Standard Battle Spirits stärker zu werden. Doch als er den herrenlosen Samurai Araja Zetsu trifft, einen exzellenten Eternal Battler, der von shogunatsfeindlichen Kräften verfolgt wird, begleitet er ihn auf dessen Reise und schreibt Geschichte.",
+        "date": "2026-10-06",
+        "poster": "https://images.justwatch.com/poster/355425501/s332/battle-spirits-re-zekkai-no-ku.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Battle%20Spirits%20%5BRe%5D%20ZEKKAI%20NO%20KU%20Trailer"
       },
       {
         "title": "From Far Away",
