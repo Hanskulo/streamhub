@@ -1,20 +1,19 @@
 {
-  "generated_at": "2026-10-19T16:27",
-  "week": "2026-10-19",
+  "generated_at": "2026-10-21T14:28",
+  "week": "2026-10-21",
   "by_provider": {
     "netflix": [
       {
-        "title": "Slachtvee",
+        "title": "Who Is Martin Mull?",
         "media": "film",
         "genres": [
-          "Drama",
-          "Thriller",
-          "Europäisch"
+          "Komödie",
+          "Dokumentation"
         ],
-        "overview": "Als Thomas erfährt, dass er Krebs hat und seine Tage gezählt sind, beschließt er, die ihm verbleibende Zeit zu nutzen, um so viele Übeltäter wie möglich auszuschalten.",
-        "date": "2026-09-19",
-        "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Slachtvee%20Trailer"
+        "overview": "Er war ein begnadeter Comedian – doch sein wahres Genie lag woanders. Diese starbesetzte Doku beleuchtet Martin Mulls lebenslange, große Leidenschaft für die Kunst.",
+        "date": "2026-10-07",
+        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20Trailer"
       }
     ],
     "amazon-prime-video": [
@@ -93,8 +92,21 @@
         "trailer": "https://www.youtube.com/results?search_query=Brothers%20Trailer"
       }
     ],
-    "disney-plus": [],
-    "justwatch-tv": [],
+    "disney-plus": [
+      {
+        "title": "Phony",
+        "media": "sorozat",
+        "genres": [
+          "Komödie",
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "Als der Schüler Sonny Cooke (Sam Nivola) nach einem Autounfall erwacht, stellt er fest, dass seine Mutter Ellen (Connie Britton) irgendwie anders aussieht. Doch niemand glaubt ihm, denn nur er scheint die Veränderung zu sehen. Nun muss er mit der möglicherweise gefährlichen Hochstaplerin zusammenleben und allen beweisen, dass er nicht verrückt ist.",
+        "date": "2026-10-20",
+        "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Phony%20Trailer"
+      }
+    ],
     "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
@@ -112,6 +124,29 @@
     "crunchyroll": [],
     "hayu": [
       {
+        "title": "Vanderpump Rules: Lisa Las Vegas",
+        "media": "sorozat",
+        "genres": [
+          "Reality"
+        ],
+        "overview": "Follows Lisa Vanderpump as she expands her Vegas empire by opening a high-profile namesake hotel, navigating behind-the-scenes drama to make the property worthy of the Vanderpump brand.",
+        "date": "2026-10-20",
+        "poster": "https://images.justwatch.com/poster/355129637/s332/vanderpump-rules-lisa-las-vegas.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Vanderpump%20Rules%3A%20Lisa%20Las%20Vegas%20Trailer"
+      },
+      {
+        "title": "War",
+        "media": "sorozat",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "Zwei der renommiertesten rivalisierenden Kanzleien Londons – Cathcarts und Taylor & Byrne – stehen sich in der Scheidungsklage des Jahrhunderts gegenüber: Tech-Gigant Morgan Henderson und seine getrennt lebende Frau, die internationale Filmstar Carla Duval. Beide Seiten sind sich sicher, dass sie gewinnen werden. Doch als sich der Fall zuspitzt und Loyalitäten bröckeln, steht der Ruf aller Beteiligten auf dem Spiel, und jeder kämpft um den Sieg.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/354890779/s332/war.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=War%20Trailer"
+      },
+      {
         "title": "Still Flipping Out",
         "media": "sorozat",
         "genres": [
@@ -123,19 +158,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20Trailer"
       }
     ],
-    "hbo-max": [
-      {
-        "title": "Corregidora: Die dunkelste Nacht des mexikanischen Fußballs",
-        "media": "sorozat",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "Eine Untersuchung der Ausschreitungen im Corregidora-Stadion im Jahr 2022 und der Ereignisse, die zu den gewalttätigen Fan-Zusammenstößen führten.",
-        "date": "2026-10-15",
-        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Corregidora%3A%20Die%20dunkelste%20Nacht%20des%20mexikanischen%20Fu%C3%9Fballs%20Trailer"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [],
     "bloodstream": [
       {
@@ -181,17 +204,13 @@
         "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20under%20a%20Goddess%20with%20Zero%20Believers%20Trailer"
       },
       {
-        "title": "Battle Spirits [Re] ZEKKAI NO KU",
+        "title": "HORROR COLLECTOR",
         "media": "sorozat",
-        "genres": [
-          "Action",
-          "Animation",
-          "Sci-Fi"
-        ],
-        "overview": "Wir schreiben das Jahr 3 der Keio-Ära, Iapan, Ädo. Während politische Umwälzungen das Land in Aufruhr versetzen, träumt der junge Kū Bashin davon, durch Standard Battle Spirits stärker zu werden. Doch als er den herrenlosen Samurai Araja Zetsu trifft, einen exzellenten Eternal Battler, der von shogunatsfeindlichen Kräften verfolgt wird, begleitet er ihn auf dessen Reise und schreibt Geschichte.",
-        "date": "2026-10-06",
-        "poster": "https://images.justwatch.com/poster/355425501/s332/battle-spirits-re-zekkai-no-ku.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Battle%20Spirits%20%5BRe%5D%20ZEKKAI%20NO%20KU%20Trailer"
+        "genres": [],
+        "overview": "Nicht jede urbane Legende ist ein Mythos – manche erwachen zum Leben. Fushigi reist in seiner roten Kapuze durch Japan, um diese übernatürlichen Phänomene aufzuspüren und in seinem magischen Notizbuch zu versiegeln. Gemeinsam mit seinem vierbeinigen Begleiter Jimmy kommt er nach und nach dem Mädchen auf die Spur, das für alles verantwortlich ist: Himitsu.",
+        "date": "2026-10-10",
+        "poster": "https://images.justwatch.com/poster/355723553/s332/horror-collector.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=HORROR%20COLLECTOR%20Trailer"
       },
       {
         "title": "From Far Away",
@@ -209,6 +228,17 @@
     ],
     "hayu-amazon-channel": [
       {
+        "title": "Vanderpump Rules: Lisa Las Vegas",
+        "media": "sorozat",
+        "genres": [
+          "Reality"
+        ],
+        "overview": "Follows Lisa Vanderpump as she expands her Vegas empire by opening a high-profile namesake hotel, navigating behind-the-scenes drama to make the property worthy of the Vanderpump brand.",
+        "date": "2026-10-20",
+        "poster": "https://images.justwatch.com/poster/355129637/s332/vanderpump-rules-lisa-las-vegas.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Vanderpump%20Rules%3A%20Lisa%20Las%20Vegas%20Trailer"
+      },
+      {
         "title": "Still Flipping Out",
         "media": "sorozat",
         "genres": [
@@ -219,6 +249,7 @@
         "poster": "https://images.justwatch.com/poster/350393650/s332/still-flipping-out.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20Trailer"
       }
-    ]
+    ],
+    "mubi-amazon-channel": []
   }
 }

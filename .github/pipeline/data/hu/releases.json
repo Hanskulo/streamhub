@@ -1,20 +1,19 @@
 {
-  "generated_at": "2026-10-19T16:26",
-  "week": "2026-10-19",
+  "generated_at": "2026-10-21T14:28",
+  "week": "2026-10-21",
   "by_provider": {
     "netflix": [
       {
-        "title": "Vágómarha",
+        "title": "Kicsoda Martin Mull?",
         "media": "film",
         "genres": [
-          "Dráma",
-          "Thriller",
-          "Európai"
+          "Vígjáték",
+          "Dokumentum"
         ],
-        "overview": "Amikor Thomas megtudja, hogy rákos és a napjai meg vannak számlálva, elhatározza, hogy hátralévő idejében megszabadítja a világot minél több gonosztevőtől.",
-        "date": "2026-09-19",
-        "poster": "https://images.justwatch.com/poster/138427725/s332/slachtvee.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=V%C3%A1g%C3%B3marha%20el%C5%91zetes"
+        "overview": "A dokumentumfilm Martin Mull sokoldalú pályáját és rejtettebb művészi oldalát tárja fel: a komikusként, zenészként, színészként és festőként is maradandót alkotó előadó életútját saját megszólalásai, archív anyagok és pályatársak visszaemlékezései rajzolják meg. A történet végigköveti, hogyan jutott el a füstös folkkluboktól és a szatirikus zenei fellépésektől a televíziós kultszerepekig, majd a galériák világáig, miközben barátai és kollégái felidézik különös humorát, állandó újrakezdéseit és azt a művészi szenvedélyt, amely egész életében a nevetések mögött is meghatározta őt.",
+        "date": "2026-10-07",
+        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Kicsoda%20Martin%20Mull%3F%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -93,8 +92,21 @@
         "trailer": "https://www.youtube.com/results?search_query=Brothers%20el%C5%91zetes"
       }
     ],
-    "disney-plus": [],
-    "justwatch-tv": [],
+    "disney-plus": [
+      {
+        "title": "Imposztor",
+        "media": "sorozat",
+        "genres": [
+          "Vígjáték",
+          "Dráma",
+          "Thriller"
+        ],
+        "overview": "A középiskolás Sonny Cooke (Sam Nivola) egy autóbaleset után magához tér, és észreveszi, hogy édesanyja, Ellen (Connie Britton) kissé másképp néz ki. Azonban senki sem hisz neki, mert rajta kívül senki sem látja a változást. Sonny megpróbál együtt élni a potenciálisan veszélyes imposztorral, miközben igyekszik bebizonyítani, hogy nem ment el az esze.",
+        "date": "2026-10-20",
+        "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Imposztor%20el%C5%91zetes"
+      }
+    ],
     "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
@@ -112,6 +124,29 @@
     "crunchyroll": [],
     "hayu": [
       {
+        "title": "Vanderpump Rules: Lisa Las Vegas",
+        "media": "sorozat",
+        "genres": [
+          "Reality"
+        ],
+        "overview": "Follows Lisa Vanderpump as she expands her Vegas empire by opening a high-profile namesake hotel, navigating behind-the-scenes drama to make the property worthy of the Vanderpump brand.",
+        "date": "2026-10-20",
+        "poster": "https://images.justwatch.com/poster/355129637/s332/vanderpump-rules-lisa-las-vegas.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Vanderpump%20Rules%3A%20Lisa%20Las%20Vegas%20el%C5%91zetes"
+      },
+      {
+        "title": "War",
+        "media": "sorozat",
+        "genres": [
+          "Dráma",
+          "Thriller"
+        ],
+        "overview": "Egy botrányos válóper sokkolja az igazgatósági szobákat, hálószobákat és tárgyalótermeket egyaránt. A sorozat két rangos londoni rivális céget követ nyomon – a Cathcartsot és a Taylor & Byrne-t –, amelyek a század válóperében szállnak szembe egymással. Mindkét fél biztos a győzelmében, de az ügy egyre csak bonyolódik.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/354890779/s332/war.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=War%20el%C5%91zetes"
+      },
+      {
         "title": "Still Flipping Out",
         "media": "sorozat",
         "genres": [
@@ -123,19 +158,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20el%C5%91zetes"
       }
     ],
-    "hbo-max": [
-      {
-        "title": "Tragédia a La Corregidora stadionban",
-        "media": "sorozat",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "Revisits the events of March 5, 2022, during the match between Querétaro and Atlas, reconstructing what unfolded and examining its aftermath, the conflicting narratives surrounding the case, and the questions that, four years later, remain unresolved.",
-        "date": "2026-10-15",
-        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Trag%C3%A9dia%20a%20La%20Corregidora%20stadionban%20el%C5%91zetes"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [],
     "bloodstream": [
       {
@@ -181,17 +204,13 @@
         "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20Under%20a%20Goddess%20with%20Zero%20Believers%20el%C5%91zetes"
       },
       {
-        "title": "Battle Spirits [Re] ZEKKAI NO KU",
+        "title": "HORROR COLLECTOR",
         "media": "sorozat",
-        "genres": [
-          "Akció",
-          "Animáció",
-          "Sci-Fi"
-        ],
-        "overview": "Keio 3, Hinomoto, Eito. As the Bakumatsu throws Japan into turmoil, young Kuu Bashin dreams of becoming stronger through Standard Battle Spirits. His world changes when he encounters Ajara Zetsu, a wandering samurai and formidable Eternal Battler pursued by anti-shogunate forces. As the worlds of Standard and Eternal Battle collide, Kuu is pulled into Zetsu's journey—and sets history in motion.",
-        "date": "2026-10-06",
-        "poster": "https://images.justwatch.com/poster/355425501/s332/battle-spirits-re-zekkai-no-ku.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Battle%20Spirits%20%5BRe%5D%20ZEKKAI%20NO%20KU%20el%C5%91zetes"
+        "genres": [],
+        "overview": "Not all urban legends are myths. Some are real, and they’re coming to life. Fushigi roams Japan in a red hood, sealing them inside his magical notebook, with Jimmy, his human-faced dog, by his side. Each phenomenon brings him one step closer to capturing Himitsu, the girl responsible for manifesting the supernatural beings.",
+        "date": "2026-10-10",
+        "poster": "https://images.justwatch.com/poster/355723553/s332/horror-collector.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=HORROR%20COLLECTOR%20el%C5%91zetes"
       },
       {
         "title": "From Far Away",
@@ -209,6 +228,17 @@
     ],
     "hayu-amazon-channel": [
       {
+        "title": "Vanderpump Rules: Lisa Las Vegas",
+        "media": "sorozat",
+        "genres": [
+          "Reality"
+        ],
+        "overview": "Follows Lisa Vanderpump as she expands her Vegas empire by opening a high-profile namesake hotel, navigating behind-the-scenes drama to make the property worthy of the Vanderpump brand.",
+        "date": "2026-10-20",
+        "poster": "https://images.justwatch.com/poster/355129637/s332/vanderpump-rules-lisa-las-vegas.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Vanderpump%20Rules%3A%20Lisa%20Las%20Vegas%20el%C5%91zetes"
+      },
+      {
         "title": "Still Flipping Out",
         "media": "sorozat",
         "genres": [
@@ -219,6 +249,7 @@
         "poster": "https://images.justwatch.com/poster/350393650/s332/still-flipping-out.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20el%C5%91zetes"
       }
-    ]
+    ],
+    "mubi-amazon-channel": []
   }
 }

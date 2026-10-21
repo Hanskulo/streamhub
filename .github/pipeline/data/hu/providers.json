@@ -26,159 +26,159 @@
       "accent": "#a8f0e0"
     },
     {
-      "slug": "justwatch-tv",
-      "name": "JustWatch TV",
-      "tmdb_id": 2285,
-      "accent": "#ffd6a3"
-    },
-    {
       "slug": "apple-tv-store",
       "name": "Apple TV Store",
       "tmdb_id": 2,
-      "accent": "#b3ffd9"
+      "accent": "#ffd6a3"
     },
     {
       "slug": "youtube-premium",
       "name": "YouTube Premium",
       "tmdb_id": 188,
-      "accent": "#d9b3ff"
+      "accent": "#b3ffd9"
     },
     {
       "slug": "curiosity-stream",
       "name": "Curiosity Stream",
       "tmdb_id": 190,
-      "accent": "#ffb3b3"
+      "accent": "#d9b3ff"
     },
     {
       "slug": "docsville",
       "name": "DOCSVILLE",
       "tmdb_id": 475,
-      "accent": "#a8e0ff"
+      "accent": "#ffb3b3"
     },
     {
       "slug": "wow-presents-plus",
       "name": "WOW Presents Plus",
       "tmdb_id": 546,
-      "accent": "#c0f0d0"
+      "accent": "#a8e0ff"
     },
     {
       "slug": "magellan-tv",
       "name": "Magellan TV",
       "tmdb_id": 551,
-      "accent": "#ffc9e0"
+      "accent": "#c0f0d0"
     },
     {
       "slug": "broadwayhd",
       "name": "BroadwayHD",
       "tmdb_id": 554,
-      "accent": "#b3d9ff"
+      "accent": "#ffc9e0"
     },
     {
       "slug": "dekkoo",
       "name": "Dekkoo",
       "tmdb_id": 444,
-      "accent": "#e0b3ff"
+      "accent": "#b3d9ff"
     },
     {
       "slug": "true-story",
       "name": "True Story",
       "tmdb_id": 567,
-      "accent": "#ffe0a3"
+      "accent": "#e0b3ff"
     },
     {
       "slug": "hoichoi",
       "name": "Hoichoi",
       "tmdb_id": 315,
-      "accent": "#b3fff0"
+      "accent": "#ffe0a3"
     },
     {
       "slug": "cultpix",
       "name": "Cultpix",
       "tmdb_id": 692,
-      "accent": "#ff9db3"
+      "accent": "#b3fff0"
     },
     {
       "slug": "filmbox-stream",
       "name": "FILMBOX+ Stream",
       "tmdb_id": 701,
-      "accent": "#a8f0c0"
+      "accent": "#ff9db3"
     },
     {
       "slug": "sun-nxt",
       "name": "Sun Nxt",
       "tmdb_id": 309,
-      "accent": "#cfd0d8"
+      "accent": "#a8f0c0"
     },
     {
       "slug": "skyshowtime",
       "name": "SkyShowtime",
       "tmdb_id": 1773,
-      "accent": "#ffd0a8"
+      "accent": "#cfd0d8"
     },
     {
       "slug": "crunchyroll",
       "name": "Crunchyroll",
       "tmdb_id": 283,
-      "accent": "#b3e0ff"
+      "accent": "#ffd0a8"
     },
     {
       "slug": "hayu",
       "name": "Hayu",
       "tmdb_id": 223,
-      "accent": "#ff6b9d"
+      "accent": "#b3e0ff"
     },
     {
       "slug": "hbo-max",
       "name": "HBO Max",
       "tmdb_id": 1899,
-      "accent": "#c9b3ff"
+      "accent": "#ff6b9d"
     },
     {
       "slug": "mubi",
       "name": "MUBI",
       "tmdb_id": 11,
-      "accent": "#a3d5ff"
+      "accent": "#c9b3ff"
     },
     {
       "slug": "bloodstream",
       "name": "Bloodstream",
       "tmdb_id": 2555,
-      "accent": "#a8f0e0"
+      "accent": "#a3d5ff"
     },
     {
       "slug": "kableone",
       "name": "KableOne",
       "tmdb_id": 2603,
-      "accent": "#ffd6a3"
+      "accent": "#a8f0e0"
     },
     {
       "slug": "artiflix",
       "name": "Artiflix",
       "tmdb_id": 2623,
-      "accent": "#b3ffd9"
+      "accent": "#ffd6a3"
     },
     {
       "slug": "artify",
       "name": "Artify",
       "tmdb_id": 2685,
-      "accent": "#d9b3ff"
+      "accent": "#b3ffd9"
     },
     {
       "slug": "lionsgate-amazon-channel",
       "name": "Lionsgate+ Amazon Channel",
       "tmdb_id": 2358,
-      "accent": "#ffb3b3"
+      "accent": "#d9b3ff"
     },
     {
       "slug": "crunchyroll-amazon-channel",
       "name": "Crunchyroll Amazon Channel",
       "tmdb_id": 1968,
-      "accent": "#a8e0ff"
+      "accent": "#ffb3b3"
     },
     {
       "slug": "hayu-amazon-channel",
       "name": "Hayu Amazon Channel",
       "tmdb_id": 296,
+      "accent": "#a8e0ff"
+    },
+    {
+      "slug": "mubi-amazon-channel",
+      "name": "MUBI Amazon Channel",
+      "tmdb_id": 201,
       "accent": "#c0f0d0"
     }
   ]
