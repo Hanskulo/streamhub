@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-21T14:28",
-  "week": "2026-10-21",
+  "generated_at": "2026-10-23T14:12",
+  "week": "2026-10-23",
   "by_provider": {
     "netflix": [
+      {
+        "title": "LEGO Friends: Heartlake the Musical",
+        "media": "film",
+        "genres": [
+          "Vígjáték",
+          "Dráma",
+          "Fantasy"
+        ],
+        "overview": "Egy fiatal lány LEGO-kockákból saját világot épít, ám a játék váratlanul életre kel, és ő varázslatos módon Heartlake Citybe kerül. A LEGO Friends színes, zenével és tánccal teli világában új barátokra, kalandokra és önbizalomra talál, miközben felfedezi, hogy a képzelet, az alkotás és az összetartás ereje képes összekötni a valóságot az általa megálmodott világgal.",
+        "date": "2026-10-16",
+        "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=LEGO%20Friends%3A%20Heartlake%20the%20Musical%20el%C5%91zetes"
+      },
       {
         "title": "Kicsoda Martin Mull?",
         "media": "film",
@@ -14,6 +27,18 @@
         "date": "2026-10-07",
         "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Kicsoda%20Martin%20Mull%3F%20el%C5%91zetes"
+      },
+      {
+        "title": "Csóró dúsgazdagok",
+        "media": "film",
+        "genres": [
+          "Vígjáték",
+          "Dráma"
+        ],
+        "overview": "Amikor a sznob és jómódú AlThahabi család rájön, hogy egyáltalán nincsenek olyan jól eleresztve, mint hitték, a túlélés érdekében kénytelenek tovább színlelni a gazdagságot.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Cs%C3%B3r%C3%B3%20d%C3%BAsgazdagok%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -105,6 +130,19 @@
         "date": "2026-10-20",
         "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Imposztor%20el%C5%91zetes"
+      },
+      {
+        "title": "Boszorkánysuli",
+        "media": "sorozat",
+        "genres": [
+          "Vígjáték",
+          "Dráma",
+          "Fantasy"
+        ],
+        "overview": "A New York-i tinédzser, Briar Roberts egy rejtélyes New Orleans-i varázslóiskolába érkezik, hogy kiderítse, mi történt az anyjával. A boszorkányok és a vámpírok között egyre nő a feszültség, neki pedig boszorkánytanonc barátaival egy sötét, fenyegető erővel kell szembeszállnia. A természetfeletti gimi veszélyei közepette egy tiltott szerelem is lángra lobban.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/354821285/s332/boszorkanysuli.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Boszork%C3%A1nysuli%20el%C5%91zetes"
       }
     ],
     "apple-tv-store": [],
@@ -129,9 +167,9 @@
         "genres": [
           "Reality"
         ],
-        "overview": "Follows Lisa Vanderpump as she expands her Vegas empire by opening a high-profile namesake hotel, navigating behind-the-scenes drama to make the property worthy of the Vanderpump brand.",
+        "overview": "Follow Lisa Vanderpump as she opens The Vanderpump Hotel (formerly The Cromwell) on the Las Vegas Strip in partnership with Caesars Entertainment",
         "date": "2026-10-20",
-        "poster": "https://images.justwatch.com/poster/355129637/s332/vanderpump-rules-lisa-las-vegas.jpg",
+        "poster": "https://images.justwatch.com/poster/355422955/s332/vanderpump-rules-lisa-las-vegas.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Vanderpump%20Rules%3A%20Lisa%20Las%20Vegas%20el%C5%91zetes"
       },
       {
@@ -158,7 +196,19 @@
         "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20el%C5%91zetes"
       }
     ],
-    "hbo-max": [],
+    "hbo-max": [
+      {
+        "title": "Tragédia a La Corregidora stadionban",
+        "media": "sorozat",
+        "genres": [
+          "Dokumentum"
+        ],
+        "overview": "Revisits the events of March 5, 2022, during the match between Querétaro and Atlas, reconstructing what unfolded and examining its aftermath, the conflicting narratives surrounding the case, and the questions that, four years later, remain unresolved.",
+        "date": "2026-10-15",
+        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Trag%C3%A9dia%20a%20La%20Corregidora%20stadionban%20el%C5%91zetes"
+      }
+    ],
     "mubi": [],
     "bloodstream": [
       {
@@ -233,9 +283,9 @@
         "genres": [
           "Reality"
         ],
-        "overview": "Follows Lisa Vanderpump as she expands her Vegas empire by opening a high-profile namesake hotel, navigating behind-the-scenes drama to make the property worthy of the Vanderpump brand.",
+        "overview": "Follow Lisa Vanderpump as she opens The Vanderpump Hotel (formerly The Cromwell) on the Las Vegas Strip in partnership with Caesars Entertainment",
         "date": "2026-10-20",
-        "poster": "https://images.justwatch.com/poster/355129637/s332/vanderpump-rules-lisa-las-vegas.jpg",
+        "poster": "https://images.justwatch.com/poster/355422955/s332/vanderpump-rules-lisa-las-vegas.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Vanderpump%20Rules%3A%20Lisa%20Las%20Vegas%20el%C5%91zetes"
       },
       {

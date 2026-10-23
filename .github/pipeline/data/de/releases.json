@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-21T14:28",
-  "week": "2026-10-21",
+  "generated_at": "2026-10-23T14:13",
+  "week": "2026-10-23",
   "by_provider": {
     "netflix": [
+      {
+        "title": "LEGO® Friends HEARTLAKE꞉ The Musical",
+        "media": "film",
+        "genres": [
+          "Komödie",
+          "Drama",
+          "Fantasy"
+        ],
+        "overview": "Das schüchterne Mädchen Daisy baut leidenschaftlich gerne mit LEGO-Steinen. Als sie durch einen mysteriösen Schlüssel magisch in die farbenfrohe Welt von Heartlake City transportiert wird, trifft sie auf die bekannten Charaktere der LEGO Friends-Reihe. Gemeinsam versuchen die neuen Freunde, ein magisches Baumhaus vor dem Abriss zu retten. Durch diese Reise gewinnt Daisy den Mut, sich anderen gegenüber zu öffnen.",
+        "date": "2026-10-16",
+        "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=LEGO%C2%AE%20Friends%20HEARTLAKE%EA%9E%89%20The%20Musical%20Trailer"
+      },
       {
         "title": "Who Is Martin Mull?",
         "media": "film",
@@ -14,6 +27,18 @@
         "date": "2026-10-07",
         "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20Trailer"
+      },
+      {
+        "title": "Crazy Rich, Incredibly Broke",
+        "media": "film",
+        "genres": [
+          "Komödie",
+          "Drama"
+        ],
+        "overview": "Verzogen und völlig ahnungslos müssen drei verwöhnte Geschwister plötzlich erwachsen werden, als ihr Vater ihnen offenbart, dass sich ihr Vermögen in Luft aufgelöst hat.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Crazy%20Rich%2C%20Incredibly%20Broke%20Trailer"
       }
     ],
     "amazon-prime-video": [
@@ -105,6 +130,19 @@
         "date": "2026-10-20",
         "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Phony%20Trailer"
+      },
+      {
+        "title": "Coven Academy",
+        "media": "sorozat",
+        "genres": [
+          "Komödie",
+          "Drama",
+          "Fantasy"
+        ],
+        "overview": "Die Coven Academy begleitet drei junge Hexen in Ausbildung, die vom Schicksal dazu bestimmt sind, ihre Stadt vor gefährlichen, uralten Mächten zu beschützen. Zwischen der Aufdeckung dunkler Geheimnisse, dem Erlernen unberechenbarer Magie und der Konfrontation mit ablenkend süßen Rivalen müssen sie sich auch mit den Herzschmerzen und tiefen Bindungen auseinandersetzen, die das Erwachsenwerden mit sich bringt.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/348408700/s332/boszorkanysuli.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Coven%20Academy%20Trailer"
       }
     ],
     "apple-tv-store": [],
@@ -129,9 +167,9 @@
         "genres": [
           "Reality"
         ],
-        "overview": "Follows Lisa Vanderpump as she expands her Vegas empire by opening a high-profile namesake hotel, navigating behind-the-scenes drama to make the property worthy of the Vanderpump brand.",
+        "overview": "Follow Lisa Vanderpump as she opens The Vanderpump Hotel (formerly The Cromwell) on the Las Vegas Strip in partnership with Caesars Entertainment",
         "date": "2026-10-20",
-        "poster": "https://images.justwatch.com/poster/355129637/s332/vanderpump-rules-lisa-las-vegas.jpg",
+        "poster": "https://images.justwatch.com/poster/355422955/s332/vanderpump-rules-lisa-las-vegas.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Vanderpump%20Rules%3A%20Lisa%20Las%20Vegas%20Trailer"
       },
       {
@@ -158,7 +196,19 @@
         "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20Trailer"
       }
     ],
-    "hbo-max": [],
+    "hbo-max": [
+      {
+        "title": "Corregidora: Die dunkelste Nacht des mexikanischen Fußballs",
+        "media": "sorozat",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Eine Untersuchung der Ausschreitungen im Corregidora-Stadion im Jahr 2022 und der Ereignisse, die zu den gewalttätigen Fan-Zusammenstößen führten.",
+        "date": "2026-10-15",
+        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Corregidora%3A%20Die%20dunkelste%20Nacht%20des%20mexikanischen%20Fu%C3%9Fballs%20Trailer"
+      }
+    ],
     "mubi": [],
     "bloodstream": [
       {
@@ -233,9 +283,9 @@
         "genres": [
           "Reality"
         ],
-        "overview": "Follows Lisa Vanderpump as she expands her Vegas empire by opening a high-profile namesake hotel, navigating behind-the-scenes drama to make the property worthy of the Vanderpump brand.",
+        "overview": "Follow Lisa Vanderpump as she opens The Vanderpump Hotel (formerly The Cromwell) on the Las Vegas Strip in partnership with Caesars Entertainment",
         "date": "2026-10-20",
-        "poster": "https://images.justwatch.com/poster/355129637/s332/vanderpump-rules-lisa-las-vegas.jpg",
+        "poster": "https://images.justwatch.com/poster/355422955/s332/vanderpump-rules-lisa-las-vegas.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Vanderpump%20Rules%3A%20Lisa%20Las%20Vegas%20Trailer"
       },
       {
