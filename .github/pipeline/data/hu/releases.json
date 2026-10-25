@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-10-23T14:12",
-  "week": "2026-10-23",
+  "generated_at": "2026-10-25T13:41",
+  "week": "2026-10-25",
   "by_provider": {
     "netflix": [
-      {
-        "title": "LEGO Friends: Heartlake the Musical",
-        "media": "film",
-        "genres": [
-          "Vígjáték",
-          "Dráma",
-          "Fantasy"
-        ],
-        "overview": "Egy fiatal lány LEGO-kockákból saját világot épít, ám a játék váratlanul életre kel, és ő varázslatos módon Heartlake Citybe kerül. A LEGO Friends színes, zenével és tánccal teli világában új barátokra, kalandokra és önbizalomra talál, miközben felfedezi, hogy a képzelet, az alkotás és az összetartás ereje képes összekötni a valóságot az általa megálmodott világgal.",
-        "date": "2026-10-16",
-        "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=LEGO%20Friends%3A%20Heartlake%20the%20Musical%20el%C5%91zetes"
-      },
       {
         "title": "Kicsoda Martin Mull?",
         "media": "film",
@@ -43,7 +30,7 @@
     ],
     "amazon-prime-video": [
       {
-        "title": "Szeresd az életed",
+        "title": "Életed szerelme",
         "media": "film",
         "genres": [
           "Dráma",
@@ -52,7 +39,7 @@
         "overview": "Rachel Morrison filmje, a SZERESD AZ ÉLETED Maya története. Egy véletlen találkozás Charlie-val elsöprő szerelmet szül, és korábban elképzelni sem mert jövőt tár a lány elé. Amikor ez a jövő darabokra hullik, Maya egy új életbe csöppen, amely arra kényszeríti, hogy szembenézzen azzal, ki is ő valójában, mire vágyik, és hogyan tud újra szeretni.",
         "date": "2026-10-07",
         "poster": "https://images.justwatch.com/poster/355561624/s332/szeresd-az-eleted.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Szeresd%20az%20%C3%A9leted%20el%C5%91zetes"
+        "trailer": "https://www.youtube.com/results?search_query=%C3%89leted%20szerelme%20el%C5%91zetes"
       },
       {
         "title": "Inkább a halál",
@@ -104,17 +91,6 @@
         "date": "2026-10-02",
         "poster": "https://images.justwatch.com/poster/355160143/s332/the-last-first-winter-k2.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Last%20First%3A%20Winter%20K2%20el%C5%91zetes"
-      },
-      {
-        "title": "Brothers",
-        "media": "sorozat",
-        "genres": [
-          "Vígjáték"
-        ],
-        "overview": "A hollywoodi színészek, Matthew McConaughey és Woody Harrelson évek óta legjobb barátok, ám egy megdöbbentő családi titok arra utal, hogy kapcsolatuk talán ennél is szorosabb.",
-        "date": "2026-09-23",
-        "poster": "https://images.justwatch.com/poster/350958165/s332/brothers-1.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Brothers%20el%C5%91zetes"
       }
     ],
     "disney-plus": [
@@ -130,19 +106,6 @@
         "date": "2026-10-20",
         "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Imposztor%20el%C5%91zetes"
-      },
-      {
-        "title": "Boszorkánysuli",
-        "media": "sorozat",
-        "genres": [
-          "Vígjáték",
-          "Dráma",
-          "Fantasy"
-        ],
-        "overview": "A New York-i tinédzser, Briar Roberts egy rejtélyes New Orleans-i varázslóiskolába érkezik, hogy kiderítse, mi történt az anyjával. A boszorkányok és a vámpírok között egyre nő a feszültség, neki pedig boszorkánytanonc barátaival egy sötét, fenyegető erővel kell szembeszállnia. A természetfeletti gimi veszélyei közepette egy tiltott szerelem is lángra lobban.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/354821285/s332/boszorkanysuli.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Boszork%C3%A1nysuli%20el%C5%91zetes"
       }
     ],
     "apple-tv-store": [],
@@ -274,6 +237,19 @@
         "date": "2026-10-05",
         "poster": "https://images.justwatch.com/poster/354265268/s332/from-far-away.jpg",
         "trailer": "https://www.youtube.com/results?search_query=From%20Far%20Away%20el%C5%91zetes"
+      },
+      {
+        "title": "FX Fighter Kurumi-chan",
+        "media": "sorozat",
+        "genres": [
+          "Animáció",
+          "Dráma",
+          "Thriller"
+        ],
+        "overview": "Student Kurumi Fukuga starts FX trading to recover her late mother's 20 million yen loss. She discovers a volatile world of gains and losses. With friends Mochiko, Mebuki and Yasuko, she navigates this risky money game's highs and lows.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/354747292/s332/fx-fighter-kurumi-chan.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=FX%20Fighter%20Kurumi-chan%20el%C5%91zetes"
       }
     ],
     "hayu-amazon-channel": [

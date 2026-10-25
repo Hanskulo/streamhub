@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-10-23T14:13",
-  "week": "2026-10-23",
+  "generated_at": "2026-10-25T13:41",
+  "week": "2026-10-25",
   "by_provider": {
     "netflix": [
-      {
-        "title": "LEGO Friends: Heartlake the Musical",
-        "media": "film",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Fantasy"
-        ],
-        "overview": "Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark – with plenty of song and dance numbers along the way.",
-        "date": "2026-10-16",
-        "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=LEGO%20Friends%3A%20Heartlake%20the%20Musical%20trailer"
-      },
       {
         "title": "Who Is Martin Mull?",
         "media": "film",
@@ -104,17 +91,6 @@
         "date": "2026-10-02",
         "poster": "https://images.justwatch.com/poster/355160143/s332/the-last-first-winter-k2.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Last%20First%3A%20Winter%20K2%20trailer"
-      },
-      {
-        "title": "Brothers",
-        "media": "sorozat",
-        "genres": [
-          "Comedy"
-        ],
-        "overview": "Matthew and Woody have been best friends for years, but a shocking family secret suggests their connection might be closer.",
-        "date": "2026-09-23",
-        "poster": "https://images.justwatch.com/poster/350958165/s332/brothers-1.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Brothers%20trailer"
       }
     ],
     "disney-plus": [
@@ -130,19 +106,6 @@
         "date": "2026-10-20",
         "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Phony%20trailer"
-      },
-      {
-        "title": "Coven Academy",
-        "media": "sorozat",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Fantasy"
-        ],
-        "overview": "In the haunted heart of New Orleans, three teenage witches and their warlock peers attend an elite magic boarding school where power is currency, secrets are lethal and attraction is a liability.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/348408700/s332/boszorkanysuli.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Coven%20Academy%20trailer"
       }
     ],
     "apple-tv-store": [],
@@ -274,6 +237,19 @@
         "date": "2026-10-05",
         "poster": "https://images.justwatch.com/poster/354265268/s332/from-far-away.jpg",
         "trailer": "https://www.youtube.com/results?search_query=From%20Far%20Away%20trailer"
+      },
+      {
+        "title": "FX Fighter Kurumi-chan",
+        "media": "sorozat",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "Student Kurumi Fukuga starts FX trading to recover her late mother's 20 million yen loss. She discovers a volatile world of gains and losses. With friends Mochiko, Mebuki and Yasuko, she navigates this risky money game's highs and lows.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/354747292/s332/fx-fighter-kurumi-chan.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=FX%20Fighter%20Kurumi-chan%20trailer"
       }
     ],
     "hayu-amazon-channel": [

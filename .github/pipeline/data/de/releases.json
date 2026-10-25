@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-10-23T14:13",
-  "week": "2026-10-23",
+  "generated_at": "2026-10-25T13:42",
+  "week": "2026-10-25",
   "by_provider": {
     "netflix": [
-      {
-        "title": "LEGO® Friends HEARTLAKE꞉ The Musical",
-        "media": "film",
-        "genres": [
-          "Komödie",
-          "Drama",
-          "Fantasy"
-        ],
-        "overview": "Das schüchterne Mädchen Daisy baut leidenschaftlich gerne mit LEGO-Steinen. Als sie durch einen mysteriösen Schlüssel magisch in die farbenfrohe Welt von Heartlake City transportiert wird, trifft sie auf die bekannten Charaktere der LEGO Friends-Reihe. Gemeinsam versuchen die neuen Freunde, ein magisches Baumhaus vor dem Abriss zu retten. Durch diese Reise gewinnt Daisy den Mut, sich anderen gegenüber zu öffnen.",
-        "date": "2026-10-16",
-        "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=LEGO%C2%AE%20Friends%20HEARTLAKE%EA%9E%89%20The%20Musical%20Trailer"
-      },
       {
         "title": "Who Is Martin Mull?",
         "media": "film",
@@ -104,17 +91,6 @@
         "date": "2026-10-02",
         "poster": "https://images.justwatch.com/poster/347980855/s332/the-last-first-winter-k2.jpg",
         "trailer": "https://www.youtube.com/results?search_query=The%20Last%20First%3A%20Winter%20K2%20Trailer"
-      },
-      {
-        "title": "Brothers",
-        "media": "sorozat",
-        "genres": [
-          "Komödie"
-        ],
-        "overview": "Die Hollywood-Schauspieler Matthew McConaughey und Woody Harrelson sind seit Jahren dicke Freunde. Doch ein schockierendes Familiengeheimnis lässt den Schluss zu, dass die beiden mehr verbinden könnte, als sie je geahnt hätten.",
-        "date": "2026-09-23",
-        "poster": "https://images.justwatch.com/poster/355205550/s332/brothers-1.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Brothers%20Trailer"
       }
     ],
     "disney-plus": [
@@ -130,19 +106,6 @@
         "date": "2026-10-20",
         "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Phony%20Trailer"
-      },
-      {
-        "title": "Coven Academy",
-        "media": "sorozat",
-        "genres": [
-          "Komödie",
-          "Drama",
-          "Fantasy"
-        ],
-        "overview": "Die Coven Academy begleitet drei junge Hexen in Ausbildung, die vom Schicksal dazu bestimmt sind, ihre Stadt vor gefährlichen, uralten Mächten zu beschützen. Zwischen der Aufdeckung dunkler Geheimnisse, dem Erlernen unberechenbarer Magie und der Konfrontation mit ablenkend süßen Rivalen müssen sie sich auch mit den Herzschmerzen und tiefen Bindungen auseinandersetzen, die das Erwachsenwerden mit sich bringt.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/348408700/s332/boszorkanysuli.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Coven%20Academy%20Trailer"
       }
     ],
     "apple-tv-store": [],
@@ -274,6 +237,19 @@
         "date": "2026-10-05",
         "poster": "https://images.justwatch.com/poster/354265268/s332/from-far-away.jpg",
         "trailer": "https://www.youtube.com/results?search_query=From%20Far%20Away%20Trailer"
+      },
+      {
+        "title": "FX Fighter Kurumi-chan",
+        "media": "sorozat",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "Kaufen! Verkaufen! Profit schlagen… oder alles verlieren! Die Studentin Fukuga Kurumi stürzt sich in die schnelllebige Welt des Devisenhandels, um die 20 Millionen Yen zurückzugewinnen, die ihre Mutter einst verlor. Gemeinsam mit ihren Trader-Freundinnen Mochiko, Mebuki und Yasuko kämpft sie gegen volatile Märkte, in denen jede Entscheidung zu Reichtum oder Ruin führen kann!",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/354747292/s332/fx-fighter-kurumi-chan.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=FX%20Fighter%20Kurumi-chan%20Trailer"
       }
     ],
     "hayu-amazon-channel": [
