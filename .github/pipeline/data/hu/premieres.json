@@ -1,254 +1,248 @@
 {
-  "generated_at": "2026-10-19T16:25",
-  "window": "2026-10-19 .. 2026-11-03",
+  "generated_at": "2026-10-26T16:04",
+  "window": "2026-10-26 .. 2026-11-10",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "Kan Kardeşi - Those in Between",
+          "title": "The Phantom of the Opera",
           "media": "film",
           "genres": [
-            "Dokumentum"
-          ],
-          "overview": "A few meters from the UN buffer zone, Ayşegül and her best friend Adnan grow up in Lefkoşa, the Turkish-controlled half of Cyprus’s divided capital. From the rooftops, they gaze at the European south – close enough to touch and yet out of reach: as the daughter of Turkish settlers, Ayşegül cannot cross the border. She works at a supermarket and dreams of a life in France, while Adnan aspires to a career as a professional badminton player. But family expectations, Ayşegül’s engagement to her jealous ex-boyfriend, and Adnan’s military service test their friendship and plans for the future.",
-          "date": "2026-10-21",
-          "poster": "https://images.justwatch.com/poster/355581400/s332/kan-kardesi-those-in-between.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Kan%20Karde%C5%9Fi%20-%20Those%20in%20Between%20el%C5%91zetes"
-        },
-        {
-          "title": "Dreams of a Sleeping Dragon",
-          "media": "film",
-          "genres": [
-            "Dokumentum"
-          ],
-          "overview": "For more than a year, people have been protesting every evening in front of the Georgian parliament against the autocratic regime of the ruling party »Georgian Dream«. A community without leadership, united by the hope for a future in Europe and the independence from Russia, but divided on how to get there. While the government tries to keep the protesters under control with police violence, heavy fines, and pressure on the judiciary, the protesters call out the names of political prisoners every evening. One of the demonstrators is the twelve-year-old Aguna, roaming the protest ground on his own. The story of a child whose childhood is taken away by adults – and who therefore declares himself an adult. A claim Aguna will not let anyone take away from him.",
-          "date": "2026-10-21",
-          "poster": "https://images.justwatch.com/poster/355615398/s332/dreams-of-a-sleeping-dragon.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Dreams%20of%20a%20Sleeping%20Dragon%20el%C5%91zetes"
-        },
-        {
-          "title": "Coward",
-          "media": "film",
-          "genres": [
-            "Dráma",
-            "Történelmi",
-            "Romantikus"
-          ],
-          "overview": "Pierre, a young Belgian soldier, wants to prove himself on the battlefield during the First World War. Behind the frontlines, he meets Francis, who is asked to find a way to boost morale.",
-          "date": "2026-10-21",
-          "poster": "https://images.justwatch.com/poster/354751833/s332/coward.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Coward%20el%C5%91zetes"
-        },
-        {
-          "title": "The Cycle",
-          "media": "film",
-          "genres": [
-            "Krimi",
+            "Fantasy",
             "Horror",
             "Thriller"
           ],
-          "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-          "date": "2026-10-21",
-          "poster": "https://images.justwatch.com/poster/349702942/s332/the-cycle.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Cycle%20el%C5%91zetes"
+          "overview": "Anastasia, an 18-year-old ballet dancer at the Opéra Garnier, becomes the obsession of a disfigured man living in the opera's underground labyrinth.",
+          "date": "2026-10-28",
+          "poster": "https://images.justwatch.com/poster/344873486/s332/le-fantome-de-lopera.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Phantom%20of%20the%20Opera%20el%C5%91zetes"
         },
         {
-          "title": "A vesszőből font férj",
+          "title": "Biermann",
+          "media": "film",
+          "genres": [
+            "Dokumentum"
+          ],
+          "overview": "Portrait of the German-German singer-songwriter and intellectual Wolf Biermann, whose famous Cologne concert in 1976 made German history.",
+          "date": "2026-10-29",
+          "poster": "https://images.justwatch.com/poster/354619902/s332/biermann-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Biermann%20el%C5%91zetes"
+        },
+        {
+          "title": "Free at Heart",
+          "media": "film",
+          "genres": [
+            "Dráma",
+            "Családi",
+            "Romantikus"
+          ],
+          "overview": "Sebastian's (16) sheltered small-town life changes suddenly when his family takes in 15-year-old Kolja, supposedly the son of his father's recently deceased girlfriend. In addition to his little sister, another teenager now lives with them.  Although the two boys are strangers to each other at first, they begin to open up to each other more and more and discover that they are biological brothers. The relationship of trust with his parents breaks down and when Sebastian and Kolja become closer than they expected, Sebastian's life is suddenly turned upside down, as he has found not only a soul mate in his new brother, but also a real, first love. Overwhelmed by their feelings, the two hide their relationship, but when the secret, incestuous relationship is discovered, the family breaks out of the social structure of the small town and comes into conflict with societal norms. Everything that follows is a rollercoaster of emotions.",
+          "date": "2026-10-29",
+          "poster": "https://images.justwatch.com/poster/346208760/s332/free-at-heart.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Free%20at%20Heart%20el%C5%91zetes"
+        },
+        {
+          "title": "Hotel Alcohol",
+          "media": "film",
+          "genres": [
+            "Dráma"
+          ],
+          "overview": "In the psychiatric hospital, the chief doctor organizes the \"Olympic Games,\" in which protagonists Bako, Medea, and Drago form a group called \"Hotel Alcohol.\" They lose the games, leave the hospital, and head toward the sea.",
+          "date": "2026-10-29",
+          "poster": "https://images.justwatch.com/poster/355641803/s332/hotel-alcohol.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Hotel%20Alcohol%20el%C5%91zetes"
+        },
+        {
+          "title": "An mang karaoke",
           "media": "film",
           "genres": [
             "Vígjáték",
-            "Dráma",
-            "Fantasy"
-          ],
-          "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-          "date": "2026-10-21",
-          "poster": "https://images.justwatch.com/poster/355641664/s332/wicker.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=A%20vessz%C5%91b%C5%91l%20font%20f%C3%A9rj%20el%C5%91zetes"
-        },
-        {
-          "title": "Die andere Seite",
-          "media": "film",
-          "genres": [
-            "Dráma",
+            "Horror",
             "Thriller"
           ],
-          "overview": "Since losing her family, a woman is living alone in the wilderness — far away from society, which is dominated by mistrust and fear after the outbreak of a fatal disease. When she is forced to leave this life behind, she not only experiences a boundless freedom, but also remembers the importance of human closeness and the feeling of belonging.",
-          "date": "2026-10-22",
-          "poster": "https://images.justwatch.com/poster/355049812/s332/die-andere-seite-2026-1.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Die%20andere%20Seite%20el%C5%91zetes"
+          "overview": "A remote mountain pilgrimage goes horribly wrong when a karaoke-obsessed tycoon is forever silenced in the middle of the night. Stranded with nothing to feed on but paranoia, no one escapes becoming the prime suspect.",
+          "date": "2026-10-30",
+          "poster": "https://images.justwatch.com/poster/356133972/s332/an-m-ng-karaoke.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=An%20mang%20karaoke%20el%C5%91zetes"
         },
         {
-          "title": "Zwei Minuten",
+          "title": "SCTV: The Greatest Show You've Never Heard Of",
           "media": "film",
           "genres": [
-            "Dráma"
+            "Dokumentum"
           ],
-          "overview": "Following routine, Mai has prepared breakfast, made coffee and packed school lunches. While her mother can’t get out of bed, Mai tries to make sure her little sister Louisa has a perfectly normal morning. But the two need get to school, and time is running short once again. Under mounting pressure, Mai is unable to play the adult today. For the first time, it’s up to Louisa to step into that role. Feeling betrayed and abandoned by her big sister, Louisa bravely takes on the new challenge – even as the sisters’ otherwise strong bond threatens to cracken.",
-          "date": "2026-10-22",
-          "poster": "https://images.justwatch.com/poster/355678578/s332/zwei-minuten.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Zwei%20Minuten%20el%C5%91zetes"
+          "overview": "Through intimate interviews with surviving members of its legendary cast and an emotional reunion in Toronto, the film explores the creative partnership that transformed a small Canadian television production into a cultural phenomenon that launched some of comedy’s most celebrated icons.",
+          "date": "2026-10-30",
+          "poster": "https://images.justwatch.com/poster/354938671/s332/sctv-the-greatest-show-youve-never-heard-of.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=SCTV%3A%20The%20Greatest%20Show%20You%27ve%20Never%20Heard%20Of%20el%C5%91zetes"
         },
         {
-          "title": "The Girl with the Leica",
+          "title": "Der Geier – Blut und Zweifel",
           "media": "film",
           "genres": [
-            "Dráma"
+            "Krimi"
           ],
-          "overview": "On Bastille Day in 1937, pioneering German-Jewish photojournalist Gerda Taro spends her final day in Paris confronting her past, her complex partnership with Robert Capa, and her absolute commitment to anti-fascist resistance before returning to the front lines of the Spanish Civil War.",
-          "date": "2026-10-22",
-          "poster": "https://images.justwatch.com/poster/354785877/s332/das-maedchen-mit-der-leica.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Girl%20with%20the%20Leica%20el%C5%91zetes"
+          "overview": "When a seasonal worker named Lara Schnee is murdered in the mountains beyond Bad Gastein, former witness protection agent Lukas Geier recognizes disturbing parallels to the past of a man to whom he once provided a new identity. In a race against Detective Inspector Franziska Conte, Geier must secretly investigate whether he might have saved the wrong person after all.",
+          "date": "2026-10-31",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Der%20Geier%20%E2%80%93%20Blut%20und%20Zweifel%20el%C5%91zetes"
+        },
+        {
+          "title": "Issac",
+          "media": "film",
+          "genres": [
+            "Horror",
+            "Thriller",
+            "Romantikus"
+          ],
+          "overview": "A lonely young man meets a mysterious woman who changes everything. What begins as an unexpected connection soon becomes something darker—something neither of them can control, and something they can no longer hide.",
+          "date": "2026-10-31",
+          "poster": "https://images.justwatch.com/poster/332090486/s332/love-me-dead.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Issac%20el%C5%91zetes"
         }
       ]
     },
     "hungary": {
       "items": [
         {
-          "title": "Hanging by a Wire",
-          "media": "film",
-          "genres": [
-            "Akció",
-            "Krimi",
-            "Dokumentum"
-          ],
-          "overview": "On a Tuesday morning in August 2023, a group of kids set off for school, climbing into a makeshift cable car for the journey across a mountain pass in northwest Pakistan. What happened next would make headlines around the world. Suddenly, 900 feet above the ground, two cables snapped, putting the teenagers in mortal danger.",
-          "date": "2026-10-21",
-          "poster": "https://images.justwatch.com/poster/350686982/s332/hanging-by-a-wire.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Hanging%20by%20a%20Wire%20el%C5%91zetes"
-        },
-        {
-          "title": "Tag",
+          "title": "Wishing Well Road",
           "media": "film",
           "genres": [
             "Horror"
           ],
-          "overview": "On their honeymoon in a quaint, old-fashioned town, newlyweds Maggie and Joe decide to ignore a local warning and venture into a supposedly haunted maze after dark. After a few drinks, the couple turns their late-night adventure into a playful game of tag. But as they wander deeper into the winding paths, their innocent fun takes an unsettling turn. With darkness closing in and strange things happening around them, the newlyweds begin to realize they may not be alone. And in this maze, some games are better left unplayed.",
-          "date": "2026-10-22",
-          "poster": "https://images.justwatch.com/poster/355642334/s332/tag-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Tag%20el%C5%91zetes"
+          "overview": "A vlogger vanishes after becoming embroiled in a local legend. Leaving only questions, and his camera behind.",
+          "date": "2026-11-01",
+          "poster": "https://images.justwatch.com/poster/346689718/s332/wishing-well-road.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Wishing%20Well%20Road%20el%C5%91zetes"
         },
         {
-          "title": "Wildwood - A tiltott vadon",
+          "title": "Kalapos Macska",
           "media": "film",
           "genres": [
             "Animáció",
-            "Fantasy",
-            "Horror"
+            "Vígjáték",
+            "Fantasy"
           ],
-          "overview": "Prue és osztálytársa, Curtis egy tiltott, varázslatos erdőbe téved, amelyet elbűvölt lények, hűséges szövetségesek és félelmetes ellenfelek népesítenek be. Kétségbeesett küldetésre indulnak, hogy kiszabadítsák Prue elrabolt kisöccsét, Macet a varjak fogságából, akiket egy Alexandra nevű, titokzatos nő vezet. (Csillag Lajos)",
-          "date": "2026-10-22",
-          "poster": "https://images.justwatch.com/poster/354684670/s332/wildwood.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Wildwood%20-%20A%20tiltott%20vadon%20el%C5%91zetes"
+          "overview": "A Macskát eddigi legnehezebb küldetésével bízzák meg... hogy segítsen két testvérnek, akiknek nehézséget okoz a beilleszkedés egy új városban.  (Csillag Lajos)",
+          "date": "2026-11-04",
+          "poster": "https://images.justwatch.com/poster/346931864/s332/the-cat-in-the-hat.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Kalapos%20Macska%20el%C5%91zetes"
         },
         {
-          "title": "Thousands of Meters, Hundreds of Hours",
+          "title": "The Invisible Guest",
           "media": "film",
           "genres": [
-            "Dokumentum",
-            "Történelmi"
+            "Krimi",
+            "Dráma",
+            "Thriller"
           ],
-          "overview": "Through interviews with women who have been trained in the craft of making traditional Lepoglava lace we learn about this symbol's role in the creation of Lepoglava's identity and how it connects local women across time and space.",
-          "date": "2026-10-30",
-          "poster": "https://images.justwatch.com/poster/355480564/s332/thousands-of-meters-hundreds-of-hours.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Thousands%20of%20Meters%2C%20Hundreds%20of%20Hours%20el%C5%91zetes"
+          "overview": "Accused of murdering her lover, a young businesswoman hires a brilliant lawyer. With only three hours left, they must uncover what really happened.",
+          "date": "2026-11-06",
+          "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Invisible%20Guest%20el%C5%91zetes"
         }
       ]
     },
     "usa": {
       "items": [
         {
-          "title": "Coward",
+          "title": "Free at Heart",
           "media": "film",
           "genres": [
             "Dráma",
-            "Történelmi",
-            "Romantikus"
-          ],
-          "overview": "Pierre, a young Belgian soldier, wants to prove himself on the battlefield during the First World War. Behind the frontlines, he meets Francis, who is asked to find a way to boost morale.",
-          "date": "2026-10-21",
-          "poster": "https://images.justwatch.com/poster/354751833/s332/coward.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Coward%20el%C5%91zetes"
-        },
-        {
-          "title": "The Night Everything Changed",
-          "media": "film",
-          "genres": [
-            "Thriller"
-          ],
-          "overview": "When Tina's teenage daughter doesn't return home from a sleepover with her closest friends, she goes on a frantic hunt to find her before it's too late. In the process, she unravels dark secrets of a forbidden romance and a tryst among BFFs.",
-          "date": "2026-10-22",
-          "poster": "https://images.justwatch.com/poster/347382771/s332/the-night-everything-changed.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Night%20Everything%20Changed%20el%C5%91zetes"
-        },
-        {
-          "title": "Miss Representation: Rise Up",
-          "media": "film",
-          "genres": [
-            "Dokumentum"
-          ],
-          "overview": "MISS REPRESENTATION: RISING dives deep into the cultural backlash against women’s mental health, agency, and political power with technology exacerbating sexism and misogyny towards women and girls.",
-          "date": "2026-10-22",
-          "poster": "https://images.justwatch.com/poster/351085203/s332/miss-representation-rise-up.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Miss%20Representation%3A%20Rise%20Up%20el%C5%91zetes"
-        },
-        {
-          "title": "Titanic",
-          "media": "film",
-          "genres": [
-            "Vígjáték",
             "Családi",
             "Romantikus"
           ],
-          "overview": "Titanic is an upcoming Tamil-language romantic comedy film written and directed by M. Janakiraman and produced by C. V. Kumar.",
-          "date": "2026-10-23",
-          "poster": "https://images.justwatch.com/poster/342629923/s332/titanic-2018.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Titanic%20el%C5%91zetes"
+          "overview": "Sebastian's (16) sheltered small-town life changes suddenly when his family takes in 15-year-old Kolja, supposedly the son of his father's recently deceased girlfriend. In addition to his little sister, another teenager now lives with them.  Although the two boys are strangers to each other at first, they begin to open up to each other more and more and discover that they are biological brothers. The relationship of trust with his parents breaks down and when Sebastian and Kolja become closer than they expected, Sebastian's life is suddenly turned upside down, as he has found not only a soul mate in his new brother, but also a real, first love. Overwhelmed by their feelings, the two hide their relationship, but when the secret, incestuous relationship is discovered, the family breaks out of the social structure of the small town and comes into conflict with societal norms. Everything that follows is a rollercoaster of emotions.",
+          "date": "2026-10-29",
+          "poster": "https://images.justwatch.com/poster/346208760/s332/free-at-heart.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Free%20at%20Heart%20el%C5%91zetes"
         },
         {
-          "title": "Andhar",
+          "title": "Club Kid",
           "media": "film",
           "genres": [
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "In an isolated house where flowers wilt at a touch and time refuses to move in a straight line, a fragile young widow begins a new life, with a much older husband, she can't quite trust - haunted by warnings, watched by something patient, and carrying a secret that isn't only her own. When an impossible death draws a sharp-witted detective into the house's orbit, he finds a place that bends memory, guards an ancient purpose, and refuses to let anyone leave unchanged. What waits beneath is older than the walls, and the answer, when it comes at dawn, will reach further than anyone expects.",
-          "date": "2026-10-23",
-          "poster": "https://images.justwatch.com/poster/354192984/s332/andhar.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Andhar%20el%C5%91zetes"
-        },
-        {
-          "title": "Happy Birthday",
-          "media": "film",
-          "genres": [
+            "Vígjáték",
             "Dráma"
           ],
-          "overview": "Eight-year-old maid Toha goes to great lengths to ensure that her best friend Nelly, the daughter of her wealthy employer, has a successful birthday party in this poignant debut feature exploring classism in modern-day Cairo.",
-          "date": "2026-10-23",
-          "poster": "https://images.justwatch.com/poster/330275251/s332/happy-birthday-2025-1.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Happy%20Birthday%20el%C5%91zetes"
+          "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+          "date": "2026-11-04",
+          "poster": "https://images.justwatch.com/poster/356262613/s332/club-kid.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Club%20Kid%20el%C5%91zetes"
         },
         {
-          "title": "Human",
+          "title": "The Last Temptation of Becky",
           "media": "film",
           "genres": [
+            "Akció",
+            "Vígjáték",
             "Horror"
           ],
-          "overview": "Follows Dani Ferris, alone and exhausted, who seeks a moment of digital distraction before bed but instead gets thrust into a blood-drenched supernatural nightmare filled with horrors and heartbreak.",
-          "date": "2026-10-23",
-          "poster": "https://images.justwatch.com/poster/355304509/s332/human-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Human%20el%C5%91zetes"
+          "overview": "Now a CIA field agent, Becky goes undercover in Poland to infiltrate a family running an inn at The Wolf's Lair, one of Hitler's WWII bunkers. When she learns the father, Wilhelm Reuss, plans to spark the Fourth Reich, Becky must stop him.",
+          "date": "2026-11-04",
+          "poster": "https://images.justwatch.com/poster/356124602/s332/the-last-temptation-of-becky-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Temptation%20of%20Becky%20el%C5%91zetes"
         },
         {
-          "title": "Watch You Rise",
+          "title": "George Michael: The Faith Tour",
           "media": "film",
           "genres": [
+            "Dokumentum",
+            "Zene"
+          ],
+          "overview": "A stunning delve into George Michael's 1988 Faith Tour, as shot live at the famous Palais Omnisports de Paris-Bercy. This exclusive footage, assembled from a 14-camera shoot captured on 35mm over two nights (30–31 May 1988), features the 24-year-old pop star at the height of his powers.",
+          "date": "2026-11-05",
+          "poster": "https://images.justwatch.com/poster/354886768/s332/george-michael-the-faith-tour.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=George%20Michael%3A%20The%20Faith%20Tour%20el%C5%91zetes"
+        },
+        {
+          "title": "Drummer Boy",
+          "media": "film",
+          "genres": [
+            "Zene",
+            "Romantikus",
+            "Háborús"
+          ],
+          "overview": "As America’s fight for independence begins, a young drummer boy, an enslaved woman, and a divided family each search for freedom in a world built to deny it. With music carrying hope through battle and loss, Drummer Boy turns the Revolution into a deeply human story of faith, forgiveness, and the belief that no person is born to live in chains or be forgotten.",
+          "date": "2026-11-05",
+          "poster": "https://images.justwatch.com/poster/354635886/s332/drummer-boy-2026-1.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Drummer%20Boy%20el%C5%91zetes"
+        },
+        {
+          "title": "Chocolate for Christmas",
+          "media": "film",
+          "genres": [
+            "Romantikus"
+          ],
+          "overview": "When a woman returns home to save her family’s beloved chocolate shop, she finds unexpected love and a renewed appreciation for what matters most. This sweet holiday romance celebrates family, community and the lasting power of tradition.",
+          "date": "2026-11-06",
+          "poster": "https://images.justwatch.com/poster/354971122/s332/chocolate-for-christmas.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Chocolate%20for%20Christmas%20el%C5%91zetes"
+        },
+        {
+          "title": "Being Heumann",
+          "media": "film",
+          "genres": [
+            "Dráma",
+            "Történelmi"
+          ],
+          "overview": "A harcias, dacos Judy Heumann megelégeli, hogy teherként kezelik, és forradalommá formálja dühét. 1977-ben több mint 100, a fogyatékosok jogaiért harcoló társával a világba kiáltják üzenetüket: A rendszer a rokkant, nem mi.",
+          "date": "2026-11-06",
+          "poster": "https://images.justwatch.com/poster/355415060/s332/being-heumann.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Being%20Heumann%20el%C5%91zetes"
+        },
+        {
+          "title": "Unprotected: Murder in Galicia",
+          "media": "film",
+          "genres": [
+            "Krimi",
             "Dokumentum"
           ],
-          "overview": "Follows Isabella Grace Cohn as she works to understand and expose the roots of sexual harm — her peers’, her mother’s, and eventually her own. Along the way, she meets diverse survivors, perpetrators, and experts. Together they explore the cultural, educational and legal gray areas that fuel the cycle of harm in a quest for hope and transformation.",
-          "date": "2026-10-24",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Watch%20You%20Rise%20el%C5%91zetes"
+          "overview": "In 2015, alleged thieves left Isabel Fuentes near death in her own home. This documentary traces how suspicions quickly fell on her circle of trust.",
+          "date": "2026-11-06",
+          "poster": "https://images.justwatch.com/poster/355379110/s332/desprotexida-el-crimen-de-pazos.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Unprotected%3A%20Murder%20in%20Galicia%20el%C5%91zetes"
         }
       ]
     }
