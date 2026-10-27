@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T13:42",
-  "week": "2026-10-25",
+  "generated_at": "2026-10-27T15:20",
+  "week": "2026-10-27",
   "by_provider": {
     "netflix": [
       {
@@ -14,18 +14,6 @@
         "date": "2026-10-07",
         "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20Trailer"
-      },
-      {
-        "title": "Crazy Rich, Incredibly Broke",
-        "media": "film",
-        "genres": [
-          "Komödie",
-          "Drama"
-        ],
-        "overview": "Verzogen und völlig ahnungslos müssen drei verwöhnte Geschwister plötzlich erwachsen werden, als ihr Vater ihnen offenbart, dass sich ihr Vermögen in Luft aufgelöst hat.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Crazy%20Rich%2C%20Incredibly%20Broke%20Trailer"
       }
     ],
     "amazon-prime-video": [
@@ -106,6 +94,19 @@
         "date": "2026-10-20",
         "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Phony%20Trailer"
+      },
+      {
+        "title": "Coven Academy",
+        "media": "sorozat",
+        "genres": [
+          "Komödie",
+          "Drama",
+          "Fantasy"
+        ],
+        "overview": "Die Coven Academy begleitet drei junge Hexen in Ausbildung, die vom Schicksal dazu bestimmt sind, ihre Stadt vor gefährlichen, uralten Mächten zu beschützen. Zwischen der Aufdeckung dunkler Geheimnisse, dem Erlernen unberechenbarer Magie und der Konfrontation mit ablenkend süßen Rivalen müssen sie sich auch mit den Herzschmerzen und tiefen Bindungen auseinandersetzen, die das Erwachsenwerden mit sich bringt.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/348408700/s332/boszorkanysuli.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Coven%20Academy%20Trailer"
       }
     ],
     "apple-tv-store": [],
@@ -159,19 +160,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20Trailer"
       }
     ],
-    "hbo-max": [
-      {
-        "title": "Corregidora: Die dunkelste Nacht des mexikanischen Fußballs",
-        "media": "sorozat",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "Eine Untersuchung der Ausschreitungen im Corregidora-Stadion im Jahr 2022 und der Ereignisse, die zu den gewalttätigen Fan-Zusammenstößen führten.",
-        "date": "2026-10-15",
-        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Corregidora%3A%20Die%20dunkelste%20Nacht%20des%20mexikanischen%20Fu%C3%9Fballs%20Trailer"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [],
     "bloodstream": [
       {
@@ -237,19 +226,6 @@
         "date": "2026-10-05",
         "poster": "https://images.justwatch.com/poster/354265268/s332/from-far-away.jpg",
         "trailer": "https://www.youtube.com/results?search_query=From%20Far%20Away%20Trailer"
-      },
-      {
-        "title": "FX Fighter Kurumi-chan",
-        "media": "sorozat",
-        "genres": [
-          "Animation",
-          "Drama",
-          "Thriller"
-        ],
-        "overview": "Kaufen! Verkaufen! Profit schlagen… oder alles verlieren! Die Studentin Fukuga Kurumi stürzt sich in die schnelllebige Welt des Devisenhandels, um die 20 Millionen Yen zurückzugewinnen, die ihre Mutter einst verlor. Gemeinsam mit ihren Trader-Freundinnen Mochiko, Mebuki und Yasuko kämpft sie gegen volatile Märkte, in denen jede Entscheidung zu Reichtum oder Ruin führen kann!",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/354747292/s332/fx-fighter-kurumi-chan.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=FX%20Fighter%20Kurumi-chan%20Trailer"
       }
     ],
     "hayu-amazon-channel": [

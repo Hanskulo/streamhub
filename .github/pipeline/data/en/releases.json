@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T13:41",
-  "week": "2026-10-25",
+  "generated_at": "2026-10-27T15:19",
+  "week": "2026-10-27",
   "by_provider": {
     "netflix": [
       {
@@ -14,18 +14,6 @@
         "date": "2026-10-07",
         "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20trailer"
-      },
-      {
-        "title": "AlMahaitiya",
-        "media": "film",
-        "genres": [
-          "Comedy",
-          "Drama"
-        ],
-        "overview": "A wealthy family loses their fortune and chooses to continue to fake affluence in an effort to keep up appearances.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=AlMahaitiya%20trailer"
       }
     ],
     "amazon-prime-video": [
@@ -106,6 +94,19 @@
         "date": "2026-10-20",
         "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Phony%20trailer"
+      },
+      {
+        "title": "Coven Academy",
+        "media": "sorozat",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ],
+        "overview": "In the haunted heart of New Orleans, three teenage witches and their warlock peers attend an elite magic boarding school where power is currency, secrets are lethal and attraction is a liability.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/348408700/s332/boszorkanysuli.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Coven%20Academy%20trailer"
       }
     ],
     "apple-tv-store": [],
@@ -159,19 +160,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20trailer"
       }
     ],
-    "hbo-max": [
-      {
-        "title": "Corregidora: The Darkest Night in Mexican Soccer",
-        "media": "sorozat",
-        "genres": [
-          "Documentary"
-        ],
-        "overview": "Revisits the events of March 5, 2022, during the match between Querétaro and Atlas, reconstructing what unfolded and examining its aftermath, the conflicting narratives surrounding the case, and the questions that, four years later, remain unresolved.",
-        "date": "2026-10-15",
-        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Corregidora%3A%20The%20Darkest%20Night%20in%20Mexican%20Soccer%20trailer"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [],
     "bloodstream": [
       {
@@ -237,19 +226,6 @@
         "date": "2026-10-05",
         "poster": "https://images.justwatch.com/poster/354265268/s332/from-far-away.jpg",
         "trailer": "https://www.youtube.com/results?search_query=From%20Far%20Away%20trailer"
-      },
-      {
-        "title": "FX Fighter Kurumi-chan",
-        "media": "sorozat",
-        "genres": [
-          "Animation",
-          "Drama",
-          "Thriller"
-        ],
-        "overview": "Student Kurumi Fukuga starts FX trading to recover her late mother's 20 million yen loss. She discovers a volatile world of gains and losses. With friends Mochiko, Mebuki and Yasuko, she navigates this risky money game's highs and lows.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/354747292/s332/fx-fighter-kurumi-chan.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=FX%20Fighter%20Kurumi-chan%20trailer"
       }
     ],
     "hayu-amazon-channel": [

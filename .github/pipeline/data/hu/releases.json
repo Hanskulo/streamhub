@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T13:41",
-  "week": "2026-10-25",
+  "generated_at": "2026-10-27T15:19",
+  "week": "2026-10-27",
   "by_provider": {
     "netflix": [
       {
@@ -14,18 +14,6 @@
         "date": "2026-10-07",
         "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Kicsoda%20Martin%20Mull%3F%20el%C5%91zetes"
-      },
-      {
-        "title": "Csóró dúsgazdagok",
-        "media": "film",
-        "genres": [
-          "Vígjáték",
-          "Dráma"
-        ],
-        "overview": "Amikor a sznob és jómódú AlThahabi család rájön, hogy egyáltalán nincsenek olyan jól eleresztve, mint hitték, a túlélés érdekében kénytelenek tovább színlelni a gazdagságot.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Cs%C3%B3r%C3%B3%20d%C3%BAsgazdagok%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -106,6 +94,19 @@
         "date": "2026-10-20",
         "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Imposztor%20el%C5%91zetes"
+      },
+      {
+        "title": "Boszorkánysuli",
+        "media": "sorozat",
+        "genres": [
+          "Vígjáték",
+          "Dráma",
+          "Fantasy"
+        ],
+        "overview": "A New York-i tinédzser, Briar Roberts egy rejtélyes New Orleans-i varázslóiskolába érkezik, hogy kiderítse, mi történt az anyjával. A boszorkányok és a vámpírok között egyre nő a feszültség, neki pedig boszorkánytanonc barátaival egy sötét, fenyegető erővel kell szembeszállnia. A természetfeletti gimi veszélyei közepette egy tiltott szerelem is lángra lobban.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/354821285/s332/boszorkanysuli.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Boszork%C3%A1nysuli%20el%C5%91zetes"
       }
     ],
     "apple-tv-store": [],
@@ -159,19 +160,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20el%C5%91zetes"
       }
     ],
-    "hbo-max": [
-      {
-        "title": "Tragédia a La Corregidora stadionban",
-        "media": "sorozat",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "Revisits the events of March 5, 2022, during the match between Querétaro and Atlas, reconstructing what unfolded and examining its aftermath, the conflicting narratives surrounding the case, and the questions that, four years later, remain unresolved.",
-        "date": "2026-10-15",
-        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Trag%C3%A9dia%20a%20La%20Corregidora%20stadionban%20el%C5%91zetes"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [],
     "bloodstream": [
       {
@@ -237,19 +226,6 @@
         "date": "2026-10-05",
         "poster": "https://images.justwatch.com/poster/354265268/s332/from-far-away.jpg",
         "trailer": "https://www.youtube.com/results?search_query=From%20Far%20Away%20el%C5%91zetes"
-      },
-      {
-        "title": "FX Fighter Kurumi-chan",
-        "media": "sorozat",
-        "genres": [
-          "Animáció",
-          "Dráma",
-          "Thriller"
-        ],
-        "overview": "Student Kurumi Fukuga starts FX trading to recover her late mother's 20 million yen loss. She discovers a volatile world of gains and losses. With friends Mochiko, Mebuki and Yasuko, she navigates this risky money game's highs and lows.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/354747292/s332/fx-fighter-kurumi-chan.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=FX%20Fighter%20Kurumi-chan%20el%C5%91zetes"
       }
     ],
     "hayu-amazon-channel": [
