@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-27T15:20",
-  "week": "2026-10-27",
+  "generated_at": "2026-10-29T16:05",
+  "week": "2026-10-29",
   "by_provider": {
     "netflix": [
+      {
+        "title": "LEGO® Friends HEARTLAKE꞉ The Musical",
+        "media": "film",
+        "genres": [
+          "Komödie",
+          "Drama",
+          "Fantasy"
+        ],
+        "overview": "Das schüchterne Mädchen Daisy baut leidenschaftlich gerne mit LEGO-Steinen. Als sie durch einen mysteriösen Schlüssel magisch in die farbenfrohe Welt von Heartlake City transportiert wird, trifft sie auf die bekannten Charaktere der LEGO Friends-Reihe. Gemeinsam versuchen die neuen Freunde, ein magisches Baumhaus vor dem Abriss zu retten. Durch diese Reise gewinnt Daisy den Mut, sich anderen gegenüber zu öffnen.",
+        "date": "2026-10-16",
+        "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=LEGO%C2%AE%20Friends%20HEARTLAKE%EA%9E%89%20The%20Musical%20Trailer"
+      },
       {
         "title": "Who Is Martin Mull?",
         "media": "film",
@@ -14,6 +27,18 @@
         "date": "2026-10-07",
         "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20Trailer"
+      },
+      {
+        "title": "Crazy Rich, Incredibly Broke",
+        "media": "film",
+        "genres": [
+          "Komödie",
+          "Drama"
+        ],
+        "overview": "Verzogen und völlig ahnungslos müssen drei verwöhnte Geschwister plötzlich erwachsen werden, als ihr Vater ihnen offenbart, dass sich ihr Vermögen in Luft aufgelöst hat.",
+        "date": "2026-10-01",
+        "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Crazy%20Rich%2C%20Incredibly%20Broke%20Trailer"
       }
     ],
     "amazon-prime-video": [
@@ -109,7 +134,17 @@
         "trailer": "https://www.youtube.com/results?search_query=Coven%20Academy%20Trailer"
       }
     ],
-    "apple-tv-store": [],
+    "apple-tv-store": [
+      {
+        "title": "The Gift (Fantaisie-Impromptu)",
+        "media": "film",
+        "genres": [],
+        "overview": "When ten-year-old Abigail Phillips discovers a forgotten piano deep in the woods on her father's farm, she uncovers more than a passion for music - she unlocks a mystery that spans generations. In the wake of her mother's sudden passing, Abigail finds solace and purpose in music, and her natural talent quickly blossoms. Recognizing her exceptional gift, her father sends her to Paris to pursue a career as a concert pianist. Meanwhile, he begins his own investigation into the piano's mysterious origins. As he uncovers a hidden history of loss, longing, and silent lives quietly touched by the instrument, Abigail's fame begins to grow, along with the weight of the secret behind her talent.",
+        "date": "2026-10-26",
+        "poster": "https://images.justwatch.com/poster/356338798/s332/the-gift-fantaisie-impromptu.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Gift%20%28Fantaisie-Impromptu%29%20Trailer"
+      }
+    ],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
@@ -147,33 +182,23 @@
         "date": "2026-10-01",
         "poster": "https://images.justwatch.com/poster/354890779/s332/war.jpg",
         "trailer": "https://www.youtube.com/results?search_query=War%20Trailer"
-      },
-      {
-        "title": "Still Flipping Out",
-        "media": "sorozat",
-        "genres": [
-          "Reality"
-        ],
-        "overview": "Follows Lewis as he navigates the hilariously unpredictable nature of his professional and personal lives as his trademark spontaneity collides with the people who work with him, for him, and still somehow survive him.",
-        "date": "2026-09-28",
-        "poster": "https://images.justwatch.com/poster/350393650/s332/still-flipping-out.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20Trailer"
       }
     ],
-    "hbo-max": [],
+    "hbo-max": [
+      {
+        "title": "Corregidora: Die dunkelste Nacht des mexikanischen Fußballs",
+        "media": "sorozat",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Eine Untersuchung der Ausschreitungen im Corregidora-Stadion im Jahr 2022 und der Ereignisse, die zu den gewalttätigen Fan-Zusammenstößen führten.",
+        "date": "2026-10-15",
+        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Corregidora%3A%20Die%20dunkelste%20Nacht%20des%20mexikanischen%20Fu%C3%9Fballs%20Trailer"
+      }
+    ],
     "mubi": [],
     "bloodstream": [
-      {
-        "title": "Tag",
-        "media": "film",
-        "genres": [
-          "Horror"
-        ],
-        "overview": "On their honeymoon in a quaint, old-fashioned town, newlyweds Maggie and Joe decide to ignore a local warning and venture into a supposedly haunted maze after dark. After a few drinks, the couple turns their late-night adventure into a playful game of tag. But as they wander deeper into the winding paths, their innocent fun takes an unsettling turn. With darkness closing in and strange things happening around them, the newlyweds begin to realize they may not be alone. And in this maze, some games are better left unplayed.",
-        "date": "2026-10-22",
-        "poster": "https://images.justwatch.com/poster/355642334/s332/tag-2026.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Tag%20Trailer"
-      },
       {
         "title": "Last Chance Motel",
         "media": "film",
@@ -208,7 +233,10 @@
       {
         "title": "HORROR COLLECTOR",
         "media": "sorozat",
-        "genres": [],
+        "genres": [
+          "Animation",
+          "Thriller"
+        ],
         "overview": "Nicht jede urbane Legende ist ein Mythos – manche erwachen zum Leben. Fushigi reist in seiner roten Kapuze durch Japan, um diese übernatürlichen Phänomene aufzuspüren und in seinem magischen Notizbuch zu versiegeln. Gemeinsam mit seinem vierbeinigen Begleiter Jimmy kommt er nach und nach dem Mädchen auf die Spur, das für alles verantwortlich ist: Himitsu.",
         "date": "2026-10-10",
         "poster": "https://images.justwatch.com/poster/355723553/s332/horror-collector.jpg",
@@ -226,6 +254,19 @@
         "date": "2026-10-05",
         "poster": "https://images.justwatch.com/poster/354265268/s332/from-far-away.jpg",
         "trailer": "https://www.youtube.com/results?search_query=From%20Far%20Away%20Trailer"
+      },
+      {
+        "title": "A Tale of the Secret Saint",
+        "media": "sorozat",
+        "genres": [
+          "Action",
+          "Animation",
+          "Fantasy"
+        ],
+        "overview": "Obwohl Fia kein Talent mit dem Schwert besitzt, träumt sie davon, eine große Ritterin zu werden. Als sie nur knapp dem Tod entrinnt, kehren ihre Erinnerungen an ihr früheres Leben als Heilige, welche den Dämonenkönig tötete, zurück. Doch zusammen mit ihrer Macht erwachen auch ihre einstigen Feinde zu neuem Leben. Um zu überleben, verbigt sie ihre Kräfte. Aber erlaubt das ihre Ritterehre?",
+        "date": "2026-10-02",
+        "poster": "https://images.justwatch.com/poster/355051090/s332/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=A%20Tale%20of%20the%20Secret%20Saint%20Trailer"
       }
     ],
     "hayu-amazon-channel": [
@@ -239,17 +280,6 @@
         "date": "2026-10-20",
         "poster": "https://images.justwatch.com/poster/355422955/s332/vanderpump-rules-lisa-las-vegas.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Vanderpump%20Rules%3A%20Lisa%20Las%20Vegas%20Trailer"
-      },
-      {
-        "title": "Still Flipping Out",
-        "media": "sorozat",
-        "genres": [
-          "Reality"
-        ],
-        "overview": "Follows Lewis as he navigates the hilariously unpredictable nature of his professional and personal lives as his trademark spontaneity collides with the people who work with him, for him, and still somehow survive him.",
-        "date": "2026-09-28",
-        "poster": "https://images.justwatch.com/poster/350393650/s332/still-flipping-out.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Still%20Flipping%20Out%20Trailer"
       }
     ],
     "mubi-amazon-channel": []
