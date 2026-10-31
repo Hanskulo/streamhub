@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T16:05",
-  "week": "2026-10-29",
+  "generated_at": "2026-10-31T15:17",
+  "week": "2026-10-31",
   "by_provider": {
     "netflix": [
       {
@@ -27,18 +27,6 @@
         "date": "2026-10-07",
         "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Kicsoda%20Martin%20Mull%3F%20el%C5%91zetes"
-      },
-      {
-        "title": "Csóró dúsgazdagok",
-        "media": "film",
-        "genres": [
-          "Vígjáték",
-          "Dráma"
-        ],
-        "overview": "Amikor a sznob és jómódú AlThahabi család rájön, hogy egyáltalán nincsenek olyan jól eleresztve, mint hitték, a túlélés érdekében kénytelenek tovább színlelni a gazdagságot.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/355003176/s332/crazy-rich-incredibly-broke.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Cs%C3%B3r%C3%B3%20d%C3%BAsgazdagok%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -70,6 +58,19 @@
     ],
     "apple-tv": [
       {
+        "title": "Nocturne",
+        "media": "sorozat",
+        "genres": [
+          "Krimi",
+          "Dráma",
+          "Thriller"
+        ],
+        "overview": "Amikor a hírhedt sorozatgyilkos, Jurek Walter egyik áldozata váratlanul élve bukkan fel, Jonah Lynn nyomozó az idővel versenyt futva próbálja megtalálni az utolsó, még eltűntként kezelt személyt, míg tanítványa, Saga Bauer beépül, hogy közvetlenül a gyilkostól szerezzen válaszokat.",
+        "date": "2026-10-30",
+        "poster": "https://images.justwatch.com/poster/354518072/s332/nocturne.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Nocturne%20el%C5%91zetes"
+      },
+      {
         "title": "Tendzing",
         "media": "film",
         "genres": [
@@ -81,18 +82,6 @@
         "date": "2026-10-16",
         "poster": "https://images.justwatch.com/poster/354681065/s332/tendzing.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Tendzing%20el%C5%91zetes"
-      },
-      {
-        "title": "Matchbox",
-        "media": "film",
-        "genres": [
-          "Akció",
-          "Vígjáték"
-        ],
-        "overview": "Amikor a volt gyermekkori barátok újra találkoznak, váratlanul éles fordulattal egy veszélyes nemzetközi összeesküvésbe csöppennek, és meg kell menteniük a világot.",
-        "date": "2026-10-05",
-        "poster": "https://images.justwatch.com/poster/354573347/s332/matchbox.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Matchbox%20el%C5%91zetes"
       },
       {
         "title": "The Last First: Winter K2",
@@ -115,9 +104,9 @@
           "Dráma",
           "Thriller"
         ],
-        "overview": "A középiskolás Sonny Cooke (Sam Nivola) egy autóbaleset után magához tér, és észreveszi, hogy édesanyja, Ellen (Connie Britton) kissé másképp néz ki. Azonban senki sem hisz neki, mert rajta kívül senki sem látja a változást. Sonny megpróbál együtt élni a potenciálisan veszélyes imposztorral, miközben igyekszik bebizonyítani, hogy nem ment el az esze.",
+        "overview": "A középiskolás Sonny Cooke egy autóbaleset után magához tér, és észreveszi, hogy édesanyja, Ellen kissé másképp néz ki. Azonban senki sem hisz neki, mert rajta kívül senki sem látja a változást. Sonny megpróbál együtt élni a potenciálisan veszélyes imposztorral, miközben igyekszik bebizonyítani, hogy nem ment el az esze.",
         "date": "2026-10-20",
-        "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
+        "poster": "https://images.justwatch.com/poster/356401732/s332/imposztor.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Imposztor%20el%C5%91zetes"
       },
       {
@@ -134,17 +123,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Boszork%C3%A1nysuli%20el%C5%91zetes"
       }
     ],
-    "apple-tv-store": [
-      {
-        "title": "The Gift (Fantaisie-Impromptu)",
-        "media": "film",
-        "genres": [],
-        "overview": "When ten-year-old Abigail Phillips discovers a forgotten piano deep in the woods on her father's farm, she uncovers more than a passion for music - she unlocks a mystery that spans generations. In the wake of her mother's sudden passing, Abigail finds solace and purpose in music, and her natural talent quickly blossoms. Recognizing her exceptional gift, her father sends her to Paris to pursue a career as a concert pianist. Meanwhile, he begins his own investigation into the piano's mysterious origins. As he uncovers a hidden history of loss, longing, and silent lives quietly touched by the instrument, Abigail's fame begins to grow, along with the weight of the secret behind her talent.",
-        "date": "2026-10-26",
-        "poster": "https://images.justwatch.com/poster/356338798/s332/the-gift-fantaisie-impromptu.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Gift%20%28Fantaisie-Impromptu%29%20el%C5%91zetes"
-      }
-    ],
+    "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
@@ -243,6 +222,19 @@
         "trailer": "https://www.youtube.com/results?search_query=HORROR%20COLLECTOR%20el%C5%91zetes"
       },
       {
+        "title": "Battle Spirits [Re] ZEKKAI NO KU",
+        "media": "sorozat",
+        "genres": [
+          "Akció",
+          "Animáció",
+          "Sci-Fi"
+        ],
+        "overview": "Keio 3, Hinomoto, Eito. As the Bakumatsu throws Japan into turmoil, young Kuu Bashin dreams of becoming stronger through Standard Battle Spirits. His world changes when he encounters Ajara Zetsu, a wandering samurai and formidable Eternal Battler pursued by anti-shogunate forces. As the worlds of Standard and Eternal Battle collide, Kuu is pulled into Zetsu's journey—and sets history in motion.",
+        "date": "2026-10-06",
+        "poster": "https://images.justwatch.com/poster/355425501/s332/battle-spirits-re-zekkai-no-ku.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Battle%20Spirits%20%5BRe%5D%20ZEKKAI%20NO%20KU%20el%C5%91zetes"
+      },
+      {
         "title": "From Far Away",
         "media": "sorozat",
         "genres": [
@@ -254,19 +246,6 @@
         "date": "2026-10-05",
         "poster": "https://images.justwatch.com/poster/354265268/s332/from-far-away.jpg",
         "trailer": "https://www.youtube.com/results?search_query=From%20Far%20Away%20el%C5%91zetes"
-      },
-      {
-        "title": "Tensei Shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
-        "media": "sorozat",
-        "genres": [
-          "Akció",
-          "Animáció",
-          "Fantasy"
-        ],
-        "overview": "Fia Ruud, the youngest member of the Ruud family, discovers she's the reincarnation of a powerful \"Great Saint\" and must keep it secret as she pursues her dream of becoming a knight.",
-        "date": "2026-10-02",
-        "poster": "https://images.justwatch.com/poster/355051090/s332/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Tensei%20Shita%20Daiseijo%20wa%2C%20Seijo%20de%20Aru%20Koto%20wo%20Hitakakusu%20el%C5%91zetes"
       }
     ],
     "hayu-amazon-channel": [
