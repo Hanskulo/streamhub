@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T15:18",
-  "week": "2026-10-31",
+  "generated_at": "2026-11-01T15:59",
+  "week": "2026-11-01",
   "by_provider": {
     "netflix": [
       {
@@ -108,22 +108,19 @@
         "date": "2026-10-20",
         "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Phony%20Trailer"
-      },
-      {
-        "title": "Coven Academy",
-        "media": "sorozat",
-        "genres": [
-          "Komödie",
-          "Drama",
-          "Fantasy"
-        ],
-        "overview": "Die Coven Academy begleitet drei junge Hexen in Ausbildung, die vom Schicksal dazu bestimmt sind, ihre Stadt vor gefährlichen, uralten Mächten zu beschützen. Zwischen der Aufdeckung dunkler Geheimnisse, dem Erlernen unberechenbarer Magie und der Konfrontation mit ablenkend süßen Rivalen müssen sie sich auch mit den Herzschmerzen und tiefen Bindungen auseinandersetzen, die das Erwachsenwerden mit sich bringt.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/348408700/s332/boszorkanysuli.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Coven%20Academy%20Trailer"
       }
     ],
-    "apple-tv-store": [],
+    "apple-tv-store": [
+      {
+        "title": "The Gift (Fantaisie-Impromptu)",
+        "media": "film",
+        "genres": [],
+        "overview": "When ten-year-old Abigail Phillips discovers a forgotten piano deep in the woods on her father's farm, she uncovers more than a passion for music - she unlocks a mystery that spans generations. In the wake of her mother's sudden passing, Abigail finds solace and purpose in music, and her natural talent quickly blossoms. Recognizing her exceptional gift, her father sends her to Paris to pursue a career as a concert pianist. Meanwhile, he begins his own investigation into the piano's mysterious origins. As he uncovers a hidden history of loss, longing, and silent lives quietly touched by the instrument, Abigail's fame begins to grow, along with the weight of the secret behind her talent.",
+        "date": "2026-10-26",
+        "poster": "https://images.justwatch.com/poster/356338798/s332/the-gift-fantaisie-impromptu.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Gift%20%28Fantaisie-Impromptu%29%20Trailer"
+      }
+    ],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
@@ -149,18 +146,6 @@
         "date": "2026-10-20",
         "poster": "https://images.justwatch.com/poster/355422955/s332/vanderpump-rules-lisa-las-vegas.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Vanderpump%20Rules%3A%20Lisa%20Las%20Vegas%20Trailer"
-      },
-      {
-        "title": "War",
-        "media": "sorozat",
-        "genres": [
-          "Drama",
-          "Thriller"
-        ],
-        "overview": "Zwei der renommiertesten rivalisierenden Kanzleien Londons – Cathcarts und Taylor & Byrne – stehen sich in der Scheidungsklage des Jahrhunderts gegenüber: Tech-Gigant Morgan Henderson und seine getrennt lebende Frau, die internationale Filmstar Carla Duval. Beide Seiten sind sich sicher, dass sie gewinnen werden. Doch als sich der Fall zuspitzt und Loyalitäten bröckeln, steht der Ruf aller Beteiligten auf dem Spiel, und jeder kämpft um den Sieg.",
-        "date": "2026-10-01",
-        "poster": "https://images.justwatch.com/poster/354890779/s332/war.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=War%20Trailer"
       }
     ],
     "hbo-max": [
@@ -220,19 +205,6 @@
         "date": "2026-10-10",
         "poster": "https://images.justwatch.com/poster/355723553/s332/horror-collector.jpg",
         "trailer": "https://www.youtube.com/results?search_query=HORROR%20COLLECTOR%20Trailer"
-      },
-      {
-        "title": "Battle Spirits [Re] ZEKKAI NO KU",
-        "media": "sorozat",
-        "genres": [
-          "Action",
-          "Animation",
-          "Sci-Fi"
-        ],
-        "overview": "Wir schreiben das Jahr 3 der Keio-Ära, Iapan, Ädo. Während politische Umwälzungen das Land in Aufruhr versetzen, träumt der junge Kū Bashin davon, durch Standard Battle Spirits stärker zu werden. Doch als er den herrenlosen Samurai Araja Zetsu trifft, einen exzellenten Eternal Battler, der von shogunatsfeindlichen Kräften verfolgt wird, begleitet er ihn auf dessen Reise und schreibt Geschichte.",
-        "date": "2026-10-06",
-        "poster": "https://images.justwatch.com/poster/355425501/s332/battle-spirits-re-zekkai-no-ku.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Battle%20Spirits%20%5BRe%5D%20ZEKKAI%20NO%20KU%20Trailer"
       },
       {
         "title": "From Far Away",
