@@ -1,128 +1,117 @@
 {
-  "generated_at": "2026-10-26T16:05",
-  "window": "2026-10-26 .. 2026-11-10",
+  "generated_at": "2026-11-02T19:26",
+  "window": "2026-11-02 .. 2026-11-17",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "The Phantom of the Opera",
+          "title": "Godzilla Minus Zero",
           "media": "film",
           "genres": [
-            "Fantasy",
-            "Horror",
-            "Thriller"
+            "Action",
+            "Drama",
+            "Horror"
           ],
-          "overview": "Anastasia, an 18-year-old ballet dancer at the Opéra Garnier, becomes the obsession of a disfigured man living in the opera's underground labyrinth.",
-          "date": "2026-10-28",
-          "poster": "https://images.justwatch.com/poster/344873486/s332/le-fantome-de-lopera.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Phantom%20of%20the%20Opera%20trailer"
+          "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+          "date": "2026-11-03",
+          "poster": "https://images.justwatch.com/poster/347360982/s332/godzilla-minus-zero.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Godzilla%20Minus%20Zero%20trailer"
         },
         {
-          "title": "Biermann",
+          "title": "Club Kid",
+          "media": "film",
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+          "date": "2026-11-04",
+          "poster": "https://images.justwatch.com/poster/356262613/s332/club-kid.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Club%20Kid%20trailer"
+        },
+        {
+          "title": "Rammstein: Live in Mexico City",
+          "media": "film",
+          "genres": [
+            "Documentary",
+            "Music"
+          ],
+          "overview": "A three-night compilation that captures their spectacular October 2022 shows at the Foro Sol Stadium in Mexico City during the Stadium Tour era. This live has become the band's most massive and longest one of their entire career.",
+          "date": "2026-11-04",
+          "poster": "https://images.justwatch.com/poster/354650822/s332/rammstein-live-in-mexico-city.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Rammstein%3A%20Live%20in%20Mexico%20City%20trailer"
+        },
+        {
+          "title": "Ninho: Le Prix à payer",
+          "media": "film",
+          "genres": [
+            "Documentary",
+            "Music"
+          ],
+          "overview": "Ninho's intense, decade-long career and the immense personal sacrifices that come with being France's most-streamed artist. The documentary offers a unique behind-the-scenes look as he wants to stepping away from the spotlight entirely.",
+          "date": "2026-11-04",
+          "poster": "https://images.justwatch.com/poster/356442912/s332/ninho-le-prix-a-payer.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Ninho%3A%20Le%20Prix%20%C3%A0%20payer%20trailer"
+        },
+        {
+          "title": "Nos âmes libres",
           "media": "film",
           "genres": [
             "Documentary"
           ],
-          "overview": "Portrait of the German-German singer-songwriter and intellectual Wolf Biermann, whose famous Cologne concert in 1976 made German history.",
-          "date": "2026-10-29",
-          "poster": "https://images.justwatch.com/poster/354619902/s332/biermann-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Biermann%20trailer"
+          "overview": "An odyssey towards the self, an invitation to rediscover sensitivity. It is a journey through time, countries, and elements – water, earth, mountains, form – an expedition that intimately explores, without judgment or taboo, the relationship humans maintain with other species, as well as the awareness we have of ourselves and of our planet.",
+          "date": "2026-11-04",
+          "poster": "https://images.justwatch.com/poster/355559850/s332/nos-ames-libres.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Nos%20%C3%A2mes%20libres%20trailer"
         },
         {
-          "title": "Free at Heart",
+          "title": "One Year to Live, Buy a Man",
           "media": "film",
           "genres": [
+            "Comedy",
             "Drama",
-            "Family",
             "Romance"
           ],
-          "overview": "Sebastian's (16) sheltered small-town life changes suddenly when his family takes in 15-year-old Kolja, supposedly the son of his father's recently deceased girlfriend. In addition to his little sister, another teenager now lives with them.  Although the two boys are strangers to each other at first, they begin to open up to each other more and more and discover that they are biological brothers. The relationship of trust with his parents breaks down and when Sebastian and Kolja become closer than they expected, Sebastian's life is suddenly turned upside down, as he has found not only a soul mate in his new brother, but also a real, first love. Overwhelmed by their feelings, the two hide their relationship, but when the secret, incestuous relationship is discovered, the family breaks out of the social structure of the small town and comes into conflict with societal norms. Everything that follows is a rollercoaster of emotions.",
-          "date": "2026-10-29",
-          "poster": "https://images.justwatch.com/poster/346208760/s332/free-at-heart.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Free%20at%20Heart%20trailer"
+          "overview": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
+          "date": "2026-11-05",
+          "poster": "https://images.justwatch.com/poster/354693227/s332/one-year-to-live-buy-a-man.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=One%20Year%20to%20Live%2C%20Buy%20a%20Man%20trailer"
         },
         {
-          "title": "Hotel Alcohol",
+          "title": "George Michael: The Faith Tour",
+          "media": "film",
+          "genres": [
+            "Documentary",
+            "Music"
+          ],
+          "overview": "A stunning delve into George Michael's 1988 Faith Tour, as shot live at the famous Palais Omnisports de Paris-Bercy. This exclusive footage, assembled from a 14-camera shoot captured on 35mm over two nights (30–31 May 1988), features the 24-year-old pop star at the height of his powers.",
+          "date": "2026-11-05",
+          "poster": "https://images.justwatch.com/poster/354886768/s332/george-michael-the-faith-tour.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=George%20Michael%3A%20The%20Faith%20Tour%20trailer"
+        },
+        {
+          "title": "On Behalf of My Son",
           "media": "film",
           "genres": [
             "Drama"
           ],
-          "overview": "In the psychiatric hospital, the chief doctor organizes the \"Olympic Games,\" in which protagonists Bako, Medea, and Drago form a group called \"Hotel Alcohol.\" They lose the games, leave the hospital, and head toward the sea.",
-          "date": "2026-10-29",
-          "poster": "https://images.justwatch.com/poster/355641803/s332/hotel-alcohol.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Hotel%20Alcohol%20trailer"
-        },
-        {
-          "title": "An mang karaoke",
-          "media": "film",
-          "genres": [
-            "Comedy",
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "A remote mountain pilgrimage goes horribly wrong when a karaoke-obsessed tycoon is forever silenced in the middle of the night. Stranded with nothing to feed on but paranoia, no one escapes becoming the prime suspect.",
-          "date": "2026-10-30",
-          "poster": "https://images.justwatch.com/poster/356133972/s332/an-m-ng-karaoke.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=An%20mang%20karaoke%20trailer"
-        },
-        {
-          "title": "SCTV: The Greatest Show You've Never Heard Of",
-          "media": "film",
-          "genres": [
-            "Documentary"
-          ],
-          "overview": "Through intimate interviews with surviving members of its legendary cast and an emotional reunion in Toronto, the film explores the creative partnership that transformed a small Canadian television production into a cultural phenomenon that launched some of comedy’s most celebrated icons.",
-          "date": "2026-10-30",
-          "poster": "https://images.justwatch.com/poster/354938671/s332/sctv-the-greatest-show-youve-never-heard-of.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=SCTV%3A%20The%20Greatest%20Show%20You%27ve%20Never%20Heard%20Of%20trailer"
-        },
-        {
-          "title": "Der Geier – Blut und Zweifel",
-          "media": "film",
-          "genres": [
-            "Crime"
-          ],
-          "overview": "When a seasonal worker named Lara Schnee is murdered in the mountains beyond Bad Gastein, former witness protection agent Lukas Geier recognizes disturbing parallels to the past of a man to whom he once provided a new identity. In a race against Detective Inspector Franziska Conte, Geier must secretly investigate whether he might have saved the wrong person after all.",
-          "date": "2026-10-31",
-          "poster": null,
-          "trailer": "https://www.youtube.com/results?search_query=Der%20Geier%20%E2%80%93%20Blut%20und%20Zweifel%20trailer"
-        },
-        {
-          "title": "Love",
-          "media": "film",
-          "genres": [
-            "Horror",
-            "Thriller",
-            "Romance"
-          ],
-          "overview": "A lonely young man meets a mysterious woman who changes everything. What begins as an unexpected connection soon becomes something darker—something neither of them can control, and something they can no longer hide.",
-          "date": "2026-10-31",
-          "poster": "https://images.justwatch.com/poster/332090486/s332/love-me-dead.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Love%20trailer"
+          "overview": "At 75, Vicentina faces the death of her son, a bus driver who caused a tragedy by plunging off a viaduct. As the investigation suggests possible suicide, she seeks out the victims' families to offer her apologies.",
+          "date": "2026-11-05",
+          "poster": "https://images.justwatch.com/poster/355260583/s332/vicentina-pede-desculpas.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=On%20Behalf%20of%20My%20Son%20trailer"
         }
       ]
     },
     "hungary": {
       "items": [
         {
-          "title": "Wishing Well Road",
-          "media": "film",
-          "genres": [
-            "Horror"
-          ],
-          "overview": "A vlogger vanishes after becoming embroiled in a local legend. Leaving only questions, and his camera behind.",
-          "date": "2026-11-01",
-          "poster": "https://images.justwatch.com/poster/346689718/s332/wishing-well-road.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Wishing%20Well%20Road%20trailer"
-        },
-        {
           "title": "The Cat in the Hat",
           "media": "film",
           "genres": [
+            "Action",
             "Animation",
-            "Comedy",
-            "Fantasy"
+            "Comedy"
           ],
           "overview": "Meet the Cat in the Hat you don't know in an all-new, epic adventure where mischief, magic and mayhem reign supreme.",
           "date": "2026-11-04",
@@ -141,60 +130,45 @@
           "date": "2026-11-06",
           "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
           "trailer": "https://www.youtube.com/results?search_query=The%20Invisible%20Guest%20trailer"
+        },
+        {
+          "title": "UNBROKEN: The Untold Story of Shen Yun",
+          "media": "film",
+          "genres": [
+            "Documentary"
+          ],
+          "overview": "“UNBROKEN: The Untold Story of Shen Yun” follows the world-renowned classical Chinese dance company Shen Yun Performing Arts as it rises to global acclaim while facing intimidation and threats of violence. Through the eyes of two brothers and their fellow performers, the film traces an unlikely journey—from ordinary American childhoods to the world’s most prestigious stages—where rigorous artistic training and spiritual conviction shape both their craft and their character.  As Shen Yun tours internationally, the company becomes the target of escalating smear campaigns, threats, and alleged interference linked to the Chinese Communist Party. Blending personal storytelling with investigative reporting, “UNBROKEN” reveals what happens when art, faith, and freedom collide with totalitarianism power—and how resilience, community, and cultural revival endure in the face of intimidation.",
+          "date": "2026-11-12",
+          "poster": "https://images.justwatch.com/poster/346713244/s332/unbroken-the-untold-story-of-shen-yun.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=UNBROKEN%3A%20The%20Untold%20Story%20of%20Shen%20Yun%20trailer"
+        },
+        {
+          "title": "Once Upon a Time in Texas",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Drama",
+            "Western"
+          ],
+          "overview": "When a man searching for his missing brother uncovers that a dime-novel Western is actually a true account of cursed events that shaped the American frontier, he's pulled into a brutal chain of betrayals, gunfights, and legends.",
+          "date": "2026-11-17",
+          "poster": "https://images.justwatch.com/poster/354938817/s332/once-upon-a-time-in-texas.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Once%20Upon%20a%20Time%20in%20Texas%20trailer"
         }
       ]
     },
     "usa": {
       "items": [
         {
-          "title": "Free at Heart",
+          "title": "See You Tomorrow Tomorrow Tomorrow",
           "media": "film",
           "genres": [
-            "Drama",
-            "Family",
-            "Romance"
-          ],
-          "overview": "Sebastian's (16) sheltered small-town life changes suddenly when his family takes in 15-year-old Kolja, supposedly the son of his father's recently deceased girlfriend. In addition to his little sister, another teenager now lives with them.  Although the two boys are strangers to each other at first, they begin to open up to each other more and more and discover that they are biological brothers. The relationship of trust with his parents breaks down and when Sebastian and Kolja become closer than they expected, Sebastian's life is suddenly turned upside down, as he has found not only a soul mate in his new brother, but also a real, first love. Overwhelmed by their feelings, the two hide their relationship, but when the secret, incestuous relationship is discovered, the family breaks out of the social structure of the small town and comes into conflict with societal norms. Everything that follows is a rollercoaster of emotions.",
-          "date": "2026-10-29",
-          "poster": "https://images.justwatch.com/poster/346208760/s332/free-at-heart.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Free%20at%20Heart%20trailer"
-        },
-        {
-          "title": "Club Kid",
-          "media": "film",
-          "genres": [
-            "Comedy",
             "Drama"
           ],
-          "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+          "overview": "An aspiring, queer stand-up comedian grapples with her career and the greater duty of caring for her 99-year-old grandmother in her final years.",
           "date": "2026-11-04",
-          "poster": "https://images.justwatch.com/poster/356262613/s332/club-kid.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Club%20Kid%20trailer"
-        },
-        {
-          "title": "The Last Temptation of Becky",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Comedy",
-            "Horror"
-          ],
-          "overview": "Now a CIA field agent, Becky goes undercover in Poland to infiltrate a family running an inn at The Wolf's Lair, one of Hitler's WWII bunkers. When she learns the father, Wilhelm Reuss, plans to spark the Fourth Reich, Becky must stop him.",
-          "date": "2026-11-04",
-          "poster": "https://images.justwatch.com/poster/356124602/s332/the-last-temptation-of-becky-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Temptation%20of%20Becky%20trailer"
-        },
-        {
-          "title": "George Michael: The Faith Tour",
-          "media": "film",
-          "genres": [
-            "Documentary",
-            "Music"
-          ],
-          "overview": "A stunning delve into George Michael's 1988 Faith Tour, as shot live at the famous Palais Omnisports de Paris-Bercy. This exclusive footage, assembled from a 14-camera shoot captured on 35mm over two nights (30–31 May 1988), features the 24-year-old pop star at the height of his powers.",
-          "date": "2026-11-05",
-          "poster": "https://images.justwatch.com/poster/354886768/s332/george-michael-the-faith-tour.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=George%20Michael%3A%20The%20Faith%20Tour%20trailer"
+          "poster": "https://images.justwatch.com/poster/356432033/s332/see-you-tomorrow-tomorrow-tomorrow.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=See%20You%20Tomorrow%20Tomorrow%20Tomorrow%20trailer"
         },
         {
           "title": "Drummer Boy",
@@ -208,6 +182,18 @@
           "date": "2026-11-05",
           "poster": "https://images.justwatch.com/poster/354635886/s332/drummer-boy-2026-1.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Drummer%20Boy%20trailer"
+        },
+        {
+          "title": "George Michael: The Faith Tour",
+          "media": "film",
+          "genres": [
+            "Documentary",
+            "Music"
+          ],
+          "overview": "A stunning delve into George Michael's 1988 Faith Tour, as shot live at the famous Palais Omnisports de Paris-Bercy. This exclusive footage, assembled from a 14-camera shoot captured on 35mm over two nights (30–31 May 1988), features the 24-year-old pop star at the height of his powers.",
+          "date": "2026-11-05",
+          "poster": "https://images.justwatch.com/poster/354886768/s332/george-michael-the-faith-tour.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=George%20Michael%3A%20The%20Faith%20Tour%20trailer"
         },
         {
           "title": "Chocolate for Christmas",
@@ -243,6 +229,27 @@
           "date": "2026-11-06",
           "poster": "https://images.justwatch.com/poster/355379110/s332/desprotexida-el-crimen-de-pazos.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Unprotected%3A%20Murder%20in%20Galicia%20trailer"
+        },
+        {
+          "title": "Mouse",
+          "media": "film",
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "overview": "When her closest friendship is suddenly disrupted the summer before senior year, a teenager struggles to find her footing and develops an unexpected, complicated bond with her best friend’s mother.",
+          "date": "2026-11-06",
+          "poster": "https://images.justwatch.com/poster/345578158/s332/mouse-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Mouse%20trailer"
+        },
+        {
+          "title": "Ngày Con Còn Mẹ",
+          "media": "film",
+          "genres": [],
+          "overview": "",
+          "date": "2026-11-11",
+          "poster": "https://images.justwatch.com/poster/348491623/s332/ngay-con-con-me.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Ng%C3%A0y%20Con%20C%C3%B2n%20M%E1%BA%B9%20trailer"
         }
       ]
     }
