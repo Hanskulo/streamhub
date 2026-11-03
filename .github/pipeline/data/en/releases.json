@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T15:59",
-  "week": "2026-11-01",
+  "generated_at": "2026-11-03T17:00",
+  "week": "2026-11-03",
   "by_provider": {
     "netflix": [
       {
@@ -15,18 +15,6 @@
         "date": "2026-10-16",
         "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
         "trailer": "https://www.youtube.com/results?search_query=LEGO%20Friends%3A%20Heartlake%20the%20Musical%20trailer"
-      },
-      {
-        "title": "Who Is Martin Mull?",
-        "media": "film",
-        "genres": [
-          "Comedy",
-          "Documentary"
-        ],
-        "overview": "Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.",
-        "date": "2026-10-07",
-        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20trailer"
       }
     ],
     "amazon-prime-video": [
@@ -41,19 +29,6 @@
         "date": "2026-10-07",
         "poster": "https://images.justwatch.com/poster/354522082/s332/szeresd-az-eleted.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Love%20of%20Your%20Life%20trailer"
-      },
-      {
-        "title": "I Would Rather Die",
-        "media": "sorozat",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Horror"
-        ],
-        "overview": "One cold night, misfit Archie gets bitten by a zombie and after briefly considering ending his life, he decides he's going to figure out what the hell is happening to his body. So, with the help of his only friend and his lifelong crush, Archie sets out to find a cure before he turns into a full-blown monster and kills everyone.",
-        "date": "2026-10-02",
-        "poster": "https://images.justwatch.com/poster/355551513/s332/inkabb-a-halal.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=I%20Would%20Rather%20Die%20trailer"
       }
     ],
     "apple-tv": [
@@ -82,17 +57,6 @@
         "date": "2026-10-16",
         "poster": "https://images.justwatch.com/poster/354677231/s332/tendzing.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Tenzing%20trailer"
-      },
-      {
-        "title": "The Last First: Winter K2",
-        "media": "film",
-        "genres": [
-          "Documentary"
-        ],
-        "overview": "K2's first winter ascent claimed 5 lives, revealing modern alpinism's struggles with commercialization, social media impact, and conflicts between marginalized climbers and traditional elites.",
-        "date": "2026-10-02",
-        "poster": "https://images.justwatch.com/poster/355160143/s332/the-last-first-winter-k2.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Last%20First%3A%20Winter%20K2%20trailer"
       }
     ],
     "disney-plus": [
@@ -110,17 +74,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Phony%20trailer"
       }
     ],
-    "apple-tv-store": [
-      {
-        "title": "The Gift (Fantaisie-Impromptu)",
-        "media": "film",
-        "genres": [],
-        "overview": "When ten-year-old Abigail Phillips discovers a forgotten piano deep in the woods on her father's farm, she uncovers more than a passion for music - she unlocks a mystery that spans generations. In the wake of her mother's sudden passing, Abigail finds solace and purpose in music, and her natural talent quickly blossoms. Recognizing her exceptional gift, her father sends her to Paris to pursue a career as a concert pianist. Meanwhile, he begins his own investigation into the piano's mysterious origins. As he uncovers a hidden history of loss, longing, and silent lives quietly touched by the instrument, Abigail's fame begins to grow, along with the weight of the secret behind her talent.",
-        "date": "2026-10-26",
-        "poster": "https://images.justwatch.com/poster/356338798/s332/the-gift-fantaisie-impromptu.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Gift%20%28Fantaisie-Impromptu%29%20trailer"
-      }
-    ],
+    "apple-tv-store": [],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
@@ -135,19 +89,7 @@
     "sun-nxt": [],
     "skyshowtime": [],
     "crunchyroll": [],
-    "hayu": [
-      {
-        "title": "Vanderpump Rules: Lisa Las Vegas",
-        "media": "sorozat",
-        "genres": [
-          "Reality"
-        ],
-        "overview": "Follow Lisa Vanderpump as she opens The Vanderpump Hotel (formerly The Cromwell) on the Las Vegas Strip in partnership with Caesars Entertainment",
-        "date": "2026-10-20",
-        "poster": "https://images.justwatch.com/poster/355422955/s332/vanderpump-rules-lisa-las-vegas.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Vanderpump%20Rules%3A%20Lisa%20Las%20Vegas%20trailer"
-      }
-    ],
+    "hayu": [],
     "hbo-max": [
       {
         "title": "Corregidora: The Darkest Night in Mexican Soccer",
@@ -220,19 +162,7 @@
         "trailer": "https://www.youtube.com/results?search_query=From%20Far%20Away%20trailer"
       }
     ],
-    "hayu-amazon-channel": [
-      {
-        "title": "Vanderpump Rules: Lisa Las Vegas",
-        "media": "sorozat",
-        "genres": [
-          "Reality"
-        ],
-        "overview": "Follow Lisa Vanderpump as she opens The Vanderpump Hotel (formerly The Cromwell) on the Las Vegas Strip in partnership with Caesars Entertainment",
-        "date": "2026-10-20",
-        "poster": "https://images.justwatch.com/poster/355422955/s332/vanderpump-rules-lisa-las-vegas.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Vanderpump%20Rules%3A%20Lisa%20Las%20Vegas%20trailer"
-      }
-    ],
+    "hayu-amazon-channel": [],
     "mubi-amazon-channel": []
   }
 }
