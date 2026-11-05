@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T16:59",
-  "week": "2026-11-03",
+  "generated_at": "2026-11-05T17:21",
+  "week": "2026-11-05",
   "by_provider": {
     "netflix": [
       {
@@ -15,9 +15,32 @@
         "date": "2026-10-16",
         "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
         "trailer": "https://www.youtube.com/results?search_query=LEGO%20Friends%3A%20Heartlake%20the%20Musical%20el%C5%91zetes"
+      },
+      {
+        "title": "Kicsoda Martin Mull?",
+        "media": "film",
+        "genres": [
+          "Vígjáték",
+          "Dokumentum"
+        ],
+        "overview": "A dokumentumfilm Martin Mull sokoldalú pályáját és rejtettebb művészi oldalát tárja fel: a komikusként, zenészként, színészként és festőként is maradandót alkotó előadó életútját saját megszólalásai, archív anyagok és pályatársak visszaemlékezései rajzolják meg. A történet végigköveti, hogyan jutott el a füstös folkkluboktól és a szatirikus zenei fellépésektől a televíziós kultszerepekig, majd a galériák világáig, miközben barátai és kollégái felidézik különös humorát, állandó újrakezdéseit és azt a művészi szenvedélyt, amely egész életében a nevetések mögött is meghatározta őt.",
+        "date": "2026-10-07",
+        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Kicsoda%20Martin%20Mull%3F%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
+      {
+        "title": "Amazon Music Live: Doja Cat",
+        "media": "film",
+        "genres": [
+          "Zene"
+        ],
+        "overview": "Doja Cat Performing The Vie Tour Live At The Forum.",
+        "date": "2026-10-30",
+        "poster": "https://images.justwatch.com/poster/356508461/s332/amazon-music-live-doja-cat.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Amazon%20Music%20Live%3A%20Doja%20Cat%20el%C5%91zetes"
+      },
       {
         "title": "Életed szerelme",
         "media": "film",
@@ -74,7 +97,17 @@
         "trailer": "https://www.youtube.com/results?search_query=Imposztor%20el%C5%91zetes"
       }
     ],
-    "apple-tv-store": [],
+    "apple-tv-store": [
+      {
+        "title": "The Gift (Fantaisie-Impromptu)",
+        "media": "film",
+        "genres": [],
+        "overview": "When ten-year-old Abigail Phillips discovers a forgotten piano deep in the woods on her father's farm, she uncovers more than a passion for music - she unlocks a mystery that spans generations. In the wake of her mother's sudden passing, Abigail finds solace and purpose in music, and her natural talent quickly blossoms. Recognizing her exceptional gift, her father sends her to Paris to pursue a career as a concert pianist. Meanwhile, he begins his own investigation into the piano's mysterious origins. As he uncovers a hidden history of loss, longing, and silent lives quietly touched by the instrument, Abigail's fame begins to grow, along with the weight of the secret behind her talent.",
+        "date": "2026-10-26",
+        "poster": "https://images.justwatch.com/poster/356338798/s332/the-gift-fantaisie-impromptu.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Gift%20%28Fantaisie-Impromptu%29%20el%C5%91zetes"
+      }
+    ],
     "youtube-premium": [],
     "curiosity-stream": [],
     "docsville": [],
@@ -133,7 +166,7 @@
         ],
         "overview": "An isekai fantasy where an ordinary gamer reincarnates without special powers, teams up with a minor goddess, and rises from the weakest to the strongest in a new world.",
         "date": "2026-10-11",
-        "poster": "https://images.justwatch.com/poster/354797926/s332/full-clearing-another-world-under-a-goddess-with-zero-believers.jpg",
+        "poster": "https://images.justwatch.com/poster/356551391/s332/full-clearing-another-world-under-a-goddess-with-zero-believers.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20Under%20a%20Goddess%20with%20Zero%20Believers%20el%C5%91zetes"
       },
       {
@@ -147,19 +180,6 @@
         "date": "2026-10-10",
         "poster": "https://images.justwatch.com/poster/355723553/s332/horror-collector.jpg",
         "trailer": "https://www.youtube.com/results?search_query=HORROR%20COLLECTOR%20el%C5%91zetes"
-      },
-      {
-        "title": "From Far Away",
-        "media": "sorozat",
-        "genres": [
-          "Akció",
-          "Animáció",
-          "Fantasy"
-        ],
-        "overview": "Noriko is an ordinary high school student, until an explosion pulls her into a world of magic where no one speaks her language. Completely lost, Noriko is rescued by Izark, a shunned swordsman determined to kill the Awakening: a prophesied figure said to control the Sky Demon. As Izark and Noriko bond, he realizes she may be the very person he’s hunting.",
-        "date": "2026-10-05",
-        "poster": "https://images.justwatch.com/poster/354265268/s332/from-far-away.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=From%20Far%20Away%20el%C5%91zetes"
       }
     ],
     "hayu-amazon-channel": [],
