@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T17:21",
-  "week": "2026-11-05",
+  "generated_at": "2026-11-07T15:38",
+  "week": "2026-11-07",
   "by_provider": {
     "netflix": [
       {
@@ -15,18 +15,6 @@
         "date": "2026-10-16",
         "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
         "trailer": "https://www.youtube.com/results?search_query=LEGO%20Friends%3A%20Heartlake%20the%20Musical%20el%C5%91zetes"
-      },
-      {
-        "title": "Kicsoda Martin Mull?",
-        "media": "film",
-        "genres": [
-          "Vígjáték",
-          "Dokumentum"
-        ],
-        "overview": "A dokumentumfilm Martin Mull sokoldalú pályáját és rejtettebb művészi oldalát tárja fel: a komikusként, zenészként, színészként és festőként is maradandót alkotó előadó életútját saját megszólalásai, archív anyagok és pályatársak visszaemlékezései rajzolják meg. A történet végigköveti, hogyan jutott el a füstös folkkluboktól és a szatirikus zenei fellépésektől a televíziós kultszerepekig, majd a galériák világáig, miközben barátai és kollégái felidézik különös humorát, állandó újrakezdéseit és azt a művészi szenvedélyt, amely egész életében a nevetések mögött is meghatározta őt.",
-        "date": "2026-10-07",
-        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Kicsoda%20Martin%20Mull%3F%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -40,21 +28,21 @@
         "date": "2026-10-30",
         "poster": "https://images.justwatch.com/poster/356508461/s332/amazon-music-live-doja-cat.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Amazon%20Music%20Live%3A%20Doja%20Cat%20el%C5%91zetes"
-      },
-      {
-        "title": "Életed szerelme",
-        "media": "film",
-        "genres": [
-          "Dráma",
-          "Romantikus"
-        ],
-        "overview": "Rachel Morrison filmje, a Életed szerelme Maya története. Egy véletlen találkozás Charlie-val elsöprő szerelmet szül, és korábban elképzelni sem mert jövőt tár a lány elé. Amikor ez a jövő darabokra hullik, Maya egy új életbe csöppen, amely arra kényszeríti, hogy szembenézzen azzal, ki is ő valójában, mire vágyik, és hogyan tud újra szeretni.",
-        "date": "2026-10-07",
-        "poster": "https://images.justwatch.com/poster/355561624/s332/szeresd-az-eleted.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=%C3%89leted%20szerelme%20el%C5%91zetes"
       }
     ],
     "apple-tv": [
+      {
+        "title": "Awkwafina: The Unlikely Cook",
+        "media": "sorozat",
+        "genres": [
+          "Dokumentum",
+          "Reality"
+        ],
+        "overview": "A hollywoodi színésznő és komikus Nora Lum (azaz Awkwafina) elit vendéglős családból származik... de nem tud főzni. Csatlakozz a sztárhoz egy inspiráló kulináris utazásra, ahol kitanulja a szakmát, és megpróbálja feltámasztani a családja szeretett kínai kajáldáját!",
+        "date": "2026-11-06",
+        "poster": "https://images.justwatch.com/poster/356671419/s332/awkwafina-the-unlikely-cook.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Awkwafina%3A%20The%20Unlikely%20Cook%20el%C5%91zetes"
+      },
       {
         "title": "Nocturne",
         "media": "sorozat",
@@ -136,19 +124,30 @@
         "trailer": "https://www.youtube.com/results?search_query=Trag%C3%A9dia%20a%20La%20Corregidora%20stadionban%20el%C5%91zetes"
       }
     ],
-    "mubi": [],
-    "bloodstream": [
+    "mubi": [
       {
-        "title": "Last Chance Motel",
+        "title": "Making Marie Antoinette",
         "media": "film",
         "genres": [
-          "Horror",
-          "Thriller"
+          "Dokumentum"
         ],
-        "overview": "A newlywed couple's dream wedding spirals into a bloody nightmare when they uncover that their secluded venue- a desolate motel deep in the Nevada desert- is run by a relentless bloodthirsty family with dark secrets, revealing that one bride's future may not be all that it was promised to be.",
-        "date": "2026-10-06",
-        "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20el%C5%91zetes"
+        "overview": "Eleanor Coppola turns her camera on her daughter, Sofia, as she shoots Marie Antoinette. Catching every detail of the behind-the-scenes and on-set action, Eleanor captures the feat of Sofia’s directing a landmark film aged 34, and muses on what it means for a mother to watch her daughter at work.",
+        "date": "2026-10-23",
+        "poster": "https://images.justwatch.com/poster/353529653/s332/making-marie-antoinette.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20el%C5%91zetes"
+      }
+    ],
+    "bloodstream": [
+      {
+        "title": "Project Lonely",
+        "media": "film",
+        "genres": [
+          "Horror"
+        ],
+        "overview": "Longing for love and companionship, a lonely young woman orders an AI boyfriend who becomes her perfect partner. Attentive, affectionate, and endlessly devoted, he gives her everything she's ever wanted in a relationship. But as their romance deepens, her world begins to shrink, leaving her increasingly isolated, insecure, and questioning whether she has anything left to live for beyond him.",
+        "date": "2026-10-19",
+        "poster": "https://images.justwatch.com/poster/355726769/s332/project-lonely.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Project%20Lonely%20el%C5%91zetes"
       }
     ],
     "kableone": [],
@@ -183,6 +182,18 @@
       }
     ],
     "hayu-amazon-channel": [],
-    "mubi-amazon-channel": []
+    "mubi-amazon-channel": [
+      {
+        "title": "Making Marie Antoinette",
+        "media": "film",
+        "genres": [
+          "Dokumentum"
+        ],
+        "overview": "Eleanor Coppola turns her camera on her daughter, Sofia, as she shoots Marie Antoinette. Catching every detail of the behind-the-scenes and on-set action, Eleanor captures the feat of Sofia’s directing a landmark film aged 34, and muses on what it means for a mother to watch her daughter at work.",
+        "date": "2026-10-23",
+        "poster": "https://images.justwatch.com/poster/353529653/s332/making-marie-antoinette.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20el%C5%91zetes"
+      }
+    ]
   }
 }

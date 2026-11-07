@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T17:21",
-  "week": "2026-11-05",
+  "generated_at": "2026-11-07T15:38",
+  "week": "2026-11-07",
   "by_provider": {
     "netflix": [
       {
@@ -15,18 +15,6 @@
         "date": "2026-10-16",
         "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
         "trailer": "https://www.youtube.com/results?search_query=LEGO%20Friends%3A%20Heartlake%20the%20Musical%20trailer"
-      },
-      {
-        "title": "Who Is Martin Mull?",
-        "media": "film",
-        "genres": [
-          "Comedy",
-          "Documentary"
-        ],
-        "overview": "Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.",
-        "date": "2026-10-07",
-        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20trailer"
       }
     ],
     "amazon-prime-video": [
@@ -40,21 +28,21 @@
         "date": "2026-10-30",
         "poster": "https://images.justwatch.com/poster/356508461/s332/amazon-music-live-doja-cat.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Amazon%20Music%20Live%3A%20Doja%20Cat%20trailer"
-      },
-      {
-        "title": "Love of Your Life",
-        "media": "film",
-        "genres": [
-          "Drama",
-          "Romance"
-        ],
-        "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-        "date": "2026-10-07",
-        "poster": "https://images.justwatch.com/poster/354522082/s332/szeresd-az-eleted.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Love%20of%20Your%20Life%20trailer"
       }
     ],
     "apple-tv": [
+      {
+        "title": "Awkwafina: The Unlikely Cook",
+        "media": "sorozat",
+        "genres": [
+          "Documentary",
+          "Reality"
+        ],
+        "overview": "Follows Awkwafina as she embarks on a deeply personal cross-country journey exploring contemporary Asian American cuisine, starting with her family's own legacy, despite growing up in the family business but being unable to cook at all.",
+        "date": "2026-11-06",
+        "poster": "https://images.justwatch.com/poster/356671419/s332/awkwafina-the-unlikely-cook.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Awkwafina%3A%20The%20Unlikely%20Cook%20trailer"
+      },
       {
         "title": "Nocturne",
         "media": "sorozat",
@@ -136,19 +124,30 @@
         "trailer": "https://www.youtube.com/results?search_query=Corregidora%3A%20The%20Darkest%20Night%20in%20Mexican%20Soccer%20trailer"
       }
     ],
-    "mubi": [],
-    "bloodstream": [
+    "mubi": [
       {
-        "title": "Last Chance Motel",
+        "title": "Making Marie Antoinette",
         "media": "film",
         "genres": [
-          "Horror",
-          "Thriller"
+          "Documentary"
         ],
-        "overview": "A newlywed couple's dream wedding spirals into a bloody nightmare when they uncover that their secluded venue- a desolate motel deep in the Nevada desert- is run by a relentless bloodthirsty family with dark secrets, revealing that one bride's future may not be all that it was promised to be.",
-        "date": "2026-10-06",
-        "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20trailer"
+        "overview": "Eleanor Coppola turns her camera on her daughter, Sofia, as she shoots Marie Antoinette. Catching every detail of the behind-the-scenes and on-set action, Eleanor captures the feat of Sofia’s directing a landmark film aged 34, and muses on what it means for a mother to watch her daughter at work.",
+        "date": "2026-10-23",
+        "poster": "https://images.justwatch.com/poster/353529653/s332/making-marie-antoinette.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20trailer"
+      }
+    ],
+    "bloodstream": [
+      {
+        "title": "Project Lonely",
+        "media": "film",
+        "genres": [
+          "Horror"
+        ],
+        "overview": "Longing for love and companionship, a lonely young woman orders an AI boyfriend who becomes her perfect partner. Attentive, affectionate, and endlessly devoted, he gives her everything she's ever wanted in a relationship. But as their romance deepens, her world begins to shrink, leaving her increasingly isolated, insecure, and questioning whether she has anything left to live for beyond him.",
+        "date": "2026-10-19",
+        "poster": "https://images.justwatch.com/poster/355726769/s332/project-lonely.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Project%20Lonely%20trailer"
       }
     ],
     "kableone": [],
@@ -183,6 +182,18 @@
       }
     ],
     "hayu-amazon-channel": [],
-    "mubi-amazon-channel": []
+    "mubi-amazon-channel": [
+      {
+        "title": "Making Marie Antoinette",
+        "media": "film",
+        "genres": [
+          "Documentary"
+        ],
+        "overview": "Eleanor Coppola turns her camera on her daughter, Sofia, as she shoots Marie Antoinette. Catching every detail of the behind-the-scenes and on-set action, Eleanor captures the feat of Sofia’s directing a landmark film aged 34, and muses on what it means for a mother to watch her daughter at work.",
+        "date": "2026-10-23",
+        "poster": "https://images.justwatch.com/poster/353529653/s332/making-marie-antoinette.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20trailer"
+      }
+    ]
   }
 }

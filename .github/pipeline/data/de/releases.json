@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T17:22",
-  "week": "2026-11-05",
+  "generated_at": "2026-11-07T15:39",
+  "week": "2026-11-07",
   "by_provider": {
     "netflix": [
       {
@@ -15,18 +15,6 @@
         "date": "2026-10-16",
         "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
         "trailer": "https://www.youtube.com/results?search_query=LEGO%C2%AE%20Friends%20HEARTLAKE%EA%9E%89%20The%20Musical%20Trailer"
-      },
-      {
-        "title": "Who Is Martin Mull?",
-        "media": "film",
-        "genres": [
-          "Komödie",
-          "Dokumentation"
-        ],
-        "overview": "Er war ein begnadeter Comedian – doch sein wahres Genie lag woanders. Diese starbesetzte Doku beleuchtet Martin Mulls lebenslange, große Leidenschaft für die Kunst.",
-        "date": "2026-10-07",
-        "poster": "https://images.justwatch.com/poster/355334439/s332/who-is-martin-mull.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Who%20Is%20Martin%20Mull%3F%20Trailer"
       }
     ],
     "amazon-prime-video": [
@@ -40,21 +28,21 @@
         "date": "2026-10-30",
         "poster": "https://images.justwatch.com/poster/356508461/s332/amazon-music-live-doja-cat.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Amazon%20Music%20Live%3A%20Doja%20Cat%20Trailer"
-      },
-      {
-        "title": "Love of Your Life",
-        "media": "film",
-        "genres": [
-          "Drama",
-          "Romantik"
-        ],
-        "overview": "Mayas Zufallsbegegnung mit Charlie entfacht eine große Liebe. Doch als ihre Träume zerplatzen, wird Maya in ein neues Leben katapultiert. Sie muss neu herausfinden, wer sie ist, was sie will und wie sie wieder lieben kann.",
-        "date": "2026-10-07",
-        "poster": "https://images.justwatch.com/poster/354522082/s332/szeresd-az-eleted.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Love%20of%20Your%20Life%20Trailer"
       }
     ],
     "apple-tv": [
+      {
+        "title": "Awkwafina: Küchen-Quereinsteigerin",
+        "media": "sorozat",
+        "genres": [
+          "Dokumentation",
+          "Reality"
+        ],
+        "overview": "Hollywood-Schauspielerin und Komikerin Nora Lum (alias Awkwafina), entstammt dem Restaurant-Adel, kann aber nicht kochen. Begleite den Star auf einem inspirierenden kulinarischen Roadtrip, bei dem sie das Handwerk lernt und versucht, das geliebte China-Restaurant ihrer Familie wiederzubeleben.",
+        "date": "2026-11-06",
+        "poster": "https://images.justwatch.com/poster/356671418/s332/awkwafina-the-unlikely-cook.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Awkwafina%3A%20K%C3%BCchen-Quereinsteigerin%20Trailer"
+      },
       {
         "title": "Nocturne",
         "media": "sorozat",
@@ -136,19 +124,30 @@
         "trailer": "https://www.youtube.com/results?search_query=Corregidora%3A%20Die%20dunkelste%20Nacht%20des%20mexikanischen%20Fu%C3%9Fballs%20Trailer"
       }
     ],
-    "mubi": [],
-    "bloodstream": [
+    "mubi": [
       {
-        "title": "Last Chance Motel",
+        "title": "Making Marie Antoinette [OmU]",
         "media": "film",
         "genres": [
-          "Horror",
-          "Thriller"
+          "Dokumentation"
         ],
-        "overview": "A newlywed couple's dream wedding spirals into a bloody nightmare when they uncover that their secluded venue- a desolate motel deep in the Nevada desert- is run by a relentless bloodthirsty family with dark secrets, revealing that one bride's future may not be all that it was promised to be.",
-        "date": "2026-10-06",
-        "poster": "https://images.justwatch.com/poster/349682190/s332/last-chance-motel.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Last%20Chance%20Motel%20Trailer"
+        "overview": "Eleanor Coppola richtet die Kamera auf ihre Tochter Sofia, die gerade Marie Antoinette dreht. Aus nächster Nähe hält sie jedes Detail am Set fest, während Sofia mit 34 einen prägenden Film stemmt. Dabei reflektiert sie darüber, was es für eine Mutter heißt, der Tochter bei der Arbeit zuzusehen.",
+        "date": "2026-10-23",
+        "poster": "https://images.justwatch.com/poster/353529653/s332/making-marie-antoinette.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20%5BOmU%5D%20Trailer"
+      }
+    ],
+    "bloodstream": [
+      {
+        "title": "Project Lonely",
+        "media": "film",
+        "genres": [
+          "Horror"
+        ],
+        "overview": "Longing for love and companionship, a lonely young woman orders an AI boyfriend who becomes her perfect partner. Attentive, affectionate, and endlessly devoted, he gives her everything she's ever wanted in a relationship. But as their romance deepens, her world begins to shrink, leaving her increasingly isolated, insecure, and questioning whether she has anything left to live for beyond him.",
+        "date": "2026-10-19",
+        "poster": "https://images.justwatch.com/poster/355726769/s332/project-lonely.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Project%20Lonely%20Trailer"
       }
     ],
     "kableone": [],
@@ -183,6 +182,18 @@
       }
     ],
     "hayu-amazon-channel": [],
-    "mubi-amazon-channel": []
+    "mubi-amazon-channel": [
+      {
+        "title": "Making Marie Antoinette [OmU]",
+        "media": "film",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Eleanor Coppola richtet die Kamera auf ihre Tochter Sofia, die gerade Marie Antoinette dreht. Aus nächster Nähe hält sie jedes Detail am Set fest, während Sofia mit 34 einen prägenden Film stemmt. Dabei reflektiert sie darüber, was es für eine Mutter heißt, der Tochter bei der Arbeit zuzusehen.",
+        "date": "2026-10-23",
+        "poster": "https://images.justwatch.com/poster/353529653/s332/making-marie-antoinette.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20%5BOmU%5D%20Trailer"
+      }
+    ]
   }
 }
