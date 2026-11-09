@@ -1,136 +1,109 @@
 {
-  "generated_at": "2026-11-02T19:26",
-  "window": "2026-11-02 .. 2026-11-17",
+  "generated_at": "2026-11-09T19:45",
+  "window": "2026-11-09 .. 2026-11-24",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "Godzilla Minus Zero",
+          "title": "Two Peas in a pod",
+          "media": "film",
+          "genres": [],
+          "overview": "Victoria is caught between three wars. One is in Israel, where she lives. Another is in Ukraine, where she was born. The third is personal: a battle with her father whose devotion to his new wife, Lena, left no room for his daughter. When Victoria learns he is gravely ill, she has no choice but to return to her Ukrainian hometown ? once peaceful, now shattered by war.",
+          "date": "2026-11-12",
+          "poster": "https://images.justwatch.com/poster/356325633/s332/two-peas-in-a-pod.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Two%20Peas%20in%20a%20pod%20trailer"
+        },
+        {
+          "title": "Superbuhei",
+          "media": "film",
+          "genres": [
+            "Comedy",
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "Follows a recovering alcoholic who suspects he's being stalked by his own evil twin brother who is trying to assume his identity and take over his life.",
+          "date": "2026-11-12",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Superbuhei%20trailer"
+        },
+        {
+          "title": "Identitti",
+          "media": "film",
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "overview": "A student named Nivedita finds an old photo of her professor and discovers the latter had been living a lie. Saraswati, of all people — a woman of color who lectures on cultural identity — is in fact white. While the media and online community whip up a frenzy, Nivedita faces a political and personal dilemma as she tries to find out Saraswati's motive.",
+          "date": "2026-11-12",
+          "poster": "https://images.justwatch.com/poster/355478682/s332/identitti.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Identitti%20trailer"
+        },
+        {
+          "title": "Never Surrender",
           "media": "film",
           "genres": [
             "Action",
-            "Drama",
-            "Horror"
-          ],
-          "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-          "date": "2026-11-03",
-          "poster": "https://images.justwatch.com/poster/347360982/s332/godzilla-minus-zero.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Godzilla%20Minus%20Zero%20trailer"
-        },
-        {
-          "title": "Club Kid",
-          "media": "film",
-          "genres": [
-            "Comedy",
+            "Crime",
             "Drama"
           ],
-          "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
-          "date": "2026-11-04",
-          "poster": "https://images.justwatch.com/poster/356262613/s332/club-kid.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Club%20Kid%20trailer"
+          "overview": "An ex-soldier and his grandchildren battle against ruthless criminals in a remote village. To survive, they must also confront their fears and regrets.",
+          "date": "2026-11-12",
+          "poster": "https://images.justwatch.com/poster/356370402/s332/never-surrender.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Never%20Surrender%20trailer"
         },
         {
-          "title": "Rammstein: Live in Mexico City",
+          "title": "lmroz'da Bahar",
           "media": "film",
           "genres": [
-            "Documentary",
-            "Music"
-          ],
-          "overview": "A three-night compilation that captures their spectacular October 2022 shows at the Foro Sol Stadium in Mexico City during the Stadium Tour era. This live has become the band's most massive and longest one of their entire career.",
-          "date": "2026-11-04",
-          "poster": "https://images.justwatch.com/poster/354650822/s332/rammstein-live-in-mexico-city.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Rammstein%3A%20Live%20in%20Mexico%20City%20trailer"
-        },
-        {
-          "title": "Ninho: Le Prix à payer",
-          "media": "film",
-          "genres": [
-            "Documentary",
-            "Music"
-          ],
-          "overview": "Ninho's intense, decade-long career and the immense personal sacrifices that come with being France's most-streamed artist. The documentary offers a unique behind-the-scenes look as he wants to stepping away from the spotlight entirely.",
-          "date": "2026-11-04",
-          "poster": "https://images.justwatch.com/poster/356442912/s332/ninho-le-prix-a-payer.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Ninho%3A%20Le%20Prix%20%C3%A0%20payer%20trailer"
-        },
-        {
-          "title": "Nos âmes libres",
-          "media": "film",
-          "genres": [
-            "Documentary"
-          ],
-          "overview": "An odyssey towards the self, an invitation to rediscover sensitivity. It is a journey through time, countries, and elements – water, earth, mountains, form – an expedition that intimately explores, without judgment or taboo, the relationship humans maintain with other species, as well as the awareness we have of ourselves and of our planet.",
-          "date": "2026-11-04",
-          "poster": "https://images.justwatch.com/poster/355559850/s332/nos-ames-libres.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Nos%20%C3%A2mes%20libres%20trailer"
-        },
-        {
-          "title": "One Year to Live, Buy a Man",
-          "media": "film",
-          "genres": [
-            "Comedy",
-            "Drama",
             "Romance"
           ],
-          "overview": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
-          "date": "2026-11-05",
-          "poster": "https://images.justwatch.com/poster/354693227/s332/one-year-to-live-buy-a-man.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=One%20Year%20to%20Live%2C%20Buy%20a%20Man%20trailer"
+          "overview": "Spring in Imroz is an emotional film set in the enchanting atmosphere of Gökçeada (Imroz), telling the stories of two different people whose paths intersect, exploring the traces of the past and the possibility of love being reborn (a second spring). Directed by Özcan Alper, the film reunites Halit Ergenç and Meryem Uzerli after 15 years.",
+          "date": "2026-11-12",
+          "poster": "https://images.justwatch.com/poster/356301281/s332/lmrozda-bahar.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=lmroz%27da%20Bahar%20trailer"
         },
         {
-          "title": "George Michael: The Faith Tour",
+          "title": "Blood Money",
+          "media": "film",
+          "genres": [
+            "Crime",
+            "Drama"
+          ],
+          "overview": "In the Albanian port city of Durrës, Arion, a former inmate, is released from prison to fight in illegal bare-knuckle bouts at the notorious venue «The Circle» on behalf of Ilir, who is heavily in debt. Club owner Hans is initially skeptical of Arion. However, as Arion attracts more and more attention, Hans recognizes his commercial potential as well. What begins as a way out of poverty turns into a risky game when Ilir becomes involved in an illegal betting ring.",
+          "date": "2026-11-12",
+          "poster": "https://images.justwatch.com/poster/355368530/s332/blood-money-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Blood%20Money%20trailer"
+        },
+        {
+          "title": "Gabin",
           "media": "film",
           "genres": [
             "Documentary",
-            "Music"
+            "Family"
           ],
-          "overview": "A stunning delve into George Michael's 1988 Faith Tour, as shot live at the famous Palais Omnisports de Paris-Bercy. This exclusive footage, assembled from a 14-camera shoot captured on 35mm over two nights (30–31 May 1988), features the 24-year-old pop star at the height of his powers.",
-          "date": "2026-11-05",
-          "poster": "https://images.justwatch.com/poster/354886768/s332/george-michael-the-faith-tour.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=George%20Michael%3A%20The%20Faith%20Tour%20trailer"
+          "overview": "Gabin, the youngest child of the Jourdel family, is set to take over his father's butcher shop. Torn between family loyalty and a desire to break free, he has other dreams.",
+          "date": "2026-11-13",
+          "poster": "https://images.justwatch.com/poster/345744045/s332/gabin.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Gabin%20trailer"
         },
         {
-          "title": "On Behalf of My Son",
+          "title": "The Loneliest Man in Town",
           "media": "film",
           "genres": [
+            "Comedy",
+            "Documentary",
             "Drama"
           ],
-          "overview": "At 75, Vicentina faces the death of her son, a bus driver who caused a tragedy by plunging off a viaduct. As the investigation suggests possible suicide, she seeks out the victims' families to offer her apologies.",
-          "date": "2026-11-05",
-          "poster": "https://images.justwatch.com/poster/355260583/s332/vicentina-pede-desculpas.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=On%20Behalf%20of%20My%20Son%20trailer"
+          "overview": "Blues musician Al Cook lives in an apartment filled with memories. Outside, the world carries on without him. But when his home is slated for demolition, out of the ruins of his existence, a long-forgotten dream suddenly resurfaces.",
+          "date": "2026-11-13",
+          "poster": "https://images.justwatch.com/poster/354691131/s332/wiener-blues-the-loneliest-man-in-town.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Loneliest%20Man%20in%20Town%20trailer"
         }
       ]
     },
     "hungary": {
       "items": [
-        {
-          "title": "The Cat in the Hat",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Animation",
-            "Comedy"
-          ],
-          "overview": "Meet the Cat in the Hat you don't know in an all-new, epic adventure where mischief, magic and mayhem reign supreme.",
-          "date": "2026-11-04",
-          "poster": "https://images.justwatch.com/poster/346268569/s332/the-cat-in-the-hat.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Cat%20in%20the%20Hat%20trailer"
-        },
-        {
-          "title": "The Invisible Guest",
-          "media": "film",
-          "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
-          ],
-          "overview": "Accused of murdering her lover, a young businesswoman hires a brilliant lawyer. With only three hours left, they must uncover what really happened.",
-          "date": "2026-11-06",
-          "poster": "https://images.justwatch.com/poster/347724041/s332/the-invisible-guest-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=The%20Invisible%20Guest%20trailer"
-        },
         {
           "title": "UNBROKEN: The Untold Story of Shen Yun",
           "media": "film",
@@ -141,106 +114,21 @@
           "date": "2026-11-12",
           "poster": "https://images.justwatch.com/poster/346713244/s332/unbroken-the-untold-story-of-shen-yun.jpg",
           "trailer": "https://www.youtube.com/results?search_query=UNBROKEN%3A%20The%20Untold%20Story%20of%20Shen%20Yun%20trailer"
-        },
-        {
-          "title": "Once Upon a Time in Texas",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Drama",
-            "Western"
-          ],
-          "overview": "When a man searching for his missing brother uncovers that a dime-novel Western is actually a true account of cursed events that shaped the American frontier, he's pulled into a brutal chain of betrayals, gunfights, and legends.",
-          "date": "2026-11-17",
-          "poster": "https://images.justwatch.com/poster/354938817/s332/once-upon-a-time-in-texas.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Once%20Upon%20a%20Time%20in%20Texas%20trailer"
         }
       ]
     },
     "usa": {
       "items": [
         {
-          "title": "See You Tomorrow Tomorrow Tomorrow",
+          "title": "This is the House: If I Dont See You, I Love You",
           "media": "film",
           "genres": [
-            "Drama"
-          ],
-          "overview": "An aspiring, queer stand-up comedian grapples with her career and the greater duty of caring for her 99-year-old grandmother in her final years.",
-          "date": "2026-11-04",
-          "poster": "https://images.justwatch.com/poster/356432033/s332/see-you-tomorrow-tomorrow-tomorrow.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=See%20You%20Tomorrow%20Tomorrow%20Tomorrow%20trailer"
-        },
-        {
-          "title": "Drummer Boy",
-          "media": "film",
-          "genres": [
-            "Music",
-            "Romance",
-            "War"
-          ],
-          "overview": "As America’s fight for independence begins, a young drummer boy, an enslaved woman, and a divided family each search for freedom in a world built to deny it. With music carrying hope through battle and loss, Drummer Boy turns the Revolution into a deeply human story of faith, forgiveness, and the belief that no person is born to live in chains or be forgotten.",
-          "date": "2026-11-05",
-          "poster": "https://images.justwatch.com/poster/354635886/s332/drummer-boy-2026-1.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Drummer%20Boy%20trailer"
-        },
-        {
-          "title": "George Michael: The Faith Tour",
-          "media": "film",
-          "genres": [
-            "Documentary",
-            "Music"
-          ],
-          "overview": "A stunning delve into George Michael's 1988 Faith Tour, as shot live at the famous Palais Omnisports de Paris-Bercy. This exclusive footage, assembled from a 14-camera shoot captured on 35mm over two nights (30–31 May 1988), features the 24-year-old pop star at the height of his powers.",
-          "date": "2026-11-05",
-          "poster": "https://images.justwatch.com/poster/354886768/s332/george-michael-the-faith-tour.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=George%20Michael%3A%20The%20Faith%20Tour%20trailer"
-        },
-        {
-          "title": "Chocolate for Christmas",
-          "media": "film",
-          "genres": [
-            "Romance"
-          ],
-          "overview": "When a woman returns home to save her family’s beloved chocolate shop, she finds unexpected love and a renewed appreciation for what matters most. This sweet holiday romance celebrates family, community and the lasting power of tradition.",
-          "date": "2026-11-06",
-          "poster": "https://images.justwatch.com/poster/354971122/s332/chocolate-for-christmas.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Chocolate%20for%20Christmas%20trailer"
-        },
-        {
-          "title": "Being Heumann",
-          "media": "film",
-          "genres": [
-            "Drama",
-            "History"
-          ],
-          "overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us.",
-          "date": "2026-11-06",
-          "poster": "https://images.justwatch.com/poster/355415060/s332/being-heumann.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Being%20Heumann%20trailer"
-        },
-        {
-          "title": "Unprotected: Murder in Galicia",
-          "media": "film",
-          "genres": [
-            "Crime",
             "Documentary"
           ],
-          "overview": "In 2015, alleged thieves left Isabel Fuentes near death in her own home. This documentary traces how suspicions quickly fell on her circle of trust.",
-          "date": "2026-11-06",
-          "poster": "https://images.justwatch.com/poster/355379110/s332/desprotexida-el-crimen-de-pazos.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Unprotected%3A%20Murder%20in%20Galicia%20trailer"
-        },
-        {
-          "title": "Mouse",
-          "media": "film",
-          "genres": [
-            "Comedy",
-            "Drama"
-          ],
-          "overview": "When her closest friendship is suddenly disrupted the summer before senior year, a teenager struggles to find her footing and develops an unexpected, complicated bond with her best friend’s mother.",
-          "date": "2026-11-06",
-          "poster": "https://images.justwatch.com/poster/345578158/s332/mouse-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Mouse%20trailer"
+          "overview": "A reflective portrait of a Ghanaian American father and daughter sifting through a crowded basement, uncovering long-forgotten family archives and memories.",
+          "date": "2026-11-11",
+          "poster": "https://images.justwatch.com/poster/356405895/s332/this-is-the-house-if-i-dont-see-you-i-love-you.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=This%20is%20the%20House%3A%20If%20I%20Dont%20See%20You%2C%20I%20Love%20You%20trailer"
         },
         {
           "title": "Ngày Con Còn Mẹ",
@@ -250,6 +138,76 @@
           "date": "2026-11-11",
           "poster": "https://images.justwatch.com/poster/348491623/s332/ngay-con-con-me.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Ng%C3%A0y%20Con%20C%C3%B2n%20M%E1%BA%B9%20trailer"
+        },
+        {
+          "title": "Sound is the Body",
+          "media": "film",
+          "genres": [
+            "Drama"
+          ],
+          "overview": "A Venezuelan city is emptying. A labor less priest struggles with a sonic sleep disorder while trying to safe-keep his meek buffalo from being taken. As the intentions of the remaining ones become more desperate, the priest’s malaise becomes more alive.",
+          "date": "2026-11-11",
+          "poster": "https://images.justwatch.com/poster/356426018/s332/sound-is-the-body.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Sound%20is%20the%20Body%20trailer"
+        },
+        {
+          "title": "Victorian Psycho",
+          "media": "film",
+          "genres": [
+            "Horror",
+            "Thriller"
+          ],
+          "overview": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine.",
+          "date": "2026-11-11",
+          "poster": "https://images.justwatch.com/poster/347673621/s332/victorian-psycho-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Victorian%20Psycho%20trailer"
+        },
+        {
+          "title": "Under Fire",
+          "media": "film",
+          "genres": [
+            "Documentary"
+          ],
+          "overview": "As a fire captain in Idaho, Rob has spent his life saving others. Now, with the help of an experimental therapy, he may just learn how to save himself.",
+          "date": "2026-11-12",
+          "poster": "https://images.justwatch.com/poster/355379903/s332/under-fire-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Under%20Fire%20trailer"
+        },
+        {
+          "title": "Sonic the Hedgehog: Memories And Beyond",
+          "media": "film",
+          "genres": [
+            "Animation"
+          ],
+          "overview": "Dr. Eggman's evil scheme is to upgrade Metal Sonic to the ultimate fighting machine. By stealing Sonic's life data and harnessing the power of the Chaos Emeralds, Sonic and his friends realize that in order to defeat Metal Sonic, they must rely on the friendship they built through their adventures!",
+          "date": "2026-11-12",
+          "poster": "https://images.justwatch.com/poster/355638720/s332/sonic-the-hedgehog-memories-and-beyond.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Sonic%20the%20Hedgehog%3A%20Memories%20And%20Beyond%20trailer"
+        },
+        {
+          "title": "Search Party: Where's PawPaw?",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Family"
+          ],
+          "overview": "Noble Kristian Silk Williams rushes home after Aunt Meek Meek warns that PawPaw's health has taken a turn for the worse. After visiting him in a rundown nursing home, Noble and her quirky best friends return to find him missing. Joined by their chaotic, self-reformed hood-Aunty, they follow bizarre clues and encounter eccentric characters in a race to find PawPaw before time runs out.",
+          "date": "2026-11-13",
+          "poster": "https://images.justwatch.com/poster/354925506/s332/search-party-wheres-pawpaw-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Search%20Party%3A%20Where%27s%20PawPaw%3F%20trailer"
+        },
+        {
+          "title": "The Christmas Yes List",
+          "media": "film",
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "overview": "Chloe Hollis, an ambitious New York professional whose habit of putting everyone else first has left her overlooked for the promotion she desperately wants, returns home to Maple Hills, West Virginia, for Christmas. Determined to change her people-pleasing ways, Chloe embarks on an unconventional holiday challenge to overcome her fear of rejection. But when she meets James Stone, a successful executive spending Christmas with family in town, Chloe discovers some of life’s greatest gifts arrive when we stop fearing the answer and start embracing the journey.",
+          "date": "2026-11-14",
+          "poster": "https://images.justwatch.com/poster/356388239/s332/the-christmas-yes-list.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Christmas%20Yes%20List%20trailer"
         }
       ]
     }
