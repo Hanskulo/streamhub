@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-11-07T15:38",
-  "week": "2026-11-07",
+  "generated_at": "2026-11-09T19:46",
+  "week": "2026-11-09",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Védtelen: Galiciai gyilkosság",
+        "media": "film",
+        "genres": [
+          "Krimi",
+          "Dokumentum"
+        ],
+        "overview": "2015 áprilisában a galíciai Verínhez tartozó Pazos faluban Isabel Fuentest saját otthonában brutális támadás éri: a látszat szerint betörők hagyják életveszélyes állapotban. Az ügyön dolgozó Guardia Civil-őrmester azonban hamar kételkedni kezd a történetben, és úgy érzi, a nyomok inkább családon belüli, nemi alapú erőszakra utalnak. Miközben Isabel a kórházban lábadozik, a hatóságok és a környezete próbálják megérteni, mi történt valójában, ám a figyelmeztetések és a védelem hiányosságai ellenére a nő harminchét nappal később éppen a kórházi szobájában válik gyilkosság áldozatává. A dokumentumfilm nyomozók, orvosok, rokonok, szomszédok és újságírók megszólalásain keresztül rekonstruálja az esetet, és arra keresi a választ, hogyan történhetett meg, hogy egy veszélyben lévő áldozatot a rendszer nem tudott megvédeni.",
+        "date": "2026-11-06",
+        "poster": "https://images.justwatch.com/poster/356623845/s332/unprotected-murder-in-galicia.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=V%C3%A9dtelen%3A%20Galiciai%20gyilkoss%C3%A1g%20el%C5%91zetes"
+      },
+      {
+        "title": "Életem utolsó éve",
+        "media": "film",
+        "genres": [
+          "Vígjáték",
+          "Dráma",
+          "Romantikus"
+        ],
+        "overview": "Az egyedülálló negyvenes, Katakura Yui takarékos és óvatos életet él, és még a szerelmet és a házasságot is túl költségesnek tartja ahhoz, hogy belevágjon. Amikor egy ingyenes rákszűrésen kiderül, hogy már csak egy éve van hátra, a félelem helyett vá",
+        "date": "2026-11-05",
+        "poster": "https://images.justwatch.com/poster/354693227/s332/one-year-to-live-buy-a-man.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=%C3%89letem%20utols%C3%B3%20%C3%A9ve%20el%C5%91zetes"
+      },
       {
         "title": "LEGO Friends: Heartlake the Musical",
         "media": "film",
@@ -60,9 +85,9 @@
         "title": "Tendzing",
         "media": "film",
         "genres": [
+          "Akció",
           "Dráma",
-          "Történelmi",
-          "Thriller"
+          "Történelmi"
         ],
         "overview": "Egy elszánt férfi kockázatos küldetése során teljesíthetetlennek tűnő akadályokat is legyőz, hogy megvalósítsa álmát: elsőként elérni az Everest csúcsát.",
         "date": "2026-10-16",
@@ -111,19 +136,7 @@
     "skyshowtime": [],
     "crunchyroll": [],
     "hayu": [],
-    "hbo-max": [
-      {
-        "title": "Tragédia a La Corregidora stadionban",
-        "media": "sorozat",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "Revisits the events of March 5, 2022, during the match between Querétaro and Atlas, reconstructing what unfolded and examining its aftermath, the conflicting narratives surrounding the case, and the questions that, four years later, remain unresolved.",
-        "date": "2026-10-15",
-        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Trag%C3%A9dia%20a%20La%20Corregidora%20stadionban%20el%C5%91zetes"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [
       {
         "title": "Making Marie Antoinette",

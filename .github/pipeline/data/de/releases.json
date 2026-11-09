@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-11-07T15:39",
-  "week": "2026-11-07",
+  "generated_at": "2026-11-09T19:46",
+  "week": "2026-11-09",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Unprotected: Murder in Galicia",
+        "media": "film",
+        "genres": [
+          "Krimi",
+          "Dokumentation"
+        ],
+        "overview": "Im April 2015 wurde Isabel Fuentes von mutmaßlichen Einbrechern halb tot in ihrem Zuhause im Dorf Pazos in der Nähe von Verín zurückgelassen. 37 Tage später wird sie in ihrem Krankenzimmer ermordet.",
+        "date": "2026-11-06",
+        "poster": "https://images.justwatch.com/poster/356623845/s332/unprotected-murder-in-galicia.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Unprotected%3A%20Murder%20in%20Galicia%20Trailer"
+      },
+      {
+        "title": "One Year to Live, Buy a Man",
+        "media": "film",
+        "genres": [
+          "Komödie",
+          "Drama",
+          "Romantik"
+        ],
+        "overview": "Die 40-jährige Yui Katakura (Ko Shibasaki) verwendet all ihre Zeit darauf, Geld für den Ruhestand anzusparen, weswegen sie romantische Beziehungen immer als schlechte Investition betrachtet hat. Doch als sie bei einer kostenlosen Krebsvorsorgeuntersuchung erfährt, dass ihr nur noch ein Jahr zu leben bleibt, muss sie ihr Lebenskonzept überdenken. Als plötzlich inmitten dieses Schocks ein gutaussehender Host mit rosa Haaren namens Yoshitaka Sena (Eiji Akaso) vor ihr auftaucht und sie darum bittet, etwas Geld zu leihen, hat sie eine Idee. Da sie ohnehin sterben wird, braucht sie ihre Ersparnisse nicht mehr und „kauft“ Sena für 720.000 Yen.",
+        "date": "2026-11-05",
+        "poster": "https://images.justwatch.com/poster/354693227/s332/one-year-to-live-buy-a-man.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=One%20Year%20to%20Live%2C%20Buy%20a%20Man%20Trailer"
+      },
       {
         "title": "LEGO® Friends HEARTLAKE꞉ The Musical",
         "media": "film",
@@ -60,9 +85,9 @@
         "title": "Tenzing",
         "media": "film",
         "genres": [
+          "Action",
           "Drama",
-          "Historie",
-          "Thriller"
+          "Historie"
         ],
         "overview": "Ein zu allem entschlossener Mann begibt sich auf eine lebensgefährliche Expedition und stellt sich scheinbar unüberwindbaren Hindernissen, um als erster Mensch den Gipfel des Mount Everest zu erreichen.",
         "date": "2026-10-16",
@@ -111,19 +136,7 @@
     "skyshowtime": [],
     "crunchyroll": [],
     "hayu": [],
-    "hbo-max": [
-      {
-        "title": "Corregidora: Die dunkelste Nacht des mexikanischen Fußballs",
-        "media": "sorozat",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "Eine Untersuchung der Ausschreitungen im Corregidora-Stadion im Jahr 2022 und der Ereignisse, die zu den gewalttätigen Fan-Zusammenstößen führten.",
-        "date": "2026-10-15",
-        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Corregidora%3A%20Die%20dunkelste%20Nacht%20des%20mexikanischen%20Fu%C3%9Fballs%20Trailer"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [
       {
         "title": "Making Marie Antoinette [OmU]",

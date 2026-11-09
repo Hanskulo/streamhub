@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-11-07T15:38",
-  "week": "2026-11-07",
+  "generated_at": "2026-11-09T19:46",
+  "week": "2026-11-09",
   "by_provider": {
     "netflix": [
+      {
+        "title": "Unprotected: Murder in Galicia",
+        "media": "film",
+        "genres": [
+          "Crime",
+          "Documentary"
+        ],
+        "overview": "In 2015, alleged thieves left Isabel Fuentes near death in her own home. This documentary traces how suspicions quickly fell on her circle of trust.",
+        "date": "2026-11-06",
+        "poster": "https://images.justwatch.com/poster/356623845/s332/unprotected-murder-in-galicia.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Unprotected%3A%20Murder%20in%20Galicia%20trailer"
+      },
+      {
+        "title": "One Year to Live, Buy a Man",
+        "media": "film",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "overview": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
+        "date": "2026-11-05",
+        "poster": "https://images.justwatch.com/poster/354693227/s332/one-year-to-live-buy-a-man.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=One%20Year%20to%20Live%2C%20Buy%20a%20Man%20trailer"
+      },
       {
         "title": "LEGO Friends: Heartlake the Musical",
         "media": "film",
@@ -60,9 +85,9 @@
         "title": "Tenzing",
         "media": "film",
         "genres": [
+          "Action",
           "Drama",
-          "History",
-          "Thriller"
+          "History"
         ],
         "overview": "The untold and inspiring tale of one of the most important mountain climbers in history who, with Edmund Hillary, became the first person to reach the summit of Mount Everest.",
         "date": "2026-10-16",
@@ -111,19 +136,7 @@
     "skyshowtime": [],
     "crunchyroll": [],
     "hayu": [],
-    "hbo-max": [
-      {
-        "title": "Corregidora: The Darkest Night in Mexican Soccer",
-        "media": "sorozat",
-        "genres": [
-          "Documentary"
-        ],
-        "overview": "Revisits the events of March 5, 2022, during the match between Querétaro and Atlas, reconstructing what unfolded and examining its aftermath, the conflicting narratives surrounding the case, and the questions that, four years later, remain unresolved.",
-        "date": "2026-10-15",
-        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Corregidora%3A%20The%20Darkest%20Night%20in%20Mexican%20Soccer%20trailer"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [
       {
         "title": "Making Marie Antoinette",
