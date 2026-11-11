@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-11-09T19:46",
-  "week": "2026-11-09",
+  "generated_at": "2026-11-11T17:04",
+  "week": "2026-11-11",
   "by_provider": {
     "netflix": [
-      {
-        "title": "Védtelen: Galiciai gyilkosság",
-        "media": "film",
-        "genres": [
-          "Krimi",
-          "Dokumentum"
-        ],
-        "overview": "2015 áprilisában a galíciai Verínhez tartozó Pazos faluban Isabel Fuentest saját otthonában brutális támadás éri: a látszat szerint betörők hagyják életveszélyes állapotban. Az ügyön dolgozó Guardia Civil-őrmester azonban hamar kételkedni kezd a történetben, és úgy érzi, a nyomok inkább családon belüli, nemi alapú erőszakra utalnak. Miközben Isabel a kórházban lábadozik, a hatóságok és a környezete próbálják megérteni, mi történt valójában, ám a figyelmeztetések és a védelem hiányosságai ellenére a nő harminchét nappal később éppen a kórházi szobájában válik gyilkosság áldozatává. A dokumentumfilm nyomozók, orvosok, rokonok, szomszédok és újságírók megszólalásain keresztül rekonstruálja az esetet, és arra keresi a választ, hogyan történhetett meg, hogy egy veszélyben lévő áldozatot a rendszer nem tudott megvédeni.",
-        "date": "2026-11-06",
-        "poster": "https://images.justwatch.com/poster/356623845/s332/unprotected-murder-in-galicia.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=V%C3%A9dtelen%3A%20Galiciai%20gyilkoss%C3%A1g%20el%C5%91zetes"
-      },
       {
         "title": "Életem utolsó éve",
         "media": "film",
@@ -27,19 +15,6 @@
         "date": "2026-11-05",
         "poster": "https://images.justwatch.com/poster/354693227/s332/one-year-to-live-buy-a-man.jpg",
         "trailer": "https://www.youtube.com/results?search_query=%C3%89letem%20utols%C3%B3%20%C3%A9ve%20el%C5%91zetes"
-      },
-      {
-        "title": "LEGO Friends: Heartlake the Musical",
-        "media": "film",
-        "genres": [
-          "Vígjáték",
-          "Dráma",
-          "Fantasy"
-        ],
-        "overview": "Egy fiatal lány LEGO-kockákból saját világot épít, ám a játék váratlanul életre kel, és ő varázslatos módon Heartlake Citybe kerül. A LEGO Friends színes, zenével és tánccal teli világában új barátokra, kalandokra és önbizalomra talál, miközben felfedezi, hogy a képzelet, az alkotás és az összetartás ereje képes összekötni a valóságot az általa megálmodott világgal.",
-        "date": "2026-10-16",
-        "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=LEGO%20Friends%3A%20Heartlake%20the%20Musical%20el%C5%91zetes"
       }
     ],
     "amazon-prime-video": [
@@ -112,6 +87,17 @@
     ],
     "apple-tv-store": [
       {
+        "title": "Into Black",
+        "media": "film",
+        "genres": [
+          "Thriller"
+        ],
+        "overview": "Amidst the chaos and destruction of the London Blitz, four women become trapped in an abandoned warehouse, where they must fight to survive against a murderous stranger known as The Blackout Ripper. Inspired by true events.",
+        "date": "2026-11-10",
+        "poster": "https://images.justwatch.com/poster/355142291/s332/into-black.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Into%20Black%20el%C5%91zetes"
+      },
+      {
         "title": "The Gift (Fantaisie-Impromptu)",
         "media": "film",
         "genres": [],
@@ -167,33 +153,7 @@
     "artiflix": [],
     "artify": [],
     "lionsgate-amazon-channel": [],
-    "crunchyroll-amazon-channel": [
-      {
-        "title": "Full Clearing Another World Under a Goddess with Zero Believers",
-        "media": "sorozat",
-        "genres": [
-          "Akció",
-          "Animáció",
-          "Vígjáték"
-        ],
-        "overview": "An isekai fantasy where an ordinary gamer reincarnates without special powers, teams up with a minor goddess, and rises from the weakest to the strongest in a new world.",
-        "date": "2026-10-11",
-        "poster": "https://images.justwatch.com/poster/356551391/s332/full-clearing-another-world-under-a-goddess-with-zero-believers.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20Under%20a%20Goddess%20with%20Zero%20Believers%20el%C5%91zetes"
-      },
-      {
-        "title": "HORROR COLLECTOR",
-        "media": "sorozat",
-        "genres": [
-          "Animáció",
-          "Thriller"
-        ],
-        "overview": "Not all urban legends are myths. Some are real, and they’re coming to life. Fushigi roams Japan in a red hood, sealing them inside his magical notebook, with Jimmy, his human-faced dog, by his side. Each phenomenon brings him one step closer to capturing Himitsu, the girl responsible for manifesting the supernatural beings.",
-        "date": "2026-10-10",
-        "poster": "https://images.justwatch.com/poster/355723553/s332/horror-collector.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=HORROR%20COLLECTOR%20el%C5%91zetes"
-      }
-    ],
+    "crunchyroll-amazon-channel": [],
     "hayu-amazon-channel": [],
     "mubi-amazon-channel": [
       {

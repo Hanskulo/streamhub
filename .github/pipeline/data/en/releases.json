@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-11-09T19:46",
-  "week": "2026-11-09",
+  "generated_at": "2026-11-11T17:04",
+  "week": "2026-11-11",
   "by_provider": {
     "netflix": [
-      {
-        "title": "Unprotected: Murder in Galicia",
-        "media": "film",
-        "genres": [
-          "Crime",
-          "Documentary"
-        ],
-        "overview": "In 2015, alleged thieves left Isabel Fuentes near death in her own home. This documentary traces how suspicions quickly fell on her circle of trust.",
-        "date": "2026-11-06",
-        "poster": "https://images.justwatch.com/poster/356623845/s332/unprotected-murder-in-galicia.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Unprotected%3A%20Murder%20in%20Galicia%20trailer"
-      },
       {
         "title": "One Year to Live, Buy a Man",
         "media": "film",
@@ -27,19 +15,6 @@
         "date": "2026-11-05",
         "poster": "https://images.justwatch.com/poster/354693227/s332/one-year-to-live-buy-a-man.jpg",
         "trailer": "https://www.youtube.com/results?search_query=One%20Year%20to%20Live%2C%20Buy%20a%20Man%20trailer"
-      },
-      {
-        "title": "LEGO Friends: Heartlake the Musical",
-        "media": "film",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Fantasy"
-        ],
-        "overview": "Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark – with plenty of song and dance numbers along the way.",
-        "date": "2026-10-16",
-        "poster": "https://images.justwatch.com/poster/355277649/s332/lego-friends-heartlake-the-musical.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=LEGO%20Friends%3A%20Heartlake%20the%20Musical%20trailer"
       }
     ],
     "amazon-prime-video": [
@@ -112,6 +87,17 @@
     ],
     "apple-tv-store": [
       {
+        "title": "Into Black",
+        "media": "film",
+        "genres": [
+          "Thriller"
+        ],
+        "overview": "Amidst the chaos and destruction of the London Blitz, four women become trapped in an abandoned warehouse, where they must fight to survive against a murderous stranger known as The Blackout Ripper. Inspired by true events.",
+        "date": "2026-11-10",
+        "poster": "https://images.justwatch.com/poster/355142291/s332/into-black.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Into%20Black%20trailer"
+      },
+      {
         "title": "The Gift (Fantaisie-Impromptu)",
         "media": "film",
         "genres": [],
@@ -167,33 +153,7 @@
     "artiflix": [],
     "artify": [],
     "lionsgate-amazon-channel": [],
-    "crunchyroll-amazon-channel": [
-      {
-        "title": "Full Clearing Another World Under a Goddess with Zero Believers",
-        "media": "sorozat",
-        "genres": [
-          "Action",
-          "Animation",
-          "Comedy"
-        ],
-        "overview": "An isekai fantasy where an ordinary gamer reincarnates without special powers, teams up with a minor goddess, and rises from the weakest to the strongest in a new world.",
-        "date": "2026-10-11",
-        "poster": "https://images.justwatch.com/poster/356551391/s332/full-clearing-another-world-under-a-goddess-with-zero-believers.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Full%20Clearing%20Another%20World%20Under%20a%20Goddess%20with%20Zero%20Believers%20trailer"
-      },
-      {
-        "title": "HORROR COLLECTOR",
-        "media": "sorozat",
-        "genres": [
-          "Animation",
-          "Thriller"
-        ],
-        "overview": "Not all urban legends are myths. Some are real, and they’re coming to life. Fushigi roams Japan in a red hood, sealing them inside his magical notebook, with Jimmy, his human-faced dog, by his side. Each phenomenon brings him one step closer to capturing Himitsu, the girl responsible for manifesting the supernatural beings.",
-        "date": "2026-10-10",
-        "poster": "https://images.justwatch.com/poster/355723553/s332/horror-collector.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=HORROR%20COLLECTOR%20trailer"
-      }
-    ],
+    "crunchyroll-amazon-channel": [],
     "hayu-amazon-channel": [],
     "mubi-amazon-channel": [
       {
