@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-11-11T17:04",
-  "week": "2026-11-11",
+  "generated_at": "2026-11-13T17:10",
+  "week": "2026-11-13",
   "by_provider": {
-    "netflix": [
-      {
-        "title": "Életem utolsó éve",
-        "media": "film",
-        "genres": [
-          "Vígjáték",
-          "Dráma",
-          "Romantikus"
-        ],
-        "overview": "Az egyedülálló negyvenes, Katakura Yui takarékos és óvatos életet él, és még a szerelmet és a házasságot is túl költségesnek tartja ahhoz, hogy belevágjon. Amikor egy ingyenes rákszűrésen kiderül, hogy már csak egy éve van hátra, a félelem helyett vá",
-        "date": "2026-11-05",
-        "poster": "https://images.justwatch.com/poster/354693227/s332/one-year-to-live-buy-a-man.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=%C3%89letem%20utols%C3%B3%20%C3%A9ve%20el%C5%91zetes"
-      }
-    ],
+    "netflix": [],
     "amazon-prime-video": [
       {
         "title": "Amazon Music Live: Doja Cat",
@@ -31,6 +17,18 @@
       }
     ],
     "apple-tv": [
+      {
+        "title": "Being Heumann",
+        "media": "film",
+        "genres": [
+          "Dráma",
+          "Történelmi"
+        ],
+        "overview": "A harcias, dacos Judy Heumann megelégeli, hogy teherként kezelik, és forradalommá formálja dühét. 1977-ben több mint 100, a fogyatékosok jogaiért harcoló társával a világba kiáltják üzenetüket: A rendszer a rokkant, nem mi.",
+        "date": "2026-11-06",
+        "poster": "https://images.justwatch.com/poster/355415060/s332/being-heumann.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Being%20Heumann%20el%C5%91zetes"
+      },
       {
         "title": "Awkwafina: The Unlikely Cook",
         "media": "sorozat",
@@ -70,21 +68,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Tendzing%20el%C5%91zetes"
       }
     ],
-    "disney-plus": [
-      {
-        "title": "Imposztor",
-        "media": "sorozat",
-        "genres": [
-          "Vígjáték",
-          "Dráma",
-          "Thriller"
-        ],
-        "overview": "A középiskolás Sonny Cooke egy autóbaleset után magához tér, és észreveszi, hogy édesanyja, Ellen kissé másképp néz ki. Azonban senki sem hisz neki, mert rajta kívül senki sem látja a változást. Sonny megpróbál együtt élni a potenciálisan veszélyes imposztorral, miközben igyekszik bebizonyítani, hogy nem ment el az esze.",
-        "date": "2026-10-20",
-        "poster": "https://images.justwatch.com/poster/356401732/s332/imposztor.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Imposztor%20el%C5%91zetes"
-      }
-    ],
+    "disney-plus": [],
     "apple-tv-store": [
       {
         "title": "Into Black",
@@ -122,7 +106,19 @@
     "skyshowtime": [],
     "crunchyroll": [],
     "hayu": [],
-    "hbo-max": [],
+    "hbo-max": [
+      {
+        "title": "Tragédia a La Corregidora stadionban",
+        "media": "sorozat",
+        "genres": [
+          "Dokumentum"
+        ],
+        "overview": "Revisits the events of March 5, 2022, during the match between Querétaro and Atlas, reconstructing what unfolded and examining its aftermath, the conflicting narratives surrounding the case, and the questions that, four years later, remain unresolved.",
+        "date": "2026-10-15",
+        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Trag%C3%A9dia%20a%20La%20Corregidora%20stadionban%20el%C5%91zetes"
+      }
+    ],
     "mubi": [
       {
         "title": "Making Marie Antoinette",

@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-11-11T17:05",
-  "week": "2026-11-11",
+  "generated_at": "2026-11-13T17:10",
+  "week": "2026-11-13",
   "by_provider": {
-    "netflix": [
-      {
-        "title": "One Year to Live, Buy a Man",
-        "media": "film",
-        "genres": [
-          "Komödie",
-          "Drama",
-          "Romantik"
-        ],
-        "overview": "Die 40-jährige Yui Katakura (Ko Shibasaki) verwendet all ihre Zeit darauf, Geld für den Ruhestand anzusparen, weswegen sie romantische Beziehungen immer als schlechte Investition betrachtet hat. Doch als sie bei einer kostenlosen Krebsvorsorgeuntersuchung erfährt, dass ihr nur noch ein Jahr zu leben bleibt, muss sie ihr Lebenskonzept überdenken. Als plötzlich inmitten dieses Schocks ein gutaussehender Host mit rosa Haaren namens Yoshitaka Sena (Eiji Akaso) vor ihr auftaucht und sie darum bittet, etwas Geld zu leihen, hat sie eine Idee. Da sie ohnehin sterben wird, braucht sie ihre Ersparnisse nicht mehr und „kauft“ Sena für 720.000 Yen.",
-        "date": "2026-11-05",
-        "poster": "https://images.justwatch.com/poster/354693227/s332/one-year-to-live-buy-a-man.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=One%20Year%20to%20Live%2C%20Buy%20a%20Man%20Trailer"
-      }
-    ],
+    "netflix": [],
     "amazon-prime-video": [
       {
         "title": "Amazon Music Live: Doja Cat",
@@ -31,6 +17,18 @@
       }
     ],
     "apple-tv": [
+      {
+        "title": "Ing Heumann",
+        "media": "film",
+        "genres": [
+          "Drama",
+          "Historie"
+        ],
+        "overview": "Kämpferisch, trotzig und entschlossen, sich nicht länger als Belastung behandeln zu lassen, verwandelt Judy Heumann ihre Empörung in eine Bewegung. 1977 senden sie und mehr als 100 Aktivistinnen und Aktivisten für die Rechte von Menschen mit Behinderung eine unmissverständliche Botschaft: Nicht wir sind kaputt, sondern das System!",
+        "date": "2026-11-06",
+        "poster": "https://images.justwatch.com/poster/355415060/s332/being-heumann.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Ing%20Heumann%20Trailer"
+      },
       {
         "title": "Awkwafina: Küchen-Quereinsteigerin",
         "media": "sorozat",
@@ -70,21 +68,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Tenzing%20Trailer"
       }
     ],
-    "disney-plus": [
-      {
-        "title": "Phony",
-        "media": "sorozat",
-        "genres": [
-          "Komödie",
-          "Drama",
-          "Thriller"
-        ],
-        "overview": "Als der Schüler Sonny Cooke (Sam Nivola) nach einem Autounfall erwacht, stellt er fest, dass seine Mutter Ellen (Connie Britton) irgendwie anders aussieht. Doch niemand glaubt ihm, denn nur er scheint die Veränderung zu sehen. Nun muss er mit der möglicherweise gefährlichen Hochstaplerin zusammenleben und allen beweisen, dass er nicht verrückt ist.",
-        "date": "2026-10-20",
-        "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Phony%20Trailer"
-      }
-    ],
+    "disney-plus": [],
     "apple-tv-store": [
       {
         "title": "Into Black",
@@ -122,7 +106,19 @@
     "skyshowtime": [],
     "crunchyroll": [],
     "hayu": [],
-    "hbo-max": [],
+    "hbo-max": [
+      {
+        "title": "Corregidora: Die dunkelste Nacht des mexikanischen Fußballs",
+        "media": "sorozat",
+        "genres": [
+          "Dokumentation"
+        ],
+        "overview": "Eine Untersuchung der Ausschreitungen im Corregidora-Stadion im Jahr 2022 und der Ereignisse, die zu den gewalttätigen Fan-Zusammenstößen führten.",
+        "date": "2026-10-15",
+        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Corregidora%3A%20Die%20dunkelste%20Nacht%20des%20mexikanischen%20Fu%C3%9Fballs%20Trailer"
+      }
+    ],
     "mubi": [
       {
         "title": "Making Marie Antoinette [OmU]",
