@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T17:10",
-  "week": "2026-11-13",
+  "generated_at": "2026-11-15T16:18",
+  "week": "2026-11-15",
   "by_provider": {
     "netflix": [],
     "amazon-prime-video": [
@@ -68,7 +68,21 @@
         "trailer": "https://www.youtube.com/results?search_query=Tendzing%20el%C5%91zetes"
       }
     ],
-    "disney-plus": [],
+    "disney-plus": [
+      {
+        "title": "Imposztor",
+        "media": "sorozat",
+        "genres": [
+          "Vígjáték",
+          "Dráma",
+          "Thriller"
+        ],
+        "overview": "A középiskolás Sonny Cooke egy autóbaleset után magához tér, és észreveszi, hogy édesanyja, Ellen kissé másképp néz ki. Azonban senki sem hisz neki, mert rajta kívül senki sem látja a változást. Sonny megpróbál együtt élni a potenciálisan veszélyes imposztorral, miközben igyekszik bebizonyítani, hogy nem ment el az esze.",
+        "date": "2026-10-20",
+        "poster": "https://images.justwatch.com/poster/356401732/s332/imposztor.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Imposztor%20el%C5%91zetes"
+      }
+    ],
     "apple-tv-store": [
       {
         "title": "Into Black",
@@ -106,19 +120,7 @@
     "skyshowtime": [],
     "crunchyroll": [],
     "hayu": [],
-    "hbo-max": [
-      {
-        "title": "Tragédia a La Corregidora stadionban",
-        "media": "sorozat",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "Revisits the events of March 5, 2022, during the match between Querétaro and Atlas, reconstructing what unfolded and examining its aftermath, the conflicting narratives surrounding the case, and the questions that, four years later, remain unresolved.",
-        "date": "2026-10-15",
-        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Trag%C3%A9dia%20a%20La%20Corregidora%20stadionban%20el%C5%91zetes"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [
       {
         "title": "Making Marie Antoinette",

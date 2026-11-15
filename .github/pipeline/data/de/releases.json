@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T17:10",
-  "week": "2026-11-13",
+  "generated_at": "2026-11-15T16:18",
+  "week": "2026-11-15",
   "by_provider": {
     "netflix": [],
     "amazon-prime-video": [
@@ -68,7 +68,21 @@
         "trailer": "https://www.youtube.com/results?search_query=Tenzing%20Trailer"
       }
     ],
-    "disney-plus": [],
+    "disney-plus": [
+      {
+        "title": "Phony",
+        "media": "sorozat",
+        "genres": [
+          "Komödie",
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "Als der Schüler Sonny Cooke (Sam Nivola) nach einem Autounfall erwacht, stellt er fest, dass seine Mutter Ellen (Connie Britton) irgendwie anders aussieht. Doch niemand glaubt ihm, denn nur er scheint die Veränderung zu sehen. Nun muss er mit der möglicherweise gefährlichen Hochstaplerin zusammenleben und allen beweisen, dass er nicht verrückt ist.",
+        "date": "2026-10-20",
+        "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Phony%20Trailer"
+      }
+    ],
     "apple-tv-store": [
       {
         "title": "Into Black",
@@ -106,19 +120,7 @@
     "skyshowtime": [],
     "crunchyroll": [],
     "hayu": [],
-    "hbo-max": [
-      {
-        "title": "Corregidora: Die dunkelste Nacht des mexikanischen Fußballs",
-        "media": "sorozat",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "Eine Untersuchung der Ausschreitungen im Corregidora-Stadion im Jahr 2022 und der Ereignisse, die zu den gewalttätigen Fan-Zusammenstößen führten.",
-        "date": "2026-10-15",
-        "poster": "https://images.justwatch.com/poster/355683330/s332/tragedia-a-la-corregidora-stadionban.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Corregidora%3A%20Die%20dunkelste%20Nacht%20des%20mexikanischen%20Fu%C3%9Fballs%20Trailer"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [
       {
         "title": "Making Marie Antoinette [OmU]",
