@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T16:18",
-  "week": "2026-11-15",
+  "generated_at": "2026-11-17T18:31",
+  "week": "2026-11-17",
   "by_provider": {
     "netflix": [],
     "amazon-prime-video": [
@@ -53,47 +53,20 @@
         "date": "2026-10-30",
         "poster": "https://images.justwatch.com/poster/354518072/s332/nocturne.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Nocturne%20trailer"
-      },
-      {
-        "title": "Tenzing",
-        "media": "film",
-        "genres": [
-          "Action",
-          "Drama",
-          "History"
-        ],
-        "overview": "The untold and inspiring tale of one of the most important mountain climbers in history who, with Edmund Hillary, became the first person to reach the summit of Mount Everest.",
-        "date": "2026-10-16",
-        "poster": "https://images.justwatch.com/poster/354677231/s332/tendzing.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Tenzing%20trailer"
       }
     ],
-    "disney-plus": [
-      {
-        "title": "Phony",
-        "media": "sorozat",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Thriller"
-        ],
-        "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
-        "date": "2026-10-20",
-        "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Phony%20trailer"
-      }
-    ],
+    "disney-plus": [],
     "apple-tv-store": [
       {
-        "title": "Into Black",
+        "title": "Tiny Hearts",
         "media": "film",
         "genres": [
-          "Thriller"
+          "Documentary"
         ],
-        "overview": "Amidst the chaos and destruction of the London Blitz, four women become trapped in an abandoned warehouse, where they must fight to survive against a murderous stranger known as The Blackout Ripper. Inspired by true events.",
-        "date": "2026-11-10",
-        "poster": "https://images.justwatch.com/poster/355142291/s332/into-black.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Into%20Black%20trailer"
+        "overview": "Tiny Hearts follows pediatric heart surgeon Dr. William Novick as he delivers life-saving cardiac care to children in war zones and under-served countries, exposing the personal sacrifices and global effort behind the mission.",
+        "date": "2026-11-11",
+        "poster": "https://images.justwatch.com/poster/341037951/s332/tiny-hearts.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Tiny%20Hearts%20trailer"
       },
       {
         "title": "The Gift (Fantaisie-Impromptu)",
@@ -129,24 +102,12 @@
           "Documentary"
         ],
         "overview": "Eleanor Coppola turns her camera on her daughter, Sofia, as she shoots Marie Antoinette. Catching every detail of the behind-the-scenes and on-set action, Eleanor captures the feat of Sofia’s directing a landmark film aged 34, and muses on what it means for a mother to watch her daughter at work.",
-        "date": "2026-10-23",
+        "date": "2026-11-06",
         "poster": "https://images.justwatch.com/poster/353529653/s332/making-marie-antoinette.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20trailer"
       }
     ],
-    "bloodstream": [
-      {
-        "title": "Project Lonely",
-        "media": "film",
-        "genres": [
-          "Horror"
-        ],
-        "overview": "Longing for love and companionship, a lonely young woman orders an AI boyfriend who becomes her perfect partner. Attentive, affectionate, and endlessly devoted, he gives her everything she's ever wanted in a relationship. But as their romance deepens, her world begins to shrink, leaving her increasingly isolated, insecure, and questioning whether she has anything left to live for beyond him.",
-        "date": "2026-10-19",
-        "poster": "https://images.justwatch.com/poster/355726769/s332/project-lonely.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Project%20Lonely%20trailer"
-      }
-    ],
+    "bloodstream": [],
     "kableone": [],
     "artiflix": [],
     "artify": [],
@@ -161,7 +122,7 @@
           "Documentary"
         ],
         "overview": "Eleanor Coppola turns her camera on her daughter, Sofia, as she shoots Marie Antoinette. Catching every detail of the behind-the-scenes and on-set action, Eleanor captures the feat of Sofia’s directing a landmark film aged 34, and muses on what it means for a mother to watch her daughter at work.",
-        "date": "2026-10-23",
+        "date": "2026-11-06",
         "poster": "https://images.justwatch.com/poster/353529653/s332/making-marie-antoinette.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20trailer"
       }

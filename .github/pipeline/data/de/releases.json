@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T16:18",
-  "week": "2026-11-15",
+  "generated_at": "2026-11-17T18:32",
+  "week": "2026-11-17",
   "by_provider": {
     "netflix": [],
     "amazon-prime-video": [
@@ -53,47 +53,20 @@
         "date": "2026-10-30",
         "poster": "https://images.justwatch.com/poster/355257001/s332/nocturne.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Nocturne%20Trailer"
-      },
-      {
-        "title": "Tenzing",
-        "media": "film",
-        "genres": [
-          "Action",
-          "Drama",
-          "Historie"
-        ],
-        "overview": "Ein zu allem entschlossener Mann begibt sich auf eine lebensgefährliche Expedition und stellt sich scheinbar unüberwindbaren Hindernissen, um als erster Mensch den Gipfel des Mount Everest zu erreichen.",
-        "date": "2026-10-16",
-        "poster": "https://images.justwatch.com/poster/354677229/s332/tendzing.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Tenzing%20Trailer"
       }
     ],
-    "disney-plus": [
-      {
-        "title": "Phony",
-        "media": "sorozat",
-        "genres": [
-          "Komödie",
-          "Drama",
-          "Thriller"
-        ],
-        "overview": "Als der Schüler Sonny Cooke (Sam Nivola) nach einem Autounfall erwacht, stellt er fest, dass seine Mutter Ellen (Connie Britton) irgendwie anders aussieht. Doch niemand glaubt ihm, denn nur er scheint die Veränderung zu sehen. Nun muss er mit der möglicherweise gefährlichen Hochstaplerin zusammenleben und allen beweisen, dass er nicht verrückt ist.",
-        "date": "2026-10-20",
-        "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Phony%20Trailer"
-      }
-    ],
+    "disney-plus": [],
     "apple-tv-store": [
       {
-        "title": "Into Black",
+        "title": "Tiny Hearts",
         "media": "film",
         "genres": [
-          "Thriller"
+          "Dokumentation"
         ],
-        "overview": "Amidst the chaos and destruction of the London Blitz, four women become trapped in an abandoned warehouse, where they must fight to survive against a murderous stranger known as The Blackout Ripper. Inspired by true events.",
-        "date": "2026-11-10",
-        "poster": "https://images.justwatch.com/poster/355142291/s332/into-black.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Into%20Black%20Trailer"
+        "overview": "Tiny Hearts follows pediatric heart surgeon Dr. William Novick as he delivers life-saving cardiac care to children in war zones and under-served countries, exposing the personal sacrifices and global effort behind the mission.",
+        "date": "2026-11-11",
+        "poster": "https://images.justwatch.com/poster/341037951/s332/tiny-hearts.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Tiny%20Hearts%20Trailer"
       },
       {
         "title": "The Gift (Fantaisie-Impromptu)",
@@ -123,30 +96,18 @@
     "hbo-max": [],
     "mubi": [
       {
-        "title": "Making Marie Antoinette [OmU]",
+        "title": "Making Marie Antoinette",
         "media": "film",
         "genres": [
           "Dokumentation"
         ],
         "overview": "Eleanor Coppola richtet die Kamera auf ihre Tochter Sofia, die gerade Marie Antoinette dreht. Aus nächster Nähe hält sie jedes Detail am Set fest, während Sofia mit 34 einen prägenden Film stemmt. Dabei reflektiert sie darüber, was es für eine Mutter heißt, der Tochter bei der Arbeit zuzusehen.",
-        "date": "2026-10-23",
+        "date": "2026-11-06",
         "poster": "https://images.justwatch.com/poster/353529653/s332/making-marie-antoinette.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20%5BOmU%5D%20Trailer"
+        "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20Trailer"
       }
     ],
-    "bloodstream": [
-      {
-        "title": "Project Lonely",
-        "media": "film",
-        "genres": [
-          "Horror"
-        ],
-        "overview": "Longing for love and companionship, a lonely young woman orders an AI boyfriend who becomes her perfect partner. Attentive, affectionate, and endlessly devoted, he gives her everything she's ever wanted in a relationship. But as their romance deepens, her world begins to shrink, leaving her increasingly isolated, insecure, and questioning whether she has anything left to live for beyond him.",
-        "date": "2026-10-19",
-        "poster": "https://images.justwatch.com/poster/355726769/s332/project-lonely.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Project%20Lonely%20Trailer"
-      }
-    ],
+    "bloodstream": [],
     "kableone": [],
     "artiflix": [],
     "artify": [],
@@ -155,15 +116,15 @@
     "hayu-amazon-channel": [],
     "mubi-amazon-channel": [
       {
-        "title": "Making Marie Antoinette [OmU]",
+        "title": "Making Marie Antoinette",
         "media": "film",
         "genres": [
           "Dokumentation"
         ],
         "overview": "Eleanor Coppola richtet die Kamera auf ihre Tochter Sofia, die gerade Marie Antoinette dreht. Aus nächster Nähe hält sie jedes Detail am Set fest, während Sofia mit 34 einen prägenden Film stemmt. Dabei reflektiert sie darüber, was es für eine Mutter heißt, der Tochter bei der Arbeit zuzusehen.",
-        "date": "2026-10-23",
+        "date": "2026-11-06",
         "poster": "https://images.justwatch.com/poster/353529653/s332/making-marie-antoinette.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20%5BOmU%5D%20Trailer"
+        "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20Trailer"
       }
     ]
   }
