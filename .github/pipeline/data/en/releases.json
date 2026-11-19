@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T18:31",
-  "week": "2026-11-17",
+  "generated_at": "2026-11-19T18:14",
+  "week": "2026-11-19",
   "by_provider": {
     "netflix": [],
     "amazon-prime-video": [
@@ -55,7 +55,21 @@
         "trailer": "https://www.youtube.com/results?search_query=Nocturne%20trailer"
       }
     ],
-    "disney-plus": [],
+    "disney-plus": [
+      {
+        "title": "Phony",
+        "media": "sorozat",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Thriller"
+        ],
+        "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+        "date": "2026-10-20",
+        "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Phony%20trailer"
+      }
+    ],
     "apple-tv-store": [
       {
         "title": "Tiny Hearts",
@@ -67,6 +81,17 @@
         "date": "2026-11-11",
         "poster": "https://images.justwatch.com/poster/341037951/s332/tiny-hearts.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Tiny%20Hearts%20trailer"
+      },
+      {
+        "title": "Into Black",
+        "media": "film",
+        "genres": [
+          "Thriller"
+        ],
+        "overview": "Amidst the chaos and destruction of the London Blitz, four women become trapped in an abandoned warehouse, where they must fight to survive against a murderous stranger known as The Blackout Ripper. Inspired by true events.",
+        "date": "2026-11-10",
+        "poster": "https://images.justwatch.com/poster/355142291/s332/into-black.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Into%20Black%20trailer"
       },
       {
         "title": "The Gift (Fantaisie-Impromptu)",
@@ -92,7 +117,19 @@
     "sun-nxt": [],
     "skyshowtime": [],
     "crunchyroll": [],
-    "hayu": [],
+    "hayu": [
+      {
+        "title": "Small Town Trouble: Texas",
+        "media": "sorozat",
+        "genres": [
+          "Reality"
+        ],
+        "overview": "In Boerne, Texas, social insiders navigate conservative small-town values, forbidden attractions, messy friendships and shocking secrets, where appearances are everything, temptation runs high and the truth is rarely as it seems.",
+        "date": "2026-11-18",
+        "poster": null,
+        "trailer": "https://www.youtube.com/results?search_query=Small%20Town%20Trouble%3A%20Texas%20trailer"
+      }
+    ],
     "hbo-max": [],
     "mubi": [
       {
@@ -113,7 +150,19 @@
     "artify": [],
     "lionsgate-amazon-channel": [],
     "crunchyroll-amazon-channel": [],
-    "hayu-amazon-channel": [],
+    "hayu-amazon-channel": [
+      {
+        "title": "Small Town Trouble: Texas",
+        "media": "sorozat",
+        "genres": [
+          "Reality"
+        ],
+        "overview": "In Boerne, Texas, social insiders navigate conservative small-town values, forbidden attractions, messy friendships and shocking secrets, where appearances are everything, temptation runs high and the truth is rarely as it seems.",
+        "date": "2026-11-18",
+        "poster": null,
+        "trailer": "https://www.youtube.com/results?search_query=Small%20Town%20Trouble%3A%20Texas%20trailer"
+      }
+    ],
     "mubi-amazon-channel": [
       {
         "title": "Making Marie Antoinette",
