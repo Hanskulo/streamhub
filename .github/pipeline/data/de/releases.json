@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-19T18:14",
-  "week": "2026-11-19",
+  "generated_at": "2026-11-21T16:45",
+  "week": "2026-11-21",
   "by_provider": {
-    "netflix": [],
+    "netflix": [
+      {
+        "title": "Ungeschützt: Mord in Galicien",
+        "media": "film",
+        "genres": [
+          "Krimi",
+          "Dokumentation"
+        ],
+        "overview": "Im April 2015 wurde Isabel Fuentes von mutmaßlichen Einbrechern halb tot in ihrem Zuhause im Dorf Pazos in der Nähe von Verín zurückgelassen. 37 Tage später wird sie in ihrem Krankenzimmer ermordet.",
+        "date": "2026-11-06",
+        "poster": "https://images.justwatch.com/poster/356623845/s332/unprotected-murder-in-galicia.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Ungesch%C3%BCtzt%3A%20Mord%20in%20Galicien%20Trailer"
+      }
+    ],
     "amazon-prime-video": [
       {
         "title": "Amazon Music Live: Doja Cat",
@@ -57,31 +70,20 @@
     ],
     "disney-plus": [
       {
-        "title": "Phony",
+        "title": "Vienna Game",
         "media": "sorozat",
         "genres": [
           "Komödie",
           "Drama",
-          "Thriller"
+          "Historie"
         ],
-        "overview": "Als der Schüler Sonny Cooke (Sam Nivola) nach einem Autounfall erwacht, stellt er fest, dass seine Mutter Ellen (Connie Britton) irgendwie anders aussieht. Doch niemand glaubt ihm, denn nur er scheint die Veränderung zu sehen. Nun muss er mit der möglicherweise gefährlichen Hochstaplerin zusammenleben und allen beweisen, dass er nicht verrückt ist.",
-        "date": "2026-10-20",
-        "poster": "https://images.justwatch.com/poster/355252671/s332/imposztor.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Phony%20Trailer"
+        "overview": "Während Napoleon Bonaparte nach Elba verbannt ist, feiern und verhandeln Könige und Kronprinzen, Minister und Spione, adlige Damen und Mätressen, Glücksritter, Erfinder, Künstler und Konkubinen in Wien. Hier entscheidet sich das Schicksal Europas auf der Tanzfläche und im Boudoir.",
+        "date": "2026-11-18",
+        "poster": "https://images.justwatch.com/poster/356621052/s332/vienna-game.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Vienna%20Game%20Trailer"
       }
     ],
     "apple-tv-store": [
-      {
-        "title": "Tiny Hearts",
-        "media": "film",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "Tiny Hearts follows pediatric heart surgeon Dr. William Novick as he delivers life-saving cardiac care to children in war zones and under-served countries, exposing the personal sacrifices and global effort behind the mission.",
-        "date": "2026-11-11",
-        "poster": "https://images.justwatch.com/poster/341037951/s332/tiny-hearts.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Tiny%20Hearts%20Trailer"
-      },
       {
         "title": "Into Black",
         "media": "film",
@@ -115,7 +117,20 @@
     "cultpix": [],
     "filmbox-stream": [],
     "sun-nxt": [],
-    "skyshowtime": [],
+    "skyshowtime": [
+      {
+        "title": "Savage Mountain",
+        "media": "film",
+        "genres": [
+          "Dokumentation",
+          "Sport"
+        ],
+        "overview": "Kristin Harila stunned the climbing community in 2023 when she set out to become the fastest person to summit the world’s 14 highest peaks.  Alongside her climbing partner, Tenjen Lama Sherpa, she achieved what many believed impossible, summiting all 14 in just 92 days and halving the record held by Nims Purja. But, what should have been her greatest triumph became a reckoning. During the final ascent, Harila was accused of stepping over a dying porter, triggering a global backlash and fierce debate about ambition, ethics and who controls the narrative. Drawing on never‑before‑seen footage from K2, Savage Mountain unpacks the story behind the controversy.",
+        "date": "2026-11-20",
+        "poster": "https://images.justwatch.com/poster/357230643/s332/savage-mountain.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Savage%20Mountain%20Trailer"
+      }
+    ],
     "crunchyroll": [],
     "hayu": [
       {
@@ -144,7 +159,19 @@
         "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20Trailer"
       }
     ],
-    "bloodstream": [],
+    "bloodstream": [
+      {
+        "title": "Hollywoods",
+        "media": "film",
+        "genres": [
+          "Horror"
+        ],
+        "overview": "A naive ingenue follows her dream into the woods only to face Hollywood's worst nightmare, a failed actor.",
+        "date": "2026-12-01",
+        "poster": "https://images.justwatch.com/poster/357134788/s332/hollywoods.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Hollywoods%20Trailer"
+      }
+    ],
     "kableone": [],
     "artiflix": [],
     "artify": [],

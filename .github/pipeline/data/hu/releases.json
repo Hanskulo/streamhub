@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-19T18:13",
-  "week": "2026-11-19",
+  "generated_at": "2026-11-21T16:44",
+  "week": "2026-11-21",
   "by_provider": {
-    "netflix": [],
+    "netflix": [
+      {
+        "title": "Védtelen: Galiciai gyilkosság",
+        "media": "film",
+        "genres": [
+          "Krimi",
+          "Dokumentum"
+        ],
+        "overview": "2015 áprilisában a galíciai Verínhez tartozó Pazos faluban Isabel Fuentest saját otthonában brutális támadás éri: a látszat szerint betörők hagyják életveszélyes állapotban. Az ügyön dolgozó Guardia Civil-őrmester azonban hamar kételkedni kezd a történetben, és úgy érzi, a nyomok inkább családon belüli, nemi alapú erőszakra utalnak. Miközben Isabel a kórházban lábadozik, a hatóságok és a környezete próbálják megérteni, mi történt valójában, ám a figyelmeztetések és a védelem hiányosságai ellenére a nő harminchét nappal később éppen a kórházi szobájában válik gyilkosság áldozatává. A dokumentumfilm nyomozók, orvosok, rokonok, szomszédok és újságírók megszólalásain keresztül rekonstruálja az esetet, és arra keresi a választ, hogyan történhetett meg, hogy egy veszélyben lévő áldozatot a rendszer nem tudott megvédeni.",
+        "date": "2026-11-06",
+        "poster": "https://images.justwatch.com/poster/356623845/s332/unprotected-murder-in-galicia.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=V%C3%A9dtelen%3A%20Galiciai%20gyilkoss%C3%A1g%20el%C5%91zetes"
+      }
+    ],
     "amazon-prime-video": [
       {
         "title": "Amazon Music Live: Doja Cat",
@@ -57,31 +70,20 @@
     ],
     "disney-plus": [
       {
-        "title": "Imposztor",
+        "title": "Bécsi játék",
         "media": "sorozat",
         "genres": [
           "Vígjáték",
           "Dráma",
-          "Thriller"
+          "Történelmi"
         ],
-        "overview": "A középiskolás Sonny Cooke egy autóbaleset után magához tér, és észreveszi, hogy édesanyja, Ellen kissé másképp néz ki. Azonban senki sem hisz neki, mert rajta kívül senki sem látja a változást. Sonny megpróbál együtt élni a potenciálisan veszélyes imposztorral, miközben igyekszik bebizonyítani, hogy nem ment el az esze.",
-        "date": "2026-10-20",
-        "poster": "https://images.justwatch.com/poster/356401732/s332/imposztor.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Imposztor%20el%C5%91zetes"
+        "overview": "1814. Miközben Napóleon Elba szigetén száműzetésben várakozik, Európa uralkodói és vezetői Bécsbe gyűlnek, hogy döntsenek a háború sújtotta kontinens jövőjéről. A pezsgő, a szerelmi viszonyok és a hatalmi játszmák világában Wilhelmine von Sagan, a ravasz intrikus, királypárti arisztokrata és Metternich herceg szeretője végzetes találkozásba keveredik Amor Łaski báróval, a bonapartistával és hírhedt nőcsábásszal. Közben Talleyrand francia külügyminiszter egymás ellen próbálja kijátszani Ausztriát, Poroszországot, Oroszországot és Angliát, míg a cár és húga a porosz királlyal szövetkeznek. Amikor Seidl, egy jelentéktelen hivatalnok hamis levelet készít riválisa lejáratására, események láncolatát indítja el, amely minden szereplőt veszélyes döntések elé állít. Ki nyeri végül a szerencse, a szerelem és a hatalom nagy játszmáját?",
+        "date": "2026-11-18",
+        "poster": "https://images.justwatch.com/poster/356358071/s332/vienna-game.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=B%C3%A9csi%20j%C3%A1t%C3%A9k%20el%C5%91zetes"
       }
     ],
     "apple-tv-store": [
-      {
-        "title": "Tiny Hearts",
-        "media": "film",
-        "genres": [
-          "Dokumentum"
-        ],
-        "overview": "Tiny Hearts follows pediatric heart surgeon Dr. William Novick as he delivers life-saving cardiac care to children in war zones and under-served countries, exposing the personal sacrifices and global effort behind the mission.",
-        "date": "2026-11-11",
-        "poster": "https://images.justwatch.com/poster/341037951/s332/tiny-hearts.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Tiny%20Hearts%20el%C5%91zetes"
-      },
       {
         "title": "Into Black",
         "media": "film",
@@ -115,7 +117,20 @@
     "cultpix": [],
     "filmbox-stream": [],
     "sun-nxt": [],
-    "skyshowtime": [],
+    "skyshowtime": [
+      {
+        "title": "Savage Mountain",
+        "media": "film",
+        "genres": [
+          "Dokumentum",
+          "Sport"
+        ],
+        "overview": "Kristin Harila hegymászó mindent kockára tesz, hogy rekordidő alatt meghódítsa a világ 14 legmagasabb hegycsúcsát, de az utolsó mászása heves ellenreakciókat vált ki; miközben a teljesítményét elismerik, sok mindent újra is kell gondolnia.",
+        "date": "2026-11-20",
+        "poster": "https://images.justwatch.com/poster/357230643/s332/savage-mountain.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Savage%20Mountain%20el%C5%91zetes"
+      }
+    ],
     "crunchyroll": [],
     "hayu": [
       {
@@ -144,7 +159,19 @@
         "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20el%C5%91zetes"
       }
     ],
-    "bloodstream": [],
+    "bloodstream": [
+      {
+        "title": "Hollywoods",
+        "media": "film",
+        "genres": [
+          "Horror"
+        ],
+        "overview": "A naive ingenue follows her dream into the woods only to face Hollywood's worst nightmare, a failed actor.",
+        "date": "2026-12-01",
+        "poster": "https://images.justwatch.com/poster/357134788/s332/hollywoods.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Hollywoods%20el%C5%91zetes"
+      }
+    ],
     "kableone": [],
     "artiflix": [],
     "artify": [],
