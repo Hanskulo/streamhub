@@ -1,82 +1,21 @@
 {
-  "generated_at": "2026-11-16T19:31",
-  "window": "2026-11-16 .. 2026-12-01",
+  "generated_at": "2026-11-23T21:15",
+  "window": "2026-11-23 .. 2026-12-08",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "When a Witness Recants",
+          "title": "Clashing Through the Snow",
           "media": "film",
           "genres": [
-            "Animation",
-            "Documentary"
-          ],
-          "overview": "A 1983 Baltimore school murder led to 3 teens' wrongful imprisonment for 36 years. Ta-Nehisi Coates investigates how this case affected the accused, witnesses and their community.",
-          "date": "2026-11-17",
-          "poster": "https://images.justwatch.com/poster/356458804/s332/when-a-witness-recants.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=When%20a%20Witness%20Recants%20trailer"
-        },
-        {
-          "title": "Malika",
-          "media": "film",
-          "genres": [
-            "Drama",
+            "Comedy",
             "Romance"
           ],
-          "overview": "From poor Algerian roots in Nanterre, Bellaribi overcame parental abandonment after injury. Years of hospital recovery led to healing through music, aided by a unique teacher, ultimately performing at Milan's Scala.",
-          "date": "2026-11-18",
-          "poster": "https://images.justwatch.com/poster/355539391/s332/malika.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Malika%20trailer"
-        },
-        {
-          "title": "Agnes & Amir",
-          "media": "film",
-          "genres": [
-            "Comedy",
-            "Drama"
-          ],
-          "overview": "Amir is 28, gay and has just fled from Iran. Agnes is 101 and still too young for a retirement home - she thinks. The two move in together - and save each other's lives.",
-          "date": "2026-11-19",
-          "poster": "https://images.justwatch.com/poster/357129643/s332/lieblingsmenschen-die-aussergewoehnliche-freundschaft-von-agnes-und-amir-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Agnes%20%26%20Amir%20trailer"
-        },
-        {
-          "title": "Way of the Warrior Kid",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama"
-          ],
-          "overview": "A self-doubting kid who gets bullied learns to find his inner warrior with the help of his uncle, an elite Navy SEAL, who uses his training to guide the youth over the summer.",
-          "date": "2026-11-20",
-          "poster": "https://images.justwatch.com/poster/356296095/s332/way-of-the-warrior-kid.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Way%20of%20the%20Warrior%20Kid%20trailer"
-        },
-        {
-          "title": "Steps",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Animation",
-            "Comedy"
-          ],
-          "overview": "Blamed for magical mischief at the Royal Ball, stepsister Lilith turns her sister into a frog. She must work with Cinderella and a troll to save the kingdom and prove villains deserve happy endings too.",
-          "date": "2026-11-20",
-          "poster": "https://images.justwatch.com/poster/354705133/s332/steps.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Steps%20trailer"
-        },
-        {
-          "title": "Ask Tesadüfleri Sever 3",
-          "media": "film",
-          "genres": [
-            "Drama"
-          ],
-          "overview": "",
-          "date": "2026-11-20",
-          "poster": "https://images.justwatch.com/poster/355193734/s332/ask-tesaduefleri-sever-3.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Ask%20Tesad%C3%BCfleri%20Sever%203%20trailer"
+          "overview": "After weather grounds all flights east for the holidays, two work rivals competing for the same job begrudgingly embark on a cross-country road trip that brings them closer together in ways they never imagined.",
+          "date": "2026-11-23",
+          "poster": "https://images.justwatch.com/poster/356845971/s332/clashing-through-the-snow.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Clashing%20Through%20the%20Snow%20trailer"
         },
         {
           "title": "Holy Wood Dust",
@@ -90,6 +29,77 @@
           "trailer": "https://www.youtube.com/results?search_query=Holy%20Wood%20Dust%20trailer"
         },
         {
+          "title": "Eternity",
+          "media": "film",
+          "genres": [],
+          "overview": "",
+          "date": "2026-11-25",
+          "poster": "https://images.justwatch.com/poster/357331286/s332/eternity-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Eternity%20trailer"
+        },
+        {
+          "title": "Focker In-Law",
+          "media": "film",
+          "genres": [
+            "Comedy"
+          ],
+          "overview": "A young man named Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
+          "date": "2026-11-25",
+          "poster": "https://images.justwatch.com/poster/344481481/s332/meine-frau-unsere-schwiegertochter-und-ich.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Focker%20In-Law%20trailer"
+        },
+        {
+          "title": "Hexed",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Animation",
+            "Comedy"
+          ],
+          "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+          "date": "2026-11-25",
+          "poster": "https://images.justwatch.com/poster/346470042/s332/hexed.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Hexed%20trailer"
+        },
+        {
+          "title": "A Few Days in the Sun",
+          "media": "film",
+          "genres": [
+            "Thriller"
+          ],
+          "overview": "A European couple's vacation abruptly ends when they're kidnapped in Mexico. A working-class Mexican family is compelled to imprison them, leading to an unexpected cultural clash.",
+          "date": "2026-11-25",
+          "poster": "https://images.justwatch.com/poster/357238013/s332/unos-dias-al-sol.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=A%20Few%20Days%20in%20the%20Sun%20trailer"
+        },
+        {
+          "title": "24 Türchen zu dir",
+          "media": "film",
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "overview": "Liv just wants to break out of her daily routine for once and go on vacation with her husband Anton and son Basti. But even just before Christmas, Anton can’t make her wish come true. That’s because working at his father Franz’s mountain cabin keeps the whole family tied up around the clocks, 24/7—with no end in sight. And because Anton can’t even manage a small gesture like an Advent calendar, Liv takes a stand and moves in with her friend Sigi. It’s a message Anton understands: with a homemade Advent calendar, he tries to win Liv back—and hides something very special behind the first door.",
+          "date": "2026-11-25",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=24%20T%C3%BCrchen%20zu%20dir%20trailer"
+        },
+        {
+          "title": "Tun und Lassen",
+          "media": "film",
+          "genres": [
+            "Documentary"
+          ],
+          "overview": "Einblick in eine Berliner Suchtklinik, in der Menschen zwischen 20 und 60 Jahren an ihrer Rückkehr in ein suchtfreies Leben arbeiten.",
+          "date": "2026-11-26",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Tun%20und%20Lassen%20trailer"
+        }
+      ]
+    },
+    "hungary": {
+      "items": [
+        {
           "title": "Clashing Through the Snow",
           "media": "film",
           "genres": [
@@ -98,65 +108,36 @@
           ],
           "overview": "After weather grounds all flights east for the holidays, two work rivals competing for the same job begrudgingly embark on a cross-country road trip that brings them closer together in ways they never imagined.",
           "date": "2026-11-23",
-          "poster": "https://images.justwatch.com/poster/356845971/s332/clashing-through-the-snow.jpg",
+          "poster": "https://images.justwatch.com/poster/356845971/s332/szerelem-kerulouton.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Clashing%20Through%20the%20Snow%20trailer"
+        },
+        {
+          "title": "Santaphobia",
+          "media": "film",
+          "genres": [
+            "Horror"
+          ],
+          "overview": "In 2019, the morbid, mangled bodies of filmmaker Emma Thomas (Lizzie Aaryn-Stanton) and her girlfriend Lauren White (Katie Martin) are discovered in the woods following a night at the notorious ‘Satan’s Grotto’ – a festive attraction that was home to a horrific holiday massacre in the early 1980s.  A paranormal researcher (Emily Booth) presents the recovered recordings, narrating the footage as the two girls, and Emma’s father (Cory Peterson), embark on their perilous journey through the grisly grotto. At first all seems swell as they wander through the wicked winter wonderland, but when a mysterious figure appears on screen and her father disappears, Emma’s skepticism turns to obsession. Desperate to uncover the truth, Emma’s reality unravels as she discovers she’s trapped in an endless Christmas Day loop, where madness and violence are inescapable.",
+          "date": "2026-11-30",
+          "poster": "https://images.justwatch.com/poster/357272446/s332/santaphobia.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Santaphobia%20trailer"
         }
       ]
-    },
-    "hungary": {
-      "items": []
     },
     "usa": {
       "items": [
         {
-          "title": "Me Min",
-          "media": "film",
-          "genres": [
-            "Fantasy",
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "A mysterious figure with the power to grant anyone's wish. It always demands a steep price in return.",
-          "date": "2026-11-16",
-          "poster": "https://images.justwatch.com/poster/355263879/s332/me-min.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Me%20Min%20trailer"
-        },
-        {
-          "title": "Way of the Warrior Kid",
+          "title": "The Lord of the Rings: The Rings of Power – Forging the One Ring",
           "media": "film",
           "genres": [
             "Action",
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Fantasy"
           ],
-          "overview": "A self-doubting kid who gets bullied learns to find his inner warrior with the help of his uncle, an elite Navy SEAL, who uses his training to guide the youth over the summer.",
-          "date": "2026-11-20",
-          "poster": "https://images.justwatch.com/poster/356296095/s332/way-of-the-warrior-kid.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Way%20of%20the%20Warrior%20Kid%20trailer"
-        },
-        {
-          "title": "Steps",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Animation",
-            "Comedy"
-          ],
-          "overview": "Blamed for magical mischief at the Royal Ball, stepsister Lilith turns her sister into a frog. She must work with Cinderella and a troll to save the kingdom and prove villains deserve happy endings too.",
-          "date": "2026-11-20",
-          "poster": "https://images.justwatch.com/poster/354705133/s332/steps-1.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Steps%20trailer"
-        },
-        {
-          "title": "Softcore",
-          "media": "film",
-          "genres": [
-            "Comedy"
-          ],
-          "overview": "Taste in music can be painfully revealing.",
-          "date": "2026-11-21",
-          "poster": "https://images.justwatch.com/poster/173313501/s332/softcore.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Softcore%20trailer"
+          "overview": "As Middle-earth's fate hangs in the balance, Sauron reaches the height of his power in his quest for the One Ring.",
+          "date": "2026-11-23",
+          "poster": "https://images.justwatch.com/poster/357346615/s332/the-lord-of-the-rings-the-rings-of-power-forging-the-one-ring.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Lord%20of%20the%20Rings%3A%20The%20Rings%20of%20Power%20%E2%80%93%20Forging%20the%20One%20Ring%20trailer"
         },
         {
           "title": "Clashing Through the Snow",
@@ -182,7 +163,7 @@
           "trailer": "https://www.youtube.com/results?search_query=Nate%20Bargatze%3A%20Good%20for%20Nathan%20trailer"
         },
         {
-          "title": "Focker-in-Law",
+          "title": "Focker In-Law",
           "media": "film",
           "genres": [
             "Comedy"
@@ -190,7 +171,31 @@
           "overview": "A young man named Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
           "date": "2026-11-25",
           "poster": "https://images.justwatch.com/poster/344481481/s332/focker-in-law.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Focker-in-Law%20trailer"
+          "trailer": "https://www.youtube.com/results?search_query=Focker%20In-Law%20trailer"
+        },
+        {
+          "title": "Brute 1986",
+          "media": "film",
+          "genres": [
+            "Horror"
+          ],
+          "overview": "Leather Kobra, a glam metal band, film a music video in an abandoned Western town. Unfortunately the ultra violent Birdy family lives nearby and their paths cross in an onslaught of brutal bloodshed.",
+          "date": "2026-11-26",
+          "poster": "https://images.justwatch.com/poster/355186489/s332/brute-1986.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Brute%201986%20trailer"
+        },
+        {
+          "title": "Dasher",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Animation",
+            "Comedy"
+          ],
+          "overview": "Dasher is a 2026 Disney Jr. holiday special that tells the origin story of Santa's reindeer, focusing on a brave little doe named Dasher who escapes a traveling circus, helps Santa's sleigh, and eventually joins his team of reindeer.",
+          "date": "2026-11-27",
+          "poster": "https://images.justwatch.com/poster/356617721/s332/dasher-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Dasher%20trailer"
         },
         {
           "title": "Sarathi",
@@ -202,6 +207,19 @@
           "date": "2026-11-27",
           "poster": null,
           "trailer": "https://www.youtube.com/results?search_query=Sarathi%20trailer"
+        },
+        {
+          "title": "Ben'imana",
+          "media": "film",
+          "genres": [
+            "Drama",
+            "History",
+            "Sci-Fi"
+          ],
+          "overview": "Rwanda, 2012. The country is emerging from an era of silence after the 1994 Tutsi genocide, and people's courts are being set up with the aim of bringing justice and reconciliation. Veneranda, a survivor, is convinced of the need for these trials. Despite pressures, she organises discussion sessions between victims and the families of the executioners. Therapy for some, an act of betrayal for others, these testimonial sessions revive and reveal the traumas that each of them try to overcome, in their own way. The wounds of Veneranda's past are exposed again when she learns of her daughter's unexpected pregnancy and the identity of the father. Veneranda has to face her own contradictions and the dark parts of her past.",
+          "date": "2026-11-27",
+          "poster": "https://images.justwatch.com/poster/357574664/s332/benimana.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Ben%27imana%20trailer"
         }
       ]
     }

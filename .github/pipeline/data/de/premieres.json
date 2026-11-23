@@ -1,82 +1,21 @@
 {
-  "generated_at": "2026-11-16T19:31",
-  "window": "2026-11-16 .. 2026-12-01",
+  "generated_at": "2026-11-23T21:16",
+  "window": "2026-11-23 .. 2026-12-08",
   "days": 15,
   "regions": {
     "europe": {
       "items": [
         {
-          "title": "When a Witness Recants: Widerruf einer Zeugenaussage",
+          "title": "Clashing Through the Snow – Ein Weihnachts-Roadtrip",
           "media": "film",
           "genres": [
-            "Animation",
-            "Dokumentation"
-          ],
-          "overview": "Dieser Dokumentarfilm, der vom Autor Ta-Nehisi Coates produziert wurde, erzählt die Geschichte von drei unschuldigen Jungen, die 1983 zu Unrecht wegen Mordes verurteilt wurden - und vom 14-jährigen Zeugen, der gezwungen wurde, gegen sie auszusagen.",
-          "date": "2026-11-17",
-          "poster": "https://images.justwatch.com/poster/356458804/s332/when-a-witness-recants.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=When%20a%20Witness%20Recants%3A%20Widerruf%20einer%20Zeugenaussage%20Trailer"
-        },
-        {
-          "title": "Malika",
-          "media": "film",
-          "genres": [
-            "Drama",
+            "Komödie",
             "Romantik"
           ],
-          "overview": "From poor Algerian roots in Nanterre, Bellaribi overcame parental abandonment after injury. Years of hospital recovery led to healing through music, aided by a unique teacher, ultimately performing at Milan's Scala.",
-          "date": "2026-11-18",
-          "poster": "https://images.justwatch.com/poster/355539391/s332/malika.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Malika%20Trailer"
-        },
-        {
-          "title": "Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes & Amir",
-          "media": "film",
-          "genres": [
-            "Komödie",
-            "Drama"
-          ],
-          "overview": "Was haben ein 31-jähriger, homosexueller Geflüchteter und ein 101-jähriges Berliner Original gemeinsam? Antwort: die Wohnung. Denn die Seniorin Agnes braucht Amir als Mitbewohner, um nicht ins Altersheim ziehen zu müssen. Was als von Skepsis geprägte Zweckgemeinschaft beginnt, wird mit der Zeit mehr und die zwei finden Halt, Mut und neue Lebensperspektiven.",
-          "date": "2026-11-19",
-          "poster": "https://images.justwatch.com/poster/356347100/s332/lieblingsmenschen-die-aussergewoehnliche-freundschaft-von-agnes-und-amir-2026.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Lieblingsmenschen%20-%20Die%20au%C3%9Fergew%C3%B6hnliche%20Freundschaft%20von%20Agnes%20%26%20Amir%20Trailer"
-        },
-        {
-          "title": "Way of the Warrior Kid",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Komödie",
-            "Drama"
-          ],
-          "overview": "Jake ist ein verletzter Navy SEAL, der Mentor seines schüchternen und sich schwer tuenden Neffen Marc wird. Mit Prinzipien aus seinem Militärtraining hilft Jake Marc, ein Warrior Kid zu werden, als dieser auf die Highschool kommt.",
-          "date": "2026-11-20",
-          "poster": "https://images.justwatch.com/poster/356325760/s332/way-of-the-warrior-kid.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Way%20of%20the%20Warrior%20Kid%20Trailer"
-        },
-        {
-          "title": "Steps: Die Stiefschwestern",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Animation",
-            "Komödie"
-          ],
-          "overview": "Blamed for magical mischief at the Royal Ball, stepsister Lilith turns her sister into a frog. She must work with Cinderella and a troll to save the kingdom and prove villains deserve happy endings too.",
-          "date": "2026-11-20",
-          "poster": "https://images.justwatch.com/poster/354705133/s332/steps.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Steps%3A%20Die%20Stiefschwestern%20Trailer"
-        },
-        {
-          "title": "Ask Tesadüfleri Sever 3",
-          "media": "film",
-          "genres": [
-            "Drama"
-          ],
-          "overview": "",
-          "date": "2026-11-20",
-          "poster": "https://images.justwatch.com/poster/355193734/s332/ask-tesaduefleri-sever-3.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Ask%20Tesad%C3%BCfleri%20Sever%203%20Trailer"
+          "overview": "Ein Schneesturm kurz vor Weihnachten zwingt die rivalisierenden Lektoren Ryan Mitchell (Christopher Briney) und Hannah Hendricks (Michelle Randolph), sich einen Mietwagen zu teilen - denn in New York wartet ein Deal, der ihre Karriere retten könnte. Zwischen Pannen und Umwegen durch Kleinstädte zeigt der Weihnachtszauber Wirkung, und aus erbitterter Rivalität wird etwas, das niemand kommen sah.",
+          "date": "2026-11-23",
+          "poster": "https://images.justwatch.com/poster/356845970/s332/clashing-through-the-snow.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Clashing%20Through%20the%20Snow%20%E2%80%93%20Ein%20Weihnachts-Roadtrip%20Trailer"
         },
         {
           "title": "Holy Wood Dust",
@@ -90,6 +29,77 @@
           "trailer": "https://www.youtube.com/results?search_query=Holy%20Wood%20Dust%20Trailer"
         },
         {
+          "title": "Eternity",
+          "media": "film",
+          "genres": [],
+          "overview": "",
+          "date": "2026-11-25",
+          "poster": "https://images.justwatch.com/poster/357331286/s332/eternity-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Eternity%20Trailer"
+        },
+        {
+          "title": "Meine Frau, unsere Schwiegertochter und ich",
+          "media": "film",
+          "genres": [
+            "Komödie"
+          ],
+          "overview": "Vor über zwanzig Jahren hielt Greg Focker bei Schwiegervater Jack um Pams Hand an – mit reichlich peinlichen Momenten. Nun will Gregs Sohn Henry seine Freundin Olivia heiraten, eine FBI-Verhandlungsexpertin. Greg ist misstrauisch: Manipuliert sie Henry gezielt? Er nimmt die künftige Schwiegertochter unter die Lupe – mit Methoden, die verdächtig an Jack erinnern. Doch ihm fehlt jedes Geschick, und sein Rettungsversuch sorgt für neue Spannungen in der Familie.",
+          "date": "2026-11-25",
+          "poster": "https://images.justwatch.com/poster/344506804/s332/meine-frau-unsere-schwiegertochter-und-ich.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Meine%20Frau%2C%20unsere%20Schwiegertochter%20und%20ich%20Trailer"
+        },
+        {
+          "title": "Wie verhext",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Animation",
+            "Komödie"
+          ],
+          "overview": "In der brandneuen magischen Coming-of-Age-Geschichte „Disney’s Wie Verhext“ der Walt Disney Animation Studios entdeckt die impulsive, unkonventionelle Teenagerin Billie geheime magische Kräfte. Als sie diese versehentlich freisetzt, wird sie aus ihrem beschaulichen Vorstadtleben in ein spektakuläres Abenteuer katapultiert, das sie in das riesige Reich Hex führt. Billie schließt sich widerwillig mit ihrer vorsichtigen Mutter Alice zusammen und gemeinsam decken sie Familiengeheimnisse auf, die die Welt der Hexen für immer verändern könnten.",
+          "date": "2026-11-25",
+          "poster": "https://images.justwatch.com/poster/354786888/s332/hexed.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Wie%20verhext%20Trailer"
+        },
+        {
+          "title": "A Few Days in the Sun",
+          "media": "film",
+          "genres": [
+            "Thriller"
+          ],
+          "overview": "A European couple's vacation abruptly ends when they're kidnapped in Mexico. A working-class Mexican family is compelled to imprison them, leading to an unexpected cultural clash.",
+          "date": "2026-11-25",
+          "poster": "https://images.justwatch.com/poster/357238013/s332/unos-dias-al-sol.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=A%20Few%20Days%20in%20the%20Sun%20Trailer"
+        },
+        {
+          "title": "24 Türchen zu dir",
+          "media": "film",
+          "genres": [
+            "Komödie",
+            "Romantik"
+          ],
+          "overview": "Liv möchte nur ein einziges Mal aus dem eingefahrenen Alltagstrott heraustreten und gemeinsam mit ihrem Mann Anton und Sohn Basti in den Urlaub fahren. Ein Wunsch, den ihr Anton aber auch kurz vor Weihnachten nicht erfüllen kann. Denn die Arbeit in der Berghütte seines Vaters Franz nimmt die gesamte Familie 4/7 in Beschlag – ohne Aussicht auf Besserung. Und weil Anton sogar eine kleine Aufmerksamkeit wie einen Adventskalender nicht hinbekommt, setzt Liv ein Zeichen und zieht zu ihrer Freundin Sigi.",
+          "date": "2026-11-25",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=24%20T%C3%BCrchen%20zu%20dir%20Trailer"
+        },
+        {
+          "title": "Turning Point",
+          "media": "film",
+          "genres": [
+            "Dokumentation"
+          ],
+          "overview": "Einblick in eine Berliner Suchtklinik, in der Menschen zwischen 20 und 60 Jahren an ihrer Rückkehr in ein suchtfreies Leben arbeiten.",
+          "date": "2026-11-26",
+          "poster": null,
+          "trailer": "https://www.youtube.com/results?search_query=Turning%20Point%20Trailer"
+        }
+      ]
+    },
+    "hungary": {
+      "items": [
+        {
           "title": "Clashing Through the Snow – Ein Weihnachts-Roadtrip",
           "media": "film",
           "genres": [
@@ -98,65 +108,36 @@
           ],
           "overview": "Ein Schneesturm kurz vor Weihnachten zwingt die rivalisierenden Lektoren Ryan Mitchell (Christopher Briney) und Hannah Hendricks (Michelle Randolph), sich einen Mietwagen zu teilen - denn in New York wartet ein Deal, der ihre Karriere retten könnte. Zwischen Pannen und Umwegen durch Kleinstädte zeigt der Weihnachtszauber Wirkung, und aus erbitterter Rivalität wird etwas, das niemand kommen sah.",
           "date": "2026-11-23",
-          "poster": "https://images.justwatch.com/poster/356845970/s332/clashing-through-the-snow.jpg",
+          "poster": "https://images.justwatch.com/poster/356845970/s332/szerelem-kerulouton.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Clashing%20Through%20the%20Snow%20%E2%80%93%20Ein%20Weihnachts-Roadtrip%20Trailer"
+        },
+        {
+          "title": "Santaphobia",
+          "media": "film",
+          "genres": [
+            "Horror"
+          ],
+          "overview": "In 2019, the morbid, mangled bodies of filmmaker Emma Thomas (Lizzie Aaryn-Stanton) and her girlfriend Lauren White (Katie Martin) are discovered in the woods following a night at the notorious ‘Satan’s Grotto’ – a festive attraction that was home to a horrific holiday massacre in the early 1980s.  A paranormal researcher (Emily Booth) presents the recovered recordings, narrating the footage as the two girls, and Emma’s father (Cory Peterson), embark on their perilous journey through the grisly grotto. At first all seems swell as they wander through the wicked winter wonderland, but when a mysterious figure appears on screen and her father disappears, Emma’s skepticism turns to obsession. Desperate to uncover the truth, Emma’s reality unravels as she discovers she’s trapped in an endless Christmas Day loop, where madness and violence are inescapable.",
+          "date": "2026-11-30",
+          "poster": "https://images.justwatch.com/poster/357272446/s332/santaphobia.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Santaphobia%20Trailer"
         }
       ]
-    },
-    "hungary": {
-      "items": []
     },
     "usa": {
       "items": [
         {
-          "title": "Me Min",
-          "media": "film",
-          "genres": [
-            "Fantasy",
-            "Horror",
-            "Thriller"
-          ],
-          "overview": "A mysterious figure with the power to grant anyone's wish. It always demands a steep price in return.",
-          "date": "2026-11-16",
-          "poster": "https://images.justwatch.com/poster/355263879/s332/me-min.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Me%20Min%20Trailer"
-        },
-        {
-          "title": "Way of the Warrior Kid",
+          "title": "The Lord of the Rings: The Rings of Power – Forging the One Ring",
           "media": "film",
           "genres": [
             "Action",
-            "Komödie",
-            "Drama"
+            "Drama",
+            "Fantasy"
           ],
-          "overview": "Jake ist ein verletzter Navy SEAL, der Mentor seines schüchternen und sich schwer tuenden Neffen Marc wird. Mit Prinzipien aus seinem Militärtraining hilft Jake Marc, ein Warrior Kid zu werden, als dieser auf die Highschool kommt.",
-          "date": "2026-11-20",
-          "poster": "https://images.justwatch.com/poster/356325760/s332/way-of-the-warrior-kid.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Way%20of%20the%20Warrior%20Kid%20Trailer"
-        },
-        {
-          "title": "Steps: Die Stiefschwestern",
-          "media": "film",
-          "genres": [
-            "Action",
-            "Animation",
-            "Komödie"
-          ],
-          "overview": "Blamed for magical mischief at the Royal Ball, stepsister Lilith turns her sister into a frog. She must work with Cinderella and a troll to save the kingdom and prove villains deserve happy endings too.",
-          "date": "2026-11-20",
-          "poster": "https://images.justwatch.com/poster/354705133/s332/steps-1.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Steps%3A%20Die%20Stiefschwestern%20Trailer"
-        },
-        {
-          "title": "Softcore",
-          "media": "film",
-          "genres": [
-            "Komödie"
-          ],
-          "overview": "Taste in music can be painfully revealing.",
-          "date": "2026-11-21",
-          "poster": "https://images.justwatch.com/poster/173313501/s332/softcore.jpg",
-          "trailer": "https://www.youtube.com/results?search_query=Softcore%20Trailer"
+          "overview": "As Middle-earth's fate hangs in the balance, Sauron reaches the height of his power in his quest for the One Ring.",
+          "date": "2026-11-23",
+          "poster": "https://images.justwatch.com/poster/357346615/s332/the-lord-of-the-rings-the-rings-of-power-forging-the-one-ring.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=The%20Lord%20of%20the%20Rings%3A%20The%20Rings%20of%20Power%20%E2%80%93%20Forging%20the%20One%20Ring%20Trailer"
         },
         {
           "title": "Clashing Through the Snow – Ein Weihnachts-Roadtrip",
@@ -187,10 +168,34 @@
           "genres": [
             "Komödie"
           ],
-          "overview": "Mehr als zwei Jahrzehnte ist es her, dass Greg Focker seinen Schwiegervater Jack um die Hand von dessen Tochter Pam bat – eine Begegnung voller peinlicher Momente. Heute sind Greg und Pams Kinder erwachsen. Als Sohn Henry verkündet, seine Freundin Olivia Jones heiraten zu wollen, steht Greg vor einer neuen Herausforderung. Denn er begegnet der Beziehung mit großem Misstrauen: Olivia ist FBI-Verhandlungsexpertin und weiß Menschen mit Worten zu überzeugen. Greg vermutet, dass sie Henry gezielt beeinflusst, um eigene Interessen durchzusetzen. Also nimmt er die künftige Schwiegertochter genauer unter die Lupe – mit Methoden, die verdächtig an Jack erinnern. Wo einst der Schwiegervater ihn durchleuchtete, ist nun Greg der Misstrauische. Doch ihm fehlt das Geschick, unauffällig zu ermitteln. Sein Versuch, Henry vor einer vermeintlich falschen Entscheidung zu bewahren, sorgt für neue Spannungen in der Familie.",
+          "overview": "Vor über zwanzig Jahren hielt Greg Focker bei Schwiegervater Jack um Pams Hand an – mit reichlich peinlichen Momenten. Nun will Gregs Sohn Henry seine Freundin Olivia heiraten, eine FBI-Verhandlungsexpertin. Greg ist misstrauisch: Manipuliert sie Henry gezielt? Er nimmt die künftige Schwiegertochter unter die Lupe – mit Methoden, die verdächtig an Jack erinnern. Doch ihm fehlt jedes Geschick, und sein Rettungsversuch sorgt für neue Spannungen in der Familie.",
           "date": "2026-11-25",
           "poster": "https://images.justwatch.com/poster/344506804/s332/focker-in-law.jpg",
           "trailer": "https://www.youtube.com/results?search_query=Meine%20Frau%2C%20unsere%20Schwiegertochter%20und%20ich%20Trailer"
+        },
+        {
+          "title": "Brute 1986",
+          "media": "film",
+          "genres": [
+            "Horror"
+          ],
+          "overview": "Leather Kobra, a glam metal band, film a music video in an abandoned Western town. Unfortunately the ultra violent Birdy family lives nearby and their paths cross in an onslaught of brutal bloodshed.",
+          "date": "2026-11-26",
+          "poster": "https://images.justwatch.com/poster/355186489/s332/brute-1986.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Brute%201986%20Trailer"
+        },
+        {
+          "title": "Dasher",
+          "media": "film",
+          "genres": [
+            "Action",
+            "Animation",
+            "Komödie"
+          ],
+          "overview": "Dasher is a 2026 Disney Jr. holiday special that tells the origin story of Santa's reindeer, focusing on a brave little doe named Dasher who escapes a traveling circus, helps Santa's sleigh, and eventually joins his team of reindeer.",
+          "date": "2026-11-27",
+          "poster": "https://images.justwatch.com/poster/356617721/s332/dasher-2026.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Dasher%20Trailer"
         },
         {
           "title": "Sarathi",
@@ -202,6 +207,19 @@
           "date": "2026-11-27",
           "poster": null,
           "trailer": "https://www.youtube.com/results?search_query=Sarathi%20Trailer"
+        },
+        {
+          "title": "Ben'imana",
+          "media": "film",
+          "genres": [
+            "Drama",
+            "Historie",
+            "Sci-Fi"
+          ],
+          "overview": "Rwanda, 2012. The country is emerging from an era of silence after the 1994 Tutsi genocide, and people's courts are being set up with the aim of bringing justice and reconciliation. Veneranda, a survivor, is convinced of the need for these trials. Despite pressures, she organises discussion sessions between victims and the families of the executioners. Therapy for some, an act of betrayal for others, these testimonial sessions revive and reveal the traumas that each of them try to overcome, in their own way. The wounds of Veneranda's past are exposed again when she learns of her daughter's unexpected pregnancy and the identity of the father. Veneranda has to face her own contradictions and the dark parts of her past.",
+          "date": "2026-11-27",
+          "poster": "https://images.justwatch.com/poster/357574664/s332/benimana.jpg",
+          "trailer": "https://www.youtube.com/results?search_query=Ben%27imana%20Trailer"
         }
       ]
     }
