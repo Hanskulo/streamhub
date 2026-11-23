@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-11-21T16:45",
-  "week": "2026-11-21",
+  "generated_at": "2026-11-23T21:17",
+  "week": "2026-11-23",
   "by_provider": {
-    "netflix": [
+    "netflix": [],
+    "amazon-prime-video": [
       {
-        "title": "Ungeschützt: Mord in Galicien",
+        "title": "Clashing Through the Snow – Ein Weihnachts-Roadtrip",
         "media": "film",
         "genres": [
-          "Krimi",
-          "Dokumentation"
+          "Komödie",
+          "Romantik"
         ],
-        "overview": "Im April 2015 wurde Isabel Fuentes von mutmaßlichen Einbrechern halb tot in ihrem Zuhause im Dorf Pazos in der Nähe von Verín zurückgelassen. 37 Tage später wird sie in ihrem Krankenzimmer ermordet.",
-        "date": "2026-11-06",
-        "poster": "https://images.justwatch.com/poster/356623845/s332/unprotected-murder-in-galicia.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Ungesch%C3%BCtzt%3A%20Mord%20in%20Galicien%20Trailer"
-      }
-    ],
-    "amazon-prime-video": [
+        "overview": "Ein Schneesturm kurz vor Weihnachten zwingt die rivalisierenden Lektoren Ryan Mitchell (Christopher Briney) und Hannah Hendricks (Michelle Randolph), sich einen Mietwagen zu teilen - denn in New York wartet ein Deal, der ihre Karriere retten könnte. Zwischen Pannen und Umwegen durch Kleinstädte zeigt der Weihnachtszauber Wirkung, und aus erbitterter Rivalität wird etwas, das niemand kommen sah.",
+        "date": "2026-11-23",
+        "poster": "https://images.justwatch.com/poster/356845970/s332/szerelem-kerulouton.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Clashing%20Through%20the%20Snow%20%E2%80%93%20Ein%20Weihnachts-Roadtrip%20Trailer"
+      },
       {
         "title": "Amazon Music Live: Doja Cat",
         "media": "film",
@@ -31,7 +30,7 @@
     ],
     "apple-tv": [
       {
-        "title": "Ing Heumann",
+        "title": "Being Heumann",
         "media": "film",
         "genres": [
           "Drama",
@@ -40,7 +39,7 @@
         "overview": "Kämpferisch, trotzig und entschlossen, sich nicht länger als Belastung behandeln zu lassen, verwandelt Judy Heumann ihre Empörung in eine Bewegung. 1977 senden sie und mehr als 100 Aktivistinnen und Aktivisten für die Rechte von Menschen mit Behinderung eine unmissverständliche Botschaft: Nicht wir sind kaputt, sondern das System!",
         "date": "2026-11-06",
         "poster": "https://images.justwatch.com/poster/355415060/s332/being-heumann.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Ing%20Heumann%20Trailer"
+        "trailer": "https://www.youtube.com/results?search_query=Being%20Heumann%20Trailer"
       },
       {
         "title": "Awkwafina: Küchen-Quereinsteigerin",
@@ -94,15 +93,6 @@
         "date": "2026-11-10",
         "poster": "https://images.justwatch.com/poster/355142291/s332/into-black.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Into%20Black%20Trailer"
-      },
-      {
-        "title": "The Gift (Fantaisie-Impromptu)",
-        "media": "film",
-        "genres": [],
-        "overview": "When ten-year-old Abigail Phillips discovers a forgotten piano deep in the woods on her father's farm, she uncovers more than a passion for music - she unlocks a mystery that spans generations. In the wake of her mother's sudden passing, Abigail finds solace and purpose in music, and her natural talent quickly blossoms. Recognizing her exceptional gift, her father sends her to Paris to pursue a career as a concert pianist. Meanwhile, he begins his own investigation into the piano's mysterious origins. As he uncovers a hidden history of loss, longing, and silent lives quietly touched by the instrument, Abigail's fame begins to grow, along with the weight of the secret behind her talent.",
-        "date": "2026-10-26",
-        "poster": "https://images.justwatch.com/poster/356338798/s332/the-gift-fantaisie-impromptu.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=The%20Gift%20%28Fantaisie-Impromptu%29%20Trailer"
       }
     ],
     "youtube-premium": [],
@@ -145,31 +135,31 @@
         "trailer": "https://www.youtube.com/results?search_query=Small%20Town%20Trouble%3A%20Texas%20Trailer"
       }
     ],
-    "hbo-max": [],
-    "mubi": [
+    "hbo-max": [
       {
-        "title": "Making Marie Antoinette",
-        "media": "film",
+        "title": "Stille Nacht",
+        "media": "sorozat",
         "genres": [
-          "Dokumentation"
+          "Drama"
         ],
-        "overview": "Eleanor Coppola richtet die Kamera auf ihre Tochter Sofia, die gerade Marie Antoinette dreht. Aus nächster Nähe hält sie jedes Detail am Set fest, während Sofia mit 34 einen prägenden Film stemmt. Dabei reflektiert sie darüber, was es für eine Mutter heißt, der Tochter bei der Arbeit zuzusehen.",
-        "date": "2026-11-06",
-        "poster": "https://images.justwatch.com/poster/353529653/s332/making-marie-antoinette.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20Trailer"
+        "overview": "Inspiriert von einer wahren Begebenheit, folgt dieses Drama den Nachwirkungen eines grausamen Verbrechens an Heiligabend und dessen Auswirkungen auf eine polnische Dorfgemeinschaft.",
+        "date": "2026-11-13",
+        "poster": "https://images.justwatch.com/poster/356877599/s332/silent-night.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Stille%20Nacht%20Trailer"
       }
     ],
+    "mubi": [],
     "bloodstream": [
       {
-        "title": "Hollywoods",
+        "title": "Der Wald der Träume",
         "media": "film",
         "genres": [
           "Horror"
         ],
-        "overview": "A naive ingenue follows her dream into the woods only to face Hollywood's worst nightmare, a failed actor.",
+        "overview": "Eine Nachwuchsdarstellerin sucht Ruhm im Wald und trifft auf einen gescheiterten Schauspieler voller Verzweiflung.",
         "date": "2026-12-01",
         "poster": "https://images.justwatch.com/poster/357134788/s332/hollywoods.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Hollywoods%20Trailer"
+        "trailer": "https://www.youtube.com/results?search_query=Der%20Wald%20der%20Tr%C3%A4ume%20Trailer"
       }
     ],
     "kableone": [],
@@ -190,18 +180,6 @@
         "trailer": "https://www.youtube.com/results?search_query=Small%20Town%20Trouble%3A%20Texas%20Trailer"
       }
     ],
-    "mubi-amazon-channel": [
-      {
-        "title": "Making Marie Antoinette",
-        "media": "film",
-        "genres": [
-          "Dokumentation"
-        ],
-        "overview": "Eleanor Coppola richtet die Kamera auf ihre Tochter Sofia, die gerade Marie Antoinette dreht. Aus nächster Nähe hält sie jedes Detail am Set fest, während Sofia mit 34 einen prägenden Film stemmt. Dabei reflektiert sie darüber, was es für eine Mutter heißt, der Tochter bei der Arbeit zuzusehen.",
-        "date": "2026-11-06",
-        "poster": "https://images.justwatch.com/poster/353529653/s332/making-marie-antoinette.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Making%20Marie%20Antoinette%20Trailer"
-      }
-    ]
+    "mubi-amazon-channel": []
   }
 }
