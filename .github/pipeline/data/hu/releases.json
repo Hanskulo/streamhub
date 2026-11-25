@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-11-23T21:16",
-  "week": "2026-11-23",
+  "generated_at": "2026-11-25T19:12",
+  "week": "2026-11-25",
   "by_provider": {
-    "netflix": [],
+    "netflix": [
+      {
+        "title": "Mostohatestvérek",
+        "media": "film",
+        "genres": [
+          "Akció",
+          "Animáció",
+          "Vígjáték"
+        ],
+        "overview": "Bájosan rendhagyó akcióvígjáték, melyben Hamupipőke „gonosz” mostohatestvére, Lilith ellopja a Tündérkeresztanya varázspálcáját, és felforgatja az ismert mesét.",
+        "date": "2026-11-20",
+        "poster": "https://images.justwatch.com/poster/357720486/s332/mostohatestverek.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Mostohatestv%C3%A9rek%20el%C5%91zetes"
+      },
+      {
+        "title": "Életem utolsó éve",
+        "media": "film",
+        "genres": [
+          "Vígjáték",
+          "Dráma",
+          "Romantikus"
+        ],
+        "overview": "Az egyedülálló negyvenes, Katakura Yui takarékos és óvatos életet él, és még a szerelmet és a házasságot is túl költségesnek tartja ahhoz, hogy belevágjon. Amikor egy ingyenes rákszűrésen kiderül, hogy már csak egy éve van hátra, a félelem helyett vá",
+        "date": "2026-11-05",
+        "poster": "https://images.justwatch.com/poster/354693227/s332/one-year-to-live-buy-a-man.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=%C3%89letem%20utols%C3%B3%20%C3%A9ve%20el%C5%91zetes"
+      }
+    ],
     "amazon-prime-video": [
       {
         "title": "Szerelem kerülőúton",
@@ -11,9 +38,9 @@
           "Vígjáték",
           "Romantikus"
         ],
-        "overview": "Két rivális könyvszerkesztő, Ryan Mitchell (Chris Briney) és Hannah Hendricks (Michelle Randolph) járatát törlik, így kénytelenek közösen kocsit bérelni, hogy eljussanak New Yorkba, ahol mindkettejüket olyan megállapodások várják, amelyek megmenthetik a karrierjüket. Az útjukat övező galibák és kisvárosi kitérők során az ünnepi hangulat átváltoztatja a versengésüket valami váratlanná.",
+        "overview": "Két rivális könyvszerkesztő, Ryan Mitchell és Hannah Hendricks járatát törlik, így kénytelenek közösen kocsit bérelni, hogy eljussanak New Yorkba, ahol mindkettejüket olyan megállapodások várják, amelyek megmenthetik a karrierjüket. Az útjukat övező galibák és kisvárosi kitérők során az ünnepi hangulat átváltoztatja a versengésüket valami váratlanná.",
         "date": "2026-11-23",
-        "poster": "https://images.justwatch.com/poster/356845971/s332/szerelem-kerulouton.jpg",
+        "poster": "https://images.justwatch.com/poster/357719880/s332/szerelem-kerulouton.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Szerelem%20ker%C3%BCl%C5%91%C3%BAton%20el%C5%91zetes"
       },
       {
@@ -29,6 +56,19 @@
       }
     ],
     "apple-tv": [
+      {
+        "title": "Way of the Warrior Kid",
+        "media": "film",
+        "genres": [
+          "Akció",
+          "Vígjáték",
+          "Dráma"
+        ],
+        "overview": "Jake sérült elit kommandós, aki Marc, a félénkségével küszködő unokaöccse mentora lesz. Katonai kiképzésének elveit használva Jake megtanítja Marcnak, hogyan legyen Kölyökharcos, mire gimnáziumba megy.",
+        "date": "2026-11-20",
+        "poster": "https://images.justwatch.com/poster/356296095/s332/way-of-the-warrior-kid.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Way%20of%20the%20Warrior%20Kid%20el%C5%91zetes"
+      },
       {
         "title": "Being Heumann",
         "media": "film",
@@ -93,6 +133,15 @@
         "date": "2026-11-10",
         "poster": "https://images.justwatch.com/poster/355142291/s332/into-black.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Into%20Black%20el%C5%91zetes"
+      },
+      {
+        "title": "The Gift (Fantaisie-Impromptu)",
+        "media": "film",
+        "genres": [],
+        "overview": "When ten-year-old Abigail Phillips discovers a forgotten piano deep in the woods on her father's farm, she uncovers more than a passion for music - she unlocks a mystery that spans generations. In the wake of her mother's sudden passing, Abigail finds solace and purpose in music, and her natural talent quickly blossoms. Recognizing her exceptional gift, her father sends her to Paris to pursue a career as a concert pianist. Meanwhile, he begins his own investigation into the piano's mysterious origins. As he uncovers a hidden history of loss, longing, and silent lives quietly touched by the instrument, Abigail's fame begins to grow, along with the weight of the secret behind her talent.",
+        "date": "2026-10-26",
+        "poster": "https://images.justwatch.com/poster/356338798/s332/the-gift-fantaisie-impromptu.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Gift%20%28Fantaisie-Impromptu%29%20el%C5%91zetes"
       }
     ],
     "youtube-premium": [],
@@ -135,19 +184,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Small%20Town%20Trouble%3A%20Texas%20el%C5%91zetes"
       }
     ],
-    "hbo-max": [
-      {
-        "title": "Csendbe borult éj",
-        "media": "sorozat",
-        "genres": [
-          "Dráma"
-        ],
-        "overview": "Hatrészes sorozat az 1976 karácsony estéjén elkövetett, hírhedt gyilkosságokról, amelyek megrázták a lengyelországi Zrębin kisvárosát.",
-        "date": "2026-11-13",
-        "poster": "https://images.justwatch.com/poster/356877599/s332/silent-night.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Csendbe%20borult%20%C3%A9j%20el%C5%91zetes"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [],
     "bloodstream": [
       {

@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-11-23T21:16",
-  "week": "2026-11-23",
+  "generated_at": "2026-11-25T19:13",
+  "week": "2026-11-25",
   "by_provider": {
-    "netflix": [],
+    "netflix": [
+      {
+        "title": "Steps",
+        "media": "film",
+        "genres": [
+          "Action",
+          "Animation",
+          "Comedy"
+        ],
+        "overview": "Blamed for magical mischief at the Royal Ball, stepsister Lilith turns her sister into a frog. She must work with Cinderella and a troll to save the kingdom and prove villains deserve happy endings too.",
+        "date": "2026-11-20",
+        "poster": "https://images.justwatch.com/poster/354705133/s332/mostohatestverek.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Steps%20trailer"
+      },
+      {
+        "title": "One Year to Live, Buy a Man",
+        "media": "film",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "overview": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
+        "date": "2026-11-05",
+        "poster": "https://images.justwatch.com/poster/354693227/s332/one-year-to-live-buy-a-man.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=One%20Year%20to%20Live%2C%20Buy%20a%20Man%20trailer"
+      }
+    ],
     "amazon-prime-video": [
       {
         "title": "Clashing Through the Snow",
@@ -11,7 +38,7 @@
           "Comedy",
           "Romance"
         ],
-        "overview": "After weather grounds all flights east for the holidays, two work rivals competing for the same job begrudgingly embark on a cross-country road trip that brings them closer together in ways they never imagined.",
+        "overview": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
         "date": "2026-11-23",
         "poster": "https://images.justwatch.com/poster/356845971/s332/szerelem-kerulouton.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Clashing%20Through%20the%20Snow%20trailer"
@@ -29,6 +56,19 @@
       }
     ],
     "apple-tv": [
+      {
+        "title": "Way of the Warrior Kid",
+        "media": "film",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama"
+        ],
+        "overview": "A self-doubting kid who gets bullied learns to find his inner warrior with the help of his uncle, an elite Navy SEAL, who uses his training to guide the youth over the summer.",
+        "date": "2026-11-20",
+        "poster": "https://images.justwatch.com/poster/356296095/s332/way-of-the-warrior-kid.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=Way%20of%20the%20Warrior%20Kid%20trailer"
+      },
       {
         "title": "Being Heumann",
         "media": "film",
@@ -93,6 +133,15 @@
         "date": "2026-11-10",
         "poster": "https://images.justwatch.com/poster/355142291/s332/into-black.jpg",
         "trailer": "https://www.youtube.com/results?search_query=Into%20Black%20trailer"
+      },
+      {
+        "title": "The Gift (Fantaisie-Impromptu)",
+        "media": "film",
+        "genres": [],
+        "overview": "When ten-year-old Abigail Phillips discovers a forgotten piano deep in the woods on her father's farm, she uncovers more than a passion for music - she unlocks a mystery that spans generations. In the wake of her mother's sudden passing, Abigail finds solace and purpose in music, and her natural talent quickly blossoms. Recognizing her exceptional gift, her father sends her to Paris to pursue a career as a concert pianist. Meanwhile, he begins his own investigation into the piano's mysterious origins. As he uncovers a hidden history of loss, longing, and silent lives quietly touched by the instrument, Abigail's fame begins to grow, along with the weight of the secret behind her talent.",
+        "date": "2026-10-26",
+        "poster": "https://images.justwatch.com/poster/356338798/s332/the-gift-fantaisie-impromptu.jpg",
+        "trailer": "https://www.youtube.com/results?search_query=The%20Gift%20%28Fantaisie-Impromptu%29%20trailer"
       }
     ],
     "youtube-premium": [],
@@ -135,19 +184,7 @@
         "trailer": "https://www.youtube.com/results?search_query=Small%20Town%20Trouble%3A%20Texas%20trailer"
       }
     ],
-    "hbo-max": [
-      {
-        "title": "Silent Night",
-        "media": "sorozat",
-        "genres": [
-          "Drama"
-        ],
-        "overview": "Follow the aftermath of a brutal Christmas Eve crime and its impact on a rural Polish community.",
-        "date": "2026-11-13",
-        "poster": "https://images.justwatch.com/poster/356877599/s332/silent-night.jpg",
-        "trailer": "https://www.youtube.com/results?search_query=Silent%20Night%20trailer"
-      }
-    ],
+    "hbo-max": [],
     "mubi": [],
     "bloodstream": [
       {
